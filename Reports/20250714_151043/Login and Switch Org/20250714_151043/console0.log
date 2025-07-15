@@ -1,0 +1,59 @@
+2025-07-14 15:10:53.566 INFO  c.k.katalon.core.main.TestSuiteExecutor  - START Test Suites/Login and Switch Org
+2025-07-14 15:10:53.684 INFO  c.k.katalon.core.main.TestSuiteExecutor  - userFullName = Ann Poole
+2025-07-14 15:10:53.687 INFO  c.k.katalon.core.main.TestSuiteExecutor  - projectName = Testing
+2025-07-14 15:10:53.688 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostName = Ann - NOTEBOOKPC-44.office.local
+2025-07-14 15:10:53.690 INFO  c.k.katalon.core.main.TestSuiteExecutor  - os = Windows 11 64bit
+2025-07-14 15:10:53.692 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostAddress = 192.168.1.167
+2025-07-14 15:10:53.693 INFO  c.k.katalon.core.main.TestSuiteExecutor  - katalonVersion = 10.2.1.0
+2025-07-14 15:10:54.257 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-14 15:10:54.257 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Login
+2025-07-14 15:10:54.695 DEBUG testcase.Login                           - 1: openBrowser("")
+2025-07-14 15:10:54.962 INFO  c.k.k.core.webui.driver.DriverFactory    - Starting 'Chrome' driver
+2025-07-14 15:10:55.011 INFO  c.k.k.c.w.d.chrome.ChromeDriverBuilder   - Use managed Chrome browser & driver
+2025-07-14 15:10:55.013 INFO  c.k.k.c.w.d.chrome.ChromeDriverUtil      - Checking and download if needed Chrome browser and driver for Chrome for Testing version latest (This may take a while in case of downloading needed)
+2025-07-14 15:10:56.526 INFO  c.k.k.c.w.d.chrome.ChromeDriverUtil      - Checking Chrome browser and driver completed in 1513 ms
+2025-07-14 15:10:56.527 INFO  c.k.k.c.w.d.chrome.ChromeDriverBuilder   - Chrome driver path: C:\Users\ann.OFFICE\.cache\selenium\chromedriver\win64\138.0.7204.94\chromedriver.exe
+2025-07-14 15:10:56.527 INFO  c.k.k.c.w.d.chrome.ChromeDriverBuilder   - Chrome browser path: C:\Users\ann.OFFICE\.cache\selenium\chrome\win64\138.0.7204.94\chrome.exe
+2025-07-14 15:10:56.549 INFO  c.k.k.core.webui.driver.DriverFactory    - Action delay is set to 0 milliseconds
+Jul. 14, 2025 3:10:58 P.M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find CDP implementation matching 138
+Jul. 14, 2025 3:10:58 P.M. org.openqa.selenium.chromium.ChromiumDriver lambda$new$4
+WARNING: Unable to find version of CDP to use for 138.0.7204.94. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.28.1` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+2025-07-14 15:10:59.266 INFO  c.k.k.core.webui.driver.DriverFactory    - sessionId = 54f6c260ffd3de56200e56d46aae0d97
+2025-07-14 15:10:59.268 INFO  c.k.k.core.webui.driver.DriverFactory    - browser = Chrome 138.0.7204.94
+2025-07-14 15:10:59.269 INFO  c.k.k.core.webui.driver.DriverFactory    - platform = Windows 11
+2025-07-14 15:10:59.270 INFO  c.k.k.core.webui.driver.DriverFactory    - seleniumVersion = 4.28.1
+2025-07-14 15:10:59.278 INFO  c.k.k.core.webui.driver.DriverFactory    - proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList="", isApplyToDesiredCapabilities=true }
+2025-07-14 15:10:59.326 DEBUG testcase.Login                           - 2: navigateToUrl(G_SiteURL)
+2025-07-14 15:11:00.256 DEBUG testcase.Login                           - 3: maximizeWindow()
+2025-07-14 15:11:00.347 DEBUG testcase.Login                           - 4: setText(findTestObject("Object Repository/Page_IBEX Payroll - Login/input_Username_Input.Username"), "uat.dstewart")
+2025-07-14 15:11:01.232 DEBUG testcase.Login                           - 5: setEncryptedText(findTestObject("Object Repository/Page_IBEX Payroll - Login/input_Show Password_Input.Password"), "p4y+y39Ir5Oy1MY8jPt0uQ==")
+2025-07-14 15:11:01.616 DEBUG testcase.Login                           - 6: click(findTestObject("Object Repository/Page_IBEX Payroll - Login/input_Remember me_Input.Button"))
+2025-07-14 15:11:05.371 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Login
+2025-07-14 15:11:05.377 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-14 15:11:05.377 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Switch Org
+2025-07-14 15:11:05.489 DEBUG testcase.Login                           - 1: navigateToUrl(G_PayrollPage)
+2025-07-14 15:11:05.836 DEBUG testcase.Login                           - 2: click(findTestObject("Object Repository/Switch_Org/Page_IBEX Payroll - Home/a_swap_horiz Switch SetupSimpleDialog(orgCo_55ee7d"))
+2025-07-14 15:11:06.375 DEBUG testcase.Login                           - 3: click(findTestObject("Object Repository/Switch_Org/Page_IBEX Payroll - Home/a_Anns Test Org"))
+2025-07-14 15:11:07.472 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Switch Org
+2025-07-14 15:11:07.479 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-14 15:11:07.479 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Logout and Close Browser
+2025-07-14 15:11:07.589 DEBUG testcase.Login                           - 1: navigateToUrl(G_HomePage)
+2025-07-14 15:11:07.838 DEBUG testcase.Login                           - 2: click(findTestObject("Object Repository/Page_IBEX Payroll - Home/div_Darryl Stewart                         _2173f8"))
+2025-07-14 15:11:08.354 DEBUG testcase.Login                           - 3: click(findTestObject("Object Repository/Page_IBEX Payroll - Home/a_exit_to_app Log Out"))
+2025-07-14 15:11:39.557 INFO  c.k.k.c.webui.common.WebUiCommonHelper   - Unable to find the element located by 'By.xpath: //div[@id='js-user-menu']/ul/li[9]/a'. Please recheck the objects properties to make sure the desired element is located. 
+2025-07-14 15:11:39.558 WARN  c.k.k.c.webui.common.WebUiCommonHelper   - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_IBEX Payroll - Home/a_exit_to_app Log Out'. Try using Self-healing.
+2025-07-14 15:11:39.822 INFO  c.k.k.c.webui.common.WebUiCommonHelper   - [SELF-HEALING] Failed Locator: '//div[@id='js-user-menu']/ul/li[9]/a'.
+2025-07-14 15:11:40.064 INFO  c.k.k.c.webui.common.WebUiCommonHelper   - [SELF-HEALING] Working Locator: '(.//*[normalize-space(text()) and normalize-space(.)='settings'])[1]/following::a[1]'.
+2025-07-14 15:11:40.396 INFO  c.k.k.c.webui.common.WebUiCommonHelper   - [SELF-HEALING] Screenshot: C:/Ann (C)/Katalon_Testing/Testing/Reports/Self-healing/Object Repository/Page_IBEX Payroll - Home/a_exit_to_app Log Out_neighbor.png
+2025-07-14 15:11:40.431 WARN  c.k.k.c.webui.common.WebUiCommonHelper   - [SELF-HEALING] The current locator of test object 'Object Repository/Page_IBEX Payroll - Home/a_exit_to_app Log Out' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='settings'])[1]/following::a[1]'.
+2025-07-14 15:11:41.219 DEBUG testcase.Login                           - 4: closeBrowser()
+2025-07-14 15:11:42.768 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Logout and Close Browser
+2025-07-14 15:11:42.769 INFO  c.k.katalon.core.main.TestCaseExecutor   - 
+2025-07-14 15:11:42.770 INFO  c.k.katalon.core.main.TestCaseExecutor   - ===================== Self-healing Report ====================
+2025-07-14 15:11:42.770 INFO  c.k.katalon.core.main.TestCaseExecutor   - One of the failed test object locators has been recovered by Self-healing. Please refer to the Self-healing Insights tab for more details.
+2025-07-14 15:11:42.770 INFO  c.k.katalon.core.main.TestCaseExecutor   - To learn more about Self-healing, please read https://docs.katalon.com/katalon-studio/maintain-tests/self-healing-tests-in-katalon-studio
+2025-07-14 15:11:42.771 INFO  c.k.katalon.core.main.TestCaseExecutor   - ==============================================================
+2025-07-14 15:11:42.805 INFO  c.k.katalon.core.main.TestSuiteExecutor  - --------------------
+2025-07-14 15:11:42.805 INFO  c.k.katalon.core.main.TestSuiteExecutor  - END Test Suites/Login and Switch Org
+2025-07-14 15:11:42.805 INFO  c.k.katalon.core.main.TestSuiteExecutor  - ====================

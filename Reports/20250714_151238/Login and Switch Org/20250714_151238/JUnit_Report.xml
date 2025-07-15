@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Login and Switch Org" time="15.792" tests="3" failures="0" errors="0">
+   <testsuite name="Login and Switch Org" tests="3" failures="0" errors="0" time="15.792" skipped="0" timestamp="14-07-2025T15:12:47" hostname="Ann - NOTEBOOKPC-44.office.local" id="Test Suites/Login and Switch Org">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Ann (C)\\Katalon_Testing\\Testing\\Reports\\20250714_151238\\Login and Switch Org\\20250714_151238"/>
+         <property name="logFiles" value="C:\\Ann (C)\\Katalon_Testing\\Testing\\Reports\\20250714_151238\\Login and Switch Org\\20250714_151238\\console0.log, C:\\Ann (C)\\Katalon_Testing\\Testing\\Reports\\20250714_151238\\Login and Switch Org\\20250714_151238\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Ann - NOTEBOOKPC-44.office.local"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="10.2.1.0"/>
+         <property name="browser" value="Chrome 138.0.7204.94"/>
+         <property name="userFullName" value="Ann Poole"/>
+         <property name="hostAddress" value="192.168.1.167"/>
+         <property name="sessionId" value="a51b77e6b0c0683be74bf08938903ef6"/>
+         <property name="projectName" value="Testing"/>
+         <property name="seleniumVersion" value="4.28.1"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Login" time="8.284" classname="Test Cases/Login" status="PASSED">
+         <system-out><![CDATA[14-07-2025T15:12:47 - [TEST_CASE][PASSED] - Test Cases/Login: Test Cases/Login
+
+14-07-2025T15:12:48 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+14-07-2025T15:12:48 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+14-07-2025T15:12:49 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+14-07-2025T15:12:52 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+14-07-2025T15:12:52 - [TEST_STEP][PASSED] - navigateToUrl(G_SiteURL): Navigate to 'https://sit.ibexpayroll.com:8443/main/identityserver/Account/Login' successfully
+
+14-07-2025T15:12:54 - [MESSAGE][PASSED] - Navigate to 'https://sit.ibexpayroll.com:8443/main/identityserver/Account/Login' successfully
+
+14-07-2025T15:12:54 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+14-07-2025T15:12:54 - [MESSAGE][PASSED] - Current window maximized
+
+14-07-2025T15:12:54 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_IBEX Payroll - Login/input_Username_Input.Username"), "uat.dstewart"): Text 'uat.dstewart' is set on object 'Object Repository/Page_IBEX Payroll - Login/input_Username_Input.Username'
+
+14-07-2025T15:12:55 - [MESSAGE][PASSED] - Text 'uat.dstewart' is set on object 'Object Repository/Page_IBEX Payroll - Login/input_Username_Input.Username'
+
+14-07-2025T15:12:55 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_IBEX Payroll - Login/input_Show Password_Input.Password"), "p4y+y39Ir5Oy1MY8jPt0uQ=="): Text ****** has been set on object 'Object Repository/Page_IBEX Payroll - Login/input_Show Password_Input.Password'
+
+14-07-2025T15:12:55 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_IBEX Payroll - Login/input_Show Password_Input.Password'
+
+14-07-2025T15:12:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_IBEX Payroll - Login/input_Remember me_Input.Button")): Object: 'Object Repository/Page_IBEX Payroll - Login/input_Remember me_Input.Button' is clicked on
+
+14-07-2025T15:12:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_IBEX Payroll - Login/input_Remember me_Input.Button' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Switch Org" time="3.334" classname="Test Cases/Switch Org" status="PASSED">
+         <system-out><![CDATA[14-07-2025T15:12:56 - [TEST_CASE][PASSED] - Test Cases/Switch Org: Test Cases/Switch Org
+
+14-07-2025T15:12:56 - [TEST_STEP][PASSED] - navigateToUrl(G_PayrollPage): Navigate to 'https://sit.ibexpayroll.com:8443/Main/Everest/Payroll/Index.mr' successfully
+
+14-07-2025T15:12:57 - [MESSAGE][PASSED] - Navigate to 'https://sit.ibexpayroll.com:8443/Main/Everest/Payroll/Index.mr' successfully
+
+14-07-2025T15:12:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Switch_Org/Page_IBEX Payroll - Home/a_swap_horiz Switch SetupSimpleDialog(orgCo_55ee7d")): Object: 'Object Repository/Switch_Org/Page_IBEX Payroll - Home/a_swap_horiz Switch SetupSimpleDialog(orgCo_55ee7d' is clicked on
+
+14-07-2025T15:12:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Switch_Org/Page_IBEX Payroll - Home/a_swap_horiz Switch SetupSimpleDialog(orgCo_55ee7d' is clicked on
+
+14-07-2025T15:12:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Switch_Org/Page_IBEX Payroll - Home/a_Anns Test Org")): Object: 'Object Repository/Switch_Org/Page_IBEX Payroll - Home/a_Anns Test Org' is clicked on
+
+14-07-2025T15:12:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Switch_Org/Page_IBEX Payroll - Home/a_Anns Test Org' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Logout and Close Browser" time="3.583" classname="Test Cases/Logout and Close Browser" status="PASSED">
+         <system-out><![CDATA[14-07-2025T15:12:59 - [TEST_CASE][PASSED] - Test Cases/Logout and Close Browser: Test Cases/Logout and Close Browser
+
+14-07-2025T15:12:59 - [TEST_STEP][PASSED] - navigateToUrl(G_HomePage): Navigate to 'https://sit.ibexpayroll.com:8443/Main/Everest/Home/Index.mr' successfully
+
+14-07-2025T15:12:59 - [MESSAGE][PASSED] - Navigate to 'https://sit.ibexpayroll.com:8443/Main/Everest/Home/Index.mr' successfully
+
+14-07-2025T15:12:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_IBEX Payroll - Home/div_Darryl Stewart                         _2173f8")): Object: 'Object Repository/Page_IBEX Payroll - Home/div_Darryl Stewart                         _2173f8' is clicked on
+
+14-07-2025T15:13:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_IBEX Payroll - Home/div_Darryl Stewart                         _2173f8' is clicked on
+
+14-07-2025T15:13:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_IBEX Payroll - Home/a_exit_to_app Log Out")): Object: 'Object Repository/Page_IBEX Payroll - Home/a_exit_to_app Log Out' is clicked on
+
+14-07-2025T15:13:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_IBEX Payroll - Home/a_exit_to_app Log Out' is clicked on
+
+14-07-2025T15:13:01 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+14-07-2025T15:13:03 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[14-07-2025T15:12:47 - [TEST_SUITE][PASSED] - Login and Switch Org: Test Cases/Logout and Close Browser]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

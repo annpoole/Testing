@@ -1,0 +1,48 @@
+2025-07-14 15:12:47.283 INFO  c.k.katalon.core.main.TestSuiteExecutor  - START Test Suites/Login and Switch Org
+2025-07-14 15:12:47.402 INFO  c.k.katalon.core.main.TestSuiteExecutor  - userFullName = Ann Poole
+2025-07-14 15:12:47.404 INFO  c.k.katalon.core.main.TestSuiteExecutor  - projectName = Testing
+2025-07-14 15:12:47.406 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostName = Ann - NOTEBOOKPC-44.office.local
+2025-07-14 15:12:47.408 INFO  c.k.katalon.core.main.TestSuiteExecutor  - os = Windows 11 64bit
+2025-07-14 15:12:47.410 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostAddress = 192.168.1.167
+2025-07-14 15:12:47.411 INFO  c.k.katalon.core.main.TestSuiteExecutor  - katalonVersion = 10.2.1.0
+2025-07-14 15:12:47.950 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-14 15:12:47.950 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Login
+2025-07-14 15:12:48.347 DEBUG testcase.Login                           - 1: openBrowser("")
+2025-07-14 15:12:48.660 INFO  c.k.k.core.webui.driver.DriverFactory    - Starting 'Chrome' driver
+2025-07-14 15:12:48.699 INFO  c.k.k.c.w.d.chrome.ChromeDriverBuilder   - Use managed Chrome browser & driver
+2025-07-14 15:12:48.700 INFO  c.k.k.c.w.d.chrome.ChromeDriverUtil      - Checking and download if needed Chrome browser and driver for Chrome for Testing version latest (This may take a while in case of downloading needed)
+2025-07-14 15:12:49.834 INFO  c.k.k.c.w.d.chrome.ChromeDriverUtil      - Checking Chrome browser and driver completed in 1133 ms
+2025-07-14 15:12:49.835 INFO  c.k.k.c.w.d.chrome.ChromeDriverBuilder   - Chrome driver path: C:\Users\ann.OFFICE\.cache\selenium\chromedriver\win64\138.0.7204.94\chromedriver.exe
+2025-07-14 15:12:49.835 INFO  c.k.k.c.w.d.chrome.ChromeDriverBuilder   - Chrome browser path: C:\Users\ann.OFFICE\.cache\selenium\chrome\win64\138.0.7204.94\chrome.exe
+2025-07-14 15:12:49.866 INFO  c.k.k.core.webui.driver.DriverFactory    - Action delay is set to 0 milliseconds
+Jul. 14, 2025 3:12:51 P.M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find CDP implementation matching 138
+Jul. 14, 2025 3:12:51 P.M. org.openqa.selenium.chromium.ChromiumDriver lambda$new$4
+WARNING: Unable to find version of CDP to use for 138.0.7204.94. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.28.1` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+2025-07-14 15:12:52.540 INFO  c.k.k.core.webui.driver.DriverFactory    - sessionId = a51b77e6b0c0683be74bf08938903ef6
+2025-07-14 15:12:52.541 INFO  c.k.k.core.webui.driver.DriverFactory    - browser = Chrome 138.0.7204.94
+2025-07-14 15:12:52.542 INFO  c.k.k.core.webui.driver.DriverFactory    - platform = Windows 11
+2025-07-14 15:12:52.544 INFO  c.k.k.core.webui.driver.DriverFactory    - seleniumVersion = 4.28.1
+2025-07-14 15:12:52.552 INFO  c.k.k.core.webui.driver.DriverFactory    - proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList="", isApplyToDesiredCapabilities=true }
+2025-07-14 15:12:52.593 DEBUG testcase.Login                           - 2: navigateToUrl(G_SiteURL)
+2025-07-14 15:12:54.440 DEBUG testcase.Login                           - 3: maximizeWindow()
+2025-07-14 15:12:54.508 DEBUG testcase.Login                           - 4: setText(findTestObject("Object Repository/Page_IBEX Payroll - Login/input_Username_Input.Username"), "uat.dstewart")
+2025-07-14 15:12:55.164 DEBUG testcase.Login                           - 5: setEncryptedText(findTestObject("Object Repository/Page_IBEX Payroll - Login/input_Show Password_Input.Password"), "p4y+y39Ir5Oy1MY8jPt0uQ==")
+2025-07-14 15:12:55.496 DEBUG testcase.Login                           - 6: click(findTestObject("Object Repository/Page_IBEX Payroll - Login/input_Remember me_Input.Button"))
+2025-07-14 15:12:56.233 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Login
+2025-07-14 15:12:56.240 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-14 15:12:56.241 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Switch Org
+2025-07-14 15:12:56.335 DEBUG testcase.Login                           - 1: navigateToUrl(G_PayrollPage)
+2025-07-14 15:12:57.965 DEBUG testcase.Login                           - 2: click(findTestObject("Object Repository/Switch_Org/Page_IBEX Payroll - Home/a_swap_horiz Switch SetupSimpleDialog(orgCo_55ee7d"))
+2025-07-14 15:12:58.515 DEBUG testcase.Login                           - 3: click(findTestObject("Object Repository/Switch_Org/Page_IBEX Payroll - Home/a_Anns Test Org"))
+2025-07-14 15:12:59.575 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Switch Org
+2025-07-14 15:12:59.581 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-14 15:12:59.581 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Logout and Close Browser
+2025-07-14 15:12:59.681 DEBUG testcase.Login                           - 1: navigateToUrl(G_HomePage)
+2025-07-14 15:12:59.936 DEBUG testcase.Login                           - 2: click(findTestObject("Object Repository/Page_IBEX Payroll - Home/div_Darryl Stewart                         _2173f8"))
+2025-07-14 15:13:00.452 DEBUG testcase.Login                           - 3: click(findTestObject("Object Repository/Page_IBEX Payroll - Home/a_exit_to_app Log Out"))
+2025-07-14 15:13:01.445 DEBUG testcase.Login                           - 4: closeBrowser()
+2025-07-14 15:13:03.164 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Logout and Close Browser
+2025-07-14 15:13:03.201 INFO  c.k.katalon.core.main.TestSuiteExecutor  - --------------------
+2025-07-14 15:13:03.201 INFO  c.k.katalon.core.main.TestSuiteExecutor  - END Test Suites/Login and Switch Org
+2025-07-14 15:13:03.201 INFO  c.k.katalon.core.main.TestSuiteExecutor  - ====================

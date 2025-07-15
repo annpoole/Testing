@@ -1,0 +1,9 @@
+2025-07-14 14:46:35.360 INFO  c.k.katalon.core.main.TestSuiteExecutor  - START Test Suites/Login and Switch Org
+2025-07-14 14:46:35.595 INFO  c.k.katalon.core.main.TestSuiteExecutor  - userFullName = Ann Poole
+2025-07-14 14:46:35.614 INFO  c.k.katalon.core.main.TestSuiteExecutor  - projectName = Testing
+2025-07-14 14:46:35.617 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostName = Ann - NOTEBOOKPC-44.office.local
+2025-07-14 14:46:35.623 INFO  c.k.katalon.core.main.TestSuiteExecutor  - os = Windows 11 64bit
+2025-07-14 14:46:35.630 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostAddress = 192.168.1.167
+2025-07-14 14:46:35.631 INFO  c.k.katalon.core.main.TestSuiteExecutor  - katalonVersion = 10.2.1.0
+2025-07-14 14:46:36.332 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-14 14:46:36.332 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Login

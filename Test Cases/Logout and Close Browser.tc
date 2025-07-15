@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login_Steps</name>
+   <name>Logout and Close Browser</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>8450b616-e1e6-4de4-859e-9c016e343df0</testCaseGuid>
+   <testCaseGuid>00699378-9bfe-4736-b3ac-87a80feba00a</testCaseGuid>
 </TestCaseEntity>

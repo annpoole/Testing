@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login and Switch Org,Chrome 138.0.7204.94,,,14-07-2025 14:42:05,14-07-2025 14:44:28,2m - 23.058s,FAILED
+,,,,,,,
+Test Cases/Login,Chrome 138.0.7204.94,,,14-07-2025 14:42:06,14-07-2025 14:42:17,11.263s,PASSED
+"openBrowser("""")",Chrome 138.0.7204.94,,,14-07-2025 14:42:06,14-07-2025 14:42:10,4.400s,PASSED
+navigateToUrl(G_SiteURL),Chrome 138.0.7204.94,,,14-07-2025 14:42:10,14-07-2025 14:42:11,0.905s,PASSED
+maximizeWindow(),Chrome 138.0.7204.94,,,14-07-2025 14:42:11,14-07-2025 14:42:11,0.100s,PASSED
+"setText(findTestObject(""Object Repository/Page_IBEX Payroll - Login/input_Username_Input.Username""), ""uat.dstewart"")",Chrome 138.0.7204.94,,,14-07-2025 14:42:11,14-07-2025 14:42:12,0.797s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_IBEX Payroll - Login/input_Show Password_Input.Password""), ""p4y+y39Ir5Oy1MY8jPt0uQ=="")",Chrome 138.0.7204.94,,,14-07-2025 14:42:12,14-07-2025 14:42:13,0.352s,PASSED
+"click(findTestObject(""Object Repository/Page_IBEX Payroll - Login/input_Remember me_Input.Button""))",Chrome 138.0.7204.94,,,14-07-2025 14:42:13,14-07-2025 14:42:17,4.303s,PASSED
+,,,,,,,
+Test Cases/Switch Org,Chrome 138.0.7204.94,,,14-07-2025 14:42:17,14-07-2025 14:42:19,2.204s,PASSED
+navigateToUrl(G_PayrollPage),Chrome 138.0.7204.94,,,14-07-2025 14:42:17,14-07-2025 14:42:17,0.487s,PASSED
+"click(findTestObject(""Object Repository/Switch_Org/Page_IBEX Payroll - Home/a_swap_horiz Switch SetupSimpleDialog(orgCo_55ee7d""))",Chrome 138.0.7204.94,,,14-07-2025 14:42:17,14-07-2025 14:42:18,0.541s,PASSED
+"click(findTestObject(""Object Repository/Switch_Org/Page_IBEX Payroll - Home/a_Anns Test Org""))",Chrome 138.0.7204.94,,,14-07-2025 14:42:18,14-07-2025 14:42:19,1.079s,PASSED
+,,,,,,,
+Test Cases/Logout and Close Browser,Chrome 138.0.7204.94,,,14-07-2025 14:43:55,14-07-2025 14:44:26,31.659s,FAILED
+"click(findTestObject(""Object Repository/Page_IBEX Payroll - Home/a_exit_to_app Log Out""))",Chrome 138.0.7204.94,,,14-07-2025 14:43:55,14-07-2025 14:44:26,31.621s,FAILED

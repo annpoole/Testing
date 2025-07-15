@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GlobalVariableEntities>
    <description></description>
-   <name>default</name>
+   <name>Edge_8</name>
    <tag></tag>
-   <defaultProfile>true</defaultProfile>
+   <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description>Login page (Main)</description>
-      <initValue>'https://sit.ibexpayroll.com:8443/main/identityserver/Account/Login'</initValue>
+      <initValue>'https://sit.ibexpayroll.com:8443/edge8/identityserver/Account/Login'</initValue>
       <name>G_SiteURL</name>
       <protected>false</protected>
       <valueType>STRING</valueType>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>Home page (Main)</description>
-      <initValue>'https://sit.ibexpayroll.com:8443/Main/Everest/Home/Index.mr'</initValue>
+      <initValue>'https://sit.ibexpayroll.com:8443/edge8/Everest/Home/Index.mr'</initValue>
       <name>G_HomePage</name>
       <protected>false</protected>
       <valueType>STRING</valueType>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>Payroll page (Main)</description>
-      <initValue>'https://sit.ibexpayroll.com:8443/Main/Everest/Payroll/Index.mr'</initValue>
+      <initValue>'https://sit.ibexpayroll.com:8443/edge8/Everest/Payroll/Index.mr'</initValue>
       <name>G_PayrollPage</name>
       <protected>false</protected>
       <valueType>STRING</valueType>

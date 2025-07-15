@@ -17,16 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.navigateToUrl(GlobalVariable.G_HomePage)
 
-WebUI.navigateToUrl(GlobalVariable.G_SiteURL)
+WebUI.click(findTestObject('Object Repository/Page_IBEX Payroll - Home/div_Darryl Stewart                         _2173f8'))
 
-WebUI.maximizeWindow()
+WebUI.click(findTestObject('Object Repository/Page_IBEX Payroll - Home/a_exit_to_app Log Out'))
 
-WebUI.setText(findTestObject('Object Repository/Page_IBEX Payroll - Login/input_Username_Input.Username'), 'uat.dstewart')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_IBEX Payroll - Login/input_Show Password_Input.Password'), 
-    'p4y+y39Ir5Oy1MY8jPt0uQ==')
-
-WebUI.click(findTestObject('Object Repository/Page_IBEX Payroll - Login/input_Remember me_Input.Button'))
+WebUI.closeBrowser()
 

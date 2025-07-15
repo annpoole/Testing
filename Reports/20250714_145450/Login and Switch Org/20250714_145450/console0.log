@@ -1,0 +1,215 @@
+2025-07-14 14:55:00.139 INFO  c.k.katalon.core.main.TestSuiteExecutor  - START Test Suites/Login and Switch Org
+2025-07-14 14:55:00.272 INFO  c.k.katalon.core.main.TestSuiteExecutor  - userFullName = Ann Poole
+2025-07-14 14:55:00.274 INFO  c.k.katalon.core.main.TestSuiteExecutor  - projectName = Testing
+2025-07-14 14:55:00.276 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostName = Ann - NOTEBOOKPC-44.office.local
+2025-07-14 14:55:00.278 INFO  c.k.katalon.core.main.TestSuiteExecutor  - os = Windows 11 64bit
+2025-07-14 14:55:00.279 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostAddress = 192.168.1.167
+2025-07-14 14:55:00.280 INFO  c.k.katalon.core.main.TestSuiteExecutor  - katalonVersion = 10.2.1.0
+2025-07-14 14:55:00.893 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-14 14:55:00.894 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Login
+2025-07-14 14:55:01.327 DEBUG testcase.Login                           - 1: openBrowser("")
+2025-07-14 14:55:01.670 INFO  c.k.k.core.webui.driver.DriverFactory    - Starting 'Chrome' driver
+2025-07-14 14:55:01.706 INFO  c.k.k.c.w.d.chrome.ChromeDriverBuilder   - Use managed Chrome browser & driver
+2025-07-14 14:55:01.709 INFO  c.k.k.c.w.d.chrome.ChromeDriverUtil      - Checking and download if needed Chrome browser and driver for Chrome for Testing version latest (This may take a while in case of downloading needed)
+2025-07-14 14:55:02.836 INFO  c.k.k.c.w.d.chrome.ChromeDriverUtil      - Checking Chrome browser and driver completed in 1126 ms
+2025-07-14 14:55:02.836 INFO  c.k.k.c.w.d.chrome.ChromeDriverBuilder   - Chrome driver path: C:\Users\ann.OFFICE\.cache\selenium\chromedriver\win64\138.0.7204.94\chromedriver.exe
+2025-07-14 14:55:02.836 INFO  c.k.k.c.w.d.chrome.ChromeDriverBuilder   - Chrome browser path: C:\Users\ann.OFFICE\.cache\selenium\chrome\win64\138.0.7204.94\chrome.exe
+2025-07-14 14:55:02.860 INFO  c.k.k.core.webui.driver.DriverFactory    - Action delay is set to 0 milliseconds
+Jul. 14, 2025 2:55:04 P.M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find CDP implementation matching 138
+Jul. 14, 2025 2:55:04 P.M. org.openqa.selenium.chromium.ChromiumDriver lambda$new$4
+WARNING: Unable to find version of CDP to use for 138.0.7204.94. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.28.1` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+2025-07-14 14:55:05.835 INFO  c.k.k.core.webui.driver.DriverFactory    - sessionId = 65f1e3b9b2ba67b8196cfa52c5a68636
+2025-07-14 14:55:05.838 INFO  c.k.k.core.webui.driver.DriverFactory    - browser = Chrome 138.0.7204.94
+2025-07-14 14:55:05.839 INFO  c.k.k.core.webui.driver.DriverFactory    - platform = Windows 11
+2025-07-14 14:55:05.840 INFO  c.k.k.core.webui.driver.DriverFactory    - seleniumVersion = 4.28.1
+2025-07-14 14:55:05.849 INFO  c.k.k.core.webui.driver.DriverFactory    - proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList="", isApplyToDesiredCapabilities=true }
+2025-07-14 14:55:05.896 DEBUG testcase.Login                           - 2: navigateToUrl(G_SiteURL)
+2025-07-14 14:55:06.904 DEBUG testcase.Login                           - 3: maximizeWindow()
+2025-07-14 14:55:07.010 DEBUG testcase.Login                           - 4: setText(findTestObject("Object Repository/Page_IBEX Payroll - Login/input_Username_Input.Username"), "uat.dstewart")
+2025-07-14 14:55:07.926 DEBUG testcase.Login                           - 5: setEncryptedText(findTestObject("Object Repository/Page_IBEX Payroll - Login/input_Show Password_Input.Password"), "p4y+y39Ir5Oy1MY8jPt0uQ==")
+2025-07-14 14:55:08.274 DEBUG testcase.Login                           - 6: click(findTestObject("Object Repository/Page_IBEX Payroll - Login/input_Remember me_Input.Button"))
+2025-07-14 14:55:11.864 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Login
+2025-07-14 14:55:11.873 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-14 14:55:11.874 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Switch Org
+2025-07-14 14:55:12.094 DEBUG testcase.Login                           - 1: navigateToUrl(G_PayrollPage)
+2025-07-14 14:55:12.463 DEBUG testcase.Login                           - 2: click(findTestObject("Object Repository/Switch_Org/Page_IBEX Payroll - Home/a_swap_horiz Switch SetupSimpleDialog(orgCo_55ee7d"))
+2025-07-14 14:55:13.000 DEBUG testcase.Login                           - 3: click(findTestObject("Object Repository/Switch_Org/Page_IBEX Payroll - Home/a_Anns Test Org"))
+2025-07-14 14:55:14.060 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Switch Org
+2025-07-14 14:55:14.066 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-14 14:55:14.066 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Logout and Close Browser
+2025-07-14 14:55:14.144 DEBUG testcase.Login                           - 1: click(findTestObject("Object Repository/Page_IBEX Payroll - Home/div_Darryl Stewart"))
+2025-07-14 14:55:14.568 DEBUG testcase.Login                           - 2: click(findTestObject("Object Repository/Page_IBEX Payroll - Home/i_exit_to_app"))
+2025-07-14 14:55:45.748 INFO  c.k.k.c.webui.common.WebUiCommonHelper   - Unable to find the element located by 'By.xpath: //div[@id='js-user-menu']/ul/li[9]/a/i'. Please recheck the objects properties to make sure the desired element is located. 
+2025-07-14 14:55:45.749 WARN  c.k.k.c.webui.common.WebUiCommonHelper   - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_IBEX Payroll - Home/i_exit_to_app'. Try using Self-healing.
+2025-07-14 14:55:45.997 INFO  c.k.k.c.webui.common.WebUiCommonHelper   - [SELF-HEALING] Failed Locator: '//div[@id='js-user-menu']/ul/li[9]/a/i'.
+2025-07-14 14:55:46.246 INFO  c.k.k.c.webui.common.WebUiCommonHelper   - [SELF-HEALING] Working Locator: '(.//*[normalize-space(text()) and normalize-space(.)='settings'])[1]/following::i[1]'.
+2025-07-14 14:55:46.314 ERROR c.k.k.c.webui.common.WebUiCommonHelper   - ❌ [SELF-HEALING] Cannot save screenshot to: C:\Ann (C)\Katalon_Testing\Testing\Reports\Self-healing, reason: unknown error: unhandled inspector error: {"code":-32000,"message":"Cannot take screenshot with 0 width."}
+  (Session info: chrome=138.0.7204.94)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [65f1e3b9b2ba67b8196cfa52c5a68636, elementScreenshot {id=f.3A97F3F1E122464A38121913C0833ECD.d.ABEBC99EFDF84FEE46A973C4B2616FAD.e.191}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.94, chrome: {chromedriverVersion: 138.0.7204.94 (545025748884..., userDataDir: C:\Users\ANN~1.OFF\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54946}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54946/devtoo..., se:cdpVersion: 138.0.7204.94, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:1466/session..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[CChromeDriver: chrome on windows (65f1e3b9b2ba67b8196cfa52c5a68636)] -> xpath: (.//*[normalize-space(text()) and normalize-space(.)='settings'])[1]/following::i[1]]
+Session ID: 65f1e3b9b2ba67b8196cfa52c5a68636.
+2025-07-14 14:55:46.342 ERROR c.k.k.c.webui.common.WebUiCommonHelper   - ❌ [SELF-HEALING] Cannot save screenshot to: C:\Ann (C)\Katalon_Testing\Testing\Reports\Self-healing, reason: unknown error: unhandled inspector error: {"code":-32000,"message":"Cannot take screenshot with 0 width."}
+  (Session info: chrome=138.0.7204.94)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [65f1e3b9b2ba67b8196cfa52c5a68636, elementScreenshot {id=f.3A97F3F1E122464A38121913C0833ECD.d.ABEBC99EFDF84FEE46A973C4B2616FAD.e.191}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.94, chrome: {chromedriverVersion: 138.0.7204.94 (545025748884..., userDataDir: C:\Users\ANN~1.OFF\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54946}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54946/devtoo..., se:cdpVersion: 138.0.7204.94, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:1466/session..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[CChromeDriver: chrome on windows (65f1e3b9b2ba67b8196cfa52c5a68636)] -> xpath: (.//*[normalize-space(text()) and normalize-space(.)='settings'])[1]/following::i[1]]
+Session ID: 65f1e3b9b2ba67b8196cfa52c5a68636.
+2025-07-14 14:55:46.367 ERROR c.k.k.c.webui.common.WebUiCommonHelper   - ❌ [SELF-HEALING] Cannot save screenshot to: C:\Ann (C)\Katalon_Testing\Testing\Reports\Self-healing, reason: unknown error: unhandled inspector error: {"code":-32000,"message":"Cannot take screenshot with 0 width."}
+  (Session info: chrome=138.0.7204.94)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [65f1e3b9b2ba67b8196cfa52c5a68636, elementScreenshot {id=f.3A97F3F1E122464A38121913C0833ECD.d.ABEBC99EFDF84FEE46A973C4B2616FAD.e.191}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.94, chrome: {chromedriverVersion: 138.0.7204.94 (545025748884..., userDataDir: C:\Users\ANN~1.OFF\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54946}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54946/devtoo..., se:cdpVersion: 138.0.7204.94, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:1466/session..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[CChromeDriver: chrome on windows (65f1e3b9b2ba67b8196cfa52c5a68636)] -> xpath: (.//*[normalize-space(text()) and normalize-space(.)='settings'])[1]/following::i[1]]
+Session ID: 65f1e3b9b2ba67b8196cfa52c5a68636.
+2025-07-14 14:55:46.382 WARN  c.k.k.c.webui.common.WebUiCommonHelper   - [SELF-HEALING] The current locator of test object 'Object Repository/Page_IBEX Payroll - Home/i_exit_to_app' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='settings'])[1]/following::i[1]'.
+2025-07-14 14:55:46.669 ERROR c.k.k.core.keyword.internal.KeywordMain  - ❌ Unable to click on object 'Object Repository/Page_IBEX Payroll - Home/i_exit_to_app' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_IBEX Payroll - Home/i_exit_to_app'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at Logout and Close Browser.run(Logout and Close Browser:22)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:486)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:477)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:456)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:322)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:186)
+	at TempTestSuite1752522890604.run(TempTestSuite1752522890604.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=138.0.7204.94)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [65f1e3b9b2ba67b8196cfa52c5a68636, clickElement {id=f.3A97F3F1E122464A38121913C0833ECD.d.ABEBC99EFDF84FEE46A973C4B2616FAD.e.191}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.94, chrome: {chromedriverVersion: 138.0.7204.94 (545025748884..., userDataDir: C:\Users\ANN~1.OFF\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54946}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54946/devtoo..., se:cdpVersion: 138.0.7204.94, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:1466/session..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[CChromeDriver: chrome on windows (65f1e3b9b2ba67b8196cfa52c5a68636)] -> xpath: (.//*[normalize-space(text()) and normalize-space(.)='settings'])[1]/following::i[1]]
+Session ID: 65f1e3b9b2ba67b8196cfa52c5a68636
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.call(WebDriverDecorator.java:315)
+	at org.openqa.selenium.support.decorators.DefaultDecorated.call(DefaultDecorated.java:48)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.lambda$createProxyFactory$3(WebDriverDecorator.java:405)
+	at net.bytebuddy.renamed.java.lang.Object$ByteBuddy$94nBoHMm.click(Unknown Source)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:82)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:68)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at Script1752500496249.run(Script1752500496249.groovy:22)
+	... 15 more
+)
+2025-07-14 14:55:46.674 ERROR c.k.katalon.core.main.TestCaseExecutor   - ❌ Test Cases/Logout and Close Browser FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_IBEX Payroll - Home/i_exit_to_app'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at Logout and Close Browser.run(Logout and Close Browser:22)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:486)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:477)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:456)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:322)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:186)
+	at TempTestSuite1752522890604.run(TempTestSuite1752522890604.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=138.0.7204.94)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [65f1e3b9b2ba67b8196cfa52c5a68636, clickElement {id=f.3A97F3F1E122464A38121913C0833ECD.d.ABEBC99EFDF84FEE46A973C4B2616FAD.e.191}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.94, chrome: {chromedriverVersion: 138.0.7204.94 (545025748884..., userDataDir: C:\Users\ANN~1.OFF\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54946}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54946/devtoo..., se:cdpVersion: 138.0.7204.94, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:1466/session..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[CChromeDriver: chrome on windows (65f1e3b9b2ba67b8196cfa52c5a68636)] -> xpath: (.//*[normalize-space(text()) and normalize-space(.)='settings'])[1]/following::i[1]]
+Session ID: 65f1e3b9b2ba67b8196cfa52c5a68636
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.call(WebDriverDecorator.java:315)
+	at org.openqa.selenium.support.decorators.DefaultDecorated.call(DefaultDecorated.java:48)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.lambda$createProxyFactory$3(WebDriverDecorator.java:405)
+	at net.bytebuddy.renamed.java.lang.Object$ByteBuddy$94nBoHMm.click(Unknown Source)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:82)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:68)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 20 more
+
+2025-07-14 14:55:46.689 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Logout and Close Browser
+2025-07-14 14:55:46.690 INFO  c.k.katalon.core.main.TestCaseExecutor   - 
+2025-07-14 14:55:46.690 INFO  c.k.katalon.core.main.TestCaseExecutor   - ===================== Self-healing Report ====================
+2025-07-14 14:55:46.691 INFO  c.k.katalon.core.main.TestCaseExecutor   - One of the failed test object locators has been recovered by Self-healing. Please refer to the Self-healing Insights tab for more details.
+2025-07-14 14:55:46.692 INFO  c.k.katalon.core.main.TestCaseExecutor   - To learn more about Self-healing, please read https://docs.katalon.com/katalon-studio/maintain-tests/self-healing-tests-in-katalon-studio
+2025-07-14 14:55:46.692 INFO  c.k.katalon.core.main.TestCaseExecutor   - ==============================================================
+2025-07-14 14:55:46.696 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-14 14:55:46.696 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Logout and Close Browser
+2025-07-14 14:55:46.711 DEBUG testcase.Login                           - 1: click(findTestObject("Object Repository/Page_IBEX Payroll - Home/div_Darryl Stewart"))
+2025-07-14 14:55:47.029 DEBUG testcase.Login                           - 2: click(findTestObject("Object Repository/Page_IBEX Payroll - Home/i_exit_to_app"))
