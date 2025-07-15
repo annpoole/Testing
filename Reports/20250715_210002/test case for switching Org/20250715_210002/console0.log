@@ -1,0 +1,36 @@
+Warning: NLS unused message: QTEST in: com.kms.katalon.constants.globalMessages
+Warning: NLS missing message: QTEST_NAME in: com.kms.katalon.constants.globalMessages
+2025-07-15 21:00:06.003 INFO  c.k.katalon.core.main.TestSuiteExecutor  - START Test Suites/test case for switching Org
+2025-07-15 21:00:06.086 INFO  c.k.katalon.core.main.TestSuiteExecutor  - userFullName = Ayushi Kalia
+2025-07-15 21:00:06.087 INFO  c.k.katalon.core.main.TestSuiteExecutor  - projectName = Testing
+2025-07-15 21:00:06.087 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostName = AI-PC-001 - AI-PC-001.lan
+2025-07-15 21:00:06.088 INFO  c.k.katalon.core.main.TestSuiteExecutor  - os = Windows 11 64bit
+2025-07-15 21:00:06.088 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostAddress = 192.168.31.113
+2025-07-15 21:00:06.089 INFO  c.k.katalon.core.main.TestSuiteExecutor  - katalonVersion = 10.2.3.0
+2025-07-15 21:00:06.574 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-15 21:00:06.574 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Login
+2025-07-15 21:00:06.879 DEBUG testcase.Login                           - 1: openBrowser("")
+2025-07-15 21:00:07.121 INFO  c.k.k.core.webui.driver.DriverFactory    - Starting 'Chrome' driver
+2025-07-15 21:00:07.187 INFO  c.k.k.core.webui.driver.DriverFactory    - Action delay is set to 0 milliseconds
+Jul 15, 2025 9:00:08 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
+2025-07-15 21:00:08.846 INFO  c.k.k.core.webui.driver.DriverFactory    - sessionId = a928cc87f29b76a7738c186d71c59a60
+2025-07-15 21:00:08.847 INFO  c.k.k.core.webui.driver.DriverFactory    - browser = Chrome 138.0.7204.101
+2025-07-15 21:00:08.848 INFO  c.k.k.core.webui.driver.DriverFactory    - platform = Windows 11
+2025-07-15 21:00:08.849 INFO  c.k.k.core.webui.driver.DriverFactory    - seleniumVersion = 4.28.1
+2025-07-15 21:00:08.861 INFO  c.k.k.core.webui.driver.DriverFactory    - proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList="", isApplyToDesiredCapabilities=true }
+2025-07-15 21:00:08.907 DEBUG testcase.Login                           - 2: navigateToUrl(G_SiteURL)
+2025-07-15 21:00:15.235 DEBUG testcase.Login                           - 3: maximizeWindow()
+2025-07-15 21:00:15.261 DEBUG testcase.Login                           - 4: setText(findTestObject("Object Repository/Page_IBEX Payroll - Login/input_Username_Input.Username"), "uat.dstewart")
+2025-07-15 21:00:16.230 DEBUG testcase.Login                           - 5: setEncryptedText(findTestObject("Object Repository/Page_IBEX Payroll - Login/input_Show Password_Input.Password"), "p4y+y39Ir5Oy1MY8jPt0uQ==")
+2025-07-15 21:00:16.549 DEBUG testcase.Login                           - 6: click(findTestObject("Object Repository/Page_IBEX Payroll - Login/input_Remember me_Input.Button"))
+2025-07-15 21:00:25.424 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Login
+2025-07-15 21:00:25.431 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-15 21:00:25.431 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Switch Org
+2025-07-15 21:00:25.489 DEBUG testcase.Login                           - 1: navigateToUrl(G_PayrollPage)
+2025-07-15 21:00:46.889 DEBUG testcase.Login                           - 2: click(findTestObject("Object Repository/Switch_Org/Page_IBEX Payroll - Home/a_swap_horiz Switch SetupSimpleDialog(orgCo_55ee7d"))
+2025-07-15 21:00:47.422 DEBUG testcase.Login                           - 3: delay(5)
+2025-07-15 21:00:52.448 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Switch Org
+2025-07-15 21:00:52.707 INFO  c.k.katalon.core.main.TestSuiteExecutor  - --------------------
+2025-07-15 21:00:52.707 INFO  c.k.katalon.core.main.TestSuiteExecutor  - END Test Suites/test case for switching Org
+2025-07-15 21:00:52.707 INFO  c.k.katalon.core.main.TestSuiteExecutor  - ====================

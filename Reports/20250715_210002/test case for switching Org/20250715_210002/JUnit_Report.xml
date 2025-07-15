@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="test case for switching Org" time="46.382" tests="2" failures="0" errors="0">
+   <testsuite name="test case for switching Org" tests="2" failures="0" errors="0" time="46.382" skipped="0" timestamp="2025-07-15T15:30:06.066Z" hostname="AI-PC-001 - AI-PC-001.lan" id="Test Suites/test case for switching Org">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Katalon_Testing\\Testing\\Reports\\20250715_210002\\test case for switching Org\\20250715_210002"/>
+         <property name="logFiles" value="C:\\Katalon_Testing\\Testing\\Reports\\20250715_210002\\test case for switching Org\\20250715_210002\\console0.log, C:\\Katalon_Testing\\Testing\\Reports\\20250715_210002\\test case for switching Org\\20250715_210002\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="AI-PC-001 - AI-PC-001.lan"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="10.2.3.0"/>
+         <property name="browser" value="Chrome 138.0.7204.101"/>
+         <property name="userFullName" value="Ayushi Kalia"/>
+         <property name="hostAddress" value="192.168.31.113"/>
+         <property name="sessionId" value="a928cc87f29b76a7738c186d71c59a60"/>
+         <property name="projectName" value="Testing"/>
+         <property name="seleniumVersion" value="4.28.1"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Login" time="18.85" classname="Test Cases/Login" status="PASSED">
+         <system-out><![CDATA[15-07-2025T21:00:06 - [TEST_CASE][PASSED] - Test Cases/Login: Test Cases/Login
+
+15-07-2025T21:00:06 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+15-07-2025T21:00:07 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+15-07-2025T21:00:07 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+15-07-2025T21:00:08 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+15-07-2025T21:00:08 - [TEST_STEP][PASSED] - navigateToUrl(G_SiteURL): Navigate to 'https://sit.ibexpayroll.com:8443/main/identityserver/Account/Login' successfully
+
+15-07-2025T21:00:15 - [MESSAGE][PASSED] - Navigate to 'https://sit.ibexpayroll.com:8443/main/identityserver/Account/Login' successfully
+
+15-07-2025T21:00:15 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+15-07-2025T21:00:15 - [MESSAGE][PASSED] - Current window maximized
+
+15-07-2025T21:00:15 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_IBEX Payroll - Login/input_Username_Input.Username"), "uat.dstewart"): Text 'uat.dstewart' is set on object 'Object Repository/Page_IBEX Payroll - Login/input_Username_Input.Username'
+
+15-07-2025T21:00:16 - [MESSAGE][PASSED] - Text 'uat.dstewart' is set on object 'Object Repository/Page_IBEX Payroll - Login/input_Username_Input.Username'
+
+15-07-2025T21:00:16 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_IBEX Payroll - Login/input_Show Password_Input.Password"), "p4y+y39Ir5Oy1MY8jPt0uQ=="): Text ****** has been set on object 'Object Repository/Page_IBEX Payroll - Login/input_Show Password_Input.Password'
+
+15-07-2025T21:00:16 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_IBEX Payroll - Login/input_Show Password_Input.Password'
+
+15-07-2025T21:00:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_IBEX Payroll - Login/input_Remember me_Input.Button")): Object: 'Object Repository/Page_IBEX Payroll - Login/input_Remember me_Input.Button' is clicked on
+
+15-07-2025T21:00:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_IBEX Payroll - Login/input_Remember me_Input.Button' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Switch Org" time="27.017" classname="Test Cases/Switch Org" status="PASSED">
+         <system-out><![CDATA[15-07-2025T21:00:25 - [TEST_CASE][PASSED] - Test Cases/Switch Org: Test Cases/Switch Org
+
+15-07-2025T21:00:25 - [TEST_STEP][PASSED] - navigateToUrl(G_PayrollPage): Navigate to 'https://sit.ibexpayroll.com:8443/Main/Everest/Payroll/Index.mr' successfully
+
+15-07-2025T21:00:46 - [MESSAGE][PASSED] - Navigate to 'https://sit.ibexpayroll.com:8443/Main/Everest/Payroll/Index.mr' successfully
+
+15-07-2025T21:00:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Switch_Org/Page_IBEX Payroll - Home/a_swap_horiz Switch SetupSimpleDialog(orgCo_55ee7d")): Object: 'Object Repository/Switch_Org/Page_IBEX Payroll - Home/a_swap_horiz Switch SetupSimpleDialog(orgCo_55ee7d' is clicked on
+
+15-07-2025T21:00:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Switch_Org/Page_IBEX Payroll - Home/a_swap_horiz Switch SetupSimpleDialog(orgCo_55ee7d' is clicked on
+
+15-07-2025T21:00:47 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+15-07-2025T21:00:52 - [MESSAGE][PASSED] - Delayed 5 second(s)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[15-07-2025T21:00:06 - [TEST_SUITE][PASSED] - test case for switching Org: null]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

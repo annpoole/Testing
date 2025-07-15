@@ -21,5 +21,5 @@ WebUI.navigateToUrl(GlobalVariable.G_PayrollPage)
 
 WebUI.click(findTestObject('Object Repository/Switch_Org/Page_IBEX Payroll - Home/a_swap_horiz Switch SetupSimpleDialog(orgCo_55ee7d'))
 
-WebUI.click(findTestObject('Object Repository/Switch_Org/Page_IBEX Payroll - Home/a_Anns Test Org'))
+WebUI.delay(15)
 
