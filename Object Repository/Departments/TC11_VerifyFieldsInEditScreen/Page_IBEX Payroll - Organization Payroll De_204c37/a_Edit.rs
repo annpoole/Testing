@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Edit</name>
+   <tag></tag>
+   <elementGuidId>cc339cef-96f3-4380-a041-d48cdf03c806</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.grid__link > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='departmentsGrid']/tbody/tr/td[9]/span/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;1000 ADMIN ADMIN 125651935RP0033 Enabled Default Bank Account Edit ・ Disable ・ Delete&quot;i] >> internal:role=link >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6276fa5b-5701-44f1-91d8-ae52ecc3943a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>requiredfeatures</name>
+      <type>Main</type>
+      <value>Organization: Demographics,Organization: Departments</value>
+      <webElementGuid>4e596bb8-3524-4742-9b96-c471e43df31b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/edge8/everest/DepartmentDetail/Edit.mr?departmentId=56483d13-5712-45ea-9206-1cc15781d426&amp;returnUrl=%2fedge8%2fEverest%2fDepartment%2findex.mr%3forganizationId%3d10c7810b-b555-4c44-b43e-c51fe7cd953b</value>
+      <webElementGuid>394ab88c-bf5f-417b-b6b4-b0b54451612a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>4dc5aca4-cb80-434f-bdf2-f0ec7cfdbfd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;departmentsGrid&quot;)/tbody[1]/tr[@class=&quot;grid_item even&quot;]/td[9]/span[@class=&quot;grid__link&quot;]/a[1]</value>
+      <webElementGuid>369fb03a-d5a0-4a02-9ced-1d5da87d17a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='departmentsGrid']/tbody/tr/td[9]/span/a</value>
+      <webElementGuid>4ae0797e-f32e-45ee-91c2-ed6b06991d41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Edit')]</value>
+      <webElementGuid>8d65ab74-9bdb-4e52-b614-b176eb831105</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Default Bank Account'])[1]/following::a[1]</value>
+      <webElementGuid>c12bbe10-9955-4c98-8980-56562598bab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enabled'])[1]/following::a[1]</value>
+      <webElementGuid>a9954ff1-bae1-45ce-a4d2-02cf7aab2f30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Disable'])[1]/preceding::a[1]</value>
+      <webElementGuid>2e2c6afd-b435-4680-a8f8-bbafc7e78f44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/preceding::a[2]</value>
+      <webElementGuid>d8d41d73-6a68-4d81-8ec5-62e6b13fb9de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Edit']/parent::*</value>
+      <webElementGuid>8e1bfc7b-74d4-4dd5-8585-5bcec3ff9741</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/edge8/everest/DepartmentDetail/Edit.mr?departmentId=56483d13-5712-45ea-9206-1cc15781d426&amp;returnUrl=%2fedge8%2fEverest%2fDepartment%2findex.mr%3forganizationId%3d10c7810b-b555-4c44-b43e-c51fe7cd953b')]</value>
+      <webElementGuid>68782103-637f-4345-bb29-f1ad4946cc56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>ba3d2f17-2556-43d0-bf5e-062830cf6b02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/edge8/everest/DepartmentDetail/Edit.mr?departmentId=56483d13-5712-45ea-9206-1cc15781d426&amp;returnUrl=%2fedge8%2fEverest%2fDepartment%2findex.mr%3forganizationId%3d10c7810b-b555-4c44-b43e-c51fe7cd953b' and (text() = 'Edit' or . = 'Edit')]</value>
+      <webElementGuid>427b4d0d-598c-4ee2-be22-d82767cdcb35</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

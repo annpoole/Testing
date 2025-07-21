@@ -1,0 +1,243 @@
+Warning: NLS unused message: QTEST in: com.kms.katalon.constants.globalMessages
+Warning: NLS missing message: QTEST_NAME in: com.kms.katalon.constants.globalMessages
+2025-07-21 19:27:57.687 INFO  c.k.katalon.core.main.TestSuiteExecutor  - START Test Suites/Departments/TS_Departments_CustomFieldSettings
+2025-07-21 19:27:57.765 INFO  c.k.katalon.core.main.TestSuiteExecutor  - userFullName = Ayushi Kalia
+2025-07-21 19:27:57.766 INFO  c.k.katalon.core.main.TestSuiteExecutor  - projectName = Testing
+2025-07-21 19:27:57.766 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostName = AI-PC-001 - AI-PC-001.lan
+2025-07-21 19:27:57.767 INFO  c.k.katalon.core.main.TestSuiteExecutor  - os = Windows 11 64bit
+2025-07-21 19:27:57.767 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostAddress = 192.168.31.113
+2025-07-21 19:27:57.767 INFO  c.k.katalon.core.main.TestSuiteExecutor  - katalonVersion = 10.2.3.0
+2025-07-21 19:27:58.226 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 19:27:58.226 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC01_SH_LoginAndNavigate
+2025-07-21 19:27:58.523 DEBUG testcase.TC01_SH_LoginAndNavigate        - 1: callTestCase(findTestCase("Shared/SH_Login"), [:], STOP_ON_FAILURE)
+2025-07-21 19:27:58.661 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 19:27:58.661 INFO  c.k.katalon.core.main.TestCaseExecutor   - CALL Test Cases/Shared/SH_Login
+2025-07-21 19:27:58.722 DEBUG testcase.SH_Login                        - 1: openBrowser("")
+2025-07-21 19:27:58.852 INFO  c.k.k.core.webui.driver.DriverFactory    - Starting 'Chrome' driver
+2025-07-21 19:27:58.923 INFO  c.k.k.core.webui.driver.DriverFactory    - Action delay is set to 0 milliseconds
+Jul 21, 2025 7:28:00 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
+2025-07-21 19:28:00.490 INFO  c.k.k.core.webui.driver.DriverFactory    - sessionId = 677a39287484a1c3b3fac94ed9614109
+2025-07-21 19:28:00.491 INFO  c.k.k.core.webui.driver.DriverFactory    - browser = Chrome 138.0.7204.101
+2025-07-21 19:28:00.491 INFO  c.k.k.core.webui.driver.DriverFactory    - platform = Windows 11
+2025-07-21 19:28:00.492 INFO  c.k.k.core.webui.driver.DriverFactory    - seleniumVersion = 4.28.1
+2025-07-21 19:28:00.497 INFO  c.k.k.core.webui.driver.DriverFactory    - proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList="", isApplyToDesiredCapabilities=true }
+2025-07-21 19:28:00.534 DEBUG testcase.SH_Login                        - 2: maximizeWindow()
+2025-07-21 19:28:00.608 DEBUG testcase.SH_Login                        - 3: navigateToUrl(G_SiteURL)
+2025-07-21 19:28:07.532 DEBUG testcase.SH_Login                        - 4: maximizeWindow()
+2025-07-21 19:28:07.543 DEBUG testcase.SH_Login                        - 5: setText(findTestObject("Object Repository/Shared/SH_Login/Page_IBEX Payroll - Login/input_Username_Input.Username"), "uat.dstewart")
+2025-07-21 19:28:08.206 DEBUG testcase.SH_Login                        - 6: setEncryptedText(findTestObject("Shared/SH_Login/Page_IBEX Payroll - Login/input_Show Password_Input.Password"), "p4y+y39Ir5Oy1MY8jPt0uQ==")
+2025-07-21 19:28:08.527 DEBUG testcase.SH_Login                        - 7: click(findTestObject("Object Repository/Shared/SH_Login/Page_IBEX Payroll - Login/input_Remember me_Input.Button"))
+2025-07-21 19:28:14.577 INFO  c.k.katalon.core.main.TestCaseExecutor   - END CALL Test Cases/Shared/SH_Login
+2025-07-21 19:28:14.577 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 19:28:14.585 DEBUG testcase.TC01_SH_LoginAndNavigate        - 2: callTestCase(findTestCase("Shared/SH_Navigate(Switch Org)"), [:], STOP_ON_FAILURE)
+2025-07-21 19:28:14.646 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 19:28:14.646 INFO  c.k.katalon.core.main.TestCaseExecutor   - CALL Test Cases/Shared/SH_Navigate(Switch Org)
+2025-07-21 19:28:14.703 DEBUG testcase.SH_Login                        - 1: click(findTestObject("Object Repository/Shared/SH_Navigate(Switch Org)/Page_IBEX Payroll - Home/a_swap_horiz Switch SetupSimpleDialog(orgCo_55ee7d"))
+2025-07-21 19:28:15.009 DEBUG testcase.SH_Login                        - 2: delay(15)
+2025-07-21 19:28:30.038 INFO  c.k.katalon.core.main.TestCaseExecutor   - END CALL Test Cases/Shared/SH_Navigate(Switch Org)
+2025-07-21 19:28:30.038 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 19:28:30.041 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC01_SH_LoginAndNavigate
+2025-07-21 19:28:30.046 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 19:28:30.046 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC02_VerifyManageDepartmentFields
+2025-07-21 19:28:30.096 DEBUG t.TC02_VerifyManageDepartmentFields      - 1: click(findTestObject("Object Repository/Departments/TC02_VerifyManageDepartmentFields/Page_IBEX Payroll - Home/div_Darryl Stewart                         _d15389"))
+2025-07-21 19:28:30.383 DEBUG t.TC02_VerifyManageDepartmentFields      - 2: click(findTestObject("Object Repository/Departments/TC02_VerifyManageDepartmentFields/Page_IBEX Payroll - Home/a_business Organization Details"))
+2025-07-21 19:28:31.575 DEBUG t.TC02_VerifyManageDepartmentFields      - 3: click(findTestObject("Object Repository/Departments/TC02_VerifyManageDepartmentFields/Page_IBEX Payroll - Organization Detail/a_Payroll Departments"))
+2025-07-21 19:28:33.499 DEBUG t.TC02_VerifyManageDepartmentFields      - 4: click(findTestObject("Object Repository/Departments/TC02_VerifyManageDepartmentFields/Page_IBEX Payroll - Organization Payroll De_204c37/a_Manage Department Fields"))
+2025-07-21 19:28:37.174 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC02_VerifyManageDepartmentFields
+2025-07-21 19:28:37.178 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 19:28:37.178 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC03_VerifyCustomFieldOptions
+2025-07-21 19:28:37.218 DEBUG testcase.TC03_VerifyCustomFieldOptions   - 1: findWebElement(findTestObject("Object Repository/Departments/TC03_VerifyCustomFieldOotions/Page_IBEX Payroll - Manage Department Field/label_Custom Department Field 1"))
+2025-07-21 19:28:40.484 DEBUG testcase.TC03_VerifyCustomFieldOptions   - 2: findWebElement(findTestObject("Object Repository/Departments/TC03_VerifyCustomFieldOotions/Page_IBEX Payroll - Manage Department Field/label_Custom Department Field 2"))
+Jul 21, 2025 7:28:42 PM org.openqa.selenium.remote.http.WebSocket$Listener onError
+WARNING: Connection reset
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at java.net.http/jdk.internal.net.http.SocketTube.readAvailable(SocketTube.java:1170)
+	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.read(SocketTube.java:833)
+	at java.net.http/jdk.internal.net.http.SocketTube$SocketFlowTask.run(SocketTube.java:181)
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$SchedulableTask.run(SequentialScheduler.java:230)
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:303)
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:256)
+	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.signalReadable(SocketTube.java:774)
+	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$ReadEvent.signalEvent(SocketTube.java:957)
+	at java.net.http/jdk.internal.net.http.SocketTube$SocketFlowEvent.handle(SocketTube.java:253)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.handleEvent(HttpClientImpl.java:984)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.lambda$run$3(HttpClientImpl.java:939)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:939)
+
+2025-07-21 19:28:42.321 WARN  c.k.k.c.webui.common.WebUiCommonHelper   - [SELF-HEALING] Failed to find element with id 'Object Repository/Departments/TC03_VerifyCustomFieldOotions/Page_IBEX Payroll - Manage Department Field/label_Custom Department Field 2'. Try using Self-healing.
+2025-07-21 19:28:42.351 WARN  c.k.k.c.webui.common.WebUiCommonHelper   - [SELF-HEALING] invalid session id
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [677a39287484a1c3b3fac94ed9614109, findElements {value=(.//*[normalize-space(text()) and normalize-space(.)='Custom Department Field #1:'])[1]/following::label[1], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 137.0.7151.55 (254bc711794d..., userDataDir: C:\Users\AI-PC-~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61723}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61723/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:23153/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 677a39287484a1c3b3fac94ed9614109
+2025-07-21 19:28:43.364 WARN  c.k.k.c.webui.common.WebUiCommonHelper   - [SELF-HEALING] invalid session id
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [677a39287484a1c3b3fac94ed9614109, findElements {value=//*[(text() = 'Custom Department Field #2:' or . = 'Custom Department Field #2:')], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 137.0.7151.55 (254bc711794d..., userDataDir: C:\Users\AI-PC-~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61723}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61723/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:23153/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 677a39287484a1c3b3fac94ed9614109
+2025-07-21 19:28:43.369 WARN  c.k.k.c.webui.common.WebUiCommonHelper   - [SELF-HEALING] invalid session id
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [677a39287484a1c3b3fac94ed9614109, findElements {value=, using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 137.0.7151.55 (254bc711794d..., userDataDir: C:\Users\AI-PC-~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61723}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61723/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:23153/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 677a39287484a1c3b3fac94ed9614109
+2025-07-21 19:28:43.380 WARN  c.k.k.c.w.h.s.WebUIScreenCaptor          - Cannot take screenshot
+2025-07-21 19:28:43.382 ERROR c.k.k.core.keyword.internal.KeywordMain  - ❌ Cannot find web element by test object Object Repository/Departments/TC03_VerifyCustomFieldOotions/Page_IBEX Payroll - Manage Department Field/label_Custom Department Field 2 (Root cause: com.kms.katalon.core.exception.StepFailedException: Cannot find web element by test object Object Repository/Departments/TC03_VerifyCustomFieldOotions/Page_IBEX Payroll - Manage Department Field/label_Custom Department Field 2
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:118)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.FindWebElementKeyword.findWebElement(FindWebElementKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.FindWebElementKeyword.execute(FindWebElementKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:64)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.findWebElement(WebUiBuiltInKeywords.groovy:2919)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.findWebElement(WebUiBuiltInKeywords.groovy:2918)
+	at TC03_VerifyCustomFieldOptions.run(TC03_VerifyCustomFieldOptions:22)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:485)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:476)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:455)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:447)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:321)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:195)
+	at TempTestSuite1753106275229.run(TempTestSuite1753106275229.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.NoSuchSessionException: invalid session id
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [677a39287484a1c3b3fac94ed9614109, findElements {value=(.//*[normalize-space(text()) and normalize-space(.)='Custom Department Field #1:'])[1]/following::label[1], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 137.0.7151.55 (254bc711794d..., userDataDir: C:\Users\AI-PC-~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61723}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61723/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:23153/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 677a39287484a1c3b3fac94ed9614109
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElements(ElementLocation.java:182)
+	at org.openqa.selenium.remote.ElementLocation.findElements(ElementLocation.java:103)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:381)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:375)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.call(WebDriverDecorator.java:315)
+	at org.openqa.selenium.support.decorators.DefaultDecorated.call(DefaultDecorated.java:48)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.lambda$createProxyFactory$3(WebDriverDecorator.java:405)
+	at org.openqa.selenium.remote.RemoteWebDriver$ByteBuddy$XQq0ka7P.findElements(Unknown Source)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementByNormalMethods(WebUiCommonHelper.java:1064)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:955)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:937)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:932)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsByDefault(WebUiCommonHelper.java:928)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsWithSelfHealing(WebUiCommonHelper.java:774)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:758)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1448)
+	at com.kms.katalon.core.webui.keyword.builtin.FindWebElementKeyword$_findWebElement_closure1.doCall(FindWebElementKeyword.groovy:77)
+	at com.kms.katalon.core.webui.keyword.builtin.FindWebElementKeyword$_findWebElement_closure1.call(FindWebElementKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.FindWebElementKeyword.findWebElement(FindWebElementKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.FindWebElementKeyword.execute(FindWebElementKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:64)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.findWebElement(WebUiBuiltInKeywords.groovy:2919)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.findWebElement(WebUiBuiltInKeywords.groovy:2918)
+	at Script1752684122899.run(Script1752684122899.groovy:22)
+	... 15 more
+)
+2025-07-21 19:28:43.387 ERROR c.k.katalon.core.main.TestCaseExecutor   - ❌ Test Cases/Departments/TC03_VerifyCustomFieldOptions FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Cannot find web element by test object Object Repository/Departments/TC03_VerifyCustomFieldOotions/Page_IBEX Payroll - Manage Department Field/label_Custom Department Field 2
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:118)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.FindWebElementKeyword.findWebElement(FindWebElementKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.FindWebElementKeyword.execute(FindWebElementKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:64)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.findWebElement(WebUiBuiltInKeywords.groovy:2919)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.findWebElement(WebUiBuiltInKeywords.groovy:2918)
+	at TC03_VerifyCustomFieldOptions.run(TC03_VerifyCustomFieldOptions:22)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:485)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:476)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:455)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:447)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:321)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:195)
+	at TempTestSuite1753106275229.run(TempTestSuite1753106275229.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.NoSuchSessionException: invalid session id
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [677a39287484a1c3b3fac94ed9614109, findElements {value=(.//*[normalize-space(text()) and normalize-space(.)='Custom Department Field #1:'])[1]/following::label[1], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 137.0.7151.55 (254bc711794d..., userDataDir: C:\Users\AI-PC-~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61723}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61723/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:23153/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 677a39287484a1c3b3fac94ed9614109
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElements(ElementLocation.java:182)
+	at org.openqa.selenium.remote.ElementLocation.findElements(ElementLocation.java:103)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:381)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:375)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.call(WebDriverDecorator.java:315)
+	at org.openqa.selenium.support.decorators.DefaultDecorated.call(DefaultDecorated.java:48)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.lambda$createProxyFactory$3(WebDriverDecorator.java:405)
+	at org.openqa.selenium.remote.RemoteWebDriver$ByteBuddy$XQq0ka7P.findElements(Unknown Source)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementByNormalMethods(WebUiCommonHelper.java:1064)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:955)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:937)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:932)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsByDefault(WebUiCommonHelper.java:928)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsWithSelfHealing(WebUiCommonHelper.java:774)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:758)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1448)
+	at com.kms.katalon.core.webui.keyword.builtin.FindWebElementKeyword$_findWebElement_closure1.doCall(FindWebElementKeyword.groovy:77)
+	at com.kms.katalon.core.webui.keyword.builtin.FindWebElementKeyword$_findWebElement_closure1.call(FindWebElementKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 21 more
+
+2025-07-21 19:28:43.392 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC03_VerifyCustomFieldOptions
+2025-07-21 19:28:43.395 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 19:28:43.395 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC03_VerifyCustomFieldOptions
+2025-07-21 19:28:43.404 DEBUG testcase.TC03_VerifyCustomFieldOptions   - 1: findWebElement(findTestObject("Object Repository/Departments/TC03_VerifyCustomFieldOotions/Page_IBEX Payroll - Manage Department Field/label_Custom Department Field 1"))
+2025-07-21 19:28:43.415 WARN  c.k.k.c.webui.common.WebUiCommonHelper   - [SELF-HEALING] Failed to find element with id 'Object Repository/Departments/TC03_VerifyCustomFieldOotions/Page_IBEX Payroll - Manage Department Field/label_Custom Department Field 1'. Try using Self-healing.
+2025-07-21 19:28:43.422 WARN  c.k.k.c.webui.common.WebUiCommonHelper   - [SELF-HEALING] invalid session id
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [677a39287484a1c3b3fac94ed9614109, findElements {value=(.//*[normalize-space(text()) and normalize-space(.)='Custom Department Field Settings'])[1]/following::label[1], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 137.0.7151.55 (254bc711794d..., userDataDir: C:\Users\AI-PC-~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61723}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61723/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:23153/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 677a39287484a1c3b3fac94ed9614109

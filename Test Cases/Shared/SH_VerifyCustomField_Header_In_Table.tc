@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SH_VerifyCustomField_Header_In_Table</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a1133cb4-82f8-4253-a5f1-6f68ae594aad</testCaseGuid>
+</TestCaseEntity>

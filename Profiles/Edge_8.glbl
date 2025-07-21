@@ -3,25 +3,137 @@
    <description></description>
    <name>Edge_8</name>
    <tag></tag>
-   <defaultProfile>false</defaultProfile>
+   <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
-      <description>Login page (Main)</description>
+      <description>Login page (Edge-8)</description>
       <initValue>'https://sit.ibexpayroll.com:8443/edge8/identityserver/Account/Login'</initValue>
       <name>G_SiteURL</name>
       <protected>false</protected>
       <valueType>STRING</valueType>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>Home page (Main)</description>
+      <description>Home page (Edge-8)</description>
       <initValue>'https://sit.ibexpayroll.com:8443/edge8/Everest/Home/Index.mr'</initValue>
       <name>G_HomePage</name>
       <protected>false</protected>
       <valueType>STRING</valueType>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>Payroll page (Main)</description>
+      <description>Payroll page (Edge-8)</description>
       <initValue>'https://sit.ibexpayroll.com:8443/edge8/Everest/Payroll/Index.mr'</initValue>
       <name>G_PayrollPage</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description> for 100 &lt; validation</description>
+      <initValue>'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz\r\n'</initValue>
+      <name>G_LongTextInput</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description> vadition message for 100 character exceed</description>
+      <initValue>'Custom Department Field #1 must be 100 characters or fewer.'</initValue>
+      <name>G_Validation_Field1_ExceedsLimit</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description> vadition message for 100 character exceed</description>
+      <initValue>'Custom Department Field #2 must be 100 characters or fewer.'</initValue>
+      <name>G_Validation_Field2_ExceedsLimit</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description> validationif field_1 is enabled but textarea is empty</description>
+      <initValue>'Custom Department Field #1 is required when enabled.'</initValue>
+      <name>G_validation_Field1_Empty</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description> validationif field_2 is enabled but textarea is empty</description>
+      <initValue>'Custom Department Field #2 is required when enabled.'</initValue>
+      <name>G_validation_Field2_Empty</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>alert on save</description>
+      <initValue>'Custom Fields Added successfully.'</initValue>
+      <name>G_Validation_Fields_ValidInput</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Custom Department Field #1 contains invalid characters.'</initValue>
+      <name>G_Validation_Field1_SpecialChars</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>validation on Field 1 &amp; 2 has invalid special characters like %, {</description>
+      <initValue>'Custom Department Field #2 contains invalid characters.'</initValue>
+      <name>G_Validation_Field2_SpecialChars</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Custom Department Field #1 once set is a required input and cannot be emptied'</initValue>
+      <name>G_Validation_Field1_CannotBeCleared</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Custom Department Field #2 once set is a required input and cannot be emptied.'</initValue>
+      <name>G_Validation_Field2_CannotBeCleared</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Field Header 1'</initValue>
+      <name>G_Custom_Label01</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Field Header 2'</initValue>
+      <name>G_Custom_label02</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'New 01'</initValue>
+      <name>G_Department_Code</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Testing Department 01'</initValue>
+      <name>G_Department_Name</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Enter different values: numbers, symbols, empty and then save</description>
+      <initValue>'value _'</initValue>
+      <name>G_Custom_Value_01</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Enter different values: numbers, symbols, empty and then save</description>
+      <initValue>'value 2'</initValue>
+      <name>G_Custom_Value_02</name>
       <protected>false</protected>
       <valueType>STRING</valueType>
    </GlobalVariableEntity>

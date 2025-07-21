@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC12_AddCustomFieldValues</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1e0f80d7-7e7f-4ead-bd82-178a365070d8</testCaseGuid>
+</TestCaseEntity>

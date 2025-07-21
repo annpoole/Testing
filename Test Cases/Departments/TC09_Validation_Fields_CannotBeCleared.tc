@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validation: Try to Clear Already Set Field Name</description>
+   <name>TC09_Validation_Fields_CannotBeCleared</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f0f792e9-c9dd-4e3f-a8bd-93e75552ce23</testCaseGuid>
+</TestCaseEntity>

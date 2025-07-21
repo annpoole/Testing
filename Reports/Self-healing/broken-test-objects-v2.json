@@ -1,3 +1,14 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Departments/TC09_Validation_Fields_CannotBeCleared/Page_IBEX Payroll - Manage Department Field/button_Save",
+      "brokenLocator": "/html/body/spa-app/fw-framework-body/fw-content/main/spa-custom-field-setting-page/div/div/form/div[4]/button",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(//button[@type\u003d\u0027submit\u0027])[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Departments/TC09_Validation_Fields_CannotBeCleared/Page_IBEX Payroll - Manage Department Field/button_Save_attributes.png"
+    }
+  ]
 }

@@ -1,0 +1,770 @@
+Warning: NLS unused message: QTEST in: com.kms.katalon.constants.globalMessages
+Warning: NLS missing message: QTEST_NAME in: com.kms.katalon.constants.globalMessages
+2025-07-21 20:03:54.860 INFO  c.k.katalon.core.main.TestSuiteExecutor  - START Test Suites/Departments/TS_Departments_CustomFieldSettings
+2025-07-21 20:03:54.942 INFO  c.k.katalon.core.main.TestSuiteExecutor  - userFullName = Ayushi Kalia
+2025-07-21 20:03:54.943 INFO  c.k.katalon.core.main.TestSuiteExecutor  - projectName = Testing
+2025-07-21 20:03:54.944 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostName = AI-PC-001 - AI-PC-001.lan
+2025-07-21 20:03:54.944 INFO  c.k.katalon.core.main.TestSuiteExecutor  - os = Windows 11 64bit
+2025-07-21 20:03:54.945 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostAddress = 192.168.31.113
+2025-07-21 20:03:54.946 INFO  c.k.katalon.core.main.TestSuiteExecutor  - katalonVersion = 10.2.3.0
+2025-07-21 20:03:55.404 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 20:03:55.405 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC01_SH_LoginAndNavigate
+2025-07-21 20:03:55.698 DEBUG testcase.TC01_SH_LoginAndNavigate        - 1: callTestCase(findTestCase("Shared/SH_Login"), [:], STOP_ON_FAILURE)
+2025-07-21 20:03:55.838 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 20:03:55.838 INFO  c.k.katalon.core.main.TestCaseExecutor   - CALL Test Cases/Shared/SH_Login
+2025-07-21 20:03:55.907 DEBUG testcase.SH_Login                        - 1: openBrowser("")
+2025-07-21 20:03:56.035 INFO  c.k.k.core.webui.driver.DriverFactory    - Starting 'Chrome' driver
+2025-07-21 20:03:56.087 INFO  c.k.k.core.webui.driver.DriverFactory    - Action delay is set to 0 milliseconds
+Jul 21, 2025 8:03:57 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
+2025-07-21 20:03:57.676 INFO  c.k.k.core.webui.driver.DriverFactory    - sessionId = 269f272fd861c253f9977d66e7be4b38
+2025-07-21 20:03:57.678 INFO  c.k.k.core.webui.driver.DriverFactory    - browser = Chrome 138.0.7204.101
+2025-07-21 20:03:57.678 INFO  c.k.k.core.webui.driver.DriverFactory    - platform = Windows 11
+2025-07-21 20:03:57.678 INFO  c.k.k.core.webui.driver.DriverFactory    - seleniumVersion = 4.28.1
+2025-07-21 20:03:57.684 INFO  c.k.k.core.webui.driver.DriverFactory    - proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList="", isApplyToDesiredCapabilities=true }
+2025-07-21 20:03:57.722 DEBUG testcase.SH_Login                        - 2: maximizeWindow()
+2025-07-21 20:03:57.799 DEBUG testcase.SH_Login                        - 3: navigateToUrl(G_SiteURL)
+2025-07-21 20:04:04.326 DEBUG testcase.SH_Login                        - 4: maximizeWindow()
+2025-07-21 20:04:04.338 DEBUG testcase.SH_Login                        - 5: setText(findTestObject("Object Repository/Shared/SH_Login/Page_IBEX Payroll - Login/input_Username_Input.Username"), "uat.dstewart")
+2025-07-21 20:04:05.023 DEBUG testcase.SH_Login                        - 6: setEncryptedText(findTestObject("Shared/SH_Login/Page_IBEX Payroll - Login/input_Show Password_Input.Password"), "p4y+y39Ir5Oy1MY8jPt0uQ==")
+2025-07-21 20:04:05.360 DEBUG testcase.SH_Login                        - 7: click(findTestObject("Object Repository/Shared/SH_Login/Page_IBEX Payroll - Login/input_Remember me_Input.Button"))
+2025-07-21 20:04:05.679 INFO  c.k.katalon.core.main.TestCaseExecutor   - END CALL Test Cases/Shared/SH_Login
+2025-07-21 20:04:05.679 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 20:04:05.689 DEBUG testcase.TC01_SH_LoginAndNavigate        - 2: callTestCase(findTestCase("Shared/SH_Navigate(Switch Org)"), [:], STOP_ON_FAILURE)
+2025-07-21 20:04:05.758 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 20:04:05.758 INFO  c.k.katalon.core.main.TestCaseExecutor   - CALL Test Cases/Shared/SH_Navigate(Switch Org)
+2025-07-21 20:04:05.821 DEBUG testcase.SH_Login                        - 1: click(findTestObject("Object Repository/Shared/SH_Navigate(Switch Org)/Page_IBEX Payroll - Home/a_swap_horiz Switch SetupSimpleDialog(orgCo_55ee7d"))
+2025-07-21 20:04:13.013 DEBUG testcase.SH_Login                        - 2: delay(15)
+2025-07-21 20:04:28.037 INFO  c.k.katalon.core.main.TestCaseExecutor   - END CALL Test Cases/Shared/SH_Navigate(Switch Org)
+2025-07-21 20:04:28.037 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 20:04:28.038 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC01_SH_LoginAndNavigate
+2025-07-21 20:04:28.048 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 20:04:28.049 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC02_VerifyManageDepartmentFields
+2025-07-21 20:04:28.102 DEBUG t.TC02_VerifyManageDepartmentFields      - 1: click(findTestObject("Object Repository/Departments/TC02_VerifyManageDepartmentFields/Page_IBEX Payroll - Home/div_Darryl Stewart                         _d15389"))
+2025-07-21 20:04:28.382 DEBUG t.TC02_VerifyManageDepartmentFields      - 2: click(findTestObject("Object Repository/Departments/TC02_VerifyManageDepartmentFields/Page_IBEX Payroll - Home/a_business Organization Details"))
+2025-07-21 20:04:29.613 DEBUG t.TC02_VerifyManageDepartmentFields      - 3: click(findTestObject("Object Repository/Departments/TC02_VerifyManageDepartmentFields/Page_IBEX Payroll - Organization Detail/a_Payroll Departments"))
+2025-07-21 20:04:31.627 DEBUG t.TC02_VerifyManageDepartmentFields      - 4: click(findTestObject("Object Repository/Departments/TC02_VerifyManageDepartmentFields/Page_IBEX Payroll - Organization Payroll De_204c37/a_Manage Department Fields"))
+2025-07-21 20:04:35.471 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC02_VerifyManageDepartmentFields
+2025-07-21 20:04:35.476 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 20:04:35.477 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC03_VerifyCustomFieldOptions
+2025-07-21 20:04:35.555 DEBUG testcase.TC03_VerifyCustomFieldOptions   - 1: findWebElement(findTestObject("Object Repository/Departments/TC03_VerifyCustomFieldOotions/Page_IBEX Payroll - Manage Department Field/label_Custom Department Field 1"))
+2025-07-21 20:04:38.957 DEBUG testcase.TC03_VerifyCustomFieldOptions   - 2: findWebElement(findTestObject("Object Repository/Departments/TC03_VerifyCustomFieldOotions/Page_IBEX Payroll - Manage Department Field/label_Custom Department Field 2"))
+2025-07-21 20:04:42.272 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC03_VerifyCustomFieldOptions
+2025-07-21 20:04:42.276 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 20:04:42.276 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC08_Validation_Fields_ValidInput
+2025-07-21 20:04:42.327 DEBUG t.TC08_Validation_Fields_ValidInput      - 1: setText(findTestObject("Object Repository/Departments/TC08_Validation_Field1_ValidInput/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value"), G_Custom_Label01)
+2025-07-21 20:04:42.929 DEBUG t.TC08_Validation_Fields_ValidInput      - 2: setText(findTestObject("Object Repository/Departments/TC08_Validation_Field1_ValidInput/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 2_field02Value"), G_Custom_label02)
+2025-07-21 20:04:43.510 DEBUG t.TC08_Validation_Fields_ValidInput      - 3: click(findTestObject("Object Repository/Departments/TC08_Validation_Field1_ValidInput/Page_IBEX Payroll - Manage Department Field/button_Save"))
+2025-07-21 20:04:43.817 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC08_Validation_Fields_ValidInput
+2025-07-21 20:04:43.820 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 20:04:43.821 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC10_VerifyColumnsAfterField1Enabled
+2025-07-21 20:04:43.872 DEBUG t.TC10_VerifyColumnsAfterField1Enabled   - 1: setText(findTestObject("Object Repository/Departments/TC10_VerifyColumnsAfterField1Enabled/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value"), G_Custom_Label01)
+2025-07-21 20:04:44.952 DEBUG t.TC10_VerifyColumnsAfterField1Enabled   - 2: click(findTestObject("Object Repository/Departments/TC10_VerifyColumnsAfterField1Enabled/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field02Enabled"))
+2025-07-21 20:04:45.249 DEBUG t.TC10_VerifyColumnsAfterField1Enabled   - 3: click(findTestObject("Object Repository/Departments/TC10_VerifyColumnsAfterField1Enabled/Page_IBEX Payroll - Manage Department Field/button_Save"))
+2025-07-21 20:04:45.531 DEBUG t.TC10_VerifyColumnsAfterField1Enabled   - 4: click(findTestObject("Object Repository/Departments/TC10_VerifyColumnsAfterField1Enabled/Page_IBEX Payroll - Manage Department Field/a_Back to PAYROLL DEPARTMENTS"))
+2025-07-21 20:04:47.792 DEBUG t.TC10_VerifyColumnsAfterField1Enabled   - 5: verifyElementText(findTestObject("Object Repository/Departments/TC10_VerifyColumnsAfterField1Enabled/Page_IBEX Payroll - Organization Payroll De_204c37/custom header 1"), G_Custom_Label01)
+2025-07-21 20:04:48.612 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC10_VerifyColumnsAfterField1Enabled
+2025-07-21 20:04:48.615 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 20:04:48.616 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC10a_VerifyColumnsAfterBothFieldsEnabled
+2025-07-21 20:04:48.689 DEBUG C10a_VerifyColumnsAfterBothFieldsEnabled - 1: click(findTestObject("Object Repository/Departments/TC10a_VerifyColumnsAfterBothFieldsEnabled/Page_IBEX Payroll - Organization Payroll De_204c37/a_Manage Department Fields (1)"))
+2025-07-21 20:04:49.510 DEBUG C10a_VerifyColumnsAfterBothFieldsEnabled - 2: click(findTestObject("Object Repository/Departments/TC10a_VerifyColumnsAfterBothFieldsEnabled/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field02Enabled"))
+2025-07-21 20:04:52.236 DEBUG C10a_VerifyColumnsAfterBothFieldsEnabled - 3: click(findTestObject("Object Repository/Departments/TC10a_VerifyColumnsAfterBothFieldsEnabled/Page_IBEX Payroll - Manage Department Field/button_Save"))
+2025-07-21 20:04:52.541 DEBUG C10a_VerifyColumnsAfterBothFieldsEnabled - 4: click(findTestObject("Object Repository/Departments/TC10a_VerifyColumnsAfterBothFieldsEnabled/Page_IBEX Payroll - Manage Department Field/a_Back to PAYROLL DEPARTMENTS_1"))
+2025-07-21 20:04:54.837 DEBUG C10a_VerifyColumnsAfterBothFieldsEnabled - 5: callTestCase(findTestCase("Shared/SH_VerifyCustomField_Header_In_Table"), [:], STOP_ON_FAILURE)
+2025-07-21 20:04:54.910 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 20:04:54.910 INFO  c.k.katalon.core.main.TestCaseExecutor   - CALL Test Cases/Shared/SH_VerifyCustomField_Header_In_Table
+2025-07-21 20:04:54.972 DEBUG t.SH_VerifyCustomField_Header_In_Table   - 1: verifyElementText(findTestObject("Object Repository/Shared/SH_VerifyCustomField_Header_In_Table/Page_IBEX Payroll - Organization Payroll De_204c37/th_Valid Input Value 1"), G_Custom_Label01)
+2025-07-21 20:04:55.644 DEBUG t.SH_VerifyCustomField_Header_In_Table   - 2: verifyElementText(findTestObject("Object Repository/Shared/SH_VerifyCustomField_Header_In_Table/Page_IBEX Payroll - Organization Payroll De_204c37/th_Valid Text value 2"), G_Custom_label02)
+2025-07-21 20:04:55.911 INFO  c.k.katalon.core.main.TestCaseExecutor   - END CALL Test Cases/Shared/SH_VerifyCustomField_Header_In_Table
+2025-07-21 20:04:55.912 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 20:04:55.914 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC10a_VerifyColumnsAfterBothFieldsEnabled
+2025-07-21 20:04:55.918 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 20:04:55.918 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC11_VerifyFieldsInEditScreen
+2025-07-21 20:04:55.987 DEBUG testcase.TC11_VerifyFieldsInEditScreen   - 1: click(findTestObject("Object Repository/Departments/TC11_VerifyFieldsInEditScreen/Page_IBEX Payroll - Organization Payroll De_204c37/a_Edit"))
+2025-07-21 20:04:58.116 DEBUG testcase.TC11_VerifyFieldsInEditScreen   - 2: verifyElementText(findTestObject("Object Repository/Departments/TC11_VerifyFieldsInEditScreen/Page_IBEX Payroll - Department Details/label_Valid Input Value 1"), "Field Header 1:")
+2025-07-21 20:04:58.932 DEBUG testcase.TC11_VerifyFieldsInEditScreen   - 3: verifyElementText(findTestObject("Object Repository/Departments/TC11_VerifyFieldsInEditScreen/Page_IBEX Payroll - Department Details/label_valid Input value 2"), "Field Header 2:")
+2025-07-21 20:04:59.205 DEBUG testcase.TC11_VerifyFieldsInEditScreen   - 4: verifyElementClickable(findTestObject("Object Repository/Departments/TC11_VerifyFieldsInEditScreen/Page_IBEX Payroll - Department Details/input_Valid Input Value 1_department.Custom_fcb433"))
+2025-07-21 20:04:59.494 DEBUG testcase.TC11_VerifyFieldsInEditScreen   - 5: verifyElementClickable(findTestObject("Object Repository/Departments/TC11_VerifyFieldsInEditScreen/Page_IBEX Payroll - Department Details/input_valid Input value 2_department.Custom_848525"))
+2025-07-21 20:04:59.767 DEBUG testcase.TC11_VerifyFieldsInEditScreen   - 6: click(findTestObject("Object Repository/Departments/TC11_VerifyFieldsInEditScreen/Page_IBEX Payroll - Department Details/a_Return to Organization Payroll Departments"))
+2025-07-21 20:05:02.251 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC11_VerifyFieldsInEditScreen
+2025-07-21 20:05:02.276 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 20:05:02.277 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC11a_AddDepartment
+2025-07-21 20:05:02.353 DEBUG testcase.TC11a_AddDepartment             - 1: click(findTestObject("Object Repository/Departments/TC11a_AddDepartment/Page_IBEX Payroll - Organization Payroll De_204c37/a_Add a Department"))
+2025-07-21 20:05:04.001 DEBUG testcase.TC11a_AddDepartment             - 2: setText(findTestObject("Object Repository/Departments/TC11a_AddDepartment/Page_IBEX Payroll - Department Details/input_Code_department.Code"), G_Department_Code)
+2025-07-21 20:05:05.127 DEBUG testcase.TC11a_AddDepartment             - 3: setText(findTestObject("Object Repository/Departments/TC11a_AddDepartment/Page_IBEX Payroll - Department Details/input_Department Name_department.Name"), G_Department_Name)
+2025-07-21 20:05:05.740 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC11a_AddDepartment
+2025-07-21 20:05:05.744 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 20:05:05.744 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC12_AddCustomFieldValues
+2025-07-21 20:05:05.822 DEBUG testcase.TC12_AddCustomFieldValues       - 1: setText(findTestObject("Object Repository/Departments/TC12_AddCustomFieldValues/Page_IBEX Payroll - Department Details/input_Valid Input Value 1_department.Custom_fcb433"), G_Custom_Value_01)
+2025-07-21 20:05:06.412 DEBUG testcase.TC12_AddCustomFieldValues       - 2: setText(findTestObject("Object Repository/Departments/TC12_AddCustomFieldValues/Page_IBEX Payroll - Department Details/input_valid Input value 2_department.Custom_848525"), "")
+2025-07-21 20:05:06.968 DEBUG testcase.TC12_AddCustomFieldValues       - 3: click(findTestObject("Object Repository/Departments/TC12_AddCustomFieldValues/Page_IBEX Payroll - Department Details/div_Payroll DepartmentDetailsPayroll Instru_5b1d7f"))
+2025-07-21 20:05:07.263 DEBUG testcase.TC12_AddCustomFieldValues       - 4: click(findTestObject("Object Repository/Departments/TC12_AddCustomFieldValues/Page_IBEX Payroll - Department Details/input_British Columbia_submit-button"))
+2025-07-21 20:05:09.715 DEBUG testcase.TC12_AddCustomFieldValues       - 5: click(findTestObject("Object Repository/Departments/TC12_AddCustomFieldValues/Page_IBEX Payroll - Department Details/a_Return to Organization Payroll Departments"))
+2025-07-21 20:05:10.549 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC12_AddCustomFieldValues
+2025-07-21 20:05:10.551 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 20:05:10.551 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC13_VerifyTableFieldValues
+2025-07-21 20:05:10.591 DEBUG testcase.TC13_VerifyTableFieldValues     - 1: verifyElementText(findTestObject("Object Repository/Shared/SH_VerifyFieldSortingAndFiltering/Page_IBEX Payroll - Organization Payroll De_204c37/td_value _"), G_Custom_Value_01)
+2025-07-21 20:05:10.617 WARN  c.k.k.c.webui.common.WebUiCommonHelper   - [SELF-HEALING] Failed to find element with id 'Object Repository/Shared/SH_VerifyFieldSortingAndFiltering/Page_IBEX Payroll - Organization Payroll De_204c37/td_value _'. Try using Self-healing.
+2025-07-21 20:05:10.640 WARN  c.k.k.c.webui.common.WebUiCommonHelper   - [SELF-HEALING] unexpected alert open: {Alert text : You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.}
+  (Session info: chrome=138.0.7204.101): You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [269f272fd861c253f9977d66e7be4b38, findElements {using=xpath, value=//table[@id='departmentsGrid']/tbody/tr/td[6]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 137.0.7151.55 (254bc711794d..., userDataDir: C:\Users\AI-PC-~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63918}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63918/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:23213/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 269f272fd861c253f9977d66e7be4b38
+2025-07-21 20:05:11.648 WARN  c.k.k.c.webui.common.WebUiCommonHelper   - [SELF-HEALING] unexpected alert open: {Alert text : You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.}
+  (Session info: chrome=138.0.7204.101): You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [269f272fd861c253f9977d66e7be4b38, findElements {using=xpath, value=//*[(text() = '
+                       value _
+                    ' or . = '
+                       value _
+                    ')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 137.0.7151.55 (254bc711794d..., userDataDir: C:\Users\AI-PC-~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63918}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63918/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:23213/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 269f272fd861c253f9977d66e7be4b38
+2025-07-21 20:05:11.656 WARN  c.k.k.c.webui.common.WebUiCommonHelper   - [SELF-HEALING] unexpected alert open: {Alert text : You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.}
+  (Session info: chrome=138.0.7204.101): You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [269f272fd861c253f9977d66e7be4b38, findElements {using=css selector, value=td:nth-of-type(6)}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 137.0.7151.55 (254bc711794d..., userDataDir: C:\Users\AI-PC-~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63918}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63918/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:23213/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 269f272fd861c253f9977d66e7be4b38
+2025-07-21 20:05:11.662 WARN  c.k.k.c.w.h.s.WebUIScreenCaptor          - Cannot take screenshot
+2025-07-21 20:05:11.664 ERROR c.k.k.core.keyword.internal.KeywordMain  - ❌ Verify element text of test object 'Object Repository/Shared/SH_VerifyFieldSortingAndFiltering/Page_IBEX Payroll - Organization Payroll De_204c37/td_value _' FAILED. (Root cause: com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Shared/SH_VerifyFieldSortingAndFiltering/Page_IBEX Payroll - Organization Payroll De_204c37/td_value _' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:118)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:64)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4994)
+	at TC13_VerifyTableFieldValues.run(TC13_VerifyTableFieldValues:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:485)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:476)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:455)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:447)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:321)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:195)
+	at TempTestSuite1753108432410.run(TempTestSuite1753108432410.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.}
+  (Session info: chrome=138.0.7204.101): You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [269f272fd861c253f9977d66e7be4b38, findElements {using=xpath, value=//table[@id='departmentsGrid']/tbody/tr/td[6]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 137.0.7151.55 (254bc711794d..., userDataDir: C:\Users\AI-PC-~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63918}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63918/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:23213/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 269f272fd861c253f9977d66e7be4b38
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:136)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElements(ElementLocation.java:182)
+	at org.openqa.selenium.remote.ElementLocation.findElements(ElementLocation.java:103)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:381)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:375)
+	at jdk.internal.reflect.GeneratedMethodAccessor14.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.call(WebDriverDecorator.java:315)
+	at org.openqa.selenium.support.decorators.DefaultDecorated.call(DefaultDecorated.java:48)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.lambda$createProxyFactory$3(WebDriverDecorator.java:405)
+	at org.openqa.selenium.remote.RemoteWebDriver$ByteBuddy$mfjxB8la.findElements(Unknown Source)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementByNormalMethods(WebUiCommonHelper.java:1064)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:955)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:937)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:932)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsByDefault(WebUiCommonHelper.java:928)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsWithSelfHealing(WebUiCommonHelper.java:774)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:758)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1448)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:52)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:64)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4994)
+	at Script1753099438761.run(Script1753099438761.groovy:20)
+	... 15 more
+)
+2025-07-21 20:05:11.667 ERROR c.k.katalon.core.main.TestCaseExecutor   - ❌ Test Cases/Departments/TC13_VerifyTableFieldValues FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Shared/SH_VerifyFieldSortingAndFiltering/Page_IBEX Payroll - Organization Payroll De_204c37/td_value _' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:118)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:64)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4994)
+	at TC13_VerifyTableFieldValues.run(TC13_VerifyTableFieldValues:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:485)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:476)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:455)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:447)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:321)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:195)
+	at TempTestSuite1753108432410.run(TempTestSuite1753108432410.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.}
+  (Session info: chrome=138.0.7204.101): You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [269f272fd861c253f9977d66e7be4b38, findElements {using=xpath, value=//table[@id='departmentsGrid']/tbody/tr/td[6]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 137.0.7151.55 (254bc711794d..., userDataDir: C:\Users\AI-PC-~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63918}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63918/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:23213/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 269f272fd861c253f9977d66e7be4b38
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:136)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElements(ElementLocation.java:182)
+	at org.openqa.selenium.remote.ElementLocation.findElements(ElementLocation.java:103)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:381)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:375)
+	at jdk.internal.reflect.GeneratedMethodAccessor14.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.call(WebDriverDecorator.java:315)
+	at org.openqa.selenium.support.decorators.DefaultDecorated.call(DefaultDecorated.java:48)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.lambda$createProxyFactory$3(WebDriverDecorator.java:405)
+	at org.openqa.selenium.remote.RemoteWebDriver$ByteBuddy$mfjxB8la.findElements(Unknown Source)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementByNormalMethods(WebUiCommonHelper.java:1064)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:955)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:937)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:932)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsByDefault(WebUiCommonHelper.java:928)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsWithSelfHealing(WebUiCommonHelper.java:774)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:758)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1448)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:52)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 20 more
+
+2025-07-21 20:05:11.670 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC13_VerifyTableFieldValues
+2025-07-21 20:05:11.672 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 20:05:11.672 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC13_VerifyTableFieldValues
+2025-07-21 20:05:11.679 DEBUG testcase.TC13_VerifyTableFieldValues     - 1: verifyElementText(findTestObject("Object Repository/Shared/SH_VerifyFieldSortingAndFiltering/Page_IBEX Payroll - Organization Payroll De_204c37/td_value _"), G_Custom_Value_01)
+2025-07-21 20:05:11.686 WARN  c.k.k.c.webui.common.WebUiCommonHelper   - [SELF-HEALING] Failed to find element with id 'Object Repository/Shared/SH_VerifyFieldSortingAndFiltering/Page_IBEX Payroll - Organization Payroll De_204c37/td_value _'. Try using Self-healing.
+2025-07-21 20:05:11.691 WARN  c.k.k.c.webui.common.WebUiCommonHelper   - [SELF-HEALING] unexpected alert open: {Alert text : You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.}
+  (Session info: chrome=138.0.7204.101): You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [269f272fd861c253f9977d66e7be4b38, findElements {using=xpath, value=//table[@id='departmentsGrid']/tbody/tr/td[6]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 137.0.7151.55 (254bc711794d..., userDataDir: C:\Users\AI-PC-~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63918}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63918/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:23213/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 269f272fd861c253f9977d66e7be4b38
+2025-07-21 20:05:12.694 WARN  c.k.k.c.webui.common.WebUiCommonHelper   - [SELF-HEALING] unexpected alert open: {Alert text : You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.}
+  (Session info: chrome=138.0.7204.101): You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [269f272fd861c253f9977d66e7be4b38, findElements {using=xpath, value=//*[(text() = '
+                       value _
+                    ' or . = '
+                       value _
+                    ')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 137.0.7151.55 (254bc711794d..., userDataDir: C:\Users\AI-PC-~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63918}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63918/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:23213/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 269f272fd861c253f9977d66e7be4b38
+2025-07-21 20:05:12.697 WARN  c.k.k.c.webui.common.WebUiCommonHelper   - [SELF-HEALING] unexpected alert open: {Alert text : You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.}
+  (Session info: chrome=138.0.7204.101): You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [269f272fd861c253f9977d66e7be4b38, findElements {using=css selector, value=td:nth-of-type(6)}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 137.0.7151.55 (254bc711794d..., userDataDir: C:\Users\AI-PC-~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63918}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63918/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:23213/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 269f272fd861c253f9977d66e7be4b38
+2025-07-21 20:05:12.700 WARN  c.k.k.c.w.h.s.WebUIScreenCaptor          - Cannot take screenshot
+2025-07-21 20:05:12.701 ERROR c.k.k.core.keyword.internal.KeywordMain  - ❌ Verify element text of test object 'Object Repository/Shared/SH_VerifyFieldSortingAndFiltering/Page_IBEX Payroll - Organization Payroll De_204c37/td_value _' FAILED. (Root cause: com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Shared/SH_VerifyFieldSortingAndFiltering/Page_IBEX Payroll - Organization Payroll De_204c37/td_value _' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:118)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:64)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4994)
+	at TC13_VerifyTableFieldValues.run(TC13_VerifyTableFieldValues:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:485)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:476)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:455)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:447)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:321)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:405)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:195)
+	at TempTestSuite1753108432410.run(TempTestSuite1753108432410.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.}
+  (Session info: chrome=138.0.7204.101): You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [269f272fd861c253f9977d66e7be4b38, findElements {using=xpath, value=//table[@id='departmentsGrid']/tbody/tr/td[6]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 137.0.7151.55 (254bc711794d..., userDataDir: C:\Users\AI-PC-~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63918}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63918/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:23213/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 269f272fd861c253f9977d66e7be4b38
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:136)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElements(ElementLocation.java:182)
+	at org.openqa.selenium.remote.ElementLocation.findElements(ElementLocation.java:103)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:381)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:375)
+	at jdk.internal.reflect.GeneratedMethodAccessor14.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.call(WebDriverDecorator.java:315)
+	at org.openqa.selenium.support.decorators.DefaultDecorated.call(DefaultDecorated.java:48)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.lambda$createProxyFactory$3(WebDriverDecorator.java:405)
+	at org.openqa.selenium.remote.RemoteWebDriver$ByteBuddy$mfjxB8la.findElements(Unknown Source)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementByNormalMethods(WebUiCommonHelper.java:1064)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:955)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:937)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:932)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsByDefault(WebUiCommonHelper.java:928)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsWithSelfHealing(WebUiCommonHelper.java:774)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:758)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1448)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:52)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:64)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4994)
+	at Script1753099438761.run(Script1753099438761.groovy:20)
+	... 16 more
+)
+2025-07-21 20:05:12.703 ERROR c.k.katalon.core.main.TestCaseExecutor   - ❌ Test Cases/Departments/TC13_VerifyTableFieldValues FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Shared/SH_VerifyFieldSortingAndFiltering/Page_IBEX Payroll - Organization Payroll De_204c37/td_value _' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:118)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:64)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4994)
+	at TC13_VerifyTableFieldValues.run(TC13_VerifyTableFieldValues:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:485)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:476)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:455)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:447)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:321)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:405)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:195)
+	at TempTestSuite1753108432410.run(TempTestSuite1753108432410.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.}
+  (Session info: chrome=138.0.7204.101): You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [269f272fd861c253f9977d66e7be4b38, findElements {using=xpath, value=//table[@id='departmentsGrid']/tbody/tr/td[6]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 137.0.7151.55 (254bc711794d..., userDataDir: C:\Users\AI-PC-~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63918}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63918/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:23213/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 269f272fd861c253f9977d66e7be4b38
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:136)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElements(ElementLocation.java:182)
+	at org.openqa.selenium.remote.ElementLocation.findElements(ElementLocation.java:103)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:381)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:375)
+	at jdk.internal.reflect.GeneratedMethodAccessor14.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.call(WebDriverDecorator.java:315)
+	at org.openqa.selenium.support.decorators.DefaultDecorated.call(DefaultDecorated.java:48)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.lambda$createProxyFactory$3(WebDriverDecorator.java:405)
+	at org.openqa.selenium.remote.RemoteWebDriver$ByteBuddy$mfjxB8la.findElements(Unknown Source)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementByNormalMethods(WebUiCommonHelper.java:1064)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:955)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:937)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:932)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsByDefault(WebUiCommonHelper.java:928)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsWithSelfHealing(WebUiCommonHelper.java:774)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:758)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1448)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:52)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 21 more
+
+2025-07-21 20:05:12.704 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC13_VerifyTableFieldValues
+2025-07-21 20:05:12.706 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 20:05:12.706 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC13_VerifyTableFieldValues
+2025-07-21 20:05:12.711 DEBUG testcase.TC13_VerifyTableFieldValues     - 1: verifyElementText(findTestObject("Object Repository/Shared/SH_VerifyFieldSortingAndFiltering/Page_IBEX Payroll - Organization Payroll De_204c37/td_value _"), G_Custom_Value_01)
+2025-07-21 20:05:12.717 WARN  c.k.k.c.webui.common.WebUiCommonHelper   - [SELF-HEALING] Failed to find element with id 'Object Repository/Shared/SH_VerifyFieldSortingAndFiltering/Page_IBEX Payroll - Organization Payroll De_204c37/td_value _'. Try using Self-healing.
+2025-07-21 20:05:12.721 WARN  c.k.k.c.webui.common.WebUiCommonHelper   - [SELF-HEALING] unexpected alert open: {Alert text : You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.}
+  (Session info: chrome=138.0.7204.101): You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [269f272fd861c253f9977d66e7be4b38, findElements {using=xpath, value=//table[@id='departmentsGrid']/tbody/tr/td[6]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 137.0.7151.55 (254bc711794d..., userDataDir: C:\Users\AI-PC-~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63918}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63918/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:23213/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 269f272fd861c253f9977d66e7be4b38
+2025-07-21 20:05:13.722 WARN  c.k.k.c.webui.common.WebUiCommonHelper   - [SELF-HEALING] unexpected alert open: {Alert text : You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.}
+  (Session info: chrome=138.0.7204.101): You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [269f272fd861c253f9977d66e7be4b38, findElements {using=xpath, value=//*[(text() = '
+                       value _
+                    ' or . = '
+                       value _
+                    ')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 137.0.7151.55 (254bc711794d..., userDataDir: C:\Users\AI-PC-~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63918}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63918/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:23213/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 269f272fd861c253f9977d66e7be4b38
+2025-07-21 20:05:13.725 WARN  c.k.k.c.webui.common.WebUiCommonHelper   - [SELF-HEALING] unexpected alert open: {Alert text : You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.}
+  (Session info: chrome=138.0.7204.101): You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [269f272fd861c253f9977d66e7be4b38, findElements {using=css selector, value=td:nth-of-type(6)}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 137.0.7151.55 (254bc711794d..., userDataDir: C:\Users\AI-PC-~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63918}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63918/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:23213/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 269f272fd861c253f9977d66e7be4b38
+2025-07-21 20:05:13.728 WARN  c.k.k.c.w.h.s.WebUIScreenCaptor          - Cannot take screenshot
+2025-07-21 20:05:13.729 ERROR c.k.k.core.keyword.internal.KeywordMain  - ❌ Verify element text of test object 'Object Repository/Shared/SH_VerifyFieldSortingAndFiltering/Page_IBEX Payroll - Organization Payroll De_204c37/td_value _' FAILED. (Root cause: com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Shared/SH_VerifyFieldSortingAndFiltering/Page_IBEX Payroll - Organization Payroll De_204c37/td_value _' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:118)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:64)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4994)
+	at TC13_VerifyTableFieldValues.run(TC13_VerifyTableFieldValues:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:485)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:476)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:455)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:447)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:321)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:405)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:405)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:195)
+	at TempTestSuite1753108432410.run(TempTestSuite1753108432410.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.}
+  (Session info: chrome=138.0.7204.101): You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [269f272fd861c253f9977d66e7be4b38, findElements {using=xpath, value=//table[@id='departmentsGrid']/tbody/tr/td[6]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 137.0.7151.55 (254bc711794d..., userDataDir: C:\Users\AI-PC-~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63918}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63918/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:23213/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 269f272fd861c253f9977d66e7be4b38
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:136)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElements(ElementLocation.java:182)
+	at org.openqa.selenium.remote.ElementLocation.findElements(ElementLocation.java:103)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:381)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:375)
+	at jdk.internal.reflect.GeneratedMethodAccessor14.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.call(WebDriverDecorator.java:315)
+	at org.openqa.selenium.support.decorators.DefaultDecorated.call(DefaultDecorated.java:48)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.lambda$createProxyFactory$3(WebDriverDecorator.java:405)
+	at org.openqa.selenium.remote.RemoteWebDriver$ByteBuddy$mfjxB8la.findElements(Unknown Source)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementByNormalMethods(WebUiCommonHelper.java:1064)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:955)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:937)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:932)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsByDefault(WebUiCommonHelper.java:928)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsWithSelfHealing(WebUiCommonHelper.java:774)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:758)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1448)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:52)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:64)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4994)
+	at Script1753099438761.run(Script1753099438761.groovy:20)
+	... 17 more
+)
+2025-07-21 20:05:13.730 ERROR c.k.katalon.core.main.TestCaseExecutor   - ❌ Test Cases/Departments/TC13_VerifyTableFieldValues FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Shared/SH_VerifyFieldSortingAndFiltering/Page_IBEX Payroll - Organization Payroll De_204c37/td_value _' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:118)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:64)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4994)
+	at TC13_VerifyTableFieldValues.run(TC13_VerifyTableFieldValues:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:485)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:476)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:455)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:447)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:321)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:405)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:405)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:195)
+	at TempTestSuite1753108432410.run(TempTestSuite1753108432410.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.}
+  (Session info: chrome=138.0.7204.101): You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [269f272fd861c253f9977d66e7be4b38, findElements {using=xpath, value=//table[@id='departmentsGrid']/tbody/tr/td[6]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 137.0.7151.55 (254bc711794d..., userDataDir: C:\Users\AI-PC-~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63918}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63918/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:23213/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 269f272fd861c253f9977d66e7be4b38
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:136)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElements(ElementLocation.java:182)
+	at org.openqa.selenium.remote.ElementLocation.findElements(ElementLocation.java:103)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:381)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:375)
+	at jdk.internal.reflect.GeneratedMethodAccessor14.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.call(WebDriverDecorator.java:315)
+	at org.openqa.selenium.support.decorators.DefaultDecorated.call(DefaultDecorated.java:48)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.lambda$createProxyFactory$3(WebDriverDecorator.java:405)
+	at org.openqa.selenium.remote.RemoteWebDriver$ByteBuddy$mfjxB8la.findElements(Unknown Source)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementByNormalMethods(WebUiCommonHelper.java:1064)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:955)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:937)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:932)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsByDefault(WebUiCommonHelper.java:928)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsWithSelfHealing(WebUiCommonHelper.java:774)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:758)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1448)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:52)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 22 more
+
+2025-07-21 20:05:13.732 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC13_VerifyTableFieldValues
+2025-07-21 20:05:13.734 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 20:05:13.734 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC13_VerifyTableFieldValues
+2025-07-21 20:05:13.739 DEBUG testcase.TC13_VerifyTableFieldValues     - 1: verifyElementText(findTestObject("Object Repository/Shared/SH_VerifyFieldSortingAndFiltering/Page_IBEX Payroll - Organization Payroll De_204c37/td_value _"), G_Custom_Value_01)
+2025-07-21 20:05:13.743 WARN  c.k.k.c.webui.common.WebUiCommonHelper   - [SELF-HEALING] Failed to find element with id 'Object Repository/Shared/SH_VerifyFieldSortingAndFiltering/Page_IBEX Payroll - Organization Payroll De_204c37/td_value _'. Try using Self-healing.
+2025-07-21 20:05:13.746 WARN  c.k.k.c.webui.common.WebUiCommonHelper   - [SELF-HEALING] unexpected alert open: {Alert text : You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.}
+  (Session info: chrome=138.0.7204.101): You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [269f272fd861c253f9977d66e7be4b38, findElements {using=xpath, value=//table[@id='departmentsGrid']/tbody/tr/td[6]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 137.0.7151.55 (254bc711794d..., userDataDir: C:\Users\AI-PC-~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63918}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63918/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:23213/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 269f272fd861c253f9977d66e7be4b38
+2025-07-21 20:05:14.754 WARN  c.k.k.c.webui.common.WebUiCommonHelper   - [SELF-HEALING] unexpected alert open: {Alert text : You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.}
+  (Session info: chrome=138.0.7204.101): You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [269f272fd861c253f9977d66e7be4b38, findElements {using=xpath, value=//*[(text() = '
+                       value _
+                    ' or . = '
+                       value _
+                    ')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 137.0.7151.55 (254bc711794d..., userDataDir: C:\Users\AI-PC-~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63918}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63918/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:23213/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 269f272fd861c253f9977d66e7be4b38
+2025-07-21 20:05:14.760 WARN  c.k.k.c.webui.common.WebUiCommonHelper   - [SELF-HEALING] unexpected alert open: {Alert text : You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.}
+  (Session info: chrome=138.0.7204.101): You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [269f272fd861c253f9977d66e7be4b38, findElements {using=css selector, value=td:nth-of-type(6)}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 137.0.7151.55 (254bc711794d..., userDataDir: C:\Users\AI-PC-~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63918}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63918/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:23213/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 269f272fd861c253f9977d66e7be4b38
+2025-07-21 20:05:14.763 WARN  c.k.k.c.w.h.s.WebUIScreenCaptor          - Cannot take screenshot
+2025-07-21 20:05:14.765 ERROR c.k.k.core.keyword.internal.KeywordMain  - ❌ Verify element text of test object 'Object Repository/Shared/SH_VerifyFieldSortingAndFiltering/Page_IBEX Payroll - Organization Payroll De_204c37/td_value _' FAILED. (Root cause: com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Shared/SH_VerifyFieldSortingAndFiltering/Page_IBEX Payroll - Organization Payroll De_204c37/td_value _' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:118)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:64)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4994)
+	at TC13_VerifyTableFieldValues.run(TC13_VerifyTableFieldValues:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:485)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:476)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:455)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:447)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:321)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:405)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:405)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:405)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:195)
+	at TempTestSuite1753108432410.run(TempTestSuite1753108432410.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.}
+  (Session info: chrome=138.0.7204.101): You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [269f272fd861c253f9977d66e7be4b38, findElements {using=xpath, value=//table[@id='departmentsGrid']/tbody/tr/td[6]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 137.0.7151.55 (254bc711794d..., userDataDir: C:\Users\AI-PC-~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63918}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63918/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:23213/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 269f272fd861c253f9977d66e7be4b38
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:136)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElements(ElementLocation.java:182)
+	at org.openqa.selenium.remote.ElementLocation.findElements(ElementLocation.java:103)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:381)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:375)
+	at jdk.internal.reflect.GeneratedMethodAccessor14.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.call(WebDriverDecorator.java:315)
+	at org.openqa.selenium.support.decorators.DefaultDecorated.call(DefaultDecorated.java:48)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.lambda$createProxyFactory$3(WebDriverDecorator.java:405)
+	at org.openqa.selenium.remote.RemoteWebDriver$ByteBuddy$mfjxB8la.findElements(Unknown Source)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementByNormalMethods(WebUiCommonHelper.java:1064)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:955)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:937)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:932)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsByDefault(WebUiCommonHelper.java:928)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsWithSelfHealing(WebUiCommonHelper.java:774)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:758)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1448)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:52)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:64)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4994)
+	at Script1753099438761.run(Script1753099438761.groovy:20)
+	... 18 more
+)
+2025-07-21 20:05:14.768 ERROR c.k.katalon.core.main.TestCaseExecutor   - ❌ Test Cases/Departments/TC13_VerifyTableFieldValues FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Shared/SH_VerifyFieldSortingAndFiltering/Page_IBEX Payroll - Organization Payroll De_204c37/td_value _' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:118)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:64)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4994)
+	at TC13_VerifyTableFieldValues.run(TC13_VerifyTableFieldValues:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:485)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:476)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:455)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:447)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:321)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:405)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:405)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:405)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:195)
+	at TempTestSuite1753108432410.run(TempTestSuite1753108432410.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.}
+  (Session info: chrome=138.0.7204.101): You have unsaved changes.  Click Ok to discard your changes and continue.  Otherwise, click cancel.
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [269f272fd861c253f9977d66e7be4b38, findElements {using=xpath, value=//table[@id='departmentsGrid']/tbody/tr/td[6]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.101, chrome: {chromedriverVersion: 137.0.7151.55 (254bc711794d..., userDataDir: C:\Users\AI-PC-~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63918}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63918/devtoo..., se:cdpVersion: 138.0.7204.101, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:23213/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 269f272fd861c253f9977d66e7be4b38
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:136)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElements(ElementLocation.java:182)
+	at org.openqa.selenium.remote.ElementLocation.findElements(ElementLocation.java:103)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:381)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:375)
+	at jdk.internal.reflect.GeneratedMethodAccessor14.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.call(WebDriverDecorator.java:315)
+	at org.openqa.selenium.support.decorators.DefaultDecorated.call(DefaultDecorated.java:48)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.lambda$createProxyFactory$3(WebDriverDecorator.java:405)
+	at org.openqa.selenium.remote.RemoteWebDriver$ByteBuddy$mfjxB8la.findElements(Unknown Source)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementByNormalMethods(WebUiCommonHelper.java:1064)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:955)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:937)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:932)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsByDefault(WebUiCommonHelper.java:928)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsWithSelfHealing(WebUiCommonHelper.java:774)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:758)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1448)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:52)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 23 more
+
+2025-07-21 20:05:14.769 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC13_VerifyTableFieldValues
+2025-07-21 20:05:15.075 INFO  c.k.katalon.core.main.TestSuiteExecutor  - --------------------
+2025-07-21 20:05:15.075 INFO  c.k.katalon.core.main.TestSuiteExecutor  - END Test Suites/Departments/TS_Departments_CustomFieldSettings
+2025-07-21 20:05:15.075 INFO  c.k.katalon.core.main.TestSuiteExecutor  - ====================

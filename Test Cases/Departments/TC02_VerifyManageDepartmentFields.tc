@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check button existence &amp; navigation</description>
+   <name>TC02_VerifyManageDepartmentFields</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a7630151-cec9-4c99-b5b8-82e674234954</testCaseGuid>
+</TestCaseEntity>

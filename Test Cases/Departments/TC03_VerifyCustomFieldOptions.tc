@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check UI shows two custom field options</description>
+   <name>TC03_VerifyCustomFieldOptions</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>66404ca2-2e91-4a1a-994c-d11490a481fc</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS_Departments_CustomFieldSettings" time="73.343" tests="7" failures="0" errors="0">
+   <testsuite name="TS_Departments_CustomFieldSettings" tests="7" failures="0" errors="0" time="73.343" skipped="0" timestamp="2025-07-18T18:48:19.344Z" hostname="AI-PC-001 - AI-PC-001.lan" id="Test Suites/Departments/TS_Departments_CustomFieldSettings">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Katalon_Testing\\Testing\\Reports\\20250719_001815\\Departments\\TS_Departments_CustomFieldSettings\\20250719_001816"/>
+         <property name="logFiles" value="C:\\Katalon_Testing\\Testing\\Reports\\20250719_001815\\Departments\\TS_Departments_CustomFieldSettings\\20250719_001816\\console0.log, C:\\Katalon_Testing\\Testing\\Reports\\20250719_001815\\Departments\\TS_Departments_CustomFieldSettings\\20250719_001816\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="AI-PC-001 - AI-PC-001.lan"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="10.2.3.0"/>
+         <property name="browser" value="Chrome 138.0.7204.101"/>
+         <property name="userFullName" value="Ayushi Kalia"/>
+         <property name="hostAddress" value="192.168.31.113"/>
+         <property name="sessionId" value="309efe5cbf424624c44d6788e3e742ea"/>
+         <property name="projectName" value="Testing"/>
+         <property name="seleniumVersion" value="4.28.1"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Departments/TC01_SH_LoginAndNavigate" time="45.718" classname="Test Cases/Departments/TC01_SH_LoginAndNavigate" status="PASSED">
+         <system-out><![CDATA[19-07-2025T00:18:19 - [TEST_CASE][PASSED] - Test Cases/Departments/TC01_SH_LoginAndNavigate: Test Cases/Departments/TC01_SH_LoginAndNavigate
+
+19-07-2025T00:18:20 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Shared/Login"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Shared/Login' successfully
+
+19-07-2025T00:18:20 - [TEST_CASE][PASSED] - Test Cases/Shared/Login: Test Cases/Shared/Login
+
+19-07-2025T00:18:20 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+19-07-2025T00:18:20 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+19-07-2025T00:18:20 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+19-07-2025T00:18:22 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+19-07-2025T00:18:22 - [TEST_STEP][PASSED] - navigateToUrl(G_SiteURL): Navigate to 'https://sit.ibexpayroll.com:8443/edge8/identityserver/Account/Login' successfully
+
+19-07-2025T00:18:27 - [MESSAGE][PASSED] - Navigate to 'https://sit.ibexpayroll.com:8443/edge8/identityserver/Account/Login' successfully
+
+19-07-2025T00:18:27 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+19-07-2025T00:18:27 - [MESSAGE][PASSED] - Current window maximized
+
+19-07-2025T00:18:27 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Shared/Page_IBEX Payroll - Login/Page_IBEX Payroll - Login/input_Username_Input.Username"), "uat.dstewart"): Text 'uat.dstewart' is set on object 'Object Repository/Shared/Page_IBEX Payroll - Login/Page_IBEX Payroll - Login/input_Username_Input.Username'
+
+19-07-2025T00:18:28 - [MESSAGE][PASSED] - Text 'uat.dstewart' is set on object 'Object Repository/Shared/Page_IBEX Payroll - Login/Page_IBEX Payroll - Login/input_Username_Input.Username'
+
+19-07-2025T00:18:28 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Shared/Page_IBEX Payroll - Login/Page_IBEX Payroll - Login/input_Show Password_Input.Password"), "p4y+y39Ir5Oy1MY8jPt0uQ=="): Text ****** has been set on object 'Object Repository/Shared/Page_IBEX Payroll - Login/Page_IBEX Payroll - Login/input_Show Password_Input.Password'
+
+19-07-2025T00:18:28 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Shared/Page_IBEX Payroll - Login/Page_IBEX Payroll - Login/input_Show Password_Input.Password'
+
+19-07-2025T00:18:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Shared/Page_IBEX Payroll - Login/Page_IBEX Payroll - Login/input_Remember me_Input.Button")): Object: 'Object Repository/Shared/Page_IBEX Payroll - Login/Page_IBEX Payroll - Login/input_Remember me_Input.Button' is clicked on
+
+19-07-2025T00:18:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Shared/Page_IBEX Payroll - Login/Page_IBEX Payroll - Login/input_Remember me_Input.Button' is clicked on
+
+19-07-2025T00:18:35 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Shared/Login' successfully
+
+19-07-2025T00:18:35 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Shared/Navigate(Switch Org)"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Shared/Navigate(Switch Org)' successfully
+
+19-07-2025T00:18:35 - [TEST_CASE][PASSED] - Test Cases/Shared/Navigate(Switch Org): Test Cases/Shared/Navigate(Switch Org)
+
+19-07-2025T00:18:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Shared/Switch_Org/Page_IBEX Payroll - Home/a_swap_horiz Switch SetupSimpleDialog(orgCo_55ee7d")): Object: 'Object Repository/Shared/Switch_Org/Page_IBEX Payroll - Home/a_swap_horiz Switch SetupSimpleDialog(orgCo_55ee7d' is clicked on
+
+19-07-2025T00:18:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Shared/Switch_Org/Page_IBEX Payroll - Home/a_swap_horiz Switch SetupSimpleDialog(orgCo_55ee7d' is clicked on
+
+19-07-2025T00:18:35 - [TEST_STEP][PASSED] - delay(30): Delayed 30 second(s)
+
+19-07-2025T00:19:05 - [MESSAGE][PASSED] - Delayed 30 second(s)
+
+19-07-2025T00:19:05 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Shared/Navigate(Switch Org)' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Departments/TC02_VerifyManageDepartmentFields" time="7.564" classname="Test Cases/Departments/TC02_VerifyManageDepartmentFields" status="PASSED">
+         <system-out><![CDATA[19-07-2025T00:19:05 - [TEST_CASE][PASSED] - Test Cases/Departments/TC02_VerifyManageDepartmentFields: Test Cases/Departments/TC02_VerifyManageDepartmentFields
+
+19-07-2025T00:19:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Departments/TC02_VerifyManageDepartmentFields/Page_IBEX Payroll - Home/div_Darryl Stewart                         _d15389")): Object: 'Object Repository/Departments/TC02_VerifyManageDepartmentFields/Page_IBEX Payroll - Home/div_Darryl Stewart                         _d15389' is clicked on
+
+19-07-2025T00:19:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Departments/TC02_VerifyManageDepartmentFields/Page_IBEX Payroll - Home/div_Darryl Stewart                         _d15389' is clicked on
+
+19-07-2025T00:19:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Departments/TC02_VerifyManageDepartmentFields/Page_IBEX Payroll - Home/a_business Organization Details")): Object: 'Object Repository/Departments/TC02_VerifyManageDepartmentFields/Page_IBEX Payroll - Home/a_business Organization Details' is clicked on
+
+19-07-2025T00:19:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Departments/TC02_VerifyManageDepartmentFields/Page_IBEX Payroll - Home/a_business Organization Details' is clicked on
+
+19-07-2025T00:19:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Departments/TC02_VerifyManageDepartmentFields/Page_IBEX Payroll - Organization Detail/a_Payroll Departments")): Object: 'Object Repository/Departments/TC02_VerifyManageDepartmentFields/Page_IBEX Payroll - Organization Detail/a_Payroll Departments' is clicked on
+
+19-07-2025T00:19:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Departments/TC02_VerifyManageDepartmentFields/Page_IBEX Payroll - Organization Detail/a_Payroll Departments' is clicked on
+
+19-07-2025T00:19:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Departments/TC02_VerifyManageDepartmentFields/Page_IBEX Payroll - Organization Payroll De_204c37/a_Manage Department Fields")): Object: 'Object Repository/Departments/TC02_VerifyManageDepartmentFields/Page_IBEX Payroll - Organization Payroll De_204c37/a_Manage Department Fields' is clicked on
+
+19-07-2025T00:19:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Departments/TC02_VerifyManageDepartmentFields/Page_IBEX Payroll - Organization Payroll De_204c37/a_Manage Department Fields' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Departments/TC03_VerifyCustomFieldOptions" time="10.091" classname="Test Cases/Departments/TC03_VerifyCustomFieldOptions" status="PASSED">
+         <system-out><![CDATA[19-07-2025T00:19:13 - [TEST_CASE][PASSED] - Test Cases/Departments/TC03_VerifyCustomFieldOptions: Test Cases/Departments/TC03_VerifyCustomFieldOptions
+
+19-07-2025T00:19:13 - [TEST_STEP][PASSED] - findWebElement(findTestObject("Object Repository/Departments/TC03_VerifyCustomFieldOotions/Page_IBEX Payroll - Manage Department Field/label_Custom Department Field 1")): Found web element by test object Object Repository/Departments/TC03_VerifyCustomFieldOotions/Page_IBEX Payroll - Manage Department Field/label_Custom Department Field 1
+
+19-07-2025T00:19:16 - [MESSAGE][PASSED] - Found web element by test object Object Repository/Departments/TC03_VerifyCustomFieldOotions/Page_IBEX Payroll - Manage Department Field/label_Custom Department Field 1
+
+19-07-2025T00:19:16 - [TEST_STEP][PASSED] - findWebElement(findTestObject("Object Repository/Departments/TC03_VerifyCustomFieldOotions/Page_IBEX Payroll - Manage Department Field/label_Custom Department Field 2")): Found web element by test object Object Repository/Departments/TC03_VerifyCustomFieldOotions/Page_IBEX Payroll - Manage Department Field/label_Custom Department Field 2
+
+19-07-2025T00:19:23 - [MESSAGE][PASSED] - Found web element by test object Object Repository/Departments/TC03_VerifyCustomFieldOotions/Page_IBEX Payroll - Manage Department Field/label_Custom Department Field 2]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Departments/TC04_CheckboxBehavior" time="1.455" classname="Test Cases/Departments/TC04_CheckboxBehavior" status="PASSED">
+         <system-out><![CDATA[19-07-2025T00:19:23 - [TEST_CASE][PASSED] - Test Cases/Departments/TC04_CheckboxBehavior: Test Cases/Departments/TC04_CheckboxBehavior
+
+19-07-2025T00:19:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field Settings_fiel_da0194")): Object: 'Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field Settings_fiel_da0194' is clicked on
+
+19-07-2025T00:19:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field Settings_fiel_da0194' is clicked on
+
+19-07-2025T00:19:23 - [TEST_STEP][PASSED] - verifyElementChecked(findTestObject("Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field Settings_fiel_da0194"), 0): Object 'Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field Settings_fiel_da0194' is checked
+
+19-07-2025T00:19:23 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+19-07-2025T00:19:23 - [MESSAGE][PASSED] - Object 'Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field Settings_fiel_da0194' is checked
+
+19-07-2025T00:19:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field02Enabled")): Object: 'Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field02Enabled' is clicked on
+
+19-07-2025T00:19:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field02Enabled' is clicked on
+
+19-07-2025T00:19:24 - [TEST_STEP][PASSED] - verifyElementChecked(findTestObject("Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field02Enabled"), 0): Object 'Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field02Enabled' is checked
+
+19-07-2025T00:19:24 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+19-07-2025T00:19:24 - [MESSAGE][PASSED] - Object 'Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field02Enabled' is checked
+
+19-07-2025T00:19:24 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value")): Object 'Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value' is clickable
+
+19-07-2025T00:19:24 - [MESSAGE][PASSED] - Object 'Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value' is clickable]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Departments/TC05_Validation_Fields_Empty" time="2.241" classname="Test Cases/Departments/TC05_Validation_Fields_Empty" status="PASSED">
+         <system-out><![CDATA[19-07-2025T00:19:24 - [TEST_CASE][PASSED] - Test Cases/Departments/TC05_Validation_Fields_Empty: Test Cases/Departments/TC05_Validation_Fields_Empty
+
+19-07-2025T00:19:24 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Departments/TC06_Validation_Fields_ExceedsLimit/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value"), ""): Text '' is set on object 'Object Repository/Departments/TC06_Validation_Fields_ExceedsLimit/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value'
+
+19-07-2025T00:19:25 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Departments/TC06_Validation_Fields_ExceedsLimit/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value'
+
+19-07-2025T00:19:25 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Departments/TC06_Validation_Fields_ExceedsLimit/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 2_field02Value"), ""): Text '' is set on object 'Object Repository/Departments/TC06_Validation_Fields_ExceedsLimit/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 2_field02Value'
+
+19-07-2025T00:19:25 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Departments/TC06_Validation_Fields_ExceedsLimit/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 2_field02Value'
+
+19-07-2025T00:19:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Departments/TC06_Validation_Fields_ExceedsLimit/Page_IBEX Payroll - Manage Department Field/button_Save")): Object: 'Object Repository/Departments/TC06_Validation_Fields_ExceedsLimit/Page_IBEX Payroll - Manage Department Field/button_Save' is clicked on
+
+19-07-2025T00:19:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Departments/TC06_Validation_Fields_ExceedsLimit/Page_IBEX Payroll - Manage Department Field/button_Save' is clicked on
+
+19-07-2025T00:19:26 - [TEST_STEP][PASSED] - verifyTextPresent(G_validation_Field1_Empty, false): Text 'Custom Department Field #1 is required when enabled.' is present on page 
+
+19-07-2025T00:19:26 - [MESSAGE][PASSED] - Text 'Custom Department Field #1 is required when enabled.' is present on page 
+
+19-07-2025T00:19:26 - [TEST_STEP][PASSED] - verifyTextPresent(G_validation_Field2_Empty, false): Text 'Custom Department Field #2 is required when enabled.' is present on page 
+
+19-07-2025T00:19:26 - [MESSAGE][PASSED] - Text 'Custom Department Field #2 is required when enabled.' is present on page]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Departments/TC06_Validation_Fields_ExceedsLimit" time="2.51" classname="Test Cases/Departments/TC06_Validation_Fields_ExceedsLimit" status="PASSED">
+         <system-out><![CDATA[19-07-2025T00:19:26 - [TEST_CASE][PASSED] - Test Cases/Departments/TC06_Validation_Fields_ExceedsLimit: Test Cases/Departments/TC06_Validation_Fields_ExceedsLimit
+
+19-07-2025T00:19:27 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Departments/TC05_Validation_Fields_Empty/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value"), G_LongTextInput): Text 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+' is set on object 'Object Repository/Departments/TC05_Validation_Fields_Empty/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value'
+
+19-07-2025T00:19:27 - [MESSAGE][PASSED] - Text 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+' is set on object 'Object Repository/Departments/TC05_Validation_Fields_Empty/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value'
+
+19-07-2025T00:19:27 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Departments/TC05_Validation_Fields_Empty/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 2_field02Value"), G_LongTextInput): Text 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+' is set on object 'Object Repository/Departments/TC05_Validation_Fields_Empty/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 2_field02Value'
+
+19-07-2025T00:19:28 - [MESSAGE][PASSED] - Text 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+' is set on object 'Object Repository/Departments/TC05_Validation_Fields_Empty/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 2_field02Value'
+
+19-07-2025T00:19:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Departments/TC05_Validation_Fields_Empty/Page_IBEX Payroll - Manage Department Field/button_Save")): Object: 'Object Repository/Departments/TC05_Validation_Fields_Empty/Page_IBEX Payroll - Manage Department Field/button_Save' is clicked on
+
+19-07-2025T00:19:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Departments/TC05_Validation_Fields_Empty/Page_IBEX Payroll - Manage Department Field/button_Save' is clicked on
+
+19-07-2025T00:19:28 - [TEST_STEP][PASSED] - verifyTextPresent(G_Validation_Field1_ExceedsLimit, false): Text 'Custom Department Field #1 must be 100 characters or fewer.' is present on page 
+
+19-07-2025T00:19:29 - [MESSAGE][PASSED] - Text 'Custom Department Field #1 must be 100 characters or fewer.' is present on page 
+
+19-07-2025T00:19:29 - [TEST_STEP][PASSED] - verifyTextPresent(G_Validation_Field2_ExceedsLimit, false): Text 'Custom Department Field #2 must be 100 characters or fewer.' is present on page 
+
+19-07-2025T00:19:29 - [MESSAGE][PASSED] - Text 'Custom Department Field #2 must be 100 characters or fewer.' is present on page]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Departments/TC07_Validation_Fields_SpecialChars" time="3.211" classname="Test Cases/Departments/TC07_Validation_Fields_SpecialChars" status="PASSED">
+         <system-out><![CDATA[19-07-2025T00:19:29 - [TEST_CASE][PASSED] - Test Cases/Departments/TC07_Validation_Fields_SpecialChars: Test Cases/Departments/TC07_Validation_Fields_SpecialChars
+
+19-07-2025T00:19:29 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Departments/TC07_validation_Fields_SpecialChars/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value"), ""): Text '' is set on object 'Object Repository/Departments/TC07_validation_Fields_SpecialChars/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value'
+
+19-07-2025T00:19:30 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Departments/TC07_validation_Fields_SpecialChars/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value'
+
+19-07-2025T00:19:30 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Departments/TC07_validation_Fields_SpecialChars/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 2_field02Value"), ""): Text '' is set on object 'Object Repository/Departments/TC07_validation_Fields_SpecialChars/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 2_field02Value'
+
+19-07-2025T00:19:30 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Departments/TC07_validation_Fields_SpecialChars/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 2_field02Value'
+
+19-07-2025T00:19:30 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Departments/TC07_validation_Fields_SpecialChars/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value"), "%<>{}"): Text '%<>{}' is set on object 'Object Repository/Departments/TC07_validation_Fields_SpecialChars/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value'
+
+19-07-2025T00:19:31 - [MESSAGE][PASSED] - Text '%<>{}' is set on object 'Object Repository/Departments/TC07_validation_Fields_SpecialChars/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value'
+
+19-07-2025T00:19:31 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Departments/TC07_validation_Fields_SpecialChars/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 2_field02Value"), "#[]~"): Text '#[]~' is set on object 'Object Repository/Departments/TC07_validation_Fields_SpecialChars/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 2_field02Value'
+
+19-07-2025T00:19:31 - [MESSAGE][PASSED] - Text '#[]~' is set on object 'Object Repository/Departments/TC07_validation_Fields_SpecialChars/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 2_field02Value'
+
+19-07-2025T00:19:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Departments/TC07_validation_Fields_SpecialChars/Page_IBEX Payroll - Manage Department Field/button_Save")): Object: 'Object Repository/Departments/TC07_validation_Fields_SpecialChars/Page_IBEX Payroll - Manage Department Field/button_Save' is clicked on
+
+19-07-2025T00:19:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Departments/TC07_validation_Fields_SpecialChars/Page_IBEX Payroll - Manage Department Field/button_Save' is clicked on
+
+19-07-2025T00:19:31 - [TEST_STEP][PASSED] - verifyTextPresent(G_Validation_Field1_SpecialChars, false): Text 'Custom Department Field #1 contains invalid characters.' is present on page 
+
+19-07-2025T00:19:32 - [MESSAGE][PASSED] - Text 'Custom Department Field #1 contains invalid characters.' is present on page 
+
+19-07-2025T00:19:32 - [TEST_STEP][PASSED] - verifyTextPresent(G_Validation_Field2_SpecialChars, false): Text 'Custom Department Field #2 contains invalid characters.' is present on page 
+
+19-07-2025T00:19:32 - [MESSAGE][PASSED] - Text 'Custom Department Field #2 contains invalid characters.' is present on page]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[19-07-2025T00:18:19 - [TEST_SUITE][PASSED] - TS_Departments_CustomFieldSettings: null]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

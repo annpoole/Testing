@@ -3,26 +3,5 @@
    <description></description>
    <name>default</name>
    <tag></tag>
-   <defaultProfile>true</defaultProfile>
-   <GlobalVariableEntity>
-      <description>Login page (Main)</description>
-      <initValue>'https://sit.ibexpayroll.com:8443/main/identityserver/Account/Login'</initValue>
-      <name>G_SiteURL</name>
-      <protected>false</protected>
-      <valueType>STRING</valueType>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description>Home page (Main)</description>
-      <initValue>'https://sit.ibexpayroll.com:8443/Main/Everest/Home/Index.mr'</initValue>
-      <name>G_HomePage</name>
-      <protected>false</protected>
-      <valueType>STRING</valueType>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description>Payroll page (Main)</description>
-      <initValue>'https://sit.ibexpayroll.com:8443/Main/Everest/Payroll/Index.mr'</initValue>
-      <name>G_PayrollPage</name>
-      <protected>false</protected>
-      <valueType>STRING</valueType>
-   </GlobalVariableEntity>
+   <defaultProfile>false</defaultProfile>
 </GlobalVariableEntities>

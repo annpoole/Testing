@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>land on Add Department screen and enter department detail</description>
+   <name>TC11a_AddDepartment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>577d7fd5-45dc-420c-837e-5e80582d3395</testCaseGuid>
+</TestCaseEntity>

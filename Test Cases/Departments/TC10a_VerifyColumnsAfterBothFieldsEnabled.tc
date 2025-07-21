@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Custom field headers shown in table for both</description>
+   <name>TC10a_VerifyColumnsAfterBothFieldsEnabled</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>58d0ba62-ba06-4d04-b9d3-919a95026de5</testCaseGuid>
+</TestCaseEntity>

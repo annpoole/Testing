@@ -1,0 +1,578 @@
+Warning: NLS unused message: QTEST in: com.kms.katalon.constants.globalMessages
+Warning: NLS missing message: QTEST_NAME in: com.kms.katalon.constants.globalMessages
+2025-07-18 23:37:20.546 INFO  c.k.katalon.core.main.TestSuiteExecutor  - START Test Suites/Departments/TS_Departments_CustomFieldSettings
+2025-07-18 23:37:20.635 INFO  c.k.katalon.core.main.TestSuiteExecutor  - userFullName = Ayushi Kalia
+2025-07-18 23:37:20.636 INFO  c.k.katalon.core.main.TestSuiteExecutor  - projectName = Testing
+2025-07-18 23:37:20.637 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostName = AI-PC-001 - AI-PC-001.lan
+2025-07-18 23:37:20.637 INFO  c.k.katalon.core.main.TestSuiteExecutor  - os = Windows 11 64bit
+2025-07-18 23:37:20.637 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostAddress = 192.168.31.113
+2025-07-18 23:37:20.638 INFO  c.k.katalon.core.main.TestSuiteExecutor  - katalonVersion = 10.2.3.0
+2025-07-18 23:37:21.126 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-18 23:37:21.126 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC01_SH_LoginAndNavigate
+2025-07-18 23:37:21.514 DEBUG testcase.TC01_SH_LoginAndNavigate        - 1: callTestCase(findTestCase("Shared/Login"), [:], STOP_ON_FAILURE)
+2025-07-18 23:37:21.667 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-18 23:37:21.667 INFO  c.k.katalon.core.main.TestCaseExecutor   - CALL Test Cases/Shared/Login
+2025-07-18 23:37:21.738 DEBUG testcase.Login                           - 1: openBrowser("")
+2025-07-18 23:37:21.876 INFO  c.k.k.core.webui.driver.DriverFactory    - Starting 'Chrome' driver
+2025-07-18 23:37:21.923 INFO  c.k.k.core.webui.driver.DriverFactory    - Action delay is set to 0 milliseconds
+Jul 18, 2025 11:37:23 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
+2025-07-18 23:37:23.633 INFO  c.k.k.core.webui.driver.DriverFactory    - sessionId = 9e65c37738282d65e968b7452ce13bf7
+2025-07-18 23:37:23.634 INFO  c.k.k.core.webui.driver.DriverFactory    - browser = Chrome 138.0.7204.101
+2025-07-18 23:37:23.634 INFO  c.k.k.core.webui.driver.DriverFactory    - platform = Windows 11
+2025-07-18 23:37:23.634 INFO  c.k.k.core.webui.driver.DriverFactory    - seleniumVersion = 4.28.1
+2025-07-18 23:37:23.640 INFO  c.k.k.core.webui.driver.DriverFactory    - proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList="", isApplyToDesiredCapabilities=true }
+2025-07-18 23:37:23.679 DEBUG testcase.Login                           - 2: navigateToUrl(G_SiteURL)
+2025-07-18 23:37:28.117 DEBUG testcase.Login                           - 3: maximizeWindow()
+2025-07-18 23:37:28.145 DEBUG testcase.Login                           - 4: setText(findTestObject("Object Repository/Shared/Page_IBEX Payroll - Login/Page_IBEX Payroll - Login/input_Username_Input.Username"), "uat.dstewart")
+2025-07-18 23:37:28.802 DEBUG testcase.Login                           - 5: setEncryptedText(findTestObject("Object Repository/Shared/Page_IBEX Payroll - Login/Page_IBEX Payroll - Login/input_Show Password_Input.Password"), "p4y+y39Ir5Oy1MY8jPt0uQ==")
+2025-07-18 23:37:29.130 DEBUG testcase.Login                           - 6: click(findTestObject("Object Repository/Shared/Page_IBEX Payroll - Login/Page_IBEX Payroll - Login/input_Remember me_Input.Button"))
+2025-07-18 23:37:34.555 INFO  c.k.katalon.core.main.TestCaseExecutor   - END CALL Test Cases/Shared/Login
+2025-07-18 23:37:34.555 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-18 23:37:34.570 DEBUG testcase.TC01_SH_LoginAndNavigate        - 2: callTestCase(findTestCase("Shared/Navigate(Switch Org)"), [:], STOP_ON_FAILURE)
+2025-07-18 23:37:34.644 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-18 23:37:34.645 INFO  c.k.katalon.core.main.TestCaseExecutor   - CALL Test Cases/Shared/Navigate(Switch Org)
+2025-07-18 23:37:34.707 DEBUG testcase.Login                           - 1: click(findTestObject("Object Repository/Shared/Switch_Org/Page_IBEX Payroll - Home/a_swap_horiz Switch SetupSimpleDialog(orgCo_55ee7d"))
+2025-07-18 23:37:35.023 DEBUG testcase.Login                           - 2: delay(30)
+2025-07-18 23:38:05.046 INFO  c.k.katalon.core.main.TestCaseExecutor   - END CALL Test Cases/Shared/Navigate(Switch Org)
+2025-07-18 23:38:05.046 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-18 23:38:05.048 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC01_SH_LoginAndNavigate
+2025-07-18 23:38:05.053 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-18 23:38:05.053 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC02_VerifyManageDepartmentFields
+2025-07-18 23:38:05.102 DEBUG t.TC02_VerifyManageDepartmentFields      - 1: click(findTestObject("Object Repository/Departments/TC02_VerifyManageDepartmentFields/Page_IBEX Payroll - Home/div_Darryl Stewart                         _d15389"))
+2025-07-18 23:38:05.385 DEBUG t.TC02_VerifyManageDepartmentFields      - 2: click(findTestObject("Object Repository/Departments/TC02_VerifyManageDepartmentFields/Page_IBEX Payroll - Home/a_business Organization Details"))
+2025-07-18 23:38:06.568 DEBUG t.TC02_VerifyManageDepartmentFields      - 3: click(findTestObject("Object Repository/Departments/TC02_VerifyManageDepartmentFields/Page_IBEX Payroll - Organization Detail/a_Payroll Departments"))
+2025-07-18 23:38:08.451 DEBUG t.TC02_VerifyManageDepartmentFields      - 4: click(findTestObject("Object Repository/Departments/TC02_VerifyManageDepartmentFields/Page_IBEX Payroll - Organization Payroll De_204c37/a_Manage Department Fields"))
+2025-07-18 23:38:11.723 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC02_VerifyManageDepartmentFields
+2025-07-18 23:38:11.728 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-18 23:38:11.729 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC03_VerifyCustomFieldOptions
+2025-07-18 23:38:11.784 DEBUG testcase.TC03_VerifyCustomFieldOptions   - 1: findWebElement(findTestObject("Object Repository/Departments/TC03_VerifyCustomFieldOotions/Page_IBEX Payroll - Manage Department Field/label_Custom Department Field 1"))
+2025-07-18 23:38:15.056 DEBUG testcase.TC03_VerifyCustomFieldOptions   - 2: findWebElement(findTestObject("Object Repository/Departments/TC03_VerifyCustomFieldOotions/Page_IBEX Payroll - Manage Department Field/label_Custom Department Field 2"))
+2025-07-18 23:38:17.783 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC03_VerifyCustomFieldOptions
+2025-07-18 23:38:17.786 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-18 23:38:17.786 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC04_CheckboxBehavior
+2025-07-18 23:38:17.826 DEBUG testcase.TC04_CheckboxBehavior           - 1: click(findTestObject("Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field Settings_fiel_da0194"))
+2025-07-18 23:38:18.141 DEBUG testcase.TC04_CheckboxBehavior           - 2: verifyElementChecked(findTestObject("Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field Settings_fiel_da0194"), 0)
+2025-07-18 23:38:18.155 WARN  c.kms.katalon.core.helper.KeywordHelper  - Timeout '0' is invalid. Using default page load timeout: '30'
+2025-07-18 23:38:18.393 DEBUG testcase.TC04_CheckboxBehavior           - 3: click(findTestObject("Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field02Enabled"))
+2025-07-18 23:38:18.692 DEBUG testcase.TC04_CheckboxBehavior           - 4: verifyElementChecked(findTestObject("Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field02Enabled"), 0)
+2025-07-18 23:38:18.698 WARN  c.kms.katalon.core.helper.KeywordHelper  - Timeout '0' is invalid. Using default page load timeout: '30'
+2025-07-18 23:38:18.936 DEBUG testcase.TC04_CheckboxBehavior           - 5: verifyElementClickable(findTestObject("Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value"))
+2025-07-18 23:38:19.194 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC04_CheckboxBehavior
+2025-07-18 23:38:19.196 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-18 23:38:19.196 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC05_Validation_Fields_Empty
+2025-07-18 23:38:19.257 DEBUG testcase.TC05_Validation_Fields_Empty    - 1: setText(findTestObject("Object Repository/Departments/TC06_Validation_Fields_ExceedsLimit/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value"), "")
+2025-07-18 23:38:19.824 DEBUG testcase.TC05_Validation_Fields_Empty    - 2: setText(findTestObject("Object Repository/Departments/TC06_Validation_Fields_ExceedsLimit/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 2_field02Value"), "")
+2025-07-18 23:38:20.373 DEBUG testcase.TC05_Validation_Fields_Empty    - 3: click(findTestObject("Object Repository/Departments/TC06_Validation_Fields_ExceedsLimit/Page_IBEX Payroll - Manage Department Field/button_Save"))
+2025-07-18 23:38:20.662 DEBUG testcase.TC05_Validation_Fields_Empty    - 4: verifyTextPresent(G_validation_Field1_Empty, false)
+2025-07-18 23:38:21.149 DEBUG testcase.TC05_Validation_Fields_Empty    - 5: verifyTextPresent(G_validation_Field2_Empty, false)
+2025-07-18 23:38:21.405 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC05_Validation_Fields_Empty
+2025-07-18 23:38:21.407 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-18 23:38:21.407 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC06_Validation_Fields_ExceedsLimit
+2025-07-18 23:38:21.466 DEBUG t.TC06_Validation_Fields_ExceedsLimit    - 1: setText(findTestObject("Object Repository/Departments/TC05_Validation_Fields_Empty/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value"), G_LongTextInput)
+2025-07-18 23:38:22.176 DEBUG t.TC06_Validation_Fields_ExceedsLimit    - 2: setText(findTestObject("Object Repository/Departments/TC05_Validation_Fields_Empty/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 2_field02Value"), G_LongTextInput)
+2025-07-18 23:38:23.009 DEBUG t.TC06_Validation_Fields_ExceedsLimit    - 3: click(findTestObject("Object Repository/Departments/TC05_Validation_Fields_Empty/Page_IBEX Payroll - Manage Department Field/button_Save"))
+2025-07-18 23:38:23.404 DEBUG t.TC06_Validation_Fields_ExceedsLimit    - 4: verifyTextPresent(G_Validation_Field1_ExceedsLimit, false)
+2025-07-18 23:38:23.652 DEBUG t.TC06_Validation_Fields_ExceedsLimit    - 5: verifyTextPresent(G_Validation_Field2_ExceedsLimit, false)
+2025-07-18 23:38:23.895 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC06_Validation_Fields_ExceedsLimit
+2025-07-18 23:38:23.897 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-18 23:38:23.898 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC07_Validation_Fields_SpecialChars
+2025-07-18 23:38:23.939 DEBUG t.TC07_Validation_Fields_SpecialChars    - 1: setText(findTestObject("Object Repository/Departments/TC08_validation_Fields_SpecialChars/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value"), "valid Text value 1 %&*A2@")
+2025-07-18 23:38:23.941 WARN  c.k.k.core.testobject.ObjectRepository   - Test object with id 'Object Repository/Departments/TC08_validation_Fields_SpecialChars/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value' does not exist
+2025-07-18 23:38:23.950 WARN  c.k.k.core.testobject.ObjectRepository   - Test object with id 'Object Repository/' does not exist
+2025-07-18 23:38:24.222 ERROR c.k.k.core.keyword.internal.KeywordMain  - ❌ Unable to set text (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to set text
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:118)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:39)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:64)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:1056)
+	at TC07_Validation_Fields_SpecialChars.run(TC07_Validation_Fields_SpecialChars:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:485)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:476)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:455)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:447)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:321)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:195)
+	at TempTestSuite1752862037910.run(TempTestSuite1752862037910.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: java.lang.IllegalArgumentException: Object is null
+	at com.kms.katalon.core.helper.KeywordHelper.checkTestObjectParameter(KeywordHelper.java:33)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:47)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:39)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:64)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:1056)
+	at Script1752848630329.run(Script1752848630329.groovy:20)
+	... 15 more
+)
+2025-07-18 23:38:24.227 ERROR c.k.katalon.core.main.TestCaseExecutor   - ❌ Test Cases/Departments/TC07_Validation_Fields_SpecialChars FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to set text
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:118)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:39)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:64)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:1056)
+	at TC07_Validation_Fields_SpecialChars.run(TC07_Validation_Fields_SpecialChars:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:485)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:476)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:455)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:447)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:321)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:195)
+	at TempTestSuite1752862037910.run(TempTestSuite1752862037910.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: java.lang.IllegalArgumentException: Object is null
+	at com.kms.katalon.core.helper.KeywordHelper.checkTestObjectParameter(KeywordHelper.java:33)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:47)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 20 more
+
+2025-07-18 23:38:24.229 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC07_Validation_Fields_SpecialChars
+2025-07-18 23:38:24.231 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-18 23:38:24.231 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC07_Validation_Fields_SpecialChars
+2025-07-18 23:38:24.238 DEBUG t.TC07_Validation_Fields_SpecialChars    - 1: setText(findTestObject("Object Repository/Departments/TC08_validation_Fields_SpecialChars/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value"), "valid Text value 1 %&*A2@")
+2025-07-18 23:38:24.239 WARN  c.k.k.core.testobject.ObjectRepository   - Test object with id 'Object Repository/Departments/TC08_validation_Fields_SpecialChars/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value' does not exist
+2025-07-18 23:38:24.242 WARN  c.k.k.core.testobject.ObjectRepository   - Test object with id 'Object Repository/' does not exist
+2025-07-18 23:38:24.476 ERROR c.k.k.core.keyword.internal.KeywordMain  - ❌ Unable to set text (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to set text
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:118)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:39)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:64)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:1056)
+	at TC07_Validation_Fields_SpecialChars.run(TC07_Validation_Fields_SpecialChars:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:485)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:476)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:455)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:447)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:321)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:405)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:195)
+	at TempTestSuite1752862037910.run(TempTestSuite1752862037910.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: java.lang.IllegalArgumentException: Object is null
+	at com.kms.katalon.core.helper.KeywordHelper.checkTestObjectParameter(KeywordHelper.java:33)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:47)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:39)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:64)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:1056)
+	at Script1752848630329.run(Script1752848630329.groovy:20)
+	... 16 more
+)
+2025-07-18 23:38:24.478 ERROR c.k.katalon.core.main.TestCaseExecutor   - ❌ Test Cases/Departments/TC07_Validation_Fields_SpecialChars FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to set text
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:118)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:39)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:64)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:1056)
+	at TC07_Validation_Fields_SpecialChars.run(TC07_Validation_Fields_SpecialChars:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:485)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:476)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:455)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:447)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:321)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:405)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:195)
+	at TempTestSuite1752862037910.run(TempTestSuite1752862037910.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: java.lang.IllegalArgumentException: Object is null
+	at com.kms.katalon.core.helper.KeywordHelper.checkTestObjectParameter(KeywordHelper.java:33)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:47)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 21 more
+
+2025-07-18 23:38:24.479 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC07_Validation_Fields_SpecialChars
+2025-07-18 23:38:24.483 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-18 23:38:24.483 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC07_Validation_Fields_SpecialChars
+2025-07-18 23:38:24.494 DEBUG t.TC07_Validation_Fields_SpecialChars    - 1: setText(findTestObject("Object Repository/Departments/TC08_validation_Fields_SpecialChars/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value"), "valid Text value 1 %&*A2@")
+2025-07-18 23:38:24.495 WARN  c.k.k.core.testobject.ObjectRepository   - Test object with id 'Object Repository/Departments/TC08_validation_Fields_SpecialChars/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value' does not exist
+2025-07-18 23:38:24.498 WARN  c.k.k.core.testobject.ObjectRepository   - Test object with id 'Object Repository/' does not exist
+2025-07-18 23:38:24.727 ERROR c.k.k.core.keyword.internal.KeywordMain  - ❌ Unable to set text (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to set text
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:118)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:39)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:64)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:1056)
+	at TC07_Validation_Fields_SpecialChars.run(TC07_Validation_Fields_SpecialChars:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:485)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:476)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:455)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:447)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:321)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:405)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:405)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:195)
+	at TempTestSuite1752862037910.run(TempTestSuite1752862037910.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: java.lang.IllegalArgumentException: Object is null
+	at com.kms.katalon.core.helper.KeywordHelper.checkTestObjectParameter(KeywordHelper.java:33)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:47)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:39)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:64)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:1056)
+	at Script1752848630329.run(Script1752848630329.groovy:20)
+	... 17 more
+)
+2025-07-18 23:38:24.729 ERROR c.k.katalon.core.main.TestCaseExecutor   - ❌ Test Cases/Departments/TC07_Validation_Fields_SpecialChars FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to set text
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:118)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:39)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:64)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:1056)
+	at TC07_Validation_Fields_SpecialChars.run(TC07_Validation_Fields_SpecialChars:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:485)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:476)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:455)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:447)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:321)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:405)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:405)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:195)
+	at TempTestSuite1752862037910.run(TempTestSuite1752862037910.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: java.lang.IllegalArgumentException: Object is null
+	at com.kms.katalon.core.helper.KeywordHelper.checkTestObjectParameter(KeywordHelper.java:33)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:47)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 22 more
+
+2025-07-18 23:38:24.731 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC07_Validation_Fields_SpecialChars
+2025-07-18 23:38:24.733 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-18 23:38:24.733 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC07_Validation_Fields_SpecialChars
+2025-07-18 23:38:24.740 DEBUG t.TC07_Validation_Fields_SpecialChars    - 1: setText(findTestObject("Object Repository/Departments/TC08_validation_Fields_SpecialChars/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value"), "valid Text value 1 %&*A2@")
+2025-07-18 23:38:24.741 WARN  c.k.k.core.testobject.ObjectRepository   - Test object with id 'Object Repository/Departments/TC08_validation_Fields_SpecialChars/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value' does not exist
+2025-07-18 23:38:24.744 WARN  c.k.k.core.testobject.ObjectRepository   - Test object with id 'Object Repository/' does not exist
+2025-07-18 23:38:24.990 ERROR c.k.k.core.keyword.internal.KeywordMain  - ❌ Unable to set text (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to set text
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:118)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:39)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:64)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:1056)
+	at TC07_Validation_Fields_SpecialChars.run(TC07_Validation_Fields_SpecialChars:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:485)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:476)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:455)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:447)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:321)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:405)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:405)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:405)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:195)
+	at TempTestSuite1752862037910.run(TempTestSuite1752862037910.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: java.lang.IllegalArgumentException: Object is null
+	at com.kms.katalon.core.helper.KeywordHelper.checkTestObjectParameter(KeywordHelper.java:33)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:47)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:39)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:64)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:1056)
+	at Script1752848630329.run(Script1752848630329.groovy:20)
+	... 18 more
+)
+2025-07-18 23:38:24.992 ERROR c.k.katalon.core.main.TestCaseExecutor   - ❌ Test Cases/Departments/TC07_Validation_Fields_SpecialChars FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to set text
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:118)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:39)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:64)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:1056)
+	at TC07_Validation_Fields_SpecialChars.run(TC07_Validation_Fields_SpecialChars:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:485)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:476)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:455)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:447)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:321)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:405)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:405)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:405)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:195)
+	at TempTestSuite1752862037910.run(TempTestSuite1752862037910.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: java.lang.IllegalArgumentException: Object is null
+	at com.kms.katalon.core.helper.KeywordHelper.checkTestObjectParameter(KeywordHelper.java:33)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:47)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 23 more
+
+2025-07-18 23:38:24.995 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC07_Validation_Fields_SpecialChars
+2025-07-18 23:38:24.998 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-18 23:38:24.998 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC08_Validation_Fields_ValidInput
+2025-07-18 23:38:25.052 DEBUG t.TC08_Validation_Fields_ValidInput      - 1: setText(findTestObject("Object Repository/Departments/TC08_Validation_Field1_ValidInput/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value"), "valid Text value 1")
+2025-07-18 23:38:25.616 DEBUG t.TC08_Validation_Fields_ValidInput      - 2: setText(findTestObject("Object Repository/Departments/TC08_Validation_Field1_ValidInput/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 2_field02Value"), "Valid Text value 2")
+2025-07-18 23:38:26.209 DEBUG t.TC08_Validation_Fields_ValidInput      - 3: click(findTestObject("Object Repository/Departments/TC08_Validation_Field1_ValidInput/Page_IBEX Payroll - Manage Department Field/button_Save"))
+2025-07-18 23:38:26.487 DEBUG t.TC08_Validation_Fields_ValidInput      - 4: verifyAlertPresent(5)
+2025-07-18 23:38:31.955 ERROR c.k.k.core.keyword.internal.KeywordMain  - ❌ No alert found after 5 second(s). (Root cause: com.kms.katalon.core.exception.StepFailedException: No alert found after 5 second(s).
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:118)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAlertPresentKeyword$_verifyAlertPresent_closure1.doCall(VerifyAlertPresentKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAlertPresentKeyword$_verifyAlertPresent_closure1.call(VerifyAlertPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAlertPresentKeyword.verifyAlertPresent(VerifyAlertPresentKeyword.groovy:82)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAlertPresentKeyword.execute(VerifyAlertPresentKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:64)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyAlertPresent(WebUiBuiltInKeywords.groovy:1737)
+	at TC08_Validation_Fields_ValidInput.run(TC08_Validation_Fields_ValidInput:28)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:485)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:476)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:455)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:447)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:321)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:195)
+	at TempTestSuite1752862037910.run(TempTestSuite1752862037910.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+)
+2025-07-18 23:38:32.274 ERROR c.k.k.core.keyword.internal.KeywordMain  - ❌ Unable to verify alert present (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to verify alert present
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:118)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAlertPresentKeyword.verifyAlertPresent(VerifyAlertPresentKeyword.groovy:82)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAlertPresentKeyword.execute(VerifyAlertPresentKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:64)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyAlertPresent(WebUiBuiltInKeywords.groovy:1737)
+	at TC08_Validation_Fields_ValidInput.run(TC08_Validation_Fields_ValidInput:28)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:485)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:476)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:455)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:447)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:321)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:195)
+	at TempTestSuite1752862037910.run(TempTestSuite1752862037910.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: No alert found after 5 second(s).
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:118)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAlertPresentKeyword$_verifyAlertPresent_closure1.doCall(VerifyAlertPresentKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAlertPresentKeyword$_verifyAlertPresent_closure1.call(VerifyAlertPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 20 more
+)
+2025-07-18 23:38:32.276 ERROR c.k.katalon.core.main.TestCaseExecutor   - ❌ Test Cases/Departments/TC08_Validation_Fields_ValidInput FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify alert present
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:118)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAlertPresentKeyword.verifyAlertPresent(VerifyAlertPresentKeyword.groovy:82)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAlertPresentKeyword.execute(VerifyAlertPresentKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:64)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyAlertPresent(WebUiBuiltInKeywords.groovy:1737)
+	at TC08_Validation_Fields_ValidInput.run(TC08_Validation_Fields_ValidInput:28)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:485)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:476)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:455)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:447)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:321)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:195)
+	at TempTestSuite1752862037910.run(TempTestSuite1752862037910.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: No alert found after 5 second(s).
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:118)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAlertPresentKeyword$_verifyAlertPresent_closure1.doCall(VerifyAlertPresentKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAlertPresentKeyword$_verifyAlertPresent_closure1.call(VerifyAlertPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 20 more
+
+2025-07-18 23:38:32.277 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC08_Validation_Fields_ValidInput
+2025-07-18 23:38:32.280 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-18 23:38:32.280 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC08_Validation_Fields_ValidInput
+2025-07-18 23:38:32.290 DEBUG t.TC08_Validation_Fields_ValidInput      - 1: setText(findTestObject("Object Repository/Departments/TC08_Validation_Field1_ValidInput/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value"), "valid Text value 1")
+2025-07-18 23:38:32.872 DEBUG t.TC08_Validation_Fields_ValidInput      - 2: setText(findTestObject("Object Repository/Departments/TC08_Validation_Field1_ValidInput/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 2_field02Value"), "Valid Text value 2")
+2025-07-18 23:38:33.437 DEBUG t.TC08_Validation_Fields_ValidInput      - 3: click(findTestObject("Object Repository/Departments/TC08_Validation_Field1_ValidInput/Page_IBEX Payroll - Manage Department Field/button_Save"))
+2025-07-18 23:38:33.719 DEBUG t.TC08_Validation_Fields_ValidInput      - 4: verifyAlertPresent(5)
+2025-07-18 23:38:39.155 ERROR c.k.k.core.keyword.internal.KeywordMain  - ❌ No alert found after 5 second(s). (Root cause: com.kms.katalon.core.exception.StepFailedException: No alert found after 5 second(s).
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:118)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAlertPresentKeyword$_verifyAlertPresent_closure1.doCall(VerifyAlertPresentKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAlertPresentKeyword$_verifyAlertPresent_closure1.call(VerifyAlertPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAlertPresentKeyword.verifyAlertPresent(VerifyAlertPresentKeyword.groovy:82)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAlertPresentKeyword.execute(VerifyAlertPresentKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:64)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyAlertPresent(WebUiBuiltInKeywords.groovy:1737)
+	at TC08_Validation_Fields_ValidInput.run(TC08_Validation_Fields_ValidInput:28)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:485)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:476)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:455)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:447)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:321)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:405)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:195)
+	at TempTestSuite1752862037910.run(TempTestSuite1752862037910.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+)
+2025-07-18 23:38:39.459 ERROR c.k.k.core.keyword.internal.KeywordMain  - ❌ Unable to verify alert present (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to verify alert present
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:118)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAlertPresentKeyword.verifyAlertPresent(VerifyAlertPresentKeyword.groovy:82)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAlertPresentKeyword.execute(VerifyAlertPresentKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:64)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyAlertPresent(WebUiBuiltInKeywords.groovy:1737)
+	at TC08_Validation_Fields_ValidInput.run(TC08_Validation_Fields_ValidInput:28)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:485)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:476)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:455)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:447)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:321)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:405)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:195)
+	at TempTestSuite1752862037910.run(TempTestSuite1752862037910.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: No alert found after 5 second(s).
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:118)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAlertPresentKeyword$_verifyAlertPresent_closure1.doCall(VerifyAlertPresentKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAlertPresentKeyword$_verifyAlertPresent_closure1.call(VerifyAlertPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 21 more
+)
+2025-07-18 23:38:39.461 ERROR c.k.katalon.core.main.TestCaseExecutor   - ❌ Test Cases/Departments/TC08_Validation_Fields_ValidInput FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify alert present
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:118)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAlertPresentKeyword.verifyAlertPresent(VerifyAlertPresentKeyword.groovy:82)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAlertPresentKeyword.execute(VerifyAlertPresentKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:64)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyAlertPresent(WebUiBuiltInKeywords.groovy:1737)
+	at TC08_Validation_Fields_ValidInput.run(TC08_Validation_Fields_ValidInput:28)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:485)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:476)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:455)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:447)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:321)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:405)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:195)
+	at TempTestSuite1752862037910.run(TempTestSuite1752862037910.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: No alert found after 5 second(s).
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:118)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAlertPresentKeyword$_verifyAlertPresent_closure1.doCall(VerifyAlertPresentKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyAlertPresentKeyword$_verifyAlertPresent_closure1.call(VerifyAlertPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 21 more
+
+2025-07-18 23:38:39.461 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC08_Validation_Fields_ValidInput
+2025-07-18 23:38:39.463 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-18 23:38:39.463 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC08_Validation_Fields_ValidInput
+2025-07-18 23:38:39.472 DEBUG t.TC08_Validation_Fields_ValidInput      - 1: setText(findTestObject("Object Repository/Departments/TC08_Validation_Field1_ValidInput/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value"), "valid Text value 1")
+2025-07-18 23:38:40.042 DEBUG t.TC08_Validation_Fields_ValidInput      - 2: setText(findTestObject("Object Repository/Departments/TC08_Validation_Field1_ValidInput/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 2_field02Value"), "Valid Text value 2")

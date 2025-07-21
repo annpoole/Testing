@@ -1,0 +1,80 @@
+Warning: NLS unused message: QTEST in: com.kms.katalon.constants.globalMessages
+Warning: NLS missing message: QTEST_NAME in: com.kms.katalon.constants.globalMessages
+2025-07-21 15:28:52.637 INFO  c.k.katalon.core.main.TestSuiteExecutor  - START Test Suites/Departments/TS_Departments_CustomFieldSettings
+2025-07-21 15:28:52.750 INFO  c.k.katalon.core.main.TestSuiteExecutor  - userFullName = Ayushi Kalia
+2025-07-21 15:28:52.752 INFO  c.k.katalon.core.main.TestSuiteExecutor  - projectName = Testing
+2025-07-21 15:28:52.752 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostName = AI-PC-001 - AI-PC-001.lan
+2025-07-21 15:28:52.753 INFO  c.k.katalon.core.main.TestSuiteExecutor  - os = Windows 11 64bit
+2025-07-21 15:28:52.754 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostAddress = 192.168.31.113
+2025-07-21 15:28:52.754 INFO  c.k.katalon.core.main.TestSuiteExecutor  - katalonVersion = 10.2.3.0
+2025-07-21 15:28:53.286 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 15:28:53.286 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC01_SH_LoginAndNavigate
+2025-07-21 15:28:53.601 DEBUG testcase.TC01_SH_LoginAndNavigate        - 1: callTestCase(findTestCase("Shared/Login"), [:], STOP_ON_FAILURE)
+2025-07-21 15:28:53.762 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 15:28:53.763 INFO  c.k.katalon.core.main.TestCaseExecutor   - CALL Test Cases/Shared/Login
+2025-07-21 15:28:53.840 DEBUG testcase.Login                           - 1: openBrowser("")
+2025-07-21 15:28:53.999 INFO  c.k.k.core.webui.driver.DriverFactory    - Starting 'Chrome' driver
+2025-07-21 15:28:54.054 INFO  c.k.k.core.webui.driver.DriverFactory    - Action delay is set to 0 milliseconds
+Jul 21, 2025 3:28:55 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
+2025-07-21 15:28:55.851 INFO  c.k.k.core.webui.driver.DriverFactory    - sessionId = 1b8dc52b95fd3a65634daf2637940dfd
+2025-07-21 15:28:55.853 INFO  c.k.k.core.webui.driver.DriverFactory    - browser = Chrome 138.0.7204.101
+2025-07-21 15:28:55.853 INFO  c.k.k.core.webui.driver.DriverFactory    - platform = Windows 11
+2025-07-21 15:28:55.854 INFO  c.k.k.core.webui.driver.DriverFactory    - seleniumVersion = 4.28.1
+2025-07-21 15:28:55.862 INFO  c.k.k.core.webui.driver.DriverFactory    - proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList="", isApplyToDesiredCapabilities=true }
+2025-07-21 15:28:55.915 DEBUG testcase.Login                           - 2: navigateToUrl(G_SiteURL)
+2025-07-21 15:29:00.283 DEBUG testcase.Login                           - 3: maximizeWindow()
+2025-07-21 15:29:00.325 DEBUG testcase.Login                           - 4: setText(findTestObject("Object Repository/Shared/Page_IBEX Payroll - Login/Page_IBEX Payroll - Login/input_Username_Input.Username"), "uat.dstewart")
+2025-07-21 15:29:00.977 DEBUG testcase.Login                           - 5: setEncryptedText(findTestObject("Shared/Page_IBEX Payroll - Login/Page_IBEX Payroll - Login/input_Show Password_Input.Password"), "p4y+y39Ir5Oy1MY8jPt0uQ==")
+2025-07-21 15:29:01.297 DEBUG testcase.Login                           - 6: click(findTestObject("Object Repository/Shared/Page_IBEX Payroll - Login/Page_IBEX Payroll - Login/input_Remember me_Input.Button"))
+2025-07-21 15:29:06.764 INFO  c.k.katalon.core.main.TestCaseExecutor   - END CALL Test Cases/Shared/Login
+2025-07-21 15:29:06.764 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 15:29:06.777 DEBUG testcase.TC01_SH_LoginAndNavigate        - 2: callTestCase(findTestCase("Shared/Navigate(Switch Org)"), [:], STOP_ON_FAILURE)
+2025-07-21 15:29:06.842 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 15:29:06.842 INFO  c.k.katalon.core.main.TestCaseExecutor   - CALL Test Cases/Shared/Navigate(Switch Org)
+2025-07-21 15:29:06.903 DEBUG testcase.Login                           - 1: click(findTestObject("Object Repository/Shared/Switch_Org/Page_IBEX Payroll - Home/a_swap_horiz Switch SetupSimpleDialog(orgCo_55ee7d"))
+2025-07-21 15:29:07.235 DEBUG testcase.Login                           - 2: delay(30)
+2025-07-21 15:29:37.259 INFO  c.k.katalon.core.main.TestCaseExecutor   - END CALL Test Cases/Shared/Navigate(Switch Org)
+2025-07-21 15:29:37.259 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 15:29:37.261 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC01_SH_LoginAndNavigate
+2025-07-21 15:29:37.266 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 15:29:37.266 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC02_VerifyManageDepartmentFields
+2025-07-21 15:29:37.309 DEBUG t.TC02_VerifyManageDepartmentFields      - 1: click(findTestObject("Object Repository/Departments/TC02_VerifyManageDepartmentFields/Page_IBEX Payroll - Home/div_Darryl Stewart                         _d15389"))
+2025-07-21 15:29:37.599 DEBUG t.TC02_VerifyManageDepartmentFields      - 2: click(findTestObject("Object Repository/Departments/TC02_VerifyManageDepartmentFields/Page_IBEX Payroll - Home/a_business Organization Details"))
+2025-07-21 15:29:38.785 DEBUG t.TC02_VerifyManageDepartmentFields      - 3: click(findTestObject("Object Repository/Departments/TC02_VerifyManageDepartmentFields/Page_IBEX Payroll - Organization Detail/a_Payroll Departments"))
+2025-07-21 15:29:40.786 DEBUG t.TC02_VerifyManageDepartmentFields      - 4: click(findTestObject("Object Repository/Departments/TC02_VerifyManageDepartmentFields/Page_IBEX Payroll - Organization Payroll De_204c37/a_Manage Department Fields"))
+2025-07-21 15:29:44.042 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC02_VerifyManageDepartmentFields
+2025-07-21 15:29:44.046 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 15:29:44.046 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC03_VerifyCustomFieldOptions
+2025-07-21 15:29:44.098 DEBUG testcase.TC03_VerifyCustomFieldOptions   - 1: findWebElement(findTestObject("Object Repository/Departments/TC03_VerifyCustomFieldOotions/Page_IBEX Payroll - Manage Department Field/label_Custom Department Field 1"))
+2025-07-21 15:29:47.717 DEBUG testcase.TC03_VerifyCustomFieldOptions   - 2: findWebElement(findTestObject("Object Repository/Departments/TC03_VerifyCustomFieldOotions/Page_IBEX Payroll - Manage Department Field/label_Custom Department Field 2"))
+2025-07-21 15:29:51.664 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC03_VerifyCustomFieldOptions
+2025-07-21 15:29:51.668 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 15:29:51.668 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC04_CheckboxBehavior
+2025-07-21 15:29:51.720 DEBUG testcase.TC04_CheckboxBehavior           - 1: click(findTestObject("Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field Settings_fiel_da0194"))
+2025-07-21 15:29:52.011 DEBUG testcase.TC04_CheckboxBehavior           - 2: verifyElementChecked(findTestObject("Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field Settings_fiel_da0194"), 0)
+2025-07-21 15:29:52.031 WARN  c.kms.katalon.core.helper.KeywordHelper  - Timeout '0' is invalid. Using default page load timeout: '30'
+2025-07-21 15:29:52.273 DEBUG testcase.TC04_CheckboxBehavior           - 3: click(findTestObject("Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field02Enabled"))
+2025-07-21 15:29:52.566 DEBUG testcase.TC04_CheckboxBehavior           - 4: verifyElementChecked(findTestObject("Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field02Enabled"), 0)
+2025-07-21 15:29:52.573 WARN  c.kms.katalon.core.helper.KeywordHelper  - Timeout '0' is invalid. Using default page load timeout: '30'
+2025-07-21 15:29:52.821 DEBUG testcase.TC04_CheckboxBehavior           - 5: verifyElementClickable(findTestObject("Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value"))
+2025-07-21 15:29:53.074 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC04_CheckboxBehavior
+2025-07-21 15:29:53.076 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 15:29:53.076 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC05_Validation_Fields_Empty
+2025-07-21 15:29:53.131 DEBUG testcase.TC05_Validation_Fields_Empty    - 1: setText(findTestObject("Object Repository/Departments/TC06_Validation_Fields_ExceedsLimit/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value"), "")
+2025-07-21 15:29:53.692 DEBUG testcase.TC05_Validation_Fields_Empty    - 2: setText(findTestObject("Object Repository/Departments/TC06_Validation_Fields_ExceedsLimit/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 2_field02Value"), "")
+2025-07-21 15:29:54.218 DEBUG testcase.TC05_Validation_Fields_Empty    - 3: click(findTestObject("Object Repository/Departments/TC06_Validation_Fields_ExceedsLimit/Page_IBEX Payroll - Manage Department Field/button_Save"))
+2025-07-21 15:29:54.509 DEBUG testcase.TC05_Validation_Fields_Empty    - 4: verifyTextPresent(G_validation_Field1_Empty, false)
+2025-07-21 15:29:54.993 DEBUG testcase.TC05_Validation_Fields_Empty    - 5: verifyTextPresent(G_validation_Field2_Empty, false)
+2025-07-21 15:29:55.245 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC05_Validation_Fields_Empty
+2025-07-21 15:29:55.247 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-21 15:29:55.247 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Departments/TC06_Validation_Fields_ExceedsLimit
+2025-07-21 15:29:55.300 DEBUG t.TC06_Validation_Fields_ExceedsLimit    - 1: setText(findTestObject("Object Repository/Departments/TC05_Validation_Fields_Empty/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value"), G_LongTextInput)
+2025-07-21 15:29:55.921 DEBUG t.TC06_Validation_Fields_ExceedsLimit    - 2: setText(findTestObject("Object Repository/Departments/TC05_Validation_Fields_Empty/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 2_field02Value"), G_LongTextInput)
+2025-07-21 15:29:56.746 DEBUG t.TC06_Validation_Fields_ExceedsLimit    - 3: click(findTestObject("Object Repository/Departments/TC05_Validation_Fields_Empty/Page_IBEX Payroll - Manage Department Field/button_Save"))
+2025-07-21 15:29:57.251 DEBUG t.TC06_Validation_Fields_ExceedsLimit    - 4: verifyTextPresent(G_Validation_Field1_ExceedsLimit, false)
+2025-07-21 15:29:57.501 DEBUG t.TC06_Validation_Fields_ExceedsLimit    - 5: verifyTextPresent(G_Validation_Field2_ExceedsLimit, false)
+2025-07-21 15:29:57.753 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Departments/TC06_Validation_Fields_ExceedsLimit
+2025-07-21 15:29:58.109 INFO  c.k.katalon.core.main.TestSuiteExecutor  - --------------------
+2025-07-21 15:29:58.109 INFO  c.k.katalon.core.main.TestSuiteExecutor  - END Test Suites/Departments/TS_Departments_CustomFieldSettings
+2025-07-21 15:29:58.109 INFO  c.k.katalon.core.main.TestSuiteExecutor  - ====================

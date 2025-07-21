@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_valid Input value 2</name>
+   <tag></tag>
+   <elementGuidId>d6429125-9e5b-4bdd-89da-37ad81ab0dff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='frmDepartmentDetailEdit']/div[4]/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;valid Input value 2:&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>740bd751-a6dc-46f2-9414-811521ff186c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>department_CustomFields_1_CustomField</value>
+      <webElementGuid>7887c92c-ee95-4d29-b288-ac83aa46fd3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>768914bc-3cc9-4f36-9308-8cecaf048a40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>valid Input value 2:</value>
+      <webElementGuid>16532bd4-6626-4aee-86f8-4833f01244ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmDepartmentDetailEdit&quot;)/div[@class=&quot;form__row u-flex&quot;]/div[@class=&quot;form__row&quot;]/div[@class=&quot;form__label-group&quot;]/label[@class=&quot;label&quot;]</value>
+      <webElementGuid>72c558a0-139a-456e-af31-55fe0707c450</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmDepartmentDetailEdit']/div[4]/div/div/label</value>
+      <webElementGuid>5c26f3a6-ffd0-4371-a868-9298571036d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Effective Date:'])[1]/following::label[1]</value>
+      <webElementGuid>f9a54af5-ce0f-4350-b6ab-50a898943ef7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valid Input Value 1:'])[1]/following::label[2]</value>
+      <webElementGuid>2ac7419e-3cdd-47fb-bae7-31cd01081a57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Effective Date:'])[2]/preceding::label[1]</value>
+      <webElementGuid>8a35607c-6e83-41b4-bee9-5eab89238428</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remittance Account:'])[1]/preceding::label[2]</value>
+      <webElementGuid>ccfafe29-b8a7-43af-92e8-16eb725416eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='valid Input value 2:']/parent::*</value>
+      <webElementGuid>f7141653-b7b0-4245-91a6-18fe36aeef58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/label</value>
+      <webElementGuid>e6054af2-7573-4dfd-a15f-86540be13da4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'valid Input value 2:' or . = 'valid Input value 2:')]</value>
+      <webElementGuid>02d868df-5eda-4a70-b4f9-414dd3a04d8d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

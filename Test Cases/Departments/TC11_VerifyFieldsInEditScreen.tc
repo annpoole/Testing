@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify fields in Department Edit screen</description>
+   <name>TC11_VerifyFieldsInEditScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5395b2ba-2ac4-4900-a57c-e19babc1256b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Entered field values visible in Payroll department table</description>
+   <name>TC13_VerifyTableFieldValues</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>943a5f10-0b38-4b04-ad48-6078b760f62f</testCaseGuid>
+</TestCaseEntity>

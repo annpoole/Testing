@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>validation if Field 1 &amp; 2 has invalid special characters like %, {</description>
+   <name>TC07_Validation_Fields_SpecialChars</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e7c1e8b0-6ba5-45cb-a91b-5fdef4c1f289</testCaseGuid>
+</TestCaseEntity>

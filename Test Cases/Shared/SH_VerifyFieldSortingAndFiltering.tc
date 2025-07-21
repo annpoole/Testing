@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Fields should support filtering and sorting</description>
+   <name>SH_VerifyFieldSortingAndFiltering</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dfaf21f2-d28e-4992-a214-7d1064d0cba1</testCaseGuid>
+</TestCaseEntity>

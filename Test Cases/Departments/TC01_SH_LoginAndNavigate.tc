@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>login and switch org</description>
+   <name>TC01_SH_LoginAndNavigate</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>521e6318-e23d-4bd4-8abb-872c3769dbf7</testCaseGuid>
+</TestCaseEntity>

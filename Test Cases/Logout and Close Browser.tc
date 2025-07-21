@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Logout and Close Browser</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>00699378-9bfe-4736-b3ac-87a80feba00a</testCaseGuid>
-</TestCaseEntity>

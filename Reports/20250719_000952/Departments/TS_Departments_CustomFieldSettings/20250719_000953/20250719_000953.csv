@@ -1,0 +1,41 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_Departments_CustomFieldSettings,Chrome 138.0.7204.101,,,19-07-2025 00:09:56,19-07-2025 00:11:08,1m - 11.787s,FAILED
+,,,,,,,
+Test Cases/Departments/TC01_SH_LoginAndNavigate,Chrome 138.0.7204.101,login and switch org,,19-07-2025 00:09:56,19-07-2025 00:10:42,46.090s,PASSED
+"callTestCase(findTestCase(""Shared/Login""), [:], STOP_ON_FAILURE)",Chrome 138.0.7204.101,,,19-07-2025 00:09:57,19-07-2025 00:10:12,15.303s,PASSED
+"callTestCase(findTestCase(""Shared/Navigate(Switch Org)""), [:], STOP_ON_FAILURE)",Chrome 138.0.7204.101,,,19-07-2025 00:10:12,19-07-2025 00:10:42,30.452s,PASSED
+,,,,,,,
+Test Cases/Departments/TC02_VerifyManageDepartmentFields,Chrome 138.0.7204.101,Check button existence & navigation,,19-07-2025 00:10:42,19-07-2025 00:10:50,7.423s,PASSED
+"click(findTestObject(""Object Repository/Departments/TC02_VerifyManageDepartmentFields/Page_IBEX Payroll - Home/div_Darryl Stewart                         _d15389""))",Chrome 138.0.7204.101,,,19-07-2025 00:10:42,19-07-2025 00:10:43,0.303s,PASSED
+"click(findTestObject(""Object Repository/Departments/TC02_VerifyManageDepartmentFields/Page_IBEX Payroll - Home/a_business Organization Details""))",Chrome 138.0.7204.101,,,19-07-2025 00:10:43,19-07-2025 00:10:44,1.202s,PASSED
+"click(findTestObject(""Object Repository/Departments/TC02_VerifyManageDepartmentFields/Page_IBEX Payroll - Organization Detail/a_Payroll Departments""))",Chrome 138.0.7204.101,,,19-07-2025 00:10:44,19-07-2025 00:10:46,1.861s,PASSED
+"click(findTestObject(""Object Repository/Departments/TC02_VerifyManageDepartmentFields/Page_IBEX Payroll - Organization Payroll De_204c37/a_Manage Department Fields""))",Chrome 138.0.7204.101,,,19-07-2025 00:10:46,19-07-2025 00:10:50,4.003s,PASSED
+,,,,,,,
+Test Cases/Departments/TC03_VerifyCustomFieldOptions,Chrome 138.0.7204.101,Check UI shows two custom field options,,19-07-2025 00:10:50,19-07-2025 00:10:59,8.872s,PASSED
+"findWebElement(findTestObject(""Object Repository/Departments/TC03_VerifyCustomFieldOotions/Page_IBEX Payroll - Manage Department Field/label_Custom Department Field 1""))",Chrome 138.0.7204.101,,,19-07-2025 00:10:50,19-07-2025 00:10:53,3.354s,PASSED
+"findWebElement(findTestObject(""Object Repository/Departments/TC03_VerifyCustomFieldOotions/Page_IBEX Payroll - Manage Department Field/label_Custom Department Field 2""))",Chrome 138.0.7204.101,,,19-07-2025 00:10:53,19-07-2025 00:10:59,5.462s,PASSED
+,,,,,,,
+Test Cases/Departments/TC04_CheckboxBehavior,Chrome 138.0.7204.101,Ensure checkboxes can be toggled freely,,19-07-2025 00:10:59,19-07-2025 00:11:00,1.442s,PASSED
+"click(findTestObject(""Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field Settings_fiel_da0194""))",Chrome 138.0.7204.101,,,19-07-2025 00:10:59,19-07-2025 00:10:59,0.308s,PASSED
+"verifyElementChecked(findTestObject(""Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field Settings_fiel_da0194""), 0)",Chrome 138.0.7204.101,,,19-07-2025 00:10:59,19-07-2025 00:10:59,0.260s,PASSED
+"click(findTestObject(""Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field02Enabled""))",Chrome 138.0.7204.101,,,19-07-2025 00:10:59,19-07-2025 00:11:00,0.306s,PASSED
+"verifyElementChecked(findTestObject(""Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field02Enabled""), 0)",Chrome 138.0.7204.101,,,19-07-2025 00:11:00,19-07-2025 00:11:00,0.251s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value""))",Chrome 138.0.7204.101,,,19-07-2025 00:11:00,19-07-2025 00:11:00,0.258s,PASSED
+,,,,,,,
+Test Cases/Departments/TC05_Validation_Fields_Empty,Chrome 138.0.7204.101,save validations,,19-07-2025 00:11:00,19-07-2025 00:11:02,2.189s,PASSED
+"setText(findTestObject(""Object Repository/Departments/TC06_Validation_Fields_ExceedsLimit/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value""), """")",Chrome 138.0.7204.101,,,19-07-2025 00:11:00,19-07-2025 00:11:01,0.568s,PASSED
+"setText(findTestObject(""Object Repository/Departments/TC06_Validation_Fields_ExceedsLimit/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 2_field02Value""), """")",Chrome 138.0.7204.101,,,19-07-2025 00:11:01,19-07-2025 00:11:01,0.549s,PASSED
+"click(findTestObject(""Object Repository/Departments/TC06_Validation_Fields_ExceedsLimit/Page_IBEX Payroll - Manage Department Field/button_Save""))",Chrome 138.0.7204.101,,,19-07-2025 00:11:01,19-07-2025 00:11:02,0.294s,PASSED
+"verifyTextPresent(G_validation_Field1_Empty, false)",Chrome 138.0.7204.101,,,19-07-2025 00:11:02,19-07-2025 00:11:02,0.473s,PASSED
+"verifyTextPresent(G_validation_Field2_Empty, false)",Chrome 138.0.7204.101,,,19-07-2025 00:11:02,19-07-2025 00:11:02,0.256s,PASSED
+,,,,,,,
+Test Cases/Departments/TC06_Validation_Fields_ExceedsLimit,Chrome 138.0.7204.101,Custom field validation on input length/symbols,,19-07-2025 00:11:02,19-07-2025 00:11:05,2.600s,PASSED
+"setText(findTestObject(""Object Repository/Departments/TC05_Validation_Fields_Empty/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value""), G_LongTextInput)",Chrome 138.0.7204.101,,,19-07-2025 00:11:02,19-07-2025 00:11:03,0.746s,PASSED
+"setText(findTestObject(""Object Repository/Departments/TC05_Validation_Fields_Empty/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 2_field02Value""), G_LongTextInput)",Chrome 138.0.7204.101,,,19-07-2025 00:11:03,19-07-2025 00:11:04,0.786s,PASSED
+"click(findTestObject(""Object Repository/Departments/TC05_Validation_Fields_Empty/Page_IBEX Payroll - Manage Department Field/button_Save""))",Chrome 138.0.7204.101,,,19-07-2025 00:11:04,19-07-2025 00:11:04,0.496s,PASSED
+"verifyTextPresent(G_Validation_Field1_ExceedsLimit, false)",Chrome 138.0.7204.101,,,19-07-2025 00:11:04,19-07-2025 00:11:05,0.254s,PASSED
+"verifyTextPresent(G_Validation_Field2_ExceedsLimit, false)",Chrome 138.0.7204.101,,,19-07-2025 00:11:05,19-07-2025 00:11:05,0.249s,PASSED
+,,,,,,,
+Test Cases/Departments/TC07_Validation_Fields_SpecialChars,Chrome 138.0.7204.101,"validation if Field 1 & 2 has invalid special characters like %, {",,19-07-2025 00:11:07,19-07-2025 00:11:07,0.523s,FAILED
+"clearText(findTestObject(""Departments/TC07_validation_Fields_SpecialChars/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value""))",Chrome 138.0.7204.101,,,19-07-2025 00:11:07,19-07-2025 00:11:07,0.285s,PASSED
+"setText(findTestObject(""Object Repository/Departments/TC08_validation_Fields_SpecialChars/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value""), ""%<>{}"")",Chrome 138.0.7204.101,,,19-07-2025 00:11:07,19-07-2025 00:11:07,0.227s,FAILED

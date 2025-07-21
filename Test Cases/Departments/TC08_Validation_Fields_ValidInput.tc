@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Field 1 &amp; 2 enabled and filled with valid input → should save</description>
+   <name>TC08_Validation_Fields_ValidInput</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cb8602eb-458b-4900-a884-bafaeebd9cec</testCaseGuid>
+</TestCaseEntity>

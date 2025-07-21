@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_business Organization Details</name>
+   <tag></tag>
+   <elementGuidId>ebdcc063-e927-40c8-9e3e-053b032ec4ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(2) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='js-user-menu']/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;business Organization Details&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e64816e8-1c0a-4e54-ad30-b89ebd1890db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Edge8/Everest/OrganizationDetail/Edit.mr?organizationId=5dce93b4-174e-439e-97ad-1892817d900d</value>
+      <webElementGuid>8619a322-778d-42b0-a39c-46106d65f721</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>business Organization Details</value>
+      <webElementGuid>5cc93ffc-1a07-4155-b7d7-89d40d68ab9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;js-user-menu&quot;)/ul[@class=&quot;header-menu__list&quot;]/li[2]/a[1]</value>
+      <webElementGuid>0fd5c898-5ceb-4a8d-8e5d-34d65ae5cec2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='js-user-menu']/ul/li[2]/a</value>
+      <webElementGuid>7039612c-b50a-4122-8aab-9ee0020f5d04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='swap_horiz'])[1]/following::a[1]</value>
+      <webElementGuid>62df96ae-6f81-4b48-b432-1680774313bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Organization Details']/parent::*</value>
+      <webElementGuid>ef5ad5f3-11da-4f85-8e06-e1976163949c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Edge8/Everest/OrganizationDetail/Edit.mr?organizationId=5dce93b4-174e-439e-97ad-1892817d900d')]</value>
+      <webElementGuid>47d81017-6efe-4557-b1c0-ab72c2366b76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>57da972a-ef05-4851-843e-e5052170ae6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Edge8/Everest/OrganizationDetail/Edit.mr?organizationId=5dce93b4-174e-439e-97ad-1892817d900d' and (text() = 'business Organization Details' or . = 'business Organization Details')]</value>
+      <webElementGuid>c5ff7c5c-2606-4e89-a78d-f65026260c98</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

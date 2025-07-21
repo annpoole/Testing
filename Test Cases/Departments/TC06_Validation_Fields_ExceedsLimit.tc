@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Custom field validation on input length/symbols</description>
+   <name>TC06_Validation_Fields_ExceedsLimit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>946df90c-a65d-415a-8f17-f351ffbe4125</testCaseGuid>
+</TestCaseEntity>

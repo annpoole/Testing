@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC10_VerifyColumnsAfterField1Enabled</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>658f5914-ff2b-401b-ba24-b1c5b250efe4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Return to Organization Payroll Departments</name>
+   <tag></tag>
+   <elementGuidId>cd4450c6-954d-4188-b0cd-0cb50055ea82</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.checkDirty</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'&lt;&lt; Return to Organization: Payroll Departments')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;&lt;&lt; Return to Organization: Payroll Departments&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4fdabe13-715f-4761-87d4-dbf94538103e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkDirty</value>
+      <webElementGuid>230c6587-5c62-46ef-8ea1-5e3b0b1115b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/edge8/everest/DepartmentDetail/Back.mr</value>
+      <webElementGuid>18211e44-dbd8-48a9-9ef4-cdcb71a019d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>&lt;&lt; Return to Organization: Payroll Departments</value>
+      <webElementGuid>657f7aed-00a3-46ee-bd84-fe8dc4148e0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;material-icons--loaded&quot;]/body[@class=&quot;body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;work-surface&quot;]/div[@class=&quot;work-surface__content&quot;]/div[@class=&quot;work-surface__content-inner&quot;]/div[@class=&quot;back-link&quot;]/a[@class=&quot;checkDirty&quot;]</value>
+      <webElementGuid>739ca310-51c8-4d96-9985-9438b0400c29</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'&lt;&lt; Return to Organization: Payroll Departments')]</value>
+      <webElementGuid>2465d974-5fa4-446d-9905-8b61d59fc361</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='chevron_right'])[1]/following::a[1]</value>
+      <webElementGuid>3903f17f-e4db-4d86-8e74-44c953f589d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employees'])[1]/following::a[1]</value>
+      <webElementGuid>8e204743-ca90-48b1-ab1c-a48edf88dd4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details'])[1]/preceding::a[1]</value>
+      <webElementGuid>d51d11ba-5da3-44df-ac76-142c6460582b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='&lt;&lt; Return to Organization: Payroll Departments']/parent::*</value>
+      <webElementGuid>ac664f42-5064-44a6-8d28-a65d27f323fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/edge8/everest/DepartmentDetail/Back.mr')]</value>
+      <webElementGuid>48c473b4-bd1d-4a37-8a79-54016baabcd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>5ef7e3a5-4fee-4a6e-8f6c-2ab6d1d67393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/edge8/everest/DepartmentDetail/Back.mr' and (text() = '&lt;&lt; Return to Organization: Payroll Departments' or . = '&lt;&lt; Return to Organization: Payroll Departments')]</value>
+      <webElementGuid>534440b9-2eab-44d3-a7be-520d99eb62cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

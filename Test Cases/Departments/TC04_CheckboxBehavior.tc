@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure checkboxes can be toggled freely</description>
+   <name>TC04_CheckboxBehavior</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>21b9e2a9-9760-4f0a-b44d-c9617d57c610</testCaseGuid>
+</TestCaseEntity>
