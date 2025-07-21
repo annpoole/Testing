@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>filter working</description>
+   <name>TC14_VerifyCustomFieldFilter</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3ed5bd19-858a-4426-b409-a7b099b4bf96</testCaseGuid>
+</TestCaseEntity>

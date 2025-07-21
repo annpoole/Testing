@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>Fields should support filtering and sorting</description>
-   <name>SH_VerifyFieldSortingAndFiltering</name>
+   <name>SH_VerifyFieldSorting</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>

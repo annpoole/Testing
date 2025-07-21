@@ -17,13 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Shared/SH_Login'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('Shared/SH_Navigate(Switch Org)'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.rightClick(findTestObject('Object Repository/Shared/SH_VerifyFieldSortingAndFiltering/Page_IBEX Payroll - Organization Payroll De_204c37/th_Field Header 1'))
-
-WebUI.click(findTestObject('Object Repository/Shared/SH_VerifyFieldSortingAndFiltering/Page_IBEX Payroll - Organization Payroll De_204c37/td_value _'))
-
-
-

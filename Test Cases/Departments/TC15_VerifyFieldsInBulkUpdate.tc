@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC15_VerifyFieldsInBulkUpdate</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2b5a6c77-1e89-4de6-bb65-4c40dbdce996</testCaseGuid>
+</TestCaseEntity>
