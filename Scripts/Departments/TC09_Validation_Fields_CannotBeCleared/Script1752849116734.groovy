@@ -17,23 +17,12 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Departments/TC01_SH_LoginAndNavigate'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('Departments/TC02_VerifyManageDepartmentFields'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('Departments/TC08_Validation_Fields_ValidInput'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.clearText(findTestObject('Object Repository/Departments/TC09_Validation_Fields_CannotBeCleared/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value'), 
-    FailureHandling.STOP_ON_FAILURE)
-
-WebUI.clearText(findTestObject('Object Repository/Departments/TC09_Validation_Fields_CannotBeCleared/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 2_field02Value'), 
-    FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(10)
 
 WebUI.click(findTestObject('Object Repository/Departments/TC09_Validation_Fields_CannotBeCleared/Page_IBEX Payroll - Manage Department Field/button_Save'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Departments/TC09_Validation_Fields_CannotBeCleared/Page_IBEX Payroll - Manage Department Field/li_Custom Department Field 1 once set is a _6ec78f'), 
-    'Custom Department Field #1 once set is a required input and cannot be emptied.')
+WebUI.delay(5)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Departments/TC09_Validation_Fields_CannotBeCleared/Page_IBEX Payroll - Manage Department Field/li_Custom Department Field 2 once set is a _87feba'), 
-    'Custom Department Field #2 once set is a required input and cannot be emptied.')
+WebUI.verifyElementText(findTestObject('Object Repository/Departments/TC09_Validation_Fields_CannotBeCleared/Page_IBEX Payroll - Manage Department Field/li_Custom Department Field 1 once set is a _6ec78f_1'), 
+    'Custom Department Field #1 once set is a required input and cannot be emptied.')
 

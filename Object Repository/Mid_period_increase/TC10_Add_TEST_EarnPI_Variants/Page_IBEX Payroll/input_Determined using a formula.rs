@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Determined using a formula</name>
+   <tag></tag>
+   <elementGuidId>62ca916f-58a8-428e-99f0-6b1d4e84babe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#isDefaultFormula</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'isDefaultFormula']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Determined using a formula&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>deb97843-36fc-4a51-955c-aff4662629db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>radio</value>
+      <webElementGuid>18c4bca0-ba5d-4cc3-a238-769f4ef144e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>isDefaultFormula</value>
+      <webElementGuid>88fab436-2a6a-4499-b48a-46b383cb3afe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>IsDefaultFormula</value>
+      <webElementGuid>05622905-b2ec-44e0-805b-5c3913a9a6a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-radio ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>f9588548-815e-4e9b-b578-573293cf47f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Determined using a formula</value>
+      <webElementGuid>897a50fd-55d7-4fa4-a2ad-fc4df34c7f6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-fd6c0da1fd957d51bed13f9caff9ea13</value>
+      <webElementGuid>f5770bd6-fb99-4dfa-9953-0fe7f20a4542</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'isDefaultFormula']</value>
+      <webElementGuid>29d6c340-f098-4cdb-9eb2-b47ed773b386</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'isDefaultFormula']</value>
+      <webElementGuid>05aa44b0-2e63-446f-ad6e-6ca175afe4fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'radio' and @id = 'isDefaultFormula' and (text() = 'Determined using a formula' or . = 'Determined using a formula')]</value>
+      <webElementGuid>c888fc5d-fa26-4db5-a325-6c393ef5800a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

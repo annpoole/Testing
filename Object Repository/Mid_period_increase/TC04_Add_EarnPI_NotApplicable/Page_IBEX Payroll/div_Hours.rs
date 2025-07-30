@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hours</name>
+   <tag></tag>
+   <elementGuidId>95ac73f7-5125-4e1b-bd95-aaf524d25b25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.ng-star-inserted.fw-select-option[_ngcontent-ng-c2297508803=&quot;&quot;]:nth-child(1)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ng-star-inserted ') and contains(concat(' ', normalize-space(@class), ' '), ' fw-select-option ') and (@_ngcontent-ng-c2297508803 = '') and (position() = 1)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#cdk-overlay-0 >> internal:text=&quot;-- Select Schedule --&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d95eb4c8-3c8d-431c-8972-265371c42de8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fw-select-option fw-select-option--selected ng-star-inserted</value>
+      <webElementGuid>208a6cad-03fc-4b29-8616-8930813b844d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hours</value>
+      <webElementGuid>aa4a62ff-9e4d-4630-9de9-8381792c3d4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>-- Select Schedule --</value>
+      <webElementGuid>3770aa04-48e9-4851-b7df-d43593b69649</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-01aa307539a2ecd7791201d1bd8d4c4c</value>
+      <webElementGuid>63e5b14f-9428-41bf-b7c2-0a07f7fd5510</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ng-star-inserted ') and contains(concat(' ', normalize-space(@class), ' '), ' fw-select-option ') and (@_ngcontent-ng-c2297508803 = '') and (position() = 1)]</value>
+      <webElementGuid>98dd2987-f2e9-4daf-917b-c032aaf68ea1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ng-star-inserted ') and contains(concat(' ', normalize-space(@class), ' '), ' fw-select-option ') and (@_ngcontent-ng-c2297508803 = '') and (position() = 1)]</value>
+      <webElementGuid>1972c8c6-7523-43cc-97ce-fd4d4bd61a4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Hours' or . = 'Hours')]</value>
+      <webElementGuid>2a796227-9a01-495e-adfc-2deaf0df14f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_headerOrganizationName</name>
+   <tag></tag>
+   <elementGuidId>261f15b1-09b8-4fed-bb2b-e84f4c593214</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#headerOrganizationName</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'headerOrganizationName']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Client 100&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ddbdeb46-a7cc-4523-b388-fa102cede9f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header-menu__organization</value>
+      <webElementGuid>5f718e17-79fa-4f10-b4ce-8948c07b05e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>headerOrganizationName</value>
+      <webElementGuid>904b2859-7831-4567-9b06-7e9650ef499f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>headerOrganizationName</value>
+      <webElementGuid>c8e8037e-e2cd-431a-bed6-ad6598924b8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>Client 100</value>
+      <webElementGuid>7c7274f0-9915-429e-aada-7ddd9bbb234e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-91996576b8b90e20b1e6f2b70144ac8f</value>
+      <webElementGuid>f4e962b1-c973-4433-9fdc-3a0e7d339d69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'headerOrganizationName']</value>
+      <webElementGuid>ec6905ab-436b-4574-a183-f7ae7f591436</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'headerOrganizationName']</value>
+      <webElementGuid>9b94e4d2-8425-4278-bb13-15cc3a83a558</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'headerOrganizationName' and (text() = 'headerOrganizationName' or . = 'headerOrganizationName')]</value>
+      <webElementGuid>45f0d6a0-8ee6-412b-b995-b4df71df1195</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

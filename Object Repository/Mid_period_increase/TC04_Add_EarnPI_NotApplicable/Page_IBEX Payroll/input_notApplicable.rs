@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_notApplicable</name>
+   <tag></tag>
+   <elementGuidId>bd79b2d3-b7c1-46cc-92f7-7cd785f39eb1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#notApplicable</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'notApplicable']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Not applicable&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>98b4b96d-ebf6-4a05-a2b1-f018df6221c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>radio</value>
+      <webElementGuid>99d36efb-69fb-4515-a87c-315b6bf3553e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>notApplicable</value>
+      <webElementGuid>79fac6e0-73ca-4717-bbfc-7e575833010e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>PayRateCategoryCode</value>
+      <webElementGuid>33c875a5-a040-4f9c-a914-69cfbf853192</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-radio ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>81241c47-17e8-41e3-b320-fba9e1465141</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>notApplicable</value>
+      <webElementGuid>ec26b219-9692-4011-a60e-3dcf1f733077</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-4049676b09313c6fef5e56e62b3498a8</value>
+      <webElementGuid>845a2900-15cf-420f-889e-d9ebfb03e027</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'notApplicable']</value>
+      <webElementGuid>e8a4ddb2-9b1f-4114-9c27-a31f2fa8fa1f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'notApplicable']</value>
+      <webElementGuid>c6420241-c10e-45d2-aa28-e9fe0ff2b8a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'radio' and @id = 'notApplicable' and (text() = 'notApplicable' or . = 'notApplicable')]</value>
+      <webElementGuid>88aa75a4-b8a6-45e4-858b-17eacace0ac3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -10,8 +10,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//table[@id='departmentsGrid']//th[normalize-space(text())='${GlobalVariable.G_Custom_Value01}']&#xd;
-</value>
+         <value>//table[@id='departmentsGrid']/thead/tr/th[6]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

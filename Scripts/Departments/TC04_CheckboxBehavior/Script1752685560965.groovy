@@ -20,12 +20,12 @@ import org.openqa.selenium.Keys as Keys
 WebUI.click(findTestObject('Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field Settings_fiel_da0194'))
 
 WebUI.verifyElementChecked(findTestObject('Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field Settings_fiel_da0194'), 
-    0)
+    4)
 
 WebUI.click(findTestObject('Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field02Enabled'))
 
 WebUI.verifyElementChecked(findTestObject('Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field02Enabled'), 
-    0)
+    4)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Departments/TC04_CheckboxBehavior/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value'))
 

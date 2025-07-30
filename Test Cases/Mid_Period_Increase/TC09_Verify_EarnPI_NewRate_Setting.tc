@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate persistence of setting of new rate</description>
+   <name>TC09_Verify_EarnPI_NewRate_Setting</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1d888195-1184-4b31-925f-24455d4fb335</testCaseGuid>
+</TestCaseEntity>

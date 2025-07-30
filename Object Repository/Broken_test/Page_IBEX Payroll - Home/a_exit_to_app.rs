@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_exit_to_app</name>
+   <tag></tag>
+   <elementGuidId>762e74f3-a5cc-407e-b3af-7612ac9610b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.header-menu__list .menuItem:nth-child(9) a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' header-menu__list ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' menuItem ') and (position() = 9)]//a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;exit_to_app Log Out&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3dd0767b-ff80-4e10-a4bf-d1673fdc5e0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Edge8/Everest/Logout/Logout.mr</value>
+      <webElementGuid>b0357162-5ec9-438e-9e69-b977886a995d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>exit_to_app</value>
+      <webElementGuid>0e123dbe-1824-4fca-825c-56b7e17ed8a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>exit_to_app
+Log Out</value>
+      <webElementGuid>4c09b2e2-ae59-4746-af8c-03d2cadca46e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-9f501ca31eff00d0272ba3a5f15ebca8</value>
+      <webElementGuid>451fbe6e-0473-4cae-9e66-d6341db8e86e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' header-menu__list ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' menuItem ') and (position() = 9)]//a</value>
+      <webElementGuid>6ea021d7-fe6c-4e97-baf8-2d1be18bd68a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' header-menu__list ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' menuItem ') and (position() = 9)]//a</value>
+      <webElementGuid>ff33c3a2-3f0d-4d06-a50d-59e8b9fa4b54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Edge8/Everest/Logout/Logout.mr' and (text() = 'exit_to_app' or . = 'exit_to_app')]</value>
+      <webElementGuid>92c0250a-95c5-486f-bbb2-bcd4ab1ffceb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

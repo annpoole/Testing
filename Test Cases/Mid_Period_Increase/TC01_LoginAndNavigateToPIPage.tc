@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login and land on Payroll Instruction page</description>
+   <name>TC01_LoginAndNavigateToPIPage</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>52810b2a-aad6-4422-bc31-db56efe21a48</testCaseGuid>
+</TestCaseEntity>

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//table[@id='departmentsGrid']/tbody/tr/td[9]/span/a</value>
+         <value>//a[contains(text(),'Edit')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Old pay rate</name>
+   <tag></tag>
+   <elementGuidId>245985b7-75e7-439b-b498-c7f5ed5c6ab2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#oldPayRate</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'oldPayRate']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Old pay rate&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>c5d45930-70ec-41b1-82ce-7ddcbe36c785</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>radio</value>
+      <webElementGuid>dc757375-028f-4ecd-a425-61a033c7277f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>oldPayRate</value>
+      <webElementGuid>77c56b91-55e5-4f5c-9ec5-3bf18ea625cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>OLDPAYRATE</value>
+      <webElementGuid>72c765b8-78fe-4d38-9390-60cdb284b47d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>PayRateCategoryCode</value>
+      <webElementGuid>9578d17b-7334-4e74-9a36-f7995314a900</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-radio ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>589310a7-d5ed-4836-aaa1-8d74c3a21d8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Old pay rate</value>
+      <webElementGuid>5280a40d-bf60-41fe-bcca-dbfc8d84eb01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-513095f8f4ea215f00b93c291b8d2892</value>
+      <webElementGuid>dfc92ac0-e86c-4ab9-b294-77fa5e0782ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'oldPayRate']</value>
+      <webElementGuid>b41574c3-8ddc-48ed-9cd9-12a49f9707a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'oldPayRate']</value>
+      <webElementGuid>ae8309b5-facd-4176-bac1-2fe11b74e67d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'radio' and @id = 'oldPayRate' and (text() = 'Old pay rate' or . = 'Old pay rate')]</value>
+      <webElementGuid>d07dccca-6c76-482e-8e14-e2062f2ad343</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

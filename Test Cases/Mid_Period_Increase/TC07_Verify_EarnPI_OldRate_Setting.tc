@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>confirming selection saved correctly</description>
+   <name>TC07_Verify_EarnPI_OldRate_Setting</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c3603de7-32df-4daf-b280-7d425fbaead0</testCaseGuid>
+</TestCaseEntity>

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>f39cf61c-8add-4e13-8e9f-0bec003e04dc</webElementGuid>
+      <webElementGuid>ab5619a2-0f02-44b6-9905-e2ab3daaf346</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>dfb7d540-4021-4fdf-92d3-d1f619e9e702</webElementGuid>
+      <webElementGuid>29bde143-b0bd-4b24-bfa6-9e01b9e7e1d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>txt_field02</value>
-      <webElementGuid>10110030-1b23-4bd8-bed3-e838a85dd3df</webElementGuid>
+      <webElementGuid>f7ddc785-3a0d-4b39-a433-042fedcb809a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>field02Value</value>
-      <webElementGuid>148f236a-8b9f-436a-8cb1-6d38046ebd59</webElementGuid>
+      <webElementGuid>6f0c8d0d-a7ea-4b61-b536-567d5f9b13e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input-text ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>f67e3a38-393e-4919-8ad5-687215da533b</webElementGuid>
+      <webElementGuid>a11d0ade-8280-4eef-adf7-1b6ec640f1fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;txt_field02&quot;)</value>
-      <webElementGuid>d6965f49-e7a1-4ebf-9ba5-acfa0467b082</webElementGuid>
+      <webElementGuid>73b2e345-78c6-454f-81e1-ade1f8958358</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='txt_field02']</value>
-      <webElementGuid>eda9e60b-c09f-4df1-8c71-b96fa80c56eb</webElementGuid>
+      <webElementGuid>da787743-50b9-4e45-859d-40b250df47f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/input</value>
-      <webElementGuid>9172c902-aedb-407f-8ac5-d1447060f188</webElementGuid>
+      <webElementGuid>b5927c82-87d9-4b42-b63e-a6f5334f5086</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'txt_field02' and @name = 'field02Value']</value>
-      <webElementGuid>4f233c83-4c3c-4c82-9cb5-72715b5cd68e</webElementGuid>
+      <webElementGuid>17f4921f-6656-43b4-9e48-05eaa46d15cf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

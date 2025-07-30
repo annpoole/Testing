@@ -1,6 +1,0 @@
-{"testCaseName":"Test Cases/Departments/TC01_SH_LoginAndNavigate","testCaseId":"Test Cases/Departments/TC01_SH_LoginAndNavigate","iterationVariableName":""}
-{"testCaseName":"Test Cases/Departments/TC02_VerifyManageDepartmentFields","testCaseId":"Test Cases/Departments/TC02_VerifyManageDepartmentFields","iterationVariableName":""}
-{"testCaseName":"Test Cases/Departments/TC03_VerifyCustomFieldOptions","testCaseId":"Test Cases/Departments/TC03_VerifyCustomFieldOptions","iterationVariableName":""}
-{"testCaseName":"Test Cases/Departments/TC04_CheckboxBehavior","testCaseId":"Test Cases/Departments/TC04_CheckboxBehavior","iterationVariableName":""}
-{"testCaseName":"Test Cases/Departments/TC05_Validation_Fields_Empty","testCaseId":"Test Cases/Departments/TC05_Validation_Fields_Empty","iterationVariableName":""}
-{"testCaseName":"Test Cases/Departments/TC06_Validation_Fields_ExceedsLimit","testCaseId":"Test Cases/Departments/TC06_Validation_Fields_ExceedsLimit","iterationVariableName":""}

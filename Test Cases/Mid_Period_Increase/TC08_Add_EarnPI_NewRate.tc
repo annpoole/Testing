@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Use same formula but select &quot;New Rate&quot; to test new logic</description>
+   <name>TC08_Add_EarnPI_NewRate</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0941e020-bfde-4a09-ba65-6756aa79bccd</testCaseGuid>
+</TestCaseEntity>

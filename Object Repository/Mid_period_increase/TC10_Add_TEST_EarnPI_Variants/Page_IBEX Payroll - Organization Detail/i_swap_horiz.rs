@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_swap_horiz</name>
+   <tag></tag>
+   <elementGuidId>15a829d5-d96c-4dc6-8618-cf62ca03f269</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#contextSwitch--navheader i</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'contextSwitch--navheader']//i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;swap_horiz Switch&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>86970c71-24ce-430b-bc5f-32183913e7ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons</value>
+      <webElementGuid>95bca12e-182d-483a-a628-e51233279012</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>swap_horiz</value>
+      <webElementGuid>6e340ff2-67c3-40df-8cf9-7fd3439a056c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>swap_horiz</value>
+      <webElementGuid>14656950-c9fd-4272-a9c0-8f8a474991a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-2e0b8d6879bcf1a85b2bf30db30cdbde</value>
+      <webElementGuid>26723d9e-ae58-4a1b-a335-ae04dfff094f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'contextSwitch--navheader']//i</value>
+      <webElementGuid>9847ff16-2c45-4ff8-95b0-05ae685784c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'contextSwitch--navheader']//i</value>
+      <webElementGuid>74c261f7-b4d7-4395-b20b-089f86eccfc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'swap_horiz' or . = 'swap_horiz')]</value>
+      <webElementGuid>7148602a-3e67-43c1-ba61-f548fffad4fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

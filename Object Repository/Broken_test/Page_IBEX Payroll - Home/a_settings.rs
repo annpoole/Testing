@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_settings</name>
+   <tag></tag>
+   <elementGuidId>4a51e7b5-56f0-4b97-91c4-b730cf27e1f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.header-menu__list .menuItem:nth-child(8) a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' header-menu__list ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' menuItem ') and (position() = 8)]//a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;settings Provider Settings&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>505cd979-dcf9-492b-9a24-46c92392d1fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Edge8/Everest/Provider/Index.mr</value>
+      <webElementGuid>bb871d3b-ed84-4616-b0c4-0ccd6478c89a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>settings</value>
+      <webElementGuid>8e3727ba-bfff-4fea-83cc-e11f47bb2f9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>settings
+Provider Settings</value>
+      <webElementGuid>a9bae8f7-96ce-4069-b36e-f9f7c777bcae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-b1a2f962a7bb1a832a3b39024fa7eeee</value>
+      <webElementGuid>7beceffa-b85e-4a54-9c06-2477327ac543</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' header-menu__list ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' menuItem ') and (position() = 8)]//a</value>
+      <webElementGuid>4c499a13-a83f-4634-ba33-6215382dd789</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' header-menu__list ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' menuItem ') and (position() = 8)]//a</value>
+      <webElementGuid>0643dfc4-0d48-4bf4-826e-8fe7616e8951</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Edge8/Everest/Provider/Index.mr' and (text() = 'settings' or . = 'settings')]</value>
+      <webElementGuid>0b7c4f2e-49d1-446e-9c98-19375b045219</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

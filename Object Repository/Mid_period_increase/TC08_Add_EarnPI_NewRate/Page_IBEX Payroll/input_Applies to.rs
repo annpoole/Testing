@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Applies to</name>
+   <tag></tag>
+   <elementGuidId>5fcbd789-69d1-427d-84ea-6482444bcdb7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#isAppliedToAll</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'isAppliedToAll']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Applies to:&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e6acdd1d-5704-42ab-8df7-f0013bc592ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>69e224d8-2fd5-471e-85c4-a66a14de89ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>isAppliedToAll</value>
+      <webElementGuid>dd9f8649-73ab-43d8-9a42-647d893b4b24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>IsAppliedToAll</value>
+      <webElementGuid>9444b84f-8050-46e4-8339-8658dc2de9f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-checkbox ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>e8aa8eee-5db6-46aa-bfa1-31701806e1f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Applies to</value>
+      <webElementGuid>3a14be4c-d8e2-4b0a-92b3-257f25263a59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-0e2adbcc22a1f1dadda78e6acc2984fe</value>
+      <webElementGuid>eb58b519-3f71-4fae-a1e6-dd9c98926239</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'isAppliedToAll']</value>
+      <webElementGuid>e1ae2b2a-4b35-41d2-838e-3f33dc74e322</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'isAppliedToAll']</value>
+      <webElementGuid>90de04e5-3028-464f-ac6c-672e6deb4e42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox' and @id = 'isAppliedToAll' and (text() = 'Applies to' or . = 'Applies to')]</value>
+      <webElementGuid>9b40d60d-e580-454c-a3e6-a362dedde231</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

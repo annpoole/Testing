@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Edit_1</name>
+   <tag></tag>
+   <elementGuidId>ebf9d473-ab93-4524-91d7-7d5b21c1129f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr.ng-star-inserted:nth-child(16) .ng-star-inserted.action:nth-child(1)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ng-star-inserted ') and (name() = 'tr') and (position() = 16)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ng-star-inserted ') and contains(concat(' ', normalize-space(@class), ' '), ' action ') and (position() = 1)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Test Earning 2 Earning Enabled Organization [WERATE]*([AccrualBalanceChange:YTD_INSURABLE_HRS]-[AccrualBalanceChange:YTD_OvertimePay_HRS]) 0.0000 Edit • Delete • View Details&quot;i] >> internal:role=button >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3983f4c0-849d-451e-b287-c9f1bf960af7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>action ng-star-inserted</value>
+      <webElementGuid>66307277-142c-4899-9897-069084a01651</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>616c8c95-5e0b-49cb-ab10-00d0dea36e61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>975471f7-08e6-47de-a69b-31e80a0c72e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-6b1939860246ee80ec86e9c6d7a8989a</value>
+      <webElementGuid>f96d81bd-c598-4855-9a71-95cb481eabd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ng-star-inserted ') and (name() = 'tr') and (position() = 16)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ng-star-inserted ') and contains(concat(' ', normalize-space(@class), ' '), ' action ') and (position() = 1)]</value>
+      <webElementGuid>48226e6c-5f87-4fc8-afdc-19a12cd2b031</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ng-star-inserted ') and (name() = 'tr') and (position() = 16)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ng-star-inserted ') and contains(concat(' ', normalize-space(@class), ' '), ' action ') and (position() = 1)]</value>
+      <webElementGuid>33e5763b-1da0-484c-8490-ce23bcfa5124</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Edit' or . = 'Edit')]</value>
+      <webElementGuid>3be88c8d-d9b6-4a6f-980f-a4e6a1c1c05d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

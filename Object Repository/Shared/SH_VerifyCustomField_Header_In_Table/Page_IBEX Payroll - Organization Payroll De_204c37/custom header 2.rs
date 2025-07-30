@@ -10,7 +10,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//table[@id='departmentsGrid']/thead/tr/th[7]</value>
+         <value>//*[@id=&quot;departmentsGrid&quot;]/thead/tr/th[7]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>th</value>
-      <webElementGuid>d3677236-244c-4b06-b8e0-258fd33998bb</webElementGuid>
+      <webElementGuid>78e7d799-1d87-4bb5-82e8-6a07e72fa0b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,7 +36,7 @@
       <name>class</name>
       <type>Main</type>
       <value>grid_header header</value>
-      <webElementGuid>8a8b757f-d275-44a6-ae3a-4827dac02192</webElementGuid>
+      <webElementGuid>d9361b46-43ad-4e8a-a25b-fbe95de31201</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -44,7 +44,7 @@
       <name>text</name>
       <type>Main</type>
       <value>valid Input value 2</value>
-      <webElementGuid>73672d84-ac61-4244-b479-26f669c844c6</webElementGuid>
+      <webElementGuid>e8fd81fa-318e-4b9e-a932-0ec9c6512e09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,7 +52,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;departmentsGrid&quot;)/thead[1]/tr[1]/th[@class=&quot;grid_header header&quot;]</value>
-      <webElementGuid>ca5d6d1d-fe17-4af0-bf74-3a6bbc94b0c4</webElementGuid>
+      <webElementGuid>4a7d5c20-1294-4a6f-871b-bb2c848181f0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -60,7 +60,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='departmentsGrid']/thead/tr/th[7]</value>
-      <webElementGuid>6156c7e4-1949-430a-902a-88aac8f44ede</webElementGuid>
+      <webElementGuid>af3fcb95-6623-4119-a35b-814c5f9c8824</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -68,7 +68,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Valid Input Value 1'])[1]/following::th[1]</value>
-      <webElementGuid>d06fd66f-773f-4d3a-92ea-458b17ee563c</webElementGuid>
+      <webElementGuid>96305beb-3ad5-4f3a-97fd-cc668f38730d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -76,7 +76,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::th[2]</value>
-      <webElementGuid>f331630b-83ed-4298-b47b-9ee2a36d063e</webElementGuid>
+      <webElementGuid>66d778cd-864b-4e02-bc1a-7d84fe53d08f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -84,7 +84,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Account'])[1]/preceding::th[1]</value>
-      <webElementGuid>b1d8a4c7-369e-434f-85ea-ccb7c4a9b8a2</webElementGuid>
+      <webElementGuid>31357dc7-43b0-4de6-8f45-c46b625f5daf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,7 +92,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ADMIN'])[1]/preceding::th[3]</value>
-      <webElementGuid>460dfdbe-ff97-488f-9f94-70d097932dce</webElementGuid>
+      <webElementGuid>d541db58-7476-42b6-ba5e-cd16c2cb150f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,7 +100,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='valid Input value 2']/parent::*</value>
-      <webElementGuid>c94c3b14-dd60-4e76-a4da-46522c7c3619</webElementGuid>
+      <webElementGuid>62b771e3-cbd7-4221-8e58-f6b91204e366</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,7 +108,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th[7]</value>
-      <webElementGuid>83499f5d-d49e-4a99-a356-c71ab4f21b98</webElementGuid>
+      <webElementGuid>c74a15e4-0300-4033-8635-bca42a75f78a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,6 +116,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//th[(text() = 'valid Input value 2' or . = 'valid Input value 2')]</value>
-      <webElementGuid>264ae30b-c759-46d6-880b-6f6535bfac9b</webElementGuid>
+      <webElementGuid>c20df27b-b5d4-4b1d-9e53-1d65b7828199</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

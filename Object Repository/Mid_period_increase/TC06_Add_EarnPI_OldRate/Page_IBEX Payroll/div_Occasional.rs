@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Occasional</name>
+   <tag></tag>
+   <elementGuidId>00ddbf1f-a439-40a0-8711-dcf2cb74a088</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.ng-star-inserted.fw-select-option[_ngcontent-ng-c2297508803=&quot;&quot;]:nth-child(9)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ng-star-inserted ') and contains(concat(' ', normalize-space(@class), ' '), ' fw-select-option ') and (@_ngcontent-ng-c2297508803 = '') and (position() = 9)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Occasional&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>328a4dfb-6f60-4a2f-8615-07ffda13efdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fw-select-option ng-star-inserted</value>
+      <webElementGuid>d023e07f-c1bb-4d28-af7f-32e137ec6622</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Occasional</value>
+      <webElementGuid>f9c0bc2d-d54d-4824-81be-4385aea75359</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>Occasional</value>
+      <webElementGuid>b16c2513-7ba7-4d6e-bf8e-465ab2bf6a12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-82760e024a61e9199439c7cc326f48af</value>
+      <webElementGuid>f14dd207-35f0-4306-a231-d4253882aa9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ng-star-inserted ') and contains(concat(' ', normalize-space(@class), ' '), ' fw-select-option ') and (@_ngcontent-ng-c2297508803 = '') and (position() = 9)]</value>
+      <webElementGuid>d535295c-193d-41f4-9c83-0ff6b64de167</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ng-star-inserted ') and contains(concat(' ', normalize-space(@class), ' '), ' fw-select-option ') and (@_ngcontent-ng-c2297508803 = '') and (position() = 9)]</value>
+      <webElementGuid>348e0996-f82c-4ffa-8baa-c86f9157b699</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Occasional' or . = 'Occasional')]</value>
+      <webElementGuid>d57091c9-6e16-456d-a04c-c45c75859b56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

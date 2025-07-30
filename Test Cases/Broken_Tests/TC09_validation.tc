@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>even if we clear the already set customfield it gets saved</description>
+   <name>TC09_validation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ef7f1275-b2b8-49f1-b325-5c3e2fe49969</testCaseGuid>
+</TestCaseEntity>

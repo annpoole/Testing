@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify Test earn 3-4-5 have new saved with new setting</description>
+   <name>TC10a_Verify_TEST_EarnPI_Variants_Setting</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>90761409-0575-40a8-9454-930a45c94056</testCaseGuid>
+</TestCaseEntity>

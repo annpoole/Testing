@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>if different feature flag is enabled and tab position is different it would't click the payroll</description>
+   <name>Payroll tab</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5cf110a4-7bec-4322-a619-86ffe6e92823</testCaseGuid>
+</TestCaseEntity>

@@ -28,8 +28,7 @@ WebUI.maximizeWindow()
 WebUI.setText(findTestObject('Object Repository/Shared/SH_Login/Page_IBEX Payroll - Login/input_Username_Input.Username'), 
     'uat.dstewart')
 
-WebUI.setEncryptedText(findTestObject('Shared/SH_Login/Page_IBEX Payroll - Login/input_Show Password_Input.Password'), 
-    'p4y+y39Ir5Oy1MY8jPt0uQ==')
+WebUI.setEncryptedText(findTestObject('Shared/SH_Login/Page_IBEX Payroll - Login/input_Show Password_Input.Password'), 'p4y+y39Ir5Oy1MY8jPt0uQ==')
 
 WebUI.click(findTestObject('Object Repository/Shared/SH_Login/Page_IBEX Payroll - Login/input_Remember me_Input.Button'))
 

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add Earning PI (Not Applicable)&#xd;
+&#xd;&#xd;
+Save and verify PI is created</description>
+   <name>TC04_Add_EarnPI_NotApplicable</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ae9683e0-d888-465c-8ab3-12a36b83800e</testCaseGuid>
+</TestCaseEntity>

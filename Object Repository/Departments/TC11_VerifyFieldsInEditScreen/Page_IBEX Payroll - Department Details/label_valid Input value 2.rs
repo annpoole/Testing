@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//form[@id='frmDepartmentDetailEdit']/div[4]/div/div/label</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Effective Date:'])[1]/following::label[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

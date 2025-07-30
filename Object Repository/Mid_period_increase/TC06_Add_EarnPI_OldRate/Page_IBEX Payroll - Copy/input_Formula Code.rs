@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Formula Code</name>
+   <tag></tag>
+   <elementGuidId>d966d7f4-da79-4ee4-9f82-161368b94d6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#formulaCode</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'formulaCode']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Formula Code:&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>43a2d328-1af1-41b6-a37a-31c68f47c29f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>bc52ef4d-01b6-4a2b-9f46-ca3b0bb16dc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>formulaCode</value>
+      <webElementGuid>53ecbaba-a110-4f22-ba3a-5f20801a177e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>FormulaCode</value>
+      <webElementGuid>87050595-4a25-4ea6-a1ff-0a1bab13f1f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-text ng-untouched ng-pristine ng-invalid</value>
+      <webElementGuid>77c5c9e2-d422-484b-83b5-069300628e55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Formula Code</value>
+      <webElementGuid>3d7dab57-12e7-49d6-a424-b3e7f4b83b55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-d58b1de1ad9ef82ded1b3f1c88b97baf</value>
+      <webElementGuid>05f4a99e-10fe-4fce-ac7b-716e9cde3a8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'formulaCode']</value>
+      <webElementGuid>4e0dfb31-dd06-4f2c-9d1a-c613b12e965d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'formulaCode']</value>
+      <webElementGuid>1694ba14-90b2-4498-a3c4-70e4c201bc3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'formulaCode' and (text() = 'Formula Code' or . = 'Formula Code')]</value>
+      <webElementGuid>3ff03a78-ea87-4f2b-bc06-bebc983e770c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

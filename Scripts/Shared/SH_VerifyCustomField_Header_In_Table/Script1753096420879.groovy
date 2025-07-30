@@ -17,9 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.verifyElementText(findTestObject('Object Repository/Shared/SH_VerifyCustomField_Header_In_Table/Page_IBEX Payroll - Organization Payroll De_204c37/th_Valid Input Value 1'), 
+WebUI.verifyElementText(findTestObject('Shared/SH_VerifyCustomField_Header_In_Table/Page_IBEX Payroll - Organization Payroll De_204c37/custom header 1'), 
     GlobalVariable.G_Custom_Label01)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Shared/SH_VerifyCustomField_Header_In_Table/Page_IBEX Payroll - Organization Payroll De_204c37/th_Valid Text value 2'), 
+WebUI.verifyElementText(findTestObject('Shared/SH_VerifyCustomField_Header_In_Table/Page_IBEX Payroll - Organization Payroll De_204c37/custom header 2'), 
     GlobalVariable.G_Custom_label02)
 

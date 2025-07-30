@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add new Deduction PI → Check Pay Rate options (radio buttons)</description>
+   <name>TC03_VerifyPayRateUIOnAddDedPI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7ba5a490-e924-458f-aca7-c5ea89cd5b50</testCaseGuid>
+</TestCaseEntity>

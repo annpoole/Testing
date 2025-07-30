@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_business</name>
+   <tag></tag>
+   <elementGuidId>26082e8b-7dce-497b-9de9-1d7651e7bb45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li[_ngcontent-ng-c3227670801=&quot;&quot;]:nth-child(1) .ng-star-inserted.menu-item[_ngcontent-ng-c1902129880=&quot;&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(@_ngcontent-ng-c3227670801 = '') and (name() = 'li') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ng-star-inserted ') and contains(concat(' ', normalize-space(@class), ' '), ' menu-item ') and (@_ngcontent-ng-c1902129880 = '')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;business Organization Details&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>be3436cf-5c49-4fab-8800-69ffc87620d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-item ng-tns-c1902129880-15 ng-star-inserted</value>
+      <webElementGuid>080a0bf5-bad0-4512-a2fa-93bb1579c4df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sit.ibexpayroll.com:8443/edge8/Everest/OrganizationDetail/Edit.mr?organizationId=bb4a0166-de1c-4219-ad8f-0086f46c8be6</value>
+      <webElementGuid>788316bb-9a7e-4a0a-9fa7-3dbb8bb41317</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>business</value>
+      <webElementGuid>60e9b37e-220e-464e-b2d6-48b1f9ec8136</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>business
+Organization Details</value>
+      <webElementGuid>0417d498-fea1-4a99-b26e-05b4a9331785</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-704bdff3f813b5da4aeae348a3b215f5</value>
+      <webElementGuid>1ed04011-605b-4dd4-833f-719f19007a8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(@_ngcontent-ng-c3227670801 = '') and (name() = 'li') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ng-star-inserted ') and contains(concat(' ', normalize-space(@class), ' '), ' menu-item ') and (@_ngcontent-ng-c1902129880 = '')]</value>
+      <webElementGuid>67432ba0-147b-4ce1-9ed5-4c0690097572</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(@_ngcontent-ng-c3227670801 = '') and (name() = 'li') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ng-star-inserted ') and contains(concat(' ', normalize-space(@class), ' '), ' menu-item ') and (@_ngcontent-ng-c1902129880 = '')]</value>
+      <webElementGuid>1586013e-434f-423c-92dc-17b28cb7a1ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sit.ibexpayroll.com:8443/edge8/Everest/OrganizationDetail/Edit.mr?organizationId=bb4a0166-de1c-4219-ad8f-0086f46c8be6' and (text() = 'business' or . = 'business')]</value>
+      <webElementGuid>d59dd05d-a8d4-4f8b-9b56-15bc4e41919d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

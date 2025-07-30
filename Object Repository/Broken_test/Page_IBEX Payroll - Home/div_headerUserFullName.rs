@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_headerUserFullName</name>
+   <tag></tag>
+   <elementGuidId>bd2de61d-b634-4c25-b6a7-9bf2a410aa18</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#headerUserFullName</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'headerUserFullName']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Darryl Stewart&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4b2d63c0-56e1-464f-b308-59b9dae2720d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header-menu__name</value>
+      <webElementGuid>bb7f356c-4b71-4403-9a1e-750501cb138a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>headerUserFullName</value>
+      <webElementGuid>bf0ade93-84ed-4eb3-bd5d-9360512cd39d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>headerUserFullName</value>
+      <webElementGuid>56ac97fa-1f0c-4b29-87c7-7068bb52a4d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>Darryl Stewart</value>
+      <webElementGuid>a034fa59-f881-48ac-b474-2becb1316f01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-d94f9b62238a1df17c7380bb34b767a4</value>
+      <webElementGuid>65f68b74-afdb-464c-9ce2-434f0ba30086</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'headerUserFullName']</value>
+      <webElementGuid>33a49ad3-53be-4a6c-abd2-1717e4043c04</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'headerUserFullName']</value>
+      <webElementGuid>8f05358e-5460-4bc5-8a93-609517a1cf2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'headerUserFullName' and (text() = 'headerUserFullName' or . = 'headerUserFullName')]</value>
+      <webElementGuid>2796438d-88f1-4a57-a78a-d4e598a8d0b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

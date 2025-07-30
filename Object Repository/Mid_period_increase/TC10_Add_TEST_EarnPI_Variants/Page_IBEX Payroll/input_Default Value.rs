@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Default Value</name>
+   <tag></tag>
+   <elementGuidId>8af81d21-894a-452e-b583-e734554d66b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#defaultValue</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'defaultValue']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Default Value:&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>0a724223-b497-4424-aab3-8c711bc430bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>number</value>
+      <webElementGuid>15492cb8-69d9-4eb1-b1a6-2c4980ebee31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>defaultValue</value>
+      <webElementGuid>a5298528-383b-4703-a479-3d477d3982c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>DefaultValue</value>
+      <webElementGuid>773703d2-e256-4c50-962d-940045e17a4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-text input-text--small ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>bffe749c-70cc-4676-a9c4-5277bc499605</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Default Value</value>
+      <webElementGuid>261322c5-bb17-4e0e-9ab9-d9ee88ff646c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-fc3eeb1fc46f11015e5684fba8be5b9a</value>
+      <webElementGuid>af510afd-1a9a-4116-82fe-8fa9cabb5471</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'defaultValue']</value>
+      <webElementGuid>d5fe9d14-c710-46a6-b94b-6162eded9469</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'defaultValue']</value>
+      <webElementGuid>a2e647ad-6551-4bd5-954c-302ab1d5f3f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'number' and @id = 'defaultValue' and (text() = 'Default Value' or . = 'Default Value')]</value>
+      <webElementGuid>bc2b46fa-980f-48f4-abf1-385c9c0662c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

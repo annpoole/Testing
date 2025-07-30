@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the Pay Rate Settings exist on addition of new Earn/Ben  Custom PI</description>
+   <name>TC02_VerifyPayRateUIOnAddEarnPI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b549e269-7d72-468a-b738-cb1466228e38</testCaseGuid>
+</TestCaseEntity>

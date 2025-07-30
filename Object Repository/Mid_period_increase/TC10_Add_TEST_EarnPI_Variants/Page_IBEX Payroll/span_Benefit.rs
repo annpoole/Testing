@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Benefit</name>
+   <tag></tag>
+   <elementGuidId>2799eca5-274e-4840-8252-4132e33578ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#earningType [_ngcontent-ng-c2297508803=&quot;&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'earningType']//*[@_ngcontent-ng-c2297508803 = '']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;Benefit&quot;i] >> internal:text=&quot;Benefit&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4701ec63-47cb-4764-bdd8-eeb1f202d8e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Benefit</value>
+      <webElementGuid>abb91a13-dbdf-49fe-bdd1-d66ce86a22e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>Benefit</value>
+      <webElementGuid>ec8565d4-7cc0-46a3-bf9b-e1709fff2454</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-23b71d0451711d7f28cd97ce4d986b77</value>
+      <webElementGuid>cbc8512e-2e97-4ae5-932b-f1923be6d8f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'earningType']//*[@_ngcontent-ng-c2297508803 = '']</value>
+      <webElementGuid>4b6e318d-6b18-495a-a53a-84365e8b7e48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'earningType']//*[@_ngcontent-ng-c2297508803 = '']</value>
+      <webElementGuid>e7dc25c9-b922-4a0a-a033-99ea50fbc2a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Benefit' or . = 'Benefit')]</value>
+      <webElementGuid>5b3dc735-b15c-45ca-891d-9b7341a18597</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

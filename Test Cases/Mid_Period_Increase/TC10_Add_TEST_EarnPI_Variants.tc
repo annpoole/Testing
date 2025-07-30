@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>All 3 rate types for [TEST] rate with corresponding saves + edits</description>
+   <name>TC10_Add_TEST_EarnPI_Variants</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1ac00a06-e9dc-4f51-b60d-a21ebb0fbb59</testCaseGuid>
+</TestCaseEntity>

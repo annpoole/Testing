@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Validation: Try to Clear Already Set Field Name</description>
+   <description>Validation: Try to Clear Already Set Field Name (DELAY)</description>
    <name>TC09_Validation_Fields_CannotBeCleared</name>
    <tag></tag>
    <comment></comment>

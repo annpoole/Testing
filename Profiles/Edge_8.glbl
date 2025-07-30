@@ -137,4 +137,18 @@
       <protected>false</protected>
       <valueType>STRING</valueType>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'[WERATE]*([AccrualBalanceChange:YTD_INSURABLE_HRS]-[AccrualBalanceChange:YTD_OvertimePay_HRS])'</initValue>
+      <name>G_Earning1_2_3_formula</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'([AccrualBalanceChange:YTD_INSURABLE_HRS]-[AccrualBalanceChange:YTD_OvertimePay_HRS])'</initValue>
+      <name>G_TestEarn4_5_6_Formula</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

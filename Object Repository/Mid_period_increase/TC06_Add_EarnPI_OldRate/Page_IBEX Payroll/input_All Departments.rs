@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_All Departments</name>
+   <tag></tag>
+   <elementGuidId>c4dfa0ee-1f94-4d19-9539-eda05a2874a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#policyTypeAllDepartments</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'policyTypeAllDepartments']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;All Departments&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>7aa01da0-5ab4-4048-a7b3-a07cbbd1d808</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>policyTypeAllDepartments</value>
+      <webElementGuid>c386073b-d6fc-44bc-8f51-b8280d1c0bf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>radio</value>
+      <webElementGuid>9afe1cb4-542e-4e7c-a4a3-5fdebe84a6a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>ALL_DEPARTMENTS</value>
+      <webElementGuid>ada75528-f902-4f21-a348-574a6c80f67c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>PayrollInstructionApplicationPolicyTypeCode</value>
+      <webElementGuid>597de113-641c-4e78-993a-6b7a3e5ceb8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-radio ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>0d940698-eec9-472c-81ee-36c9eb491563</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All Departments</value>
+      <webElementGuid>6f2036c6-132c-419e-bade-aebe9b2c8fc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-b3126158061c30a9775940ce6c0c421f</value>
+      <webElementGuid>924a6e7e-cd2c-44fc-928e-55f6dd124b5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'policyTypeAllDepartments']</value>
+      <webElementGuid>8749140c-08ff-4d58-b11c-ef2a7cbed346</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'policyTypeAllDepartments']</value>
+      <webElementGuid>16f68730-9f94-4f91-bba2-ecc528acfb57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'policyTypeAllDepartments' and @type = 'radio' and (text() = 'All Departments' or . = 'All Departments')]</value>
+      <webElementGuid>5d470dd4-efa2-4a22-aac3-4d9508405f4f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

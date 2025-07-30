@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>login and switch org</description>
+   <description>login and switch org (DELAY)</description>
    <name>TC01_SH_LoginAndNavigate</name>
    <tag></tag>
    <comment></comment>

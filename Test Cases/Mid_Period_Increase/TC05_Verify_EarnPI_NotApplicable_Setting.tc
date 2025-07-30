@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Edit the PI just added and confirm that Pay Rate is set to &quot;Not Applicable&quot;</description>
+   <name>TC05_Verify_EarnPI_NotApplicable_Setting</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c10bb678-ec25-4a0d-9732-b941ad58946b</testCaseGuid>
+</TestCaseEntity>

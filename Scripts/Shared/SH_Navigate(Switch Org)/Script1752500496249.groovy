@@ -16,8 +16,11 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.util.KeywordUtil
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
 WebUI.click(findTestObject('Object Repository/Shared/SH_Navigate(Switch Org)/Page_IBEX Payroll - Home/a_swap_horiz Switch SetupSimpleDialog(orgCo_55ee7d'))
 
+KeywordUtil.markWarning("⚠️ Wait Step: Pausing for 15 seconds to allow tester to click on desired ORG selection")
 WebUI.delay(15)
 

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_PAYROLL</name>
+   <tag></tag>
+   <elementGuidId>ff1fce03-c1c2-44c0-9fd6-7a4050f1e882</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.menuItem:nth-child(2) a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' menuItem ') and (position() = 2)]//a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Payroll&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cb545ec7-8916-477b-9f6c-8581f5917d0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Edge8/Everest/Payroll/Index.mr</value>
+      <webElementGuid>eca44d63-3639-4955-9ae0-37b49422ce94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PAYROLL</value>
+      <webElementGuid>54fdb550-25be-45b9-b3fb-20612af9d416</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>PAYROLL</value>
+      <webElementGuid>913ba486-7603-4f8e-86f5-fc88aeecd35f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-4448c293a9b32d6fefc04c343b4ae697</value>
+      <webElementGuid>dbd96a58-d836-4195-b532-da84992a092d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' menuItem ') and (position() = 2)]//a</value>
+      <webElementGuid>278f46cc-c07e-4163-8214-1ba911c382b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' menuItem ') and (position() = 2)]//a</value>
+      <webElementGuid>ccf4a446-277e-4554-899a-5ec8626944ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Edge8/Everest/Payroll/Index.mr' and (text() = 'PAYROLL' or . = 'PAYROLL')]</value>
+      <webElementGuid>68f08b6e-e4e7-456a-834e-f10ca6bd88ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
