@@ -151,4 +151,18 @@
       <protected>false</protected>
       <valueType>STRING</valueType>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'[InputValue] * [PayRate]'</initValue>
+      <name>G_Hourly_Earning1_2_3</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'(([OpeningAccrualBalance:VACATION_PAY])+([SumAccrualBalanceChange:YTD_AccruedVacEarned_AMT]))/[PayRate]-(([SumAccrualBalanceChange:YTD_VacationHoursTakenPaidHrly_HRS])+([OpeningAccrualBalance:VACATION_TIME]))'</initValue>
+      <name>G_benefits_formula_1_2_3</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

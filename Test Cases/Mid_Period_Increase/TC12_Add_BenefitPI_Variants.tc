@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC12_Add_BenefitPI_Variants</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>40b9b38e-daa7-465f-b037-927fe69882b3</testCaseGuid>
+</TestCaseEntity>

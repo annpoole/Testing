@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add hourly earning</description>
+   <name>TC11_Add_HourlyEarning_Variants</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>71302f97-a56c-4433-8f9f-44530cc1b851</testCaseGuid>
+</TestCaseEntity>

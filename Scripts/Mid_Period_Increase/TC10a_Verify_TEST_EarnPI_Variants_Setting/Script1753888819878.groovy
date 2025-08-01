@@ -17,5 +17,47 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Mid_Period_Increase/TC10_Add_TEST_EarnPI_Variants'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Mid_Period_Increase/TC01_LoginAndNavigateToPIPage'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/Mid_period_increase/TC10a_Verify_TEST_EarnPI_Variants_Setting/Page_IBEX Payroll - Payroll Setup/td_Test Earning 4'), 
+    10)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Mid_period_increase/TC10a_Verify_TEST_EarnPI_Variants_Setting/Page_IBEX Payroll - Payroll Setup/td_Test Earning 4'), 
+    5)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Mid_period_increase/TC10a_Verify_TEST_EarnPI_Variants_Setting/Page_IBEX Payroll - Payroll Setup/td_Test Earning 4'), 
+    'Test Earning 4')
+
+WebUI.click(findTestObject('Object Repository/Mid_period_increase/TC10a_Verify_TEST_EarnPI_Variants_Setting/Page_IBEX Payroll - Payroll Setup/button_Edit'))
+
+WebUI.verifyElementChecked(findTestObject('Object Repository/Mid_period_increase/TC10a_Verify_TEST_EarnPI_Variants_Setting/Page_IBEX Payroll/input_notApplicable'), 
+    4)
+
+WebUI.click(findTestObject('Object Repository/Mid_period_increase/TC10a_Verify_TEST_EarnPI_Variants_Setting/Page_IBEX Payroll/a__ BACK TO PAYROLL SETUP_ PAYROLL INSTRUCTIONS'))
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/Mid_period_increase/TC10a_Verify_TEST_EarnPI_Variants_Setting/Page_IBEX Payroll - Payroll Setup/td_Test Earning 5'), 
+    5)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Mid_period_increase/TC10a_Verify_TEST_EarnPI_Variants_Setting/Page_IBEX Payroll - Payroll Setup/td_Test Earning 5'), 
+    'Test Earning 5')
+
+WebUI.click(findTestObject('Object Repository/Mid_period_increase/TC10a_Verify_TEST_EarnPI_Variants_Setting/Page_IBEX Payroll - Payroll Setup/button_Edit_1'))
+
+WebUI.verifyElementChecked(findTestObject('Object Repository/Mid_period_increase/TC10a_Verify_TEST_EarnPI_Variants_Setting/Page_IBEX Payroll/input_Old pay rate'), 
+    4)
+
+WebUI.click(findTestObject('Object Repository/Mid_period_increase/TC10a_Verify_TEST_EarnPI_Variants_Setting/Page_IBEX Payroll/a__ BACK TO PAYROLL SETUP_ PAYROLL INSTRUCTIONS'))
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/Mid_period_increase/TC10a_Verify_TEST_EarnPI_Variants_Setting/Page_IBEX Payroll - Payroll Setup/td_Test Earning 6'), 
+    5)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Mid_period_increase/TC10a_Verify_TEST_EarnPI_Variants_Setting/Page_IBEX Payroll - Payroll Setup/td_Test Earning 6'), 
+    'Test Earning 6')
+
+WebUI.click(findTestObject('Object Repository/Mid_period_increase/TC10a_Verify_TEST_EarnPI_Variants_Setting/Page_IBEX Payroll - Payroll Setup/button_Edit_1_2'))
+
+WebUI.verifyElementChecked(findTestObject('Object Repository/Mid_period_increase/TC10a_Verify_TEST_EarnPI_Variants_Setting/Page_IBEX Payroll/input_New pay rate'), 
+    4)
+
+WebUI.click(findTestObject('Object Repository/Mid_period_increase/TC10a_Verify_TEST_EarnPI_Variants_Setting/Page_IBEX Payroll - Payroll Instruction Acc_85f223/a__ RETURN TO PAYROLL SETUP_ PAYROLL INSTRUCTION'))
 

@@ -21,8 +21,6 @@ WebUI.callTestCase(findTestCase('Departments/TC01_SH_LoginAndNavigate'), [:], Fa
 
 WebUI.callTestCase(findTestCase('Departments/TC02_VerifyManageDepartmentFields'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Departments/TC08_Validation_Fields_ValidInput'), [:], FailureHandling.STOP_ON_FAILURE)
-
 WebUI.clearText(findTestObject('Departments/TC09_Validation_Fields_CannotBeCleared/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 1_field01Value'))
 
 WebUI.clearText(findTestObject('Departments/TC09_Validation_Fields_CannotBeCleared/Page_IBEX Payroll - Manage Department Field/input_Custom Department Field 2_field02Value'))
