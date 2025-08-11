@@ -20,16 +20,16 @@ import org.openqa.selenium.Keys as Keys
 WebUI.click(findTestObject('Object Repository/Mid_period_increase/TC08_Add_EarnPI_NewRate/Page_IBEX Payroll - Payroll Setup/a_Add New Earning_Benefit'))
 
 WebUI.setText(findTestObject('Object Repository/Mid_period_increase/TC08_Add_EarnPI_NewRate/Page_IBEX Payroll/input_Name'), 
-    'Test Earning 3')
+    PI_Name)
 
 WebUI.setText(findTestObject('Object Repository/Mid_period_increase/TC08_Add_EarnPI_NewRate/Page_IBEX Payroll/input_nameFrench'), 
-    'Test Earning 3')
+    PI_Name_french)
 
 WebUI.setText(findTestObject('Object Repository/Mid_period_increase/TC08_Add_EarnPI_NewRate/Page_IBEX Payroll/input_Description'), 
-    'Test Earning 3')
+    PI_Description)
 
 WebUI.setText(findTestObject('Object Repository/Mid_period_increase/TC08_Add_EarnPI_NewRate/Page_IBEX Payroll/input_descriptionFrench'), 
-    'Test Earning 3')
+    PI_Description_Name)
 
 WebUI.click(findTestObject('Object Repository/Mid_period_increase/TC08_Add_EarnPI_NewRate/Page_IBEX Payroll/fw-select_Instruction Type'))
 
@@ -59,10 +59,12 @@ WebUI.click(findTestObject('Object Repository/Mid_period_increase/TC08_Add_EarnP
 WebUI.click(findTestObject('Object Repository/Mid_period_increase/TC08_Add_EarnPI_NewRate/Page_IBEX Payroll/textarea_defaultFormula'))
 
 WebUI.setText(findTestObject('Object Repository/Mid_period_increase/TC08_Add_EarnPI_NewRate/Page_IBEX Payroll/textarea_defaultFormula'), 
-    GlobalVariable.G_Earning1_2_3_formula)
+    PI_Formula)
 
 WebUI.setText(findTestObject('Object Repository/Mid_period_increase/TC08_Add_EarnPI_NewRate/Page_IBEX Payroll/input_Formula Code'), 
-    'TestEarning3')
+    PI_Formula_Code)
 
 WebUI.click(findTestObject('Object Repository/Mid_period_increase/TC08_Add_EarnPI_NewRate/Page_IBEX Payroll/button_Save'))
+
+WebUI.click(findTestObject(null))
 

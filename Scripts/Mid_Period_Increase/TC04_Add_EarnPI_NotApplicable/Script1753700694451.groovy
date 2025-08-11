@@ -22,16 +22,16 @@ WebUI.click(findTestObject('Object Repository/Mid_period_increase/TC04_Add_EarnP
 WebUI.click(findTestObject('Object Repository/Mid_period_increase/TC04_Add_EarnPI_NotApplicable/Page_IBEX Payroll - Payroll Setup/a_Add New Earning_Benefit'))
 
 WebUI.setText(findTestObject('Object Repository/Mid_period_increase/TC04_Add_EarnPI_NotApplicable/Page_IBEX Payroll/input_Name'), 
-    'Test Earning 1')
+    PI_Name)
 
 WebUI.setText(findTestObject('Object Repository/Mid_period_increase/TC04_Add_EarnPI_NotApplicable/Page_IBEX Payroll/input_nameFrench'), 
-    'Test Earning 1')
+    PI_Name_french)
 
 WebUI.setText(findTestObject('Object Repository/Mid_period_increase/TC04_Add_EarnPI_NotApplicable/Page_IBEX Payroll/input_Description'), 
-    'Test Earning 1')
+    PI_Description)
 
 WebUI.setText(findTestObject('Object Repository/Mid_period_increase/TC04_Add_EarnPI_NotApplicable/Page_IBEX Payroll/input_descriptionFrench'), 
-    'Test Earning 1')
+    PI_Description_Name)
 
 WebUI.click(findTestObject('Object Repository/Mid_period_increase/TC04_Add_EarnPI_NotApplicable/Page_IBEX Payroll/fw-select_Instruction Type'))
 
@@ -54,10 +54,10 @@ WebUI.click(findTestObject('Object Repository/Mid_period_increase/TC04_Add_EarnP
 WebUI.click(findTestObject('Object Repository/Mid_period_increase/TC04_Add_EarnPI_NotApplicable/Page_IBEX Payroll/input_Determined using a formula'))
 
 WebUI.setText(findTestObject('Object Repository/Mid_period_increase/TC04_Add_EarnPI_NotApplicable/Page_IBEX Payroll/textarea_defaultFormula'), 
-    GlobalVariable.G_Earning1_2_3_formula)
+    PI_Formula)
 
 WebUI.setText(findTestObject('Object Repository/Mid_period_increase/TC04_Add_EarnPI_NotApplicable/Page_IBEX Payroll/input_Formula Code'), 
-    'TestEarning1')
+    PI_Formula_Code)
 
 WebUI.click(findTestObject('Object Repository/Mid_period_increase/TC04_Add_EarnPI_NotApplicable/Page_IBEX Payroll/button_Save'))
 

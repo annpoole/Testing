@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>DDT_AddPI_NotApplicable</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>6c54ff55-83fa-42a6-9d3d-d4227dc3b834</testSuiteGuid>
+   <testCaseLink>
+      <guid>7edb1c77-8526-4328-8547-dd05c2b375bd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Mid_Period_Increase/TC01_LoginAndNavigateToPIPage</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>27c4d86d-102e-448a-967a-80b8cbab9c0d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Mid_Period_Increase/TC02_VerifyPayRateUIOnAddEarnPI</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2d612bbf-ceb8-499b-8d72-21018330120a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Mid_Period_Increase/TC04_Add_EarnPI_NotApplicable</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>6bb58c6d-cbd6-4c2d-8d6b-59a1dbecc32d</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/PI test data-not applicable</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>6bb58c6d-cbd6-4c2d-8d6b-59a1dbecc32d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PI_Name</value>
+         <variableId>b183afa8-14ad-44d6-a1fb-e25416d1ff92</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6bb58c6d-cbd6-4c2d-8d6b-59a1dbecc32d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PI_Name_french</value>
+         <variableId>3bcfaf19-cb14-400d-9662-3f5a4395f7dc</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6bb58c6d-cbd6-4c2d-8d6b-59a1dbecc32d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PI_Description</value>
+         <variableId>0ca90aea-d44c-4ce4-98b6-fd5f04bccb04</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6bb58c6d-cbd6-4c2d-8d6b-59a1dbecc32d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PI_Description_Name</value>
+         <variableId>2a9095ba-8b74-4173-a2a3-d495ba798445</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6bb58c6d-cbd6-4c2d-8d6b-59a1dbecc32d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PI_Formula</value>
+         <variableId>785a0874-1650-4e59-acd5-9282a817fcc0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6bb58c6d-cbd6-4c2d-8d6b-59a1dbecc32d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PI_Formula_Code</value>
+         <variableId>ee3ce7ef-503e-40a5-833a-b8fb856873c3</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

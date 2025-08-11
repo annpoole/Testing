@@ -8,4 +8,82 @@ Save and verify PI is created</description>
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>ae9683e0-d888-465c-8ab3-12a36b83800e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value></value>
+      <variableId>b183afa8-14ad-44d6-a1fb-e25416d1ff92</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value></value>
+      <variableId>3bcfaf19-cb14-400d-9662-3f5a4395f7dc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value></value>
+      <variableId>0ca90aea-d44c-4ce4-98b6-fd5f04bccb04</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value></value>
+      <variableId>2a9095ba-8b74-4173-a2a3-d495ba798445</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value></value>
+      <variableId>785a0874-1650-4e59-acd5-9282a817fcc0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value></value>
+      <variableId>ee3ce7ef-503e-40a5-833a-b8fb856873c3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Data Files/PI test data-not applicable')</defaultValue>
+      <description></description>
+      <id>b183afa8-14ad-44d6-a1fb-e25416d1ff92</id>
+      <masked>false</masked>
+      <name>PI_Name</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Data Files/PI test data-not applicable')</defaultValue>
+      <description></description>
+      <id>3bcfaf19-cb14-400d-9662-3f5a4395f7dc</id>
+      <masked>false</masked>
+      <name>PI_Name_french</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Data Files/PI test data-not applicable')</defaultValue>
+      <description></description>
+      <id>0ca90aea-d44c-4ce4-98b6-fd5f04bccb04</id>
+      <masked>false</masked>
+      <name>PI_Description</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Data Files/PI test data-not applicable')</defaultValue>
+      <description></description>
+      <id>2a9095ba-8b74-4173-a2a3-d495ba798445</id>
+      <masked>false</masked>
+      <name>PI_Description_Name</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Data Files/PI test data-not applicable')</defaultValue>
+      <description></description>
+      <id>785a0874-1650-4e59-acd5-9282a817fcc0</id>
+      <masked>false</masked>
+      <name>PI_Formula</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Data Files/PI test data-not applicable')</defaultValue>
+      <description></description>
+      <id>ee3ce7ef-503e-40a5-833a-b8fb856873c3</id>
+      <masked>false</masked>
+      <name>PI_Formula_Code</name>
+   </variable>
 </TestCaseEntity>

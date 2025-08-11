@@ -6,4 +6,30 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>d180e0aa-49bb-4fd4-9968-14a9dfe58848</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3e303f25-5b31-4455-9735-790906678864</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>08242933-7843-4987-b20c-34e28e991562</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'uat.dstewart'</defaultValue>
+      <description></description>
+      <id>3e303f25-5b31-4455-9735-790906678864</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Password1'</defaultValue>
+      <description></description>
+      <id>08242933-7843-4987-b20c-34e28e991562</id>
+      <masked>true</masked>
+      <name>Password</name>
+   </variable>
 </TestCaseEntity>

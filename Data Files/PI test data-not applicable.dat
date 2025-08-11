@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>sample test data for PI's</description>
+   <name>PI test data-not applicable</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator>COMMA</csvSeperator>
+   <dataFileGUID>52e44af7-b7fa-4857-a29b-ae61f0c7ab11</dataFileGUID>
+   <dataSourceUrl>C:\Users\AI-PC-001\Downloads\Katalon data -file for Adding PI for different Rate - Not-Applicable Rate.csv</dataSourceUrl>
+   <driver>CSV</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

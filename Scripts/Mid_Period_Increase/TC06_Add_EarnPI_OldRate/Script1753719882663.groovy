@@ -22,16 +22,16 @@ WebUI.click(findTestObject('Object Repository/Mid_period_increase/TC06_Add_EarnP
 WebUI.click(findTestObject('Object Repository/Mid_period_increase/TC06_Add_EarnPI_OldRate/Page_IBEX Payroll - Payroll Setup/a_Add New Earning_Benefit'))
 
 WebUI.setText(findTestObject('Object Repository/Mid_period_increase/TC06_Add_EarnPI_OldRate/Page_IBEX Payroll/input_Name'), 
-    'Test Earning 2')
+    PI_Name)
 
 WebUI.setText(findTestObject('Object Repository/Mid_period_increase/TC06_Add_EarnPI_OldRate/Page_IBEX Payroll/input_nameFrench'), 
-    'Test Earning 2')
+    PI_Name_french)
 
 WebUI.setText(findTestObject('Object Repository/Mid_period_increase/TC06_Add_EarnPI_OldRate/Page_IBEX Payroll/input_Description'), 
-    'Test Earning 2')
+    PI_Description)
 
 WebUI.setText(findTestObject('Object Repository/Mid_period_increase/TC06_Add_EarnPI_OldRate/Page_IBEX Payroll/input_descriptionFrench'), 
-    'Test Earning 2')
+    PI_Description_Name)
 
 WebUI.click(findTestObject('Object Repository/Mid_period_increase/TC06_Add_EarnPI_OldRate/Page_IBEX Payroll/fw-select_Instruction Type'))
 
@@ -57,10 +57,10 @@ WebUI.click(findTestObject('Object Repository/Mid_period_increase/TC06_Add_EarnP
 WebUI.click(findTestObject('Object Repository/Mid_period_increase/TC06_Add_EarnPI_OldRate/Page_IBEX Payroll/input_Old pay rate'))
 
 WebUI.setText(findTestObject('Mid_period_increase/TC06_Add_EarnPI_OldRate/Page_IBEX Payroll - Copy/input_Formula Code'), 
-    'TestEarning2')
+    PI_Formula_Code)
 
 WebUI.setText(findTestObject('Object Repository/Mid_period_increase/TC06_Add_EarnPI_OldRate/Page_IBEX Payroll/textarea_defaultFormula'), 
-    GlobalVariable.G_Earning1_2_3_formula)
+    PI_Formula)
 
 WebUI.click(findTestObject('Object Repository/Mid_period_increase/TC06_Add_EarnPI_OldRate/Page_IBEX Payroll/button_Save'))
 
