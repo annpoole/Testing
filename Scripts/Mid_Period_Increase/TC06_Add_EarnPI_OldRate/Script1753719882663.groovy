@@ -64,5 +64,3 @@ WebUI.setText(findTestObject('Object Repository/Mid_period_increase/TC06_Add_Ear
 
 WebUI.click(findTestObject('Object Repository/Mid_period_increase/TC06_Add_EarnPI_OldRate/Page_IBEX Payroll/button_Save'))
 
-WebUI.click(findTestObject('Mid_period_increase/TC06_Add_EarnPI_OldRate/Page_IBEX Payroll - Copy/a__ BACK TO PAYROLL SETUP_ PAYROLL INSTRUCTIONS'))
-

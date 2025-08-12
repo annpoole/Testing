@@ -17,6 +17,8 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.click(findTestObject('Mid_period_increase/TC06_Add_EarnPI_OldRate/Page_IBEX Payroll - Copy/a__ BACK TO PAYROLL SETUP_ PAYROLL INSTRUCTIONS'))
+
 WebUI.click(findTestObject('Object Repository/Mid_period_increase/TC08_Add_EarnPI_NewRate/Page_IBEX Payroll - Payroll Setup/a_Add New Earning_Benefit'))
 
 WebUI.setText(findTestObject('Object Repository/Mid_period_increase/TC08_Add_EarnPI_NewRate/Page_IBEX Payroll/input_Name'), 
@@ -65,6 +67,4 @@ WebUI.setText(findTestObject('Object Repository/Mid_period_increase/TC08_Add_Ear
     PI_Formula_Code)
 
 WebUI.click(findTestObject('Object Repository/Mid_period_increase/TC08_Add_EarnPI_NewRate/Page_IBEX Payroll/button_Save'))
-
-WebUI.click(findTestObject(null))
 

@@ -19,6 +19,49 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
+      <guid>91eda983-b329-47fb-9d18-f96805243c97</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Mid_Period_Increase/TC08_Add_EarnPI_NewRate</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b183afa8-14ad-44d6-a1fb-e25416d1ff92</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3bcfaf19-cb14-400d-9662-3f5a4395f7dc</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0ca90aea-d44c-4ce4-98b6-fd5f04bccb04</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2a9095ba-8b74-4173-a2a3-d495ba798445</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>785a0874-1650-4e59-acd5-9282a817fcc0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ee3ce7ef-503e-40a5-833a-b8fb856873c3</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
       <guid>05e8a224-af02-4f2a-ab2c-ac70c702535c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>

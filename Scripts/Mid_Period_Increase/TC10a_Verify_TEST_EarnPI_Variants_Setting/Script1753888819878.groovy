@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Mid_Period_Increase/TC01_LoginAndNavigateToPIPage'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/Mid_period_increase/TC10_Add_TEST_EarnPI_Variants/Page_IBEX Payroll/a__ BACK TO PAYROLL SETUP_ PAYROLL INSTRUCTIONS'))
 
 WebUI.waitForElementVisible(findTestObject('Object Repository/Mid_period_increase/TC10a_Verify_TEST_EarnPI_Variants_Setting/Page_IBEX Payroll - Payroll Setup/td_Test Earning 4'), 
     10)

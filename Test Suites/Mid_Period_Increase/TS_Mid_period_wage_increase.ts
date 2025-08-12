@@ -182,4 +182,11 @@
       <testCaseId>Test Cases/Mid_Period_Increase/TC09_Verify_EarnPI_NewRate_Setting</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>b2247fe7-3228-47e0-9da7-101399e916bb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Mid_Period_Increase/TC10_Add_TEST_EarnPI_Variants</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>

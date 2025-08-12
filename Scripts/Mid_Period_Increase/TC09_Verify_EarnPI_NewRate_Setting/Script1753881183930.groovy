@@ -30,5 +30,3 @@ WebUI.click(findTestObject('Object Repository/Mid_period_increase/TC09_Verify_Ea
 WebUI.verifyElementChecked(findTestObject('Object Repository/Mid_period_increase/TC09_Verify_EarnPI_NewRate_Setting/Page_IBEX Payroll/input_New pay rate'), 
     4)
 
-WebUI.click(findTestObject('Object Repository/Mid_period_increase/TC09_Verify_EarnPI_NewRate_Setting/Page_IBEX Payroll/a__ BACK TO PAYROLL SETUP_ PAYROLL INSTRUCTIONS'))
-
