@@ -17,13 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.delay(10)
+WebUI.callTestCase(findTestCase('Shared/SH_Login_As_TOR_Employee'), [('Username') : 'colleenc@annstestorg', ('Password') : 'Abcd1234'], 
+    FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Departments/TC09_Validation_Fields_CannotBeCleared/Page_IBEX Payroll - Manage Department Field/button_Save'))
-// Inform tester about the upcoming manual interaction
-WebUI.comment('⚠️ Wait Step: Pausing for 15 seconds to allow tester to click on Save ')
-WebUI.delay(15)
+WebUI.click(findTestObject('Object Repository/TOR/TOR Request Submission/TOR-001 login and navigate/Page_IBEX Payroll - Home/a_Request Time Off'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Departments/TC09_Validation_Fields_CannotBeCleared/Page_IBEX Payroll - Manage Department Field/li_Custom Department Field 1 once set is a _6ec78f_1'), 
-    'Custom Department Field #1 once set is a required input and cannot be emptied.')
+WebUI.verifyElementPresent(findTestObject('Object Repository/TOR/TOR Request Submission/TOR-001 login and navigate/Page_IBEX Payroll - Employee Portal - Time Off/spa-request-history_FromToDateTime Off Type_470f01'), 
+    5)
 

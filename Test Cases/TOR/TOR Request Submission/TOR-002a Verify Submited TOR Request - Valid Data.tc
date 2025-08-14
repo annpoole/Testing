@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Submited TOR Request status</description>
+   <name>TOR-002a Verify Submited TOR Request - Valid Data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>465e10f3-973c-440f-b0bc-ba86c2de9ab6</testCaseGuid>
+</TestCaseEntity>

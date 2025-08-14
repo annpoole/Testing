@@ -17,13 +17,18 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.delay(10)
+WebUI.openBrowser('')
 
-WebUI.click(findTestObject('Object Repository/Departments/TC09_Validation_Fields_CannotBeCleared/Page_IBEX Payroll - Manage Department Field/button_Save'))
-// Inform tester about the upcoming manual interaction
-WebUI.comment('⚠️ Wait Step: Pausing for 15 seconds to allow tester to click on Save ')
-WebUI.delay(15)
+WebUI.maximizeWindow()
 
-WebUI.verifyElementText(findTestObject('Object Repository/Departments/TC09_Validation_Fields_CannotBeCleared/Page_IBEX Payroll - Manage Department Field/li_Custom Department Field 1 once set is a _6ec78f_1'), 
-    'Custom Department Field #1 once set is a required input and cannot be emptied.')
+WebUI.navigateToUrl(GlobalVariable.G_SiteURL)
+
+WebUI.maximizeWindow()
+
+WebUI.setText(findTestObject('Object Repository/Shared/SH_Login/Page_IBEX Payroll - Login/input_Username_Input.Username'), 
+    Username)
+
+WebUI.setText(findTestObject('Shared/SH_Login/Page_IBEX Payroll - Login/input_Show Password_Input.Password'), Password)
+
+WebUI.click(findTestObject('Object Repository/Shared/SH_Login/Page_IBEX Payroll - Login/input_Remember me_Input.Button'))
 

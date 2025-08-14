@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fw-select_-- Select one --</name>
+   <tag></tag>
+   <elementGuidId>5edd5f48-3963-4e47-b40f-807edce8de8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>fw-select.fw-select.input-select.input-select--full.ng-untouched.ng-pristine.ng-invalid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;-- Select one --&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>fw-select</value>
+      <webElementGuid>47af2558-008c-439b-8951-081103d07b64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>displayfield</name>
+      <type>Main</type>
+      <value>Name</value>
+      <webElementGuid>86fe4dc4-bda3-481d-a069-3e2041c6df9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>valuefield</name>
+      <type>Main</type>
+      <value>ObjId</value>
+      <webElementGuid>d665bed7-2513-4b27-881a-90859fe11641</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>-- Select one --</value>
+      <webElementGuid>03ef86ab-5555-4213-988b-87af16aeac31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>PayCodeObjId</value>
+      <webElementGuid>f884c465-2d77-4782-ab48-ce6be18f90de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fw-select input-select input-select--full ng-untouched ng-pristine ng-invalid</value>
+      <webElementGuid>36827509-e854-49db-b8c5-163189a1463b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>3c42e34c-af0a-4f63-8d41-5184d8a30a5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>-- Select one --</value>
+      <webElementGuid>51f02a98-4501-4df7-a8b3-e05c2c735452</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-- Select one --</value>
+      <webElementGuid>2f1613eb-384a-4974-8bb0-8137ab5db60b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-time-off-request-detail-container[@class=&quot;routed-container ng-star-inserted&quot;]/spa-time-off-request-detail[@class=&quot;work-surface__content ng-star-inserted&quot;]/spa-time-off-request-form[@class=&quot;form ng-star-inserted&quot;]/form[@class=&quot;ng-invalid ng-dirty ng-touched&quot;]/div[@class=&quot;full-width&quot;]/fw-select[@class=&quot;fw-select input-select input-select--full ng-untouched ng-pristine ng-invalid&quot;]</value>
+      <webElementGuid>ef9c2f0a-e543-4a47-b94f-1ba9ddbe3848</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time Off Type'])[1]/following::fw-select[1]</value>
+      <webElementGuid>912c6daf-6f49-4a4f-9306-9c273442772e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End Date'])[1]/following::fw-select[1]</value>
+      <webElementGuid>a7071182-5062-4a8d-9d1d-fd5060b1216b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[1]/preceding::fw-select[1]</value>
+      <webElementGuid>750ae6da-983e-447b-95ef-727cd1fee7c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fw-select</value>
+      <webElementGuid>72bbbc22-1fa1-445c-93fd-389e80cc7ff4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//fw-select[@placeholder = '-- Select one --' and @title = '-- Select one --' and (text() = '-- Select one --' or . = '-- Select one --')]</value>
+      <webElementGuid>6c9f473c-5887-4432-aca9-0eb02e0e066b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

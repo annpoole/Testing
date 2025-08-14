@@ -22,5 +22,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 WebUI.click(findTestObject('Object Repository/Shared/SH_Navigate(Switch Org)/Page_IBEX Payroll - Home/a_swap_horiz Switch SetupSimpleDialog(orgCo_55ee7d'))
 
 KeywordUtil.markWarning("⚠️ Wait Step: Pausing for 15 seconds to allow tester to click on desired ORG selection")
+// Inform tester about the upcoming manual interaction
+WebUI.comment('⚠️ Wait Step: Pausing for 15 seconds to allow tester to click on desired ORG selection ')
 WebUI.delay(15)
 
