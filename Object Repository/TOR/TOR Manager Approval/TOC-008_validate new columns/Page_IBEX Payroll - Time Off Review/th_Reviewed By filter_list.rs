@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Reviewed By filter_list</name>
+   <tag></tag>
+   <elementGuidId>e0ee43ec-af2f-41e0-92c4-fb8471b1dc82</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Seniority (hrs)'])[1]/following::th[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>th.col--reviewer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=columnheader[name=&quot;Reviewed By filter_list&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>148a2412-0c39-47d0-b1db-2c3734ea0e72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>scope</name>
+      <type>Main</type>
+      <value>col</value>
+      <webElementGuid>5b423c02-093c-4ef2-b96d-9a52662ce932</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fwsortby</name>
+      <type>Main</type>
+      <value>ReviewerName</value>
+      <webElementGuid>c105821b-f0da-49de-8cec-d717ca73cdca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fwfilterid</name>
+      <type>Main</type>
+      <value>ReviewerName</value>
+      <webElementGuid>8f15a2dc-68af-48b3-9794-235252d4bcec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fwfilterpropertyname</name>
+      <type>Main</type>
+      <value>ReviewerName</value>
+      <webElementGuid>e18ec33d-2e52-4877-b080-0ec3b8ed2f4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col--reviewer</value>
+      <webElementGuid>2f18e5d7-d759-455b-b118-93c01bbd2f32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Reviewed By filter_list</value>
+      <webElementGuid>1df3b849-3bb7-48ef-9ee9-5fec6d954950</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-time-off-admin-container[@class=&quot;routed-container ng-star-inserted&quot;]/spa-time-off-admin[@class=&quot;work-surface__content ng-star-inserted&quot;]/spa-request-admin-table[1]/table[@class=&quot;grid-lite&quot;]/thead[1]/tr[1]/th[@class=&quot;col--reviewer&quot;]</value>
+      <webElementGuid>4701f064-7cf5-4ff5-b813-c0d04672edc2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seniority (hrs)'])[1]/following::th[1]</value>
+      <webElementGuid>2f23a62d-9022-4af6-a21b-f7958e197521</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Duration'])[1]/following::th[2]</value>
+      <webElementGuid>f42faea2-ce75-4b3a-9d78-7dd9ddbb7d5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reviewed By']/parent::*</value>
+      <webElementGuid>125a6394-0664-40e6-8a25-a462eba40f8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[11]</value>
+      <webElementGuid>5deb947e-7021-4675-88c3-a0f775a90ed1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = ' Reviewed By filter_list' or . = ' Reviewed By filter_list')]</value>
+      <webElementGuid>f0a87965-9b4f-47e3-b875-a57ec0f49eed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

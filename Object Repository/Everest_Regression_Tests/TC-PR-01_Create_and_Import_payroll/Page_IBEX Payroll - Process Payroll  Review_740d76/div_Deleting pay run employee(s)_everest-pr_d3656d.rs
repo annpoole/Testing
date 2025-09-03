@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Deleting pay run employee(s)_everest-pr_d3656d</name>
+   <tag></tag>
+   <elementGuidId>87de34fb-ff14-4e35-868e-0ab8a1469718</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#250c7bef-2e17-4d44-842c-d665d9f1a4b7 > div.everest-progressbar__meter</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='250c7bef-2e17-4d44-842c-d665d9f1a4b7']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=table >> div >> internal:has-text=&quot;Deleting pay run employee(s) 0%&quot;i >> div >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3e68a8a7-556d-403a-9387-f27f9ca15b38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>everest-progressbar__meter</value>
+      <webElementGuid>b2e0f5ed-1859-4655-b5ed-24f4df50a31f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;250c7bef-2e17-4d44-842c-d665d9f1a4b7&quot;)/div[@class=&quot;everest-progressbar__meter&quot;]</value>
+      <webElementGuid>8921722d-7b5b-40f1-a732-5c547d792d46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='250c7bef-2e17-4d44-842c-d665d9f1a4b7']/div</value>
+      <webElementGuid>7db920ab-d4f4-47b6-ac7b-391942280c13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deleting pay run employee(s)'])[1]/following::div[2]</value>
+      <webElementGuid>445fd96e-d0dc-42fb-8003-dce89ec4c1c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[2]/following::div[4]</value>
+      <webElementGuid>eee28fc8-8c75-4218-82b8-d0e24dae425a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Input Sheet'])[3]/preceding::div[3]</value>
+      <webElementGuid>d2788e8c-fd04-4b42-8a81-047f7872a5b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Results'])[1]/preceding::div[3]</value>
+      <webElementGuid>96224c2c-01c2-4f61-bddc-7f34740aa93b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[4]/div/div[2]/div</value>
+      <webElementGuid>b2817893-6d10-4356-a511-65779fa09a66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

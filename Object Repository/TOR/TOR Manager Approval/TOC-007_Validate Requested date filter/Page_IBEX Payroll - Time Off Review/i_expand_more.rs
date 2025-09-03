@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_expand_more</name>
+   <tag></tag>
+   <elementGuidId>01235abe-15f1-401f-a6e2-53d7d6958dce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ng-star-inserted ') and (name() = 'tr') and (position() = 1)]//i[@class and contains(concat(' ', normalize-space(@class), ' '), ' material-icons ') and (@_ngcontent-ng-c589086840 = '')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr.ng-star-inserted:nth-child(1) i.material-icons[_ngcontent-ng-c589086840=&quot;&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Expand or collapse row View Details PENDING 22-Aug-2025 09:18:31 AM Knott, Daisy Anemone House Sun, 10-Mar-2024 Mon, 11-Mar-2024 8h 0m 19-Oct-2023 Anemone House&quot;i] >> internal:label=&quot;Expand or collapse row&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>adcf1358-6a4a-41d5-996e-289eb220853e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons</value>
+      <webElementGuid>e060c196-e379-4b13-8731-4d98e2c9a7ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>expand_more</value>
+      <webElementGuid>1f774578-0642-4403-bafb-d60f628c8661</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-30d5c94b17f827f3e825ce8710002a1a</value>
+      <webElementGuid>4a50e718-d12d-4cda-a811-b089dea55ede</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ng-star-inserted ') and (name() = 'tr') and (position() = 1)]//i[@class and contains(concat(' ', normalize-space(@class), ' '), ' material-icons ') and (@_ngcontent-ng-c589086840 = '')]</value>
+      <webElementGuid>0436f397-ecee-4488-9901-bae259fa720d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ng-star-inserted ') and (name() = 'tr') and (position() = 1)]//i[@class and contains(concat(' ', normalize-space(@class), ' '), ' material-icons ') and (@_ngcontent-ng-c589086840 = '')]</value>
+      <webElementGuid>fc527e7a-2ef1-4b0e-9bad-1df58cb1177f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'expand_more' or . = 'expand_more')]</value>
+      <webElementGuid>a5c7ba2c-4346-4830-9a73-ec1b115d2d03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

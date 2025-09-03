@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Click on Schedule Listing tab&#xd;
+&#xd;&#xd;
+2. Filter by predetermined start/end date&#xd;
+&#xd;&#xd;
+3. Locate predetermined department</description>
+   <name>TC-SCH-02_VerifyScheduleListing</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a50e3a95-c0f4-4742-b582-8c7533181276</testCaseGuid>
+   <variable>
+      <defaultValue>'10-Mar-2024'</defaultValue>
+      <description></description>
+      <id>c6401623-cbd0-4545-b712-5c982aeabe89</id>
+      <masked>false</masked>
+      <name>Schedule_StartDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'Bravo House'</defaultValue>
+      <description></description>
+      <id>23d257fc-5c75-43db-ba3a-2cf1d3f8a352</id>
+      <masked>false</masked>
+      <name>Schedule_Department</name>
+   </variable>
+</TestCaseEntity>

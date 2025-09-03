@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_expand_more_1</name>
+   <tag></tag>
+   <elementGuidId>c3e881a9-7873-45d9-a42a-7f5e942bc627</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Seniority (hrs):'])[1]/following::i[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Expand or collapse row View Details PENDING 22-Aug-2025 09:18:31 AM Knott, Daisy Anemone House Sun, 10-Mar-2024 Mon, 11-Mar-2024 8h 0m info 3861.82 Anemone House&quot;i] >> internal:label=&quot;Expand or collapse row&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>8b4e236e-0668-4726-a69f-1d0c0f021865</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons</value>
+      <webElementGuid>aa8d2e9f-d669-418a-b201-2a4b1ce726cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>expand_more</value>
+      <webElementGuid>7b3b94d4-549a-4e36-b127-0a12fd669cd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-time-off-admin-container[@class=&quot;routed-container ng-star-inserted&quot;]/spa-time-off-admin[@class=&quot;work-surface__content ng-star-inserted&quot;]/spa-request-admin-table[1]/table[@class=&quot;grid-lite&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;col--expander&quot;]/button[@class=&quot;expander-btn details-link--desktop&quot;]/i[@class=&quot;material-icons&quot;]</value>
+      <webElementGuid>fe531e6f-6c16-4a12-be65-f5d41f5625fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seniority (hrs):'])[1]/following::i[1]</value>
+      <webElementGuid>79e563dd-156e-488a-a01b-b5d5248bf3eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Duration:'])[1]/following::i[1]</value>
+      <webElementGuid>bf95bb6e-bb4d-489b-8f1e-93459cb57e6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show shift details'])[2]/preceding::i[1]</value>
+      <webElementGuid>0832040d-2ed5-4755-857c-76f82990096f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View request details'])[2]/preceding::i[1]</value>
+      <webElementGuid>e1d912ed-db8b-4fc6-9b3f-7a84aaccd57b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/button/i</value>
+      <webElementGuid>f9327f1e-778a-48e6-b67e-ea332a41aca8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'expand_more' or . = 'expand_more')]</value>
+      <webElementGuid>18d1f372-3eec-4634-974e-d08c3c83bab7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

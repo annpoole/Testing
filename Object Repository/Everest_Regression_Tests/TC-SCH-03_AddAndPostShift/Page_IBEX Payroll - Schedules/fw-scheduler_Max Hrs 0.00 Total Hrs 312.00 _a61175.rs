@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fw-scheduler_Max Hrs 0.00 Total Hrs 312.00 _a61175</name>
+   <tag></tag>
+   <elementGuidId>9debec5a-6761-4729-8480-55af9f68db3c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>fw-scheduler.everest-scrollbar</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Overtime Estimate Report (Standard Report)'])[1]/following::fw-scheduler[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>fw-scheduler</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>fw-scheduler</value>
+      <webElementGuid>0e890918-1841-437d-b140-d76794c4c451</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>everest-scrollbar</value>
+      <webElementGuid>13318e5a-01bb-4370-bf8d-66be73297eb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-view</name>
+      <type>Main</type>
+      <value>employee-week</value>
+      <webElementGuid>e62c4717-f32f-4c4c-aa91-c775b71fa3a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Max Hrs: 0.00 Total Hrs: 312.00 (39)Vacant: 0.00 (0)Assigned: 312.00 (39)Non-Work Hours: 0.00  Freeze vacant row Show employees in other departmentsclearswap_vertSun10Mon11Tue12Wed13Thu14Fri15Sat16VacantAnderson, Brooklynn (16.00, 16.00) lockerror InactiveBravo House 07:00 AM - 03:00 PM (8h 00m)Anderson, BrooklynnRWrepeatclearlockerror InactiveBravo House 07:00 AM - 03:00 PM (8h 00m)Anderson, BrooklynnRWrepeatclearAnderson, Liana (0.00, 0.00) McLean, Elliana (0.00, 0.00) Olsen, Kaliana (0.00, 0.00) Ponce, Eliana (0.00, 0.00) </value>
+      <webElementGuid>b827c666-5719-484e-830a-d5031942b0af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-schedule-detail-container[@class=&quot;ng-star-inserted&quot;]/spa-schedule-detail[@class=&quot;work-surface__content ng-star-inserted&quot;]/div[@class=&quot;scheduler-container&quot;]/fw-scheduler[@class=&quot;everest-scrollbar&quot;]</value>
+      <webElementGuid>6ef53629-1a2c-42c0-be2b-4c6ef1dfa9fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overtime Estimate Report (Standard Report)'])[1]/following::fw-scheduler[1]</value>
+      <webElementGuid>7a06eb7e-46d2-45ee-b2a8-96fd034bf1d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scheduled Work Hours By Employee (Standard Report)'])[1]/following::fw-scheduler[1]</value>
+      <webElementGuid>61cfa499-67a0-413f-af1f-dc0603cd1356</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fw-scheduler</value>
+      <webElementGuid>5355bbae-b017-462d-9f03-11cb3d57c269</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//fw-scheduler[(text() = 'Max Hrs: 0.00 Total Hrs: 312.00 (39)Vacant: 0.00 (0)Assigned: 312.00 (39)Non-Work Hours: 0.00  Freeze vacant row Show employees in other departmentsclearswap_vertSun10Mon11Tue12Wed13Thu14Fri15Sat16VacantAnderson, Brooklynn (16.00, 16.00) lockerror InactiveBravo House 07:00 AM - 03:00 PM (8h 00m)Anderson, BrooklynnRWrepeatclearlockerror InactiveBravo House 07:00 AM - 03:00 PM (8h 00m)Anderson, BrooklynnRWrepeatclearAnderson, Liana (0.00, 0.00) McLean, Elliana (0.00, 0.00) Olsen, Kaliana (0.00, 0.00) Ponce, Eliana (0.00, 0.00) ' or . = 'Max Hrs: 0.00 Total Hrs: 312.00 (39)Vacant: 0.00 (0)Assigned: 312.00 (39)Non-Work Hours: 0.00  Freeze vacant row Show employees in other departmentsclearswap_vertSun10Mon11Tue12Wed13Thu14Fri15Sat16VacantAnderson, Brooklynn (16.00, 16.00) lockerror InactiveBravo House 07:00 AM - 03:00 PM (8h 00m)Anderson, BrooklynnRWrepeatclearlockerror InactiveBravo House 07:00 AM - 03:00 PM (8h 00m)Anderson, BrooklynnRWrepeatclearAnderson, Liana (0.00, 0.00) McLean, Elliana (0.00, 0.00) Olsen, Kaliana (0.00, 0.00) Ponce, Eliana (0.00, 0.00) ')]</value>
+      <webElementGuid>7cd70785-2a43-4296-81fd-df1bb42690c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

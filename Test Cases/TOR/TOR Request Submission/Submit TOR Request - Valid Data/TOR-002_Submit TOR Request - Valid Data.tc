@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>with valid date (20-may-24 / 21-may-24) vacation request</description>
+   <name>TOR-002_Submit TOR Request - Valid Data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>932847c7-1a40-4ac9-a108-08faee8e8da2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d537bbd5-7d65-4217-b063-ba829ac18d49</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9c6d101f-fc32-48b1-9c52-7b5d36b22128</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dc42e311-351e-4c68-929c-2fa9cc34a5fe</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'10-March-2024'</defaultValue>
+      <description></description>
+      <id>d537bbd5-7d65-4217-b063-ba829ac18d49</id>
+      <masked>false</masked>
+      <name>TORStartDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'11-March-2024'</defaultValue>
+      <description></description>
+      <id>9c6d101f-fc32-48b1-9c52-7b5d36b22128</id>
+      <masked>false</masked>
+      <name>TOREndDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'vacation leave'</defaultValue>
+      <description></description>
+      <id>dc42e311-351e-4c68-929c-2fa9cc34a5fe</id>
+      <masked>false</masked>
+      <name>TORRequestNote</name>
+   </variable>
+</TestCaseEntity>

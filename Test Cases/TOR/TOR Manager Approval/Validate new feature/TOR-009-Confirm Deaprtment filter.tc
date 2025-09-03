@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TOR-009-Confirm Deaprtment filter</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bb859180-ef8a-4c89-be2c-3ca8d7e06442</testCaseGuid>
+</TestCaseEntity>

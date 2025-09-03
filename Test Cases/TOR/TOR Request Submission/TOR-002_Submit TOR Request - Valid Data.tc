@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>with valid date (20-may-24 / 21-may-24) vacation request</description>
-   <name>TOR-002_Submit TOR Request - Valid Data</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>932847c7-1a40-4ac9-a108-08faee8e8da2</testCaseGuid>
-</TestCaseEntity>

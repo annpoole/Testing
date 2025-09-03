@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Reviewed Date filter_list</name>
+   <tag></tag>
+   <elementGuidId>671a6c08-a2a4-4919-86fb-1dbe1eaa2c39</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='filter_list'])[7]/following::th[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>th.col--reviewedDate</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=columnheader[name=&quot;Reviewed Date filter_list&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>a5503a9e-98d6-447c-8663-415e462706cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>scope</name>
+      <type>Main</type>
+      <value>col</value>
+      <webElementGuid>c2955eb9-3da7-4f60-bbd2-3738b4c49330</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fwfilterid</name>
+      <type>Main</type>
+      <value>ReviewedDate</value>
+      <webElementGuid>2e5f6d43-40f7-4757-8e7d-41a1b7b9c710</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fwfilterpropertyname</name>
+      <type>Main</type>
+      <value>ReviewedDate</value>
+      <webElementGuid>b09a40b4-3e1a-4a60-8535-c4d5f7b3d985</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col--reviewedDate</value>
+      <webElementGuid>cb6d4c70-53cf-4988-a6b4-9cc38d8cf961</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Reviewed Date filter_list</value>
+      <webElementGuid>c785b5c0-5a20-4b16-9c87-b96c2b933c67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-time-off-admin-container[@class=&quot;routed-container ng-star-inserted&quot;]/spa-time-off-admin[@class=&quot;work-surface__content ng-star-inserted&quot;]/spa-request-admin-table[1]/table[@class=&quot;grid-lite&quot;]/thead[1]/tr[1]/th[@class=&quot;col--reviewedDate&quot;]</value>
+      <webElementGuid>660ca661-0683-4d7f-8141-195cc69a5729</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='filter_list'])[7]/following::th[1]</value>
+      <webElementGuid>0e1b638c-6d7f-487d-b740-7c8313ec7d66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reviewed Date']/parent::*</value>
+      <webElementGuid>7331a87b-e1c9-4e60-a596-8cf2c24ece25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[12]</value>
+      <webElementGuid>98577b30-319e-4604-92e4-040400d91e98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = ' Reviewed Date filter_list' or . = ' Reviewed Date filter_list')]</value>
+      <webElementGuid>a04a5cd1-9704-4c51-a83a-6cb2317bdd2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

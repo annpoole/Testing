@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Home dept, Supervisor and reviewd date</description>
+   <name>TOR-008_validate new columns</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>17df06fc-8b89-47b8-843e-b0b26508e88a</testCaseGuid>
+</TestCaseEntity>

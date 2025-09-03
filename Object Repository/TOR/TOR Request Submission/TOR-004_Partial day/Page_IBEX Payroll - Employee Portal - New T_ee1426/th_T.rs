@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_T</name>
+   <tag></tag>
+   <elementGuidId>e567dacd-117e-4165-88b0-fb640eb677bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-0']/fw-datepicker/fw-datepicker-month-view/table/thead/tr/th[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;T&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>fe958f71-5a4c-4f08-a710-7b4714570edc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fw-datepicker-col-label ng-star-inserted</value>
+      <webElementGuid>43ce577d-78f3-4ffa-a5b8-5815d7cb204f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>T</value>
+      <webElementGuid>47dbce3c-483d-4f33-bce6-7e16d8b8fd16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-0&quot;)/fw-datepicker[@class=&quot;fw-datepicker&quot;]/fw-datepicker-month-view[@class=&quot;fw-datepicker-month-view ng-star-inserted&quot;]/table[@class=&quot;fw-datepicker-table&quot;]/thead[1]/tr[1]/th[@class=&quot;fw-datepicker-col-label ng-star-inserted&quot;]</value>
+      <webElementGuid>4f387529-2e6e-4d3e-b8ff-725180adc5db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-0']/fw-datepicker/fw-datepicker-month-view/table/thead/tr/th[3]</value>
+      <webElementGuid>93b8ab56-84c4-4092-8dfd-34eee766cb99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='M'])[1]/following::th[1]</value>
+      <webElementGuid>8800474f-4f68-4cf4-af9b-f7f0ce9b2121</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S'])[1]/following::th[2]</value>
+      <webElementGuid>c5291650-7c6f-4fe1-bb54-69dbca9158cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='W'])[1]/preceding::th[1]</value>
+      <webElementGuid>3dd339a6-96f9-4b7d-8922-864b33a28f75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='T'])[2]/preceding::th[2]</value>
+      <webElementGuid>e456c523-b30a-4aa5-86f0-dcd75ee27268</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='T']/parent::*</value>
+      <webElementGuid>43a97a74-a1a7-4ba8-b583-27048b09a6eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[3]</value>
+      <webElementGuid>cf3bc018-a647-457a-8a09-d0232b5d9a1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'T' or . = 'T')]</value>
+      <webElementGuid>e1791bc1-5069-46df-a6b7-5d101615f772</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TOR-001 Login and Navigate to TOR</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>dfb574e0-f3e3-4061-8bfe-3ad878d741c8</testCaseGuid>
-</TestCaseEntity>

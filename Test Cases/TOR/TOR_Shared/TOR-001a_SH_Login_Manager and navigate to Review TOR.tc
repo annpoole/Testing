@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TOR-001a_SH_Login_Manager and navigate to Review TOR</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0fe6c383-74d6-4c80-9676-e965f7e71152</testCaseGuid>
+</TestCaseEntity>

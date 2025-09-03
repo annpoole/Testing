@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_filter_list</name>
+   <tag></tag>
+   <elementGuidId>4fe02d6d-1b24-482c-9382-a7ef1d92db8e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='filter_list'])[3]/following::i[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>th.col--home-department > button.fw-filter-button > i.material-icons</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=columnheader[name=&quot;Home Department filter_list&quot;i] >> internal:role=button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>628d94c5-a9ef-4f76-9199-0e05aed32e01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons</value>
+      <webElementGuid>2feac588-2c53-4121-8835-6066fc906533</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>filter_list</value>
+      <webElementGuid>81a75993-ca2c-4686-86c5-01c8fc5eb1bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-time-off-admin-container[@class=&quot;routed-container ng-star-inserted&quot;]/spa-time-off-admin[@class=&quot;work-surface__content ng-star-inserted&quot;]/spa-request-admin-table[1]/table[@class=&quot;grid-lite&quot;]/thead[1]/tr[1]/th[@class=&quot;col--home-department&quot;]/button[@class=&quot;fw-filter-button&quot;]/i[@class=&quot;material-icons&quot;]</value>
+      <webElementGuid>1cd7ea18-ddee-477a-9560-33db70105102</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='filter_list'])[3]/following::i[2]</value>
+      <webElementGuid>3246768e-cd5b-4464-b48f-8036a1c34026</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='filter_list'])[5]/preceding::i[2]</value>
+      <webElementGuid>78ec3439-64d6-4747-b036-081fe97b085b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[6]/button/i</value>
+      <webElementGuid>623e09e6-17dd-4d1d-90e9-fb6bae3802fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'filter_list' or . = 'filter_list')]</value>
+      <webElementGuid>5ba27b8c-2671-43f9-b67d-d05618e15ce5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

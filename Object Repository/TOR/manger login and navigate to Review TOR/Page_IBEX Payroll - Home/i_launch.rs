@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_launch</name>
+   <tag></tag>
+   <elementGuidId>7f99dec9-8323-4396-816e-88f231b87e04</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Request Time Off'])[1]/following::i[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Open in new window&quot;] > i.material-icons</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;launch&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>bb67abb9-d903-498c-8262-cb5bb176ebee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons</value>
+      <webElementGuid>768175c8-8323-4280-8b05-24410c4e0997</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>launch  
+						</value>
+      <webElementGuid>92aba831-ebaa-4b28-bede-5f8f2a3ab546</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;material-icons--loaded&quot;]/body[@class=&quot;body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;work-surface&quot;]/div[@class=&quot;work-surface__content&quot;]/div[@class=&quot;work-surface__content-inner&quot;]/div[@class=&quot;u-flex u-flex--column u-height-100&quot;]/div[@class=&quot;u-flex u-flex--row u-height-100&quot;]/div[@class=&quot;u-flex u-flex--column&quot;]/div[@class=&quot;form__row&quot;]/ul[1]/li[2]/a[1]/i[@class=&quot;material-icons&quot;]</value>
+      <webElementGuid>b78d9865-1087-4473-a4c1-1d5754b12465</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request Time Off'])[1]/following::i[1]</value>
+      <webElementGuid>56790c30-a3e6-442f-b21e-f0985e159703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time Off'])[1]/following::i[1]</value>
+      <webElementGuid>ad44db0b-6cf1-4ac8-bd7c-c727a7407af1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Review Time Off Requests'])[1]/preceding::i[1]</value>
+      <webElementGuid>eeb50ef6-1b4c-4cdb-a5d8-f898b67320b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documents'])[1]/preceding::i[1]</value>
+      <webElementGuid>9284d3d3-fd77-4d31-8309-566cb67ffcfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='launch']/parent::*</value>
+      <webElementGuid>d56dd0b0-2f4a-48d9-875e-80d46d68c039</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/ul/li[2]/a/i</value>
+      <webElementGuid>befba0f7-f488-4bc0-9839-21d07b1659a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'launch  
+						' or . = 'launch  
+						')]</value>
+      <webElementGuid>2547e2bb-0e22-4ba5-a563-d1429eb2c9cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

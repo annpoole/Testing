@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TOR-004a_Verify Partial day Hours</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ba5e8670-cfcd-4320-a1e4-661416c69302</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6eddcd1b-af18-42a0-a1dd-b08030b7f838</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>af931215-1102-4bbe-a279-dd9ba1a05629</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f6bfb57b-9171-4597-8c11-f177de8ff9f7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Total Hours Requested Off: 4.00'</defaultValue>
+      <description></description>
+      <id>6eddcd1b-af18-42a0-a1dd-b08030b7f838</id>
+      <masked>false</masked>
+      <name>TOR_Total_hours</name>
+   </variable>
+   <variable>
+      <defaultValue>'18-Mar-2024 03:00 PM  –  18-Mar-2024 07:00 PM'</defaultValue>
+      <description></description>
+      <id>af931215-1102-4bbe-a279-dd9ba1a05629</id>
+      <masked>false</masked>
+      <name>VERIFY_TOR</name>
+   </variable>
+   <variable>
+      <defaultValue>'18-Mar-2024'</defaultValue>
+      <description></description>
+      <id>f6bfb57b-9171-4597-8c11-f177de8ff9f7</id>
+      <masked>false</masked>
+      <name>TORStartDate</name>
+   </variable>
+</TestCaseEntity>

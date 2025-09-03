@@ -6,12 +6,12 @@
    <elementGuidId>68f0aa65-adca-455b-99e9-29253b20a3c6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>.u-m-right.button--secondary:nth-child(2)</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' u-m-right ') and contains(concat(' ', normalize-space(@class), ' '), ' button--secondary ') and (position() = 2)]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.u-m-right.button--secondary:nth-child(2)</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

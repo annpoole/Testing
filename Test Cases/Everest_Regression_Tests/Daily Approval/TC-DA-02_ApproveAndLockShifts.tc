@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Predetermined shifts available</description>
+   <name>TC-DA-02_ApproveAndLockShifts</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f1cebe49-cd92-443b-ac4b-94decb51931e</testCaseGuid>
+</TestCaseEntity>

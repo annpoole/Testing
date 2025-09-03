@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Navigate to Schedules&#xd;
+&#xd;&#xd;
+2. Verify slider opens (open manually if not)</description>
+   <name>TC-SCH-01_OpenSchedulesSlider</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f550b0a0-df18-4911-aa69-d9f30dcc75a7</testCaseGuid>
+</TestCaseEntity>

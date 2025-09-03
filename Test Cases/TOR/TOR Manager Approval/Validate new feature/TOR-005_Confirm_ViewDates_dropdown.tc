@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>(Days Requested &amp; Submitted Date)</description>
+   <name>TOR-005_Confirm_ViewDates_dropdown</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cfec4cc5-d557-4537-a182-3c6f20cf0003</testCaseGuid>
+</TestCaseEntity>

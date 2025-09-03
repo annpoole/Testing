@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TOR-010_Find TOR from EE Test Case</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c9ba5856-fde6-49f6-997d-aa70d0fd4eda</testCaseGuid>
+</TestCaseEntity>

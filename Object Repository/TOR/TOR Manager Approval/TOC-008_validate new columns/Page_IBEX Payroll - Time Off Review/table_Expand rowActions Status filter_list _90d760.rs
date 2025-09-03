@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>table_Expand rowActions Status filter_list _90d760</name>
+   <tag></tag>
+   <elementGuidId>ad87d6b9-4dbb-4ba1-84ee-50fda1f692af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Find'])[2]/following::table[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>table.grid-lite</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=table</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>table</value>
+      <webElementGuid>dc11ea33-54d8-4ec6-9300-1dfdb7a0732b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grid-lite</value>
+      <webElementGuid>ef0feecb-240a-4993-8639-f49f69394e43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Expand rowActions Status filter_list Submitted filter_list Employee filter_list Home Department filter_list Start filter_list End filter_listDurationSeniority (hrs) Reviewed By filter_list Reviewed Date filter_list Home Dept. on Submission filter_list Primary Sup. on Submission filter_listexpand_more Show shift details  View request details View Details PENDING Submitted:13-Aug-2025 09:27:12 AM Cambridge, ColleenHome Department:SIL Start: Mon, 06-May-2024 End: Mon, 06-May-2024 Duration:8h 0mSeniority (hrs): 93.00 expand_more Show shift details  View request details View Details PENDING Submitted:22-Aug-2025 09:18:31 AM Knott, DaisyHome Department:Anemone House Start: Sun, 10-Mar-2024 End: Mon, 11-Mar-2024 Duration:8h 0mSeniority (hrs):info 3861.86 Home dept. on submission:Anemone House expand_more Show shift details  View request details View Details PENDING Submitted:22-Aug-2025 10:42:22 AM Knott, DaisyHome Department:Anemone House Start: Mon, 18-Mar-2024 03:00 PMEnd: Mon, 18-Mar-2024 07:00 PMDuration:4h 0mSeniority (hrs):info 3861.86 Home dept. on submission:Anemone House </value>
+      <webElementGuid>f2db88d8-8817-47ef-adb6-c5e90ea66779</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-time-off-admin-container[@class=&quot;routed-container ng-star-inserted&quot;]/spa-time-off-admin[@class=&quot;work-surface__content ng-star-inserted&quot;]/spa-request-admin-table[1]/table[@class=&quot;grid-lite&quot;]</value>
+      <webElementGuid>001b9ffe-a947-4384-b7f9-6aaa3745c9c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find'])[2]/following::table[1]</value>
+      <webElementGuid>35d43a0c-e266-4011-994f-3f1e561dd007</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To'])[1]/following::table[1]</value>
+      <webElementGuid>684db202-81c4-4621-bf57-0a262027eeba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table</value>
+      <webElementGuid>5618f3d2-026a-4953-bb22-5182712e118d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//table[(text() = 'Expand rowActions Status filter_list Submitted filter_list Employee filter_list Home Department filter_list Start filter_list End filter_listDurationSeniority (hrs) Reviewed By filter_list Reviewed Date filter_list Home Dept. on Submission filter_list Primary Sup. on Submission filter_listexpand_more Show shift details  View request details View Details PENDING Submitted:13-Aug-2025 09:27:12 AM Cambridge, ColleenHome Department:SIL Start: Mon, 06-May-2024 End: Mon, 06-May-2024 Duration:8h 0mSeniority (hrs): 93.00 expand_more Show shift details  View request details View Details PENDING Submitted:22-Aug-2025 09:18:31 AM Knott, DaisyHome Department:Anemone House Start: Sun, 10-Mar-2024 End: Mon, 11-Mar-2024 Duration:8h 0mSeniority (hrs):info 3861.86 Home dept. on submission:Anemone House expand_more Show shift details  View request details View Details PENDING Submitted:22-Aug-2025 10:42:22 AM Knott, DaisyHome Department:Anemone House Start: Mon, 18-Mar-2024 03:00 PMEnd: Mon, 18-Mar-2024 07:00 PMDuration:4h 0mSeniority (hrs):info 3861.86 Home dept. on submission:Anemone House ' or . = 'Expand rowActions Status filter_list Submitted filter_list Employee filter_list Home Department filter_list Start filter_list End filter_listDurationSeniority (hrs) Reviewed By filter_list Reviewed Date filter_list Home Dept. on Submission filter_list Primary Sup. on Submission filter_listexpand_more Show shift details  View request details View Details PENDING Submitted:13-Aug-2025 09:27:12 AM Cambridge, ColleenHome Department:SIL Start: Mon, 06-May-2024 End: Mon, 06-May-2024 Duration:8h 0mSeniority (hrs): 93.00 expand_more Show shift details  View request details View Details PENDING Submitted:22-Aug-2025 09:18:31 AM Knott, DaisyHome Department:Anemone House Start: Sun, 10-Mar-2024 End: Mon, 11-Mar-2024 Duration:8h 0mSeniority (hrs):info 3861.86 Home dept. on submission:Anemone House expand_more Show shift details  View request details View Details PENDING Submitted:22-Aug-2025 10:42:22 AM Knott, DaisyHome Department:Anemone House Start: Mon, 18-Mar-2024 03:00 PMEnd: Mon, 18-Mar-2024 07:00 PMDuration:4h 0mSeniority (hrs):info 3861.86 Home dept. on submission:Anemone House ')]</value>
+      <webElementGuid>65760649-88e6-4be0-8536-bcabf8085114</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

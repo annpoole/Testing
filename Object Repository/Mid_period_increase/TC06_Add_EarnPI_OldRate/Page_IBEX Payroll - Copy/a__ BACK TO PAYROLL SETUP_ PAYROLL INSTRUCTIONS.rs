@@ -6,12 +6,12 @@
    <elementGuidId>094fcf92-a984-483e-80e6-d9fe098ae4f4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a[_ngcontent-ng-c4209167489=&quot;&quot;]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//a[@_ngcontent-ng-c4209167489 = '']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[_ngcontent-ng-c4209167489=&quot;&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

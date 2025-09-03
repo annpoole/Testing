@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fw-tabs_Summaryfiber_manual_recordFiltersfi_f8a64b</name>
+   <tag></tag>
+   <elementGuidId>552db20f-4c1b-4e1b-899e-b5c7c1d4135f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>fw-tabs</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='chevron_left'])[1]/following::fw-tabs[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>fw-tabs</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>fw-tabs</value>
+      <webElementGuid>0031b781-6645-4172-9d0d-75ef0958ad20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Summaryfiber_manual_recordFiltersfiber_manual_recordDisplay Optionsfiber_manual_recordSummary of Hours List by: EmployeeDepartmentDatePayCodeMatch Status then summarize by: EmployeeDatePayCodeMatch StatusUnapprovedApprovedTotal1,248.000.001,248.00Expand rowexpand_more Bravo House 632.000.00632.00Expand rowexpand_more Charlie House 616.000.00616.00FiltersClear All Employee no filter Department no filter PayCode no filter Match Status no filter Status  Unapproved  Date Range 10 Mar, 2024 - 23 Mar, 2024 Lock Status no filter Worked Status no filterDisplay Options Name Display First Name first (Emma Price)Last name first (Price, Emma)Apply</value>
+      <webElementGuid>e4dd5bde-93cb-493d-aa6b-20c8ddc816aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-daily-approvals[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;work-surface&quot;]/spa-daily-approval-details[@class=&quot;enabled active ng-star-inserted&quot;]/div[@class=&quot;detail-panel__content&quot;]/fw-tabs[1]</value>
+      <webElementGuid>e4365611-9568-4cd4-82f9-4a5e92dd5792</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='chevron_left'])[1]/following::fw-tabs[1]</value>
+      <webElementGuid>d3ad5f38-72c3-496c-b174-70a23b4198bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ATTENDANCE'])[1]/following::fw-tabs[1]</value>
+      <webElementGuid>8af215ef-fb88-4e5f-b9ba-9c4ce1a84c9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fw-tabs</value>
+      <webElementGuid>8d55a66e-13b7-4fb0-ad4e-75557d92bab3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//fw-tabs[(text() = 'Summaryfiber_manual_recordFiltersfiber_manual_recordDisplay Optionsfiber_manual_recordSummary of Hours List by: EmployeeDepartmentDatePayCodeMatch Status then summarize by: EmployeeDatePayCodeMatch StatusUnapprovedApprovedTotal1,248.000.001,248.00Expand rowexpand_more Bravo House 632.000.00632.00Expand rowexpand_more Charlie House 616.000.00616.00FiltersClear All Employee no filter Department no filter PayCode no filter Match Status no filter Status  Unapproved  Date Range 10 Mar, 2024 - 23 Mar, 2024 Lock Status no filter Worked Status no filterDisplay Options Name Display First Name first (Emma Price)Last name first (Price, Emma)Apply' or . = 'Summaryfiber_manual_recordFiltersfiber_manual_recordDisplay Optionsfiber_manual_recordSummary of Hours List by: EmployeeDepartmentDatePayCodeMatch Status then summarize by: EmployeeDatePayCodeMatch StatusUnapprovedApprovedTotal1,248.000.001,248.00Expand rowexpand_more Bravo House 632.000.00632.00Expand rowexpand_more Charlie House 616.000.00616.00FiltersClear All Employee no filter Department no filter PayCode no filter Match Status no filter Status  Unapproved  Date Range 10 Mar, 2024 - 23 Mar, 2024 Lock Status no filter Worked Status no filterDisplay Options Name Display First Name first (Emma Price)Last name first (Price, Emma)Apply')]</value>
+      <webElementGuid>f03d865d-b8eb-4325-bdf4-6c7da9cbe18e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

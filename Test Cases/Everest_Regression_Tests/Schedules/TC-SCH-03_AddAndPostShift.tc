@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Open schedule period&#xd;
+&#xd;&#xd;
+2. Filter by employee name&#xd;&#xd;
+&#xd;
+3. Add Monday shift (8am–4pm)&#xd;&#xd;
+&#xd;
+4. Post schedule</description>
+   <name>TC-SCH-03_AddAndPostShift</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cabf3750-389b-495c-bc91-50b6b24a0c11</testCaseGuid>
+   <variable>
+      <defaultValue>'Anderson, Liana'</defaultValue>
+      <description></description>
+      <id>3476c993-6954-4c9a-a07f-05e8ded4bec0</id>
+      <masked>false</masked>
+      <name>Emplyoee</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sat, 23-Mar-2024'</defaultValue>
+      <description></description>
+      <id>75386c43-a762-4542-ba9f-cd1653ec76d9</id>
+      <masked>false</masked>
+      <name>Recurrence_endBydate</name>
+   </variable>
+</TestCaseEntity>

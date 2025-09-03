@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Leave_input-text u-m-bottom--half ng-_6f13fa</name>
+   <tag></tag>
+   <elementGuidId>47f1b6d9-ae2f-4f53-81dc-4ab2a6b4318f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.input-text.u-m-bottom--half.ng-untouched.ng-valid.ng-dirty</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Quick search&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>05feeb50-30a5-418f-9f2a-6c2662d585bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>c4f966ff-f4e9-4abe-b498-d9a606aa68a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Quick search</value>
+      <webElementGuid>dc91930d-0b58-4f50-a7cf-3949fd33ec70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-text u-m-bottom--half ng-untouched ng-valid ng-dirty</value>
+      <webElementGuid>fbd87d6d-b070-4d7a-bc4d-b4891485a83e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-0&quot;)/div[@class=&quot;fw-filter-overlay u-flex--100 ng-star-inserted&quot;]/fw-default-filter[@class=&quot;u-flex u-flex--column ng-star-inserted&quot;]/input[@class=&quot;input-text u-m-bottom--half ng-untouched ng-valid ng-dirty&quot;]</value>
+      <webElementGuid>63277a3a-9328-46cf-8e8a-4983f6d059a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[4]</value>
+      <webElementGuid>3750add1-509d-487d-8c28-9c5587ad9d5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-0']/div/fw-default-filter/input</value>
+      <webElementGuid>2726cd82-808a-48e6-a4df-2986a6bb21c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fw-default-filter/input</value>
+      <webElementGuid>5cdaa97a-9496-4ff0-bb72-f1ef14120b6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Quick search']</value>
+      <webElementGuid>2a84bd6f-7ea6-447c-87f1-b85c27ff7a64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

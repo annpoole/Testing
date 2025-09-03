@@ -6,8 +6,20 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>12aeb782-c8e3-4d59-bccc-eb08b055ebef</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3e303f25-5b31-4455-9735-790906678864</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>08242933-7843-4987-b20c-34e28e991562</variableId>
+   </variableLinks>
    <variable>
-      <defaultValue>'colleenc@annstestorg'</defaultValue>
+      <defaultValue>'dknott@annstestorg\r\n'</defaultValue>
       <description></description>
       <id>3e303f25-5b31-4455-9735-790906678864</id>
       <masked>false</masked>

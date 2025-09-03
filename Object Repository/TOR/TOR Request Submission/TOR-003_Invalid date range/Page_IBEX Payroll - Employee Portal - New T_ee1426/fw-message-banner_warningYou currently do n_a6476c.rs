@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fw-message-banner_warningYou currently do n_a6476c</name>
+   <tag></tag>
+   <elementGuidId>44b76f2f-d69a-40b4-83e0-cc99f3754169</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>fw-message-banner.full-width.fw-message-banner-type-error.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//fw-message-banner[@type='error']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;warningYou currently do not have any scheduled shifts during the time period sel&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>fw-message-banner</value>
+      <webElementGuid>e7fa908e-3c76-440b-aa0b-e0ef5b59e78a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>error</value>
+      <webElementGuid>3eef8adb-d3a0-456b-ba47-621598cb5155</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>full-width fw-message-banner-type-error ng-star-inserted</value>
+      <webElementGuid>971564c8-576e-4d8e-a3bf-885965f6c183</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>warningYou currently do not have any scheduled shifts during the time period selected. Please modify your request to include a time period when you are scheduled.</value>
+      <webElementGuid>e501b5d8-ad96-4730-ad3a-6842082b3752</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-time-off-request-detail-container[@class=&quot;routed-container ng-star-inserted&quot;]/spa-time-off-request-detail[@class=&quot;work-surface__content ng-star-inserted&quot;]/spa-time-off-request-form[@class=&quot;form ng-star-inserted&quot;]/form[@class=&quot;ng-dirty ng-touched ng-valid ng-submitted&quot;]/fw-message-banner[@class=&quot;full-width fw-message-banner-type-error ng-star-inserted&quot;]</value>
+      <webElementGuid>4b16f558-e33f-4b2d-b874-87670f4a5989</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//fw-message-banner[@type='error']</value>
+      <webElementGuid>d9e88c8b-a8eb-4509-a3fa-058d35b9b838</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End Date'])[1]/following::fw-message-banner[1]</value>
+      <webElementGuid>4848aac5-1b60-4804-beb8-bbfae3f403f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Date'])[1]/following::fw-message-banner[1]</value>
+      <webElementGuid>ee9e119e-e34c-4594-884e-9d5c520367a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time Off Type'])[1]/preceding::fw-message-banner[1]</value>
+      <webElementGuid>833c897a-2e12-430e-ac67-dbf5855d0edf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fw-message-banner</value>
+      <webElementGuid>2726f45e-a622-488f-8e46-bd04e55a7d7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//fw-message-banner[@type = 'error' and (text() = 'warningYou currently do not have any scheduled shifts during the time period selected. Please modify your request to include a time period when you are scheduled.' or . = 'warningYou currently do not have any scheduled shifts during the time period selected. Please modify your request to include a time period when you are scheduled.')]</value>
+      <webElementGuid>e5fede0b-5038-4cd2-ae61-4af5af169610</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TOR-004_Partial day</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cf57744c-e232-47fe-8e18-57b8f5b99376</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d537bbd5-7d65-4217-b063-ba829ac18d49</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9c6d101f-fc32-48b1-9c52-7b5d36b22128</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dc42e311-351e-4c68-929c-2fa9cc34a5fe</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ae2ae23d-7183-4f00-8dec-201b7695e619</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d682c3c5-1db8-479e-a384-f167bb43044d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'18-Mar-2024'</defaultValue>
+      <description></description>
+      <id>d537bbd5-7d65-4217-b063-ba829ac18d49</id>
+      <masked>false</masked>
+      <name>TORStartDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'18-Mar-2024'</defaultValue>
+      <description></description>
+      <id>9c6d101f-fc32-48b1-9c52-7b5d36b22128</id>
+      <masked>false</masked>
+      <name>TOREndDate</name>
+   </variable>
+   <variable>
+      <defaultValue>' Dentist appointment'</defaultValue>
+      <description></description>
+      <id>dc42e311-351e-4c68-929c-2fa9cc34a5fe</id>
+      <masked>false</masked>
+      <name>TORRequestNote</name>
+   </variable>
+   <variable>
+      <defaultValue>'3:00 PM'</defaultValue>
+      <description></description>
+      <id>ae2ae23d-7183-4f00-8dec-201b7695e619</id>
+      <masked>false</masked>
+      <name>TOR_Start_Time</name>
+   </variable>
+   <variable>
+      <defaultValue>'7:00 PM'</defaultValue>
+      <description></description>
+      <id>d682c3c5-1db8-479e-a384-f167bb43044d</id>
+      <masked>false</masked>
+      <name>TOR_End_Time</name>
+   </variable>
+</TestCaseEntity>

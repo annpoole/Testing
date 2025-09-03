@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin account exists with full access</description>
+   <name>TC-Home-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>62e1b23b-588f-4c42-859b-901430e81195</testCaseGuid>
+</TestCaseEntity>

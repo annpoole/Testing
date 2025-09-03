@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Predetermined schedule exists</description>
+   <name>TC-DA-01_OpenDailyApproval</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>50f253d7-9ba1-4c47-adf1-77422e5af783</testCaseGuid>
+</TestCaseEntity>
