@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fw-select_Casual Relief</name>
+   <tag></tag>
+   <elementGuidId>95c003a1-6394-43b7-a17b-0e2e7bc9bb1c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>fw-select.fw-select.input-select.department-select.ng-touched.ng-dirty.ng-valid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Department'])[3]/following::fw-select[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;Casual Relief&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>fw-select</value>
+      <webElementGuid>07261a48-f788-4944-9c0a-027662e18a11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>displayfield</name>
+      <type>Main</type>
+      <value>Name</value>
+      <webElementGuid>b19cdf87-53cf-4d61-b73b-b51027a7b127</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>valuefield</name>
+      <type>Main</type>
+      <value>ObjId</value>
+      <webElementGuid>15844624-8f35-4041-8690-7f4435cd9cc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alignwith</name>
+      <type>Main</type>
+      <value>right</value>
+      <webElementGuid>b42b9829-b04c-4ae8-94a3-3c472e269d69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Select a department</value>
+      <webElementGuid>fa51bccf-30e0-437d-8924-07e548f650a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fw-select input-select department-select ng-touched ng-dirty ng-valid</value>
+      <webElementGuid>0c84d789-a5ac-4bb6-aa2d-2136e020b27b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>035fd3fe-45e1-45ad-8d6d-46e3cbee3e0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Casual Relief</value>
+      <webElementGuid>06301f42-bac5-485f-b7ab-f7b32e955cd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Casual Relief</value>
+      <webElementGuid>4f36b673-ea4f-4280-936a-8c18ff934352</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-schedule-detail-container[@class=&quot;ng-star-inserted&quot;]/spa-schedule-detail[@class=&quot;work-surface__content ng-star-inserted&quot;]/div[@class=&quot;view-controls&quot;]/div[1]/fw-select[@class=&quot;fw-select input-select department-select ng-touched ng-dirty ng-valid&quot;]</value>
+      <webElementGuid>66de4080-07ef-470f-8d7d-5d58d40873ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Department'])[3]/following::fw-select[1]</value>
+      <webElementGuid>f60ca93b-fc58-47de-8575-c99f94eaf975</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy'])[2]/following::fw-select[1]</value>
+      <webElementGuid>a1405aeb-c4c9-4063-b965-cbf13fc1f5f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Navigate to previous period'])[1]/preceding::fw-select[1]</value>
+      <webElementGuid>9df6fc97-cb3c-4b84-a02a-94b1eaad38b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/fw-select</value>
+      <webElementGuid>a03401b7-c234-4aff-9381-64c30f9cbe04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//fw-select[@placeholder = 'Select a department' and @title = 'Casual Relief' and (text() = 'Casual Relief' or . = 'Casual Relief')]</value>
+      <webElementGuid>bc3f4e3e-2048-43e7-ac6e-85713907a1de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

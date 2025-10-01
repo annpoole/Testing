@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Added unique IDs to the cells in the Totals row of the Daily Approval summary grid so they can be targeted for Katalon tests.</description>
+   <name>WI-8065 Grid Total</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9bf0d8fd-93fb-4ef5-aac9-9ef260959df3</testCaseGuid>
+</TestCaseEntity>

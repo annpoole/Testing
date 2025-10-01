@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>WI-8073 Added Text Input to Schedule Nav Component</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e9984535-2471-430b-9119-b91626702df8</testCaseGuid>
+</TestCaseEntity>

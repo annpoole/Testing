@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_radio_button_unchecked</name>
+   <tag></tag>
+   <elementGuidId>a9e2a9d0-d745-4cd9-b153-edf2918faf86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional Information'])[1]/following::i[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.material-icons.unchecked</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;radio_button_unchecked&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>838c271a-2064-4c96-996b-04134dd6c4b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>8b3088ab-e27e-4c2b-b674-43a33378ae0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons unchecked</value>
+      <webElementGuid>0238d80c-ed87-426c-b2c2-c15c8c028e81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>radio_button_unchecked</value>
+      <webElementGuid>dc6f3b9c-8985-4d84-99e4-b53e4679b6bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-bid-details-page[@class=&quot;routed-container ng-star-inserted&quot;]/spa-bid-details[1]/div[@class=&quot;work-surface u-height--100&quot;]/div[@class=&quot;work-surface__content u-flex--align-start&quot;]/div[@class=&quot;tab-container flex-0 bids&quot;]/div[@class=&quot;table-container&quot;]/spa-open-bids-table[@class=&quot;ng-star-inserted&quot;]/table[@class=&quot;grid-lite&quot;]/tbody[1]/tr[@class=&quot;u-clickable ng-star-inserted&quot;]/td[@class=&quot;col--radio u-text--align-center ng-star-inserted&quot;]/i[@class=&quot;material-icons unchecked&quot;]</value>
+      <webElementGuid>ee0e36c7-dcbf-43eb-9cea-7cf1513ca642</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional Information'])[1]/following::i[1]</value>
+      <webElementGuid>0206dc1c-0b21-44b0-9717-4c1440e4ff03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comments'])[1]/following::i[1]</value>
+      <webElementGuid>14e21e41-8343-4993-9bea-4157a1d46928</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lindsay Abdul'])[1]/preceding::i[2]</value>
+      <webElementGuid>a5d4d943-1cc8-4a28-bc66-4ee24bdc0a23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Full Time'])[1]/preceding::i[2]</value>
+      <webElementGuid>d89164c6-6a1c-4da2-bf60-a31e1990e4a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='radio_button_unchecked']/parent::*</value>
+      <webElementGuid>005196cd-f816-4835-aaf6-5d1f6164841b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/i</value>
+      <webElementGuid>cc2e8be5-196e-4244-b09f-3c447fedace8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'radio_button_unchecked' or . = 'radio_button_unchecked')]</value>
+      <webElementGuid>d77e2328-8909-4aa5-98ee-a7b6aa3a66dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

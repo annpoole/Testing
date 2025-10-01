@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Return to Payroll Setup Payroll Instructions</name>
+   <tag></tag>
+   <elementGuidId>25e40c03-101e-4e7c-83cf-0c2149fb7e20</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.back-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='chevron_right'])[1]/following::div[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^&lt;&lt; Return to Payroll Setup: Payroll Instructions$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3df444c3-11cb-4a7a-8aed-13df2ea3f2b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>back-link</value>
+      <webElementGuid>59077284-b5c6-4463-bce7-9e8031596dec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>&lt;&lt; Return to Payroll Setup: Payroll Instructions</value>
+      <webElementGuid>646b392a-606d-4d14-bc3a-ef18b9757336</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;material-icons--loaded&quot;]/body[@class=&quot;body&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;work-surface&quot;]/div[@class=&quot;work-surface__content&quot;]/div[@class=&quot;work-surface__content-inner&quot;]/div[@class=&quot;back-link&quot;]</value>
+      <webElementGuid>7d9a9482-0d9d-4903-a8f7-46542f680647</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='chevron_right'])[1]/following::div[7]</value>
+      <webElementGuid>65857e9c-2d1c-4b1f-b5f7-c78f08329def</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JOURNAL ENTRY'])[1]/following::div[14]</value>
+      <webElementGuid>91f81f3e-54d6-46f9-bc9a-e59d2cfc5415</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div[2]</value>
+      <webElementGuid>ac2b3747-e791-4a0d-b8ce-f18dab04a7eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '&lt;&lt; Return to Payroll Setup: Payroll Instructions' or . = '&lt;&lt; Return to Payroll Setup: Payroll Instructions')]</value>
+      <webElementGuid>1781e6ac-363c-4d6c-8798-c0bb62bc1ab9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

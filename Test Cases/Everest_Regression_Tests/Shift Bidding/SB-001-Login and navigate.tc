@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SB-001-Login and navigate</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4224107f-02d0-41bc-a3ff-d26d8ae48e6f</testCaseGuid>
+</TestCaseEntity>

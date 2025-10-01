@@ -6,36 +6,6 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>2d1f11a7-d15f-4802-b507-30a8c405e5b7</testCaseGuid>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>47cc4e3a-baeb-49c9-9ce0-731e29049621</variableId>
-   </variableLinks>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>9f22b04b-6711-4e81-ab4a-17773395df5a</variableId>
-   </variableLinks>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>1b8500f9-cb98-486c-ae2d-78edb177153e</variableId>
-   </variableLinks>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>d9e719a0-3bd4-4b62-a033-cd1f7bb9dc7a</variableId>
-   </variableLinks>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>c36cb205-20b2-4be6-b48d-39cf3da7e717</variableId>
-   </variableLinks>
    <variable>
       <defaultValue>'10-Mar-2024'</defaultValue>
       <description>request for TOR</description>

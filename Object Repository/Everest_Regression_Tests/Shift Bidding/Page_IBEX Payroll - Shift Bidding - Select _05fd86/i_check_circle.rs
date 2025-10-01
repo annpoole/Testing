@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_check_circle</name>
+   <tag></tag>
+   <elementGuidId>45399658-1fe8-455f-b70c-2ed807c35b96</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='4a8b4233-d78e-4c18-bbb9-c9dffe16e2ae']/div[2]/i[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.material-icons.check</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>i:nth-child(3) >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>cc1b2ba8-5bb3-4b89-8b81-e18a8d6d691d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons check</value>
+      <webElementGuid>36c3ac1c-407c-4b58-a2e4-9788545ed8a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>check_circle</value>
+      <webElementGuid>975f3623-ba46-46d4-b471-6f1fc07d78ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;4a8b4233-d78e-4c18-bbb9-c9dffe16e2ae&quot;)/div[2]/i[@class=&quot;material-icons check&quot;]</value>
+      <webElementGuid>5ba010ab-b707-452d-8fc0-c1fe84b90c5f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='4a8b4233-d78e-4c18-bbb9-c9dffe16e2ae']/div[2]/i[3]</value>
+      <webElementGuid>a178a6a3-2114-4de2-a627-fb8ebda1bcc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hourglass_full'])[1]/following::i[1]</value>
+      <webElementGuid>1653bdd4-fe33-406d-9c48-c24ed1613e1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='radio_button_unchecked'])[1]/following::i[2]</value>
+      <webElementGuid>d3d743c5-01f9-4259-8e27-6595b241e819</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sep 22'])[1]/preceding::i[1]</value>
+      <webElementGuid>7f072a2b-0823-4ba3-844e-8677e788baaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monday'])[1]/preceding::i[1]</value>
+      <webElementGuid>c145909e-18fe-434a-a96c-b4c4760b988a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='check_circle']/parent::*</value>
+      <webElementGuid>bf827a69-a7ef-4239-bc0b-68e4565eb31e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i[3]</value>
+      <webElementGuid>77df653a-fa68-414e-9e2b-2ab2edd5dcc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'check_circle' or . = 'check_circle')]</value>
+      <webElementGuid>e6f1ef95-fd1b-4a2f-95a6-24f0430d8a49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

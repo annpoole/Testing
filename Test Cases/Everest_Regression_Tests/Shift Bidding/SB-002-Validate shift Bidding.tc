@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SB-002-Validate shift Bidding</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9093b52f-9183-4d48-9466-9ba1feb99e82</testCaseGuid>
+</TestCaseEntity>

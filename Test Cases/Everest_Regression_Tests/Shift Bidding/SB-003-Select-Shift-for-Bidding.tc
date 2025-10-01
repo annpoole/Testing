@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SB-003-Select-Shift-for-Bidding</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d29feb27-dffb-46f4-8d8e-9c36f83e3ae4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_BC Test Org</name>
+   <tag></tag>
+   <elementGuidId>77045970-8326-4ebd-80b6-d3813e2874bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@onclick='CloseDialog(0);'])[14]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;BC Test Org&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>201c3e4e-1db3-4618-8dd0-2ed23c2c7c8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>CloseDialog(0);</value>
+      <webElementGuid>8dff1f86-a753-4a7e-9fdb-037769435e22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/edge5/everest/OrganizationContext/ChangeContext.mr?OrganizationId=b25ff3bb-7c7e-4d5f-aba3-261200984031</value>
+      <webElementGuid>a49af4fe-3b43-49f7-82f9-6468e3aaee73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BC Test Org</value>
+      <webElementGuid>ca1b9723-b7a9-43b8-9cf7-b06a7fda0e6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gridOrganizationDialogResults&quot;)/tbody[1]/tr[@class=&quot;even&quot;]/td[2]/a[1]</value>
+      <webElementGuid>781e0248-00cc-40bc-9642-bdddaf582aba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@onclick='CloseDialog(0);'])[14]</value>
+      <webElementGuid>3f55011f-9cf0-44a0-8f9f-1b8999247b9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='gridOrganizationDialogResults']/tbody/tr[7]/td[2]/a</value>
+      <webElementGuid>12d60bb0-cb21-4f1f-88df-e8e74766a918</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'BC Test Org')]</value>
+      <webElementGuid>a1def176-7946-434e-8aa0-cc8a52e4ab00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AP-3'])[1]/following::a[3]</value>
+      <webElementGuid>fb5ae849-03e0-402f-b3cf-6626078bbd50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Biweekly-26'])[1]/preceding::a[2]</value>
+      <webElementGuid>11ea4633-2462-4fa0-aca4-6685be184b73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Biweekly-27'])[1]/preceding::a[4]</value>
+      <webElementGuid>bd262b3e-f876-4795-949a-8021b5f99095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BC Test Org']/parent::*</value>
+      <webElementGuid>23c685c0-298e-45af-a955-bbbe455f40f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/edge5/everest/OrganizationContext/ChangeContext.mr?OrganizationId=b25ff3bb-7c7e-4d5f-aba3-261200984031')])[2]</value>
+      <webElementGuid>ee274054-5111-4f3a-918d-7640edb827a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[7]/td[2]/a</value>
+      <webElementGuid>283a471e-b968-44e3-81f8-e6a832ce58d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/edge5/everest/OrganizationContext/ChangeContext.mr?OrganizationId=b25ff3bb-7c7e-4d5f-aba3-261200984031' and (text() = 'BC Test Org' or . = 'BC Test Org')]</value>
+      <webElementGuid>f411c088-5ee9-4bcd-811a-15693ed831e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

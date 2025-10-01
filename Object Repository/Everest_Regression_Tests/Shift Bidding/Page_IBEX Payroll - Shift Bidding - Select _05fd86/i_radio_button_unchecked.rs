@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_radio_button_unchecked</name>
+   <tag></tag>
+   <elementGuidId>68732e1d-fe7b-4cd8-bb99-5057dad2a001</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='4a8b4233-d78e-4c18-bbb9-c9dffe16e2ae']/div[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.material-icons.outline</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[id=&quot;\34 a8b4233-d78e-4c18-bbb9-c9dffe16e2ae&quot;] > div:nth-child(2) > i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>dcb442e9-6480-4a95-b030-b2c7641ae62a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons outline</value>
+      <webElementGuid>fa3634f0-6d2d-4d2f-8d6e-c7b9f1bd0e35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>radio_button_unchecked</value>
+      <webElementGuid>cbb37a06-b997-449e-9dd6-5ced16231e11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;4a8b4233-d78e-4c18-bbb9-c9dffe16e2ae&quot;)/div[2]/i[@class=&quot;material-icons outline&quot;]</value>
+      <webElementGuid>7186ebc8-396c-4f10-b76c-41e81e37e341</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='4a8b4233-d78e-4c18-bbb9-c9dffe16e2ae']/div[2]/i</value>
+      <webElementGuid>11f30c34-2eef-4565-8d77-132e74ee394a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='autorenew'])[1]/following::i[1]</value>
+      <webElementGuid>217db9fb-37b8-4de4-9218-fb536c4a225e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hourglass_full'])[1]/preceding::i[1]</value>
+      <webElementGuid>92fdbfcc-69be-4905-afd5-a718a6d69f2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='check_circle'])[1]/preceding::i[2]</value>
+      <webElementGuid>98e7e5ee-3208-457c-bf64-adc05fe62eef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='radio_button_unchecked']/parent::*</value>
+      <webElementGuid>440f1b17-2854-4698-843f-fb834a504fdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//spa-selectable-work-block/div/div[2]/i</value>
+      <webElementGuid>bfa25037-1775-4f4f-abb4-0badfaf1a81b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'radio_button_unchecked' or . = 'radio_button_unchecked')]</value>
+      <webElementGuid>f1755a1f-bdd7-4c86-98e7-00bade4695e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

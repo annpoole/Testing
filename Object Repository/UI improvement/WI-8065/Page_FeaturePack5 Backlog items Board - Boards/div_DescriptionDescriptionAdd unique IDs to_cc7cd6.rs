@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_DescriptionDescriptionAdd unique IDs to_cc7cd6</name>
+   <tag></tag>
+   <elementGuidId>b0ac789d-00c9-4616-92cd-551b074ea190</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.form-grid:nth-child(1)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-grid ') and (position() = 1)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#vss_94</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a4b36005-92fe-43f5-afbc-926b1317c6dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>vss_94</value>
+      <webElementGuid>b5237906-4bc0-495c-87b5-2982bf57a688</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-grid</value>
+      <webElementGuid>95bf2a86-d47e-403d-b626-7d048c9335fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>47c13b23-8a19-4c4f-8352-94aba103814f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DescriptionDescriptionAdd unique IDs to the cells in the Totals row of the Daily Approval summary grid so they can be targeted for Katalon tests. Acceptance CriteriaAcceptance CriteriaTotals can be reliably found using unique element IDs. Includables fieldsIncludables fieldsOrganizationSystem AreaIncludable StatusAppetite Assigned (Days)Customer RankingIncludable RankingStatusStatusReasonInvoice DetailsInvoice DetailsReference#Actual EffortDevelopmentDevelopmentAdd link#8065 - Add unique IDs to summary grid totalsCreated 9/11/2025,   Completed64f121fc Merged PR 7846: #8065 - Add unique IDs to summary grid totalsCreated 9/12/2025Related WorkRelated WorkAdd linkAdd an existing work item as a parentDetailsDetailsEffortBusiness ValueBacklog PriorityDiscussionDiscussion</value>
+      <webElementGuid>d010f27a-1d11-4667-9ea5-216bcc4daa9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-0325cb90c888467f7f2785bf429854c4</value>
+      <webElementGuid>e199464f-5bcd-4055-912f-e90d5190f4a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-grid ') and (position() = 1)]</value>
+      <webElementGuid>cfd01d37-cb16-49ec-9ee5-bc5fa6b41802</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-grid ') and (position() = 1)]</value>
+      <webElementGuid>d6c4078a-e2ee-430d-85bd-6a3e3fad5f24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'vss_94' and (text() = 'DescriptionDescriptionAdd unique IDs to the cells in the Totals row of the Daily Approval summary grid so they can be targeted for Katalon tests. Acceptance CriteriaAcceptance CriteriaTotals can be reliably found using unique element IDs. Includables fieldsIncludables fieldsOrganizationSystem AreaIncludable StatusAppetite Assigned (Days)Customer RankingIncludable RankingStatusStatusReasonInvoice DetailsInvoice DetailsReference#Actual EffortDevelopmentDevelopmentAdd link#8065 - Add unique IDs to summary grid totalsCreated 9/11/2025,   Completed64f121fc Merged PR 7846: #8065 - Add unique IDs to summary grid totalsCreated 9/12/2025Related WorkRelated WorkAdd linkAdd an existing work item as a parentDetailsDetailsEffortBusiness ValueBacklog PriorityDiscussionDiscussion' or . = 'DescriptionDescriptionAdd unique IDs to the cells in the Totals row of the Daily Approval summary grid so they can be targeted for Katalon tests. Acceptance CriteriaAcceptance CriteriaTotals can be reliably found using unique element IDs. Includables fieldsIncludables fieldsOrganizationSystem AreaIncludable StatusAppetite Assigned (Days)Customer RankingIncludable RankingStatusStatusReasonInvoice DetailsInvoice DetailsReference#Actual EffortDevelopmentDevelopmentAdd link#8065 - Add unique IDs to summary grid totalsCreated 9/11/2025,   Completed64f121fc Merged PR 7846: #8065 - Add unique IDs to summary grid totalsCreated 9/12/2025Related WorkRelated WorkAdd linkAdd an existing work item as a parentDetailsDetailsEffortBusiness ValueBacklog PriorityDiscussionDiscussion')]</value>
+      <webElementGuid>e4b43874-e37c-44fa-834a-ec17df75c63c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

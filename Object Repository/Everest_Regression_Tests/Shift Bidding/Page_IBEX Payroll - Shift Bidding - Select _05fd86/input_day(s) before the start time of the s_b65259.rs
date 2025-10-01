@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_day(s) before the start time of the s_b65259</name>
+   <tag></tag>
+   <elementGuidId>23d743ac-412b-4971-8911-d3c3d62d83f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@name='biddingTimeOption'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(2) > input[name=&quot;biddingTimeOption&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>li >> internal:has-text=&quot;Custom date &amp; time today at today&quot;i >> internal:role=radio</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>13d15fe9-74ba-4dc8-befc-08087485ee06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>radio</value>
+      <webElementGuid>177fb08f-cfa7-4016-8bd7-1b7682a76bff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>biddingTimeOption</value>
+      <webElementGuid>ee4a196b-eb97-4c11-984b-e6663be5fc19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>biddingTimeOption</value>
+      <webElementGuid>107873b5-2388-485d-9835-dd834b8010b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>customDateRadio</value>
+      <webElementGuid>2fd1b158-1300-491a-98af-df87a1507132</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-radio ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>7bb33fa6-6979-4886-a00c-ff13fc67e9d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-vacant-work-blocks-admin[@class=&quot;ng-star-inserted&quot;]/spa-select-work-blocks[1]/spa-bid-closing-time-modal[@class=&quot;ng-star-inserted&quot;]/fw-modal[1]/div[@class=&quot;modal fade in&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;fw-modal-body&quot;]/form[@class=&quot;biddingTimeForm ng-untouched ng-invalid ng-dirty&quot;]/div[@class=&quot;wrap-time-options ng-star-inserted&quot;]/ul[@class=&quot;time-options&quot;]/li[2]/input[@class=&quot;input-radio ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>3d44f009-b76b-4a7d-adbc-5926d0eb6122</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@name='biddingTimeOption'])[2]</value>
+      <webElementGuid>c4b26ec0-afbc-4a95-9fe3-e09947eaf5e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/input</value>
+      <webElementGuid>15569a79-cdf9-48b4-b78a-b0a75a0643a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'radio' and @name = 'biddingTimeOption']</value>
+      <webElementGuid>cd83134f-367f-49f0-abba-f147769ab0fa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
