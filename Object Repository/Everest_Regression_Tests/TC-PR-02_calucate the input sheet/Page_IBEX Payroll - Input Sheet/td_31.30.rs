@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_31.30</name>
+   <tag></tag>
+   <elementGuidId>e7f12494-6685-4b4e-9c21-fb3e07a63835</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='inputSheet']/tbody/tr[5]/td[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;@ $31.30&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>cc6a534a-0d4f-4d43-a186-74c8e1d3354b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>EBDDataCell earningEvenRow</value>
+      <webElementGuid>5ed980a0-fe16-45ef-933c-ae2412e5417d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>@ $31.30 </value>
+      <webElementGuid>88337bdb-cb1f-4f92-90b2-13446e5fb36c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inputSheet&quot;)/tbody[1]/tr[5]/td[@class=&quot;EBDDataCell earningEvenRow&quot;]</value>
+      <webElementGuid>dcd6d797-6821-4d33-9015-574820ac0df2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='inputSheet']/tbody/tr[5]/td[6]</value>
+      <webElementGuid>3b657577-f174-47c1-be09-de18cd8a126f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[6]</value>
+      <webElementGuid>439dd372-b159-4f7c-a52b-27569dfe28bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '@ $31.30 ' or . = '@ $31.30 ')]</value>
+      <webElementGuid>b3a2f078-4790-4482-8d98-b9cb97cd6375</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

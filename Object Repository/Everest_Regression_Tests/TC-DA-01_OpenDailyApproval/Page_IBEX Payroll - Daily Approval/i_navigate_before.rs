@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_navigate_before</name>
+   <tag></tag>
+   <elementGuidId>07251b00-98d8-4cea-90cb-b21471a5fab5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.icon-wrapper > i.material-icons</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Navigate to previous period'])[1]/following::i[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Navigate to previous period&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>cb3742ae-7cb5-442d-9352-7d568bb19e1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons</value>
+      <webElementGuid>278bd225-3e69-4b77-9999-0ade73801562</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>navigate_before</value>
+      <webElementGuid>503ebaf7-7e7f-4c74-a4aa-d4e0d68f4cdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-daily-approvals[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;work-surface&quot;]/div[@class=&quot;work-surface__content&quot;]/div[@class=&quot;u-m--half ng-star-inserted&quot;]/div[@class=&quot;u-flex u-flex--align-center&quot;]/spa-schedule-navigator[@class=&quot;u-m-right&quot;]/div[@class=&quot;date-toolbar&quot;]/button[@class=&quot;date-toolbar__navigate&quot;]/span[@class=&quot;icon-wrapper&quot;]/i[@class=&quot;material-icons&quot;]</value>
+      <webElementGuid>a382d64f-9fd1-4f1d-a1c8-9b531dcb7c1f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Navigate to previous period'])[1]/following::i[1]</value>
+      <webElementGuid>8ecb9a93-f68b-4783-949c-7548c1e1b41b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daily Approval'])[1]/following::i[1]</value>
+      <webElementGuid>1bdd4f67-a5c1-4a07-8741-e2a6df8788be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Navigate to next period'])[1]/preceding::i[1]</value>
+      <webElementGuid>f5d6a097-ecc3-4198-8ceb-f96b8551d11e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='navigate_next'])[1]/preceding::i[1]</value>
+      <webElementGuid>b6ecd9d4-b146-4f01-98bb-f11aaa3f45c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='navigate_before']/parent::*</value>
+      <webElementGuid>1f10e9d4-0c2b-4718-a1ce-4d89bba033d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/i</value>
+      <webElementGuid>8cc25a8d-a0e8-444a-9803-9c5947440c2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'navigate_before' or . = 'navigate_before')]</value>
+      <webElementGuid>569c21b2-ae19-4d17-a457-2af07f1682a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

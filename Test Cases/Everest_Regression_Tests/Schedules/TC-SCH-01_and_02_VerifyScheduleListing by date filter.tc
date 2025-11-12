@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-SCH-01_and_02_VerifyScheduleListing by date filter</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d8eaeb03-e26b-4a71-986a-7d46bd77be5b</testCaseGuid>
+   <variable>
+      <defaultValue>'2025-10-06'</defaultValue>
+      <description></description>
+      <id>c6401623-cbd0-4545-b712-5c982aeabe89</id>
+      <masked>false</masked>
+      <name>Schedule_StartDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'Anemone House'</defaultValue>
+      <description></description>
+      <id>23d257fc-5c75-43db-ba3a-2cf1d3f8a352</id>
+      <masked>false</masked>
+      <name>Schedule_Department</name>
+   </variable>
+   <variable>
+      <defaultValue>'Abdul, Lindsay'</defaultValue>
+      <description></description>
+      <id>90763b99-b9dd-4884-88bb-dd89ef215a48</id>
+      <masked>false</masked>
+      <name>Emplyoee</name>
+   </variable>
+</TestCaseEntity>

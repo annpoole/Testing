@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Reg. Hourly Pay</name>
+   <tag></tag>
+   <elementGuidId>921d80a7-4722-43b5-afa0-b5a0de5be16d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='inputSheet']/tbody/tr[2]/td[10]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.EBDHeading.earningHeadingBackground.d4f6e13b-3c8d-4bac-8f13-e05712484844</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Reg. Hourly Pay&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>481a2678-5a17-49d9-aa81-1a557972232e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>EBDHeading earningHeadingBackground d4f6e13b-3c8d-4bac-8f13-e05712484844</value>
+      <webElementGuid>01690e9c-be5f-4716-abc8-dca89ac1d74f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>9cfbb3d0-af02-4e80-885f-4306c3afa90d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reg. Hourly Pay</value>
+      <webElementGuid>15838d52-5ddf-48db-b5ab-627654ab80a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inputSheet&quot;)/tbody[1]/tr[@class=&quot;payrollInstruction&quot;]/td[@class=&quot;EBDHeading earningHeadingBackground d4f6e13b-3c8d-4bac-8f13-e05712484844&quot;]</value>
+      <webElementGuid>382ee6c2-9df6-4431-975b-46b7fa64f281</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='inputSheet']/tbody/tr[2]/td[10]</value>
+      <webElementGuid>67de250d-6871-4731-a29f-335f033d3e37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vacation Pay Earned (Paid)'])[1]/following::td[1]</value>
+      <webElementGuid>c51fe4ba-1dba-4c18-8452-9a8fc327acc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='T4A Pension'])[1]/following::td[2]</value>
+      <webElementGuid>f49687cf-cfec-44bd-9ad8-00d095bbd4fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reg. Salary Pay'])[1]/preceding::td[1]</value>
+      <webElementGuid>0717ee8f-8a27-4be1-9210-8791f17e58d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[10]</value>
+      <webElementGuid>80f598bb-ff5d-41c2-bd11-95e9c090606f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Reg. Hourly Pay' or . = 'Reg. Hourly Pay')]</value>
+      <webElementGuid>a7efa830-d210-42cd-9913-0ee47ca00284</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

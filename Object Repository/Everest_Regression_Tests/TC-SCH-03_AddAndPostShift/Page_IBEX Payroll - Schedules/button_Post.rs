@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[21]</value>
+         <value>(//button[@type='button'])[14]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>200cad31-cbe1-4b7e-8e0e-ff0b4479b4b0</webElementGuid>
+      <webElementGuid>4d07c750-5ce5-4058-b6c5-818bd88ee098</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>89ac8b7e-f479-4e4a-95b1-7208763e5383</webElementGuid>
+      <webElementGuid>b2723a3d-b77d-4ad6-8702-9b7477837c9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button button--primary action-button ng-star-inserted</value>
-      <webElementGuid>a461f297-70d1-423c-a0c0-6b0d4ba3870f</webElementGuid>
+      <webElementGuid>6cad8514-5c45-446e-97d7-2f514b14e6d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <type>Main</type>
       <value> Post
 </value>
-      <webElementGuid>8f8a9e7b-d974-4c8a-b042-89fccee3f46d</webElementGuid>
+      <webElementGuid>e28c3895-cb60-481a-aee3-9538476c9ee3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,10 +62,76 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-schedule-detail-container[@class=&quot;ng-star-inserted&quot;]/spa-schedule-detail[@class=&quot;work-surface__content ng-star-inserted&quot;]/div[@class=&quot;header&quot;]/spa-schedule-action[@class=&quot;schedule-action-buttons&quot;]/button[@class=&quot;button button--primary action-button ng-star-inserted&quot;]</value>
-      <webElementGuid>7f74812c-f8e3-4937-9319-e1945c6eb08c</webElementGuid>
+      <webElementGuid>0a448619-ac67-4605-ae5a-e8c60af33ed3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[14]</value>
+      <webElementGuid>042561ca-4f62-43c5-92a4-494d9cdf88e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::button[1]</value>
+      <webElementGuid>e3ecbe57-550f-4a0e-9b63-85b23722ea16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy'])[1]/following::button[2]</value>
+      <webElementGuid>085e0bc8-fc4f-432e-ac06-ef79fe3dd96e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='clear'])[4]/preceding::button[1]</value>
+      <webElementGuid>65e8bcdd-272e-44b6-881b-7f363135bc85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reject Schedule'])[1]/preceding::button[2]</value>
+      <webElementGuid>68a02d51-0e9a-4479-b39d-5b8b3d0129fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Post']/parent::*</value>
+      <webElementGuid>d6a1b071-6fa1-4168-81ff-455851687320</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//spa-schedule-action/button[3]</value>
+      <webElementGuid>ba158887-ddde-489b-8bae-c0738ff0075f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Post
+' or . = ' Post
+')]</value>
+      <webElementGuid>fdbeb94b-8db7-4420-bbe4-2c25a3fee5fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
@@ -77,57 +143,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::button[1]</value>
-      <webElementGuid>01df8a32-503c-4e7e-b8c5-300fc535b4cf</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy'])[1]/following::button[2]</value>
-      <webElementGuid>f1ae93bf-dd2c-4541-9d73-1f838e3582b4</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='clear'])[5]/preceding::button[1]</value>
       <webElementGuid>8a81ab7d-97af-45c3-acf4-ee0c6d5c6382</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reject Schedule'])[1]/preceding::button[2]</value>
-      <webElementGuid>9e9585bb-3f43-4979-a98f-8f1c88e33706</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Post']/parent::*</value>
-      <webElementGuid>38eadc00-16ee-4a47-ae11-e83a29e627e3</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//spa-schedule-action/button[3]</value>
-      <webElementGuid>f3d67dee-bbd1-4813-98ed-b035b90369b3</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button' and (text() = ' Post
-' or . = ' Post
-')]</value>
-      <webElementGuid>3b35ce1d-535d-4436-9df3-2982c8f53cd6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

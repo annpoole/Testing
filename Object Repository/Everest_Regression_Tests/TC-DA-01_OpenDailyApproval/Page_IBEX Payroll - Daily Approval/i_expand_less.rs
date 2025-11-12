@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_expand_less</name>
+   <tag></tag>
+   <elementGuidId>4a99e4c2-8c02-4760-bd11-1f8405be04dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Collapse row'])[1]/following::i[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Collapse row&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>d150e175-d85a-475f-8822-b1c22b878939</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>579d00ba-098c-4a8b-b237-f59901265887</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons</value>
+      <webElementGuid>1400078c-433d-4248-8353-af06b88584b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>expand_less</value>
+      <webElementGuid>f70e14f9-b039-4c7a-a72c-8585676c90fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-daily-approvals[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;work-surface&quot;]/spa-daily-approval-details[@class=&quot;enabled active ng-star-inserted&quot;]/div[@class=&quot;detail-panel__content&quot;]/fw-tabs[1]/fw-tab[1]/div[@class=&quot;pane&quot;]/spa-daily-approval-summary-grid[1]/spa-summary-grid-table[1]/table[@class=&quot;grid-lite&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;col--expand ng-star-inserted&quot;]/spa-expand-row-cell[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;ng-star-inserted&quot;]/i[@class=&quot;material-icons&quot;]</value>
+      <webElementGuid>b26732a6-90c0-4762-b647-32c6d31edce8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collapse row'])[1]/following::i[1]</value>
+      <webElementGuid>502c7a93-b0cc-44e2-9b6c-c6d5819af9a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anemone House'])[1]/following::i[1]</value>
+      <webElementGuid>4f12a6f7-9263-40b3-8072-0fad42647e08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Balsam House'])[1]/preceding::i[1]</value>
+      <webElementGuid>bcc20ac2-627d-47c3-af43-6e74387e42e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expand row'])[3]/preceding::i[1]</value>
+      <webElementGuid>8c69a03d-211a-4643-a884-55fbaac61c40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='expand_less']/parent::*</value>
+      <webElementGuid>de3d840c-e23c-432b-9311-aba40561a822</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td/spa-expand-row-cell/button/i</value>
+      <webElementGuid>9789ebe6-d314-4edf-87cd-d549e5987487</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'expand_less' or . = 'expand_less')]</value>
+      <webElementGuid>1c04352c-28c0-46c1-8204-d7f8106648e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

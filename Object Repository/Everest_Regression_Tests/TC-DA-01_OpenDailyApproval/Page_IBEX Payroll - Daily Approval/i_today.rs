@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>db99fd53-c29c-4377-b407-006b02ea4fdc</webElementGuid>
+      <webElementGuid>d55c4b10-743b-458a-9726-66d953903d33</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>material-icons</value>
-      <webElementGuid>1739ffe5-eebc-433b-8596-f8d8905d8927</webElementGuid>
+      <webElementGuid>20567191-8867-46f8-9ecd-df9370ebdbc0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>today</value>
-      <webElementGuid>c87aac9f-9fca-4739-a217-c46d0190e698</webElementGuid>
+      <webElementGuid>a786d229-f7c2-46e1-b6f5-19cea842e965</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;q-datepicker_1&quot;)/div[@class=&quot;input-group-addon&quot;]/i[@class=&quot;material-icons&quot;]</value>
-      <webElementGuid>6d1aaf97-8789-43ad-b3c5-61f97f620d1c</webElementGuid>
+      <webElementGuid>07e8e980-1608-4ce1-8adc-d12aa5b240cd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='q-datepicker_1']/div/i</value>
-      <webElementGuid>82c39d28-43bd-43ba-9132-6482db74ebb9</webElementGuid>
+      <webElementGuid>23b16506-cce0-43e4-a781-27ecfff9daaf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='navigate_before'])[1]/following::i[1]</value>
-      <webElementGuid>f8ef45ac-719f-4517-92aa-6d2f85c66600</webElementGuid>
+      <webElementGuid>95518cd9-21da-4ce6-96bc-d3e9a533fd6b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Daily Approval'])[1]/following::i[2]</value>
-      <webElementGuid>f3a686fd-9e1a-4b5d-9a0d-15212c162f15</webElementGuid>
+      <webElementGuid>095216c5-9769-42a0-98ab-854e1630233e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='navigate_next'])[1]/preceding::i[1]</value>
-      <webElementGuid>46884884-6cae-4fdc-b159-29ae68a14704</webElementGuid>
+      <webElementGuid>b3e159ee-1e94-49c3-b693-de5fb465cad7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Auto Calc'])[1]/preceding::i[2]</value>
-      <webElementGuid>df650c54-7ef7-422a-8e39-29174ee506a3</webElementGuid>
+      <webElementGuid>22bd6301-d08d-4c58-a925-0400775b3174</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='today']/parent::*</value>
-      <webElementGuid>51fd20e8-cf82-4a58-988b-6e6c6ef815fd</webElementGuid>
+      <webElementGuid>c63c920d-6b35-4804-b4ee-47205dcfcc5b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//datetime/div/div/div/i</value>
-      <webElementGuid>a2b47cee-ce96-472b-854a-da75b109f3ff</webElementGuid>
+      <webElementGuid>35722ff8-16bf-45cd-bce7-dcab288c9851</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//i[(text() = 'today' or . = 'today')]</value>
-      <webElementGuid>4f83d984-c1c9-4e05-b32c-6285490ae30e</webElementGuid>
+      <webElementGuid>005ce1a0-13c5-4323-9b0e-ea5716dd2cf3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

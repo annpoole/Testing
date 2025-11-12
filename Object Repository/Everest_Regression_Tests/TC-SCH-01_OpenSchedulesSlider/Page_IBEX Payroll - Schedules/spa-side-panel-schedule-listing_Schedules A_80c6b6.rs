@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>spa-side-panel-schedule-listing</value>
-      <webElementGuid>3e0f670f-ac20-4c01-a7b2-4e1abb317d32</webElementGuid>
+      <webElementGuid>43004844-2424-48a6-b1a9-ff2d31e5b19a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Schedules Add Schedule No schedules available for the date range selected.clearAdd ScheduleDepartmentSelect a departmentStart DateEnd Date Cancel  Create Schedule clearDelete ScheduleDelete Schedule and Keep Work AssignmentsDelete Schedule and Work Assignments Cancel  Delete </value>
-      <webElementGuid>bec464c5-dd0b-4107-8fdc-ec28583b7903</webElementGuid>
+      <webElementGuid>d4c6339b-600f-490f-9efb-a4e2d67a0b4b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-schedule-detail-container[@class=&quot;ng-star-inserted&quot;]/spa-schedule-side-panel[@class=&quot;ng-tns-c2674595248-13 ng-star-inserted&quot;]/div[@class=&quot;content-area ng-tns-c2674595248-13&quot;]/fw-tabs[@class=&quot;tabs ng-tns-c2674595248-13&quot;]/fw-tab[@class=&quot;schedule-list&quot;]/div[@class=&quot;pane&quot;]/spa-side-panel-schedule-listing[1]</value>
-      <webElementGuid>1c695b9f-fa51-4dde-8085-9c85cc729399</webElementGuid>
+      <webElementGuid>63eee5c9-70db-4a7e-8b39-ab948d1ff2fa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[1]/following::spa-side-panel-schedule-listing[1]</value>
-      <webElementGuid>adb5dca4-7d42-4a7d-b4cd-29abe48d4f9a</webElementGuid>
+      <webElementGuid>3ed362bf-d8db-4e02-9101-c7b9eadbaa6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Working Hours'])[1]/following::spa-side-panel-schedule-listing[1]</value>
-      <webElementGuid>2ba8272a-3270-4a90-937c-8a7f144ce633</webElementGuid>
+      <webElementGuid>65b24710-e802-4e43-a700-5254dcac79d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//spa-side-panel-schedule-listing</value>
-      <webElementGuid>625c5aa0-623c-4ced-9bdf-086789741f65</webElementGuid>
+      <webElementGuid>f25fb2de-3192-42f4-b4c9-6848aa6cd976</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,6 +77,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//spa-side-panel-schedule-listing[(text() = 'Schedules Add Schedule No schedules available for the date range selected.clearAdd ScheduleDepartmentSelect a departmentStart DateEnd Date Cancel  Create Schedule clearDelete ScheduleDelete Schedule and Keep Work AssignmentsDelete Schedule and Work Assignments Cancel  Delete ' or . = 'Schedules Add Schedule No schedules available for the date range selected.clearAdd ScheduleDepartmentSelect a departmentStart DateEnd Date Cancel  Create Schedule clearDelete ScheduleDelete Schedule and Keep Work AssignmentsDelete Schedule and Work Assignments Cancel  Delete ')]</value>
-      <webElementGuid>ae90f0b2-7a4a-47c1-b423-8248f467491d</webElementGuid>
+      <webElementGuid>2527391a-1278-4ca1-ab23-8c17b6ee41fc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

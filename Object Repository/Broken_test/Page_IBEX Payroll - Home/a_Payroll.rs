@@ -6,12 +6,12 @@
    <elementGuidId>d8f89fcc-e4bf-468a-bb1e-f3ff7f9b0466</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//ul[@id='js-navigation-list']/li[4]/a</value>
+         <key>CSS</key>
+         <value>#payroll-menu-item</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//a[@id='payroll-menu-item']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>62498e8a-043e-4ab6-a799-286d92b2cd1b</webElementGuid>
+      <webElementGuid>8700a25d-2bea-4797-8657-fc7eee5d916c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/Main/Everest/Payroll/Index.mr</value>
-      <webElementGuid>7c7b1678-22ca-466c-80e6-d48c50aab3b4</webElementGuid>
+      <value>/Edge5/Everest/Payroll/Index.mr</value>
+      <webElementGuid>de65aac6-8ec5-46d6-bd64-317212abd1d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,23 +45,39 @@
       <name>text</name>
       <type>Main</type>
       <value> Payroll</value>
-      <webElementGuid>9d5a08c9-690a-4dfe-af89-e112866e02b8</webElementGuid>
+      <webElementGuid>4248dd60-9b07-4943-b89d-97b0dadfedd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;js-navigation-list&quot;)/li[@class=&quot;menuItem&quot;]/a[1]</value>
-      <webElementGuid>961b5027-5ad1-42bc-bc49-0b1685be0849</webElementGuid>
+      <value>id(&quot;payroll-menu-item&quot;)</value>
+      <webElementGuid>d49d0890-aa5e-466d-a1b9-20ce5fce047e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>payroll-menu-item</value>
+      <webElementGuid>0d874d17-75b3-4f93-8f08-48c010d3c2dd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='payroll-menu-item']</value>
+      <webElementGuid>b1ea73ed-b558-4d45-be18-91420ff09501</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='js-navigation-list']/li[4]/a</value>
-      <webElementGuid>96b7cb07-d534-44f3-93d9-1905dbe830f2</webElementGuid>
+      <webElementGuid>aff2cd47-0426-40cd-a9c1-57ee2197a348</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +85,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Payroll')]</value>
-      <webElementGuid>4a1b4de9-ba89-42b9-bdde-9a8f76315d19</webElementGuid>
+      <webElementGuid>abbac6a0-a14b-41e9-b955-ed38fddbc57a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Daily Approval'])[1]/following::a[1]</value>
-      <webElementGuid>0649577f-b82e-4cf3-a779-d10853a4e147</webElementGuid>
+      <webElementGuid>38486a11-676a-4289-8e9d-6cd12a32d711</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedules'])[1]/following::a[2]</value>
-      <webElementGuid>10e960fe-160a-4bd7-ba09-ad9c23eb9a0b</webElementGuid>
+      <webElementGuid>3aec7045-1b4d-4df9-bf4e-45c3847d154a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reports'])[1]/preceding::a[1]</value>
-      <webElementGuid>8b6f6329-1858-43dd-a1eb-d1298f7532dd</webElementGuid>
+      <webElementGuid>f6ddaaf2-83fe-42af-82b1-da97ff54d446</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ROE'])[1]/preceding::a[2]</value>
-      <webElementGuid>117312ae-5314-470c-a4ba-13adeda763db</webElementGuid>
+      <webElementGuid>e13617de-eabc-413e-873b-3e7b743c8ce5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +125,31 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Payroll']/parent::*</value>
-      <webElementGuid>15d0bc41-6645-4063-a403-7c893774e814</webElementGuid>
+      <webElementGuid>b0a8df3a-f0f3-483a-9c71-ed1569f4bf85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Edge5/Everest/Payroll/Index.mr')]</value>
+      <webElementGuid>750e1f57-4c0d-43dc-afeb-036f9512e7e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul/li[4]/a</value>
+      <webElementGuid>19c61f5d-d0dc-4968-b9bc-360446579cf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Edge5/Everest/Payroll/Index.mr' and @id = 'payroll-menu-item' and (text() = ' Payroll' or . = ' Payroll')]</value>
+      <webElementGuid>db39f4a3-dd31-4d77-b34b-434f89c0c7e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,14 +158,6 @@
       <type>Main</type>
       <value>//a[contains(@href, '/Main/Everest/Payroll/Index.mr')]</value>
       <webElementGuid>56a91b28-da8a-4df9-8ce0-f4232113c7aa</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//nav/ul/li[4]/a</value>
-      <webElementGuid>0aab164f-8f0e-4e17-b2e0-89ff3c60425d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

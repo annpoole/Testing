@@ -7,7 +7,6 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>437c1f2a-5fb5-4834-b09c-473ffeb07620</webElementGuid>
+      <webElementGuid>77a2fd2c-0541-4f30-9aee-20b408005053</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +36,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://sit.ibexpayroll.com:8443/main/everestspa/dailyapprovals</value>
-      <webElementGuid>beee0a8a-1922-4c8f-bb62-800bdef5f4c5</webElementGuid>
+      <webElementGuid>78b16dc4-5ec2-428e-b9d9-240711bf2ebe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +44,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Daily Approval</value>
-      <webElementGuid>04e87b9c-1564-4beb-b434-c86ea65a9555</webElementGuid>
+      <webElementGuid>f196ddd6-f2d4-41be-81cf-07487050f44f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +52,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;js-navigation-list&quot;)/li[@class=&quot;menuItem&quot;]/a[1]</value>
-      <webElementGuid>9f35c281-2a2c-48f8-a88e-397edaed027e</webElementGuid>
+      <webElementGuid>f901ec10-0ad8-457d-ba15-602edf131c96</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +60,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='js-navigation-list']/li[3]/a</value>
-      <webElementGuid>087e63ca-aead-40da-9f83-a59580949476</webElementGuid>
+      <webElementGuid>47004c31-448d-4115-875a-24def7ae5945</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Daily Approval')]</value>
-      <webElementGuid>356432c7-9f55-40a9-af3b-c8d0489ffc76</webElementGuid>
+      <webElementGuid>0c8c7e8c-3974-4da2-9e2a-94acef4be889</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedules'])[1]/following::a[1]</value>
-      <webElementGuid>b13d3f8e-c431-4ed6-9ef6-4d0ee210c5f0</webElementGuid>
+      <webElementGuid>bfdd97c4-b39c-4083-9868-4119ae3634a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[2]</value>
-      <webElementGuid>524c1986-bcd1-4c6c-afbf-513ca3d8ed35</webElementGuid>
+      <webElementGuid>17dfc6ea-3096-41a8-b0e5-f16cb44de13c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Payroll'])[1]/preceding::a[1]</value>
-      <webElementGuid>76aaa732-d6ab-4509-90fd-befe6509843d</webElementGuid>
+      <webElementGuid>c89aad31-7f77-4117-becf-6c754c3954b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reports'])[1]/preceding::a[2]</value>
-      <webElementGuid>72662816-17d0-491e-8b9c-413529889a9c</webElementGuid>
+      <webElementGuid>63bbe17b-0cd0-4722-92e1-5a522b84c331</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +108,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Daily Approval']/parent::*</value>
-      <webElementGuid>d398c26d-ce23-4546-9460-758c2ae5be37</webElementGuid>
+      <webElementGuid>7634a2c3-faea-4905-b925-1d4aeb14b5b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +116,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://sit.ibexpayroll.com:8443/main/everestspa/dailyapprovals')]</value>
-      <webElementGuid>b55d44d7-85ad-49be-a981-9e7a2bcaef60</webElementGuid>
+      <webElementGuid>3bdd8974-1b5d-42d0-ba28-ab36a083c3f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +124,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//nav/ul/li[3]/a</value>
-      <webElementGuid>f4af8005-ae02-4938-8a22-273ac16338d3</webElementGuid>
+      <webElementGuid>2c7fd6e4-a3f9-48b7-9abf-e9e3e37c3608</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +132,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://sit.ibexpayroll.com:8443/main/everestspa/dailyapprovals' and (text() = ' Daily Approval' or . = ' Daily Approval')]</value>
-      <webElementGuid>31547663-67c6-44af-9576-35e50c02c5c2</webElementGuid>
+      <webElementGuid>8a7bbe20-9c0e-45af-b906-ecb4fdaa5e3b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

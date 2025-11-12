@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>cdk-virtual-scroll-viewport_Notes_cdk-virtu_4a665b</name>
+   <tag></tag>
+   <elementGuidId>f775a82c-50f0-401e-bea3-b9db045a3952</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>cdk-virtual-scroll-viewport.cdk-virtual-scroll-viewport.cdk-virtual-scrollable.cdk-virtual-scroll-orientation-vertical</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[1]/following::cdk-virtual-scroll-viewport[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>cdk-virtual-scroll-viewport</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>cdk-virtual-scroll-viewport</value>
+      <webElementGuid>852941a9-3069-43e8-b4e6-d7729fbaee6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>rowgroup</value>
+      <webElementGuid>9e029b94-6cd8-41a1-a86f-7b1833cb0393</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cdk-virtual-scroll-viewport cdk-virtual-scrollable cdk-virtual-scroll-orientation-vertical</value>
+      <webElementGuid>6db6e057-76fe-44a0-b265-efe562d3920c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-daily-approvals[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;work-surface&quot;]/div[@class=&quot;work-surface__content&quot;]/spa-daily-approval-table[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;table-root force-min-width&quot;]/cdk-virtual-scroll-viewport[@class=&quot;cdk-virtual-scroll-viewport cdk-virtual-scrollable cdk-virtual-scroll-orientation-vertical&quot;]</value>
+      <webElementGuid>fc4dcf28-cc52-471d-a551-62c466cd21c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[1]/following::cdk-virtual-scroll-viewport[1]</value>
+      <webElementGuid>9d990c8b-1041-4281-92de-e76d3eab7561</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Allocations'])[1]/following::cdk-virtual-scroll-viewport[1]</value>
+      <webElementGuid>32d50bc7-1a6d-42fb-9c43-9ac2e318f015</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Selected'])[1]/preceding::cdk-virtual-scroll-viewport[1]</value>
+      <webElementGuid>53557746-afb5-4a3c-84bf-10d3e2765273</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure you want to delete the selected records? Locked entries cannot be deleted.'])[1]/preceding::cdk-virtual-scroll-viewport[1]</value>
+      <webElementGuid>8ca3c7ff-4c6d-418e-ae3d-7d63900edd18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//cdk-virtual-scroll-viewport</value>
+      <webElementGuid>efb52af1-526d-4e95-8fa5-41af1fed1f9c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

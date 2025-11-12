@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.u-flex.u-flex--space-between.ng-star-inserted > div.u-flex.button-group > button.button.button--secondary</value>
+         <value>div.modal.fade.in > div.modal-dialog > div.modal-content > div.modal-footer > div.fw-modal-footer > div.u-flex.u-flex--justify-end.button-group > button.button.button--secondary</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[28]</value>
+         <value>(//button[@type='button'])[35]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>fcb067db-73ef-4888-ac74-d1069bd56991</webElementGuid>
+      <webElementGuid>9359a31c-90e8-4797-bb35-4017b3596312</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>bf00d9ef-28ea-400a-a40b-dc1cccf1f929</webElementGuid>
+      <webElementGuid>9a942d7d-49de-420d-a9a2-854c1170c9a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button button--secondary</value>
-      <webElementGuid>1d12cc62-565f-4e1b-a3e0-67d644220ced</webElementGuid>
+      <webElementGuid>4b26f9ad-c13f-4dc8-b4b1-83b18b1ac075</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,18 +53,74 @@
       <name>text</name>
       <type>Main</type>
       <value> Cancel </value>
-      <webElementGuid>b1b217bf-b44c-4f2e-b4cd-f34220964fa0</webElementGuid>
+      <webElementGuid>eb2899c1-bf62-41fe-9b2d-a0124f92dce5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-schedule-detail-container[@class=&quot;ng-star-inserted&quot;]/spa-workblock-editor[@class=&quot;ng-star-inserted&quot;]/fw-modal[@class=&quot;editor&quot;]/div[@class=&quot;modal fade in&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer&quot;]/div[@class=&quot;fw-modal-footer ng-star-inserted&quot;]/div[@class=&quot;u-flex u-flex--space-between ng-star-inserted&quot;]/div[@class=&quot;u-flex button-group&quot;]/button[@class=&quot;button button--secondary&quot;]</value>
-      <webElementGuid>f585747c-f2d1-43fb-8874-b6390a530860</webElementGuid>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-schedule-detail-container[@class=&quot;ng-star-inserted&quot;]/spa-create-schedule[@class=&quot;ng-star-inserted&quot;]/fw-modal[1]/div[@class=&quot;modal fade in&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer&quot;]/div[@class=&quot;fw-modal-footer&quot;]/div[@class=&quot;u-flex u-flex--justify-end button-group&quot;]/button[@class=&quot;button button--secondary&quot;]</value>
+      <webElementGuid>3b9d8c4f-e47e-4413-bfc6-d9cfea35b905</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[35]</value>
+      <webElementGuid>8b49c7c0-bf96-49fa-812b-d7467c86303d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End Date'])[4]/following::button[1]</value>
+      <webElementGuid>d6331615-e3c9-4eb1-b543-3c725c838e15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Date'])[4]/following::button[1]</value>
+      <webElementGuid>414e9950-4f18-4608-be6b-27078c70f669</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Schedule'])[2]/preceding::button[1]</value>
+      <webElementGuid>ce12d870-763e-4e3f-ba91-324fb6ba421d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You have unsaved changes'])[1]/preceding::button[2]</value>
+      <webElementGuid>5ec304cc-e719-44c5-8e0a-d4849e16fe1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//spa-schedule-detail-container/spa-create-schedule/fw-modal/div/div/div/div[3]/div/div/button</value>
+      <webElementGuid>644d10e9-3d87-4c5c-ae3f-78c759b42ec4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Cancel ' or . = ' Cancel ')]</value>
+      <webElementGuid>70e7ea0d-27f9-4f9c-95b6-958cd8d688c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
@@ -110,13 +166,5 @@
       <type>Main</type>
       <value>//div/div[2]/button</value>
       <webElementGuid>268045ec-a643-4a4f-8824-52631e182d41</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button' and (text() = ' Cancel ' or . = ' Cancel ')]</value>
-      <webElementGuid>9690f396-d06e-4f0c-8beb-e6046301d58e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

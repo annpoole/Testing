@@ -11,14 +11,14 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='(0.00, 0.00)'])[1]/following::div[1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='(0.00, 0.00)'])[1]/following::div[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>.ng-star-inserted > div:nth-child(4) > div:nth-child(2)</value>
+         <value>div:nth-child(3) > div:nth-child(3)</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>63708713-e702-457a-a105-e0c08de19e19</webElementGuid>
+      <webElementGuid>af7530de-896a-419c-83c9-e0054b214f05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,34 +37,74 @@
       <name>class</name>
       <type>Main</type>
       <value>workblock-container ng-star-inserted</value>
-      <webElementGuid>943fdea8-02eb-4aae-9554-2d7b018585d7</webElementGuid>
+      <webElementGuid>49ba9404-582d-4340-89c8-7868c85e99ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-employee-id</name>
       <type>Main</type>
-      <value>7969bb05-5ae8-4cdc-b8b3-80d8de371910</value>
-      <webElementGuid>24bc0d43-25d0-4a98-990f-d003e2ee43ae</webElementGuid>
+      <value>01683cba-3149-4e56-915c-a0e78b6dabaf</value>
+      <webElementGuid>a7161310-ea70-43b4-be15-269a97eadf65</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-date-index</name>
       <type>Main</type>
-      <value>0</value>
-      <webElementGuid>68aa76d2-d7ea-4a5c-874a-d4334fc24281</webElementGuid>
+      <value>1</value>
+      <webElementGuid>6105d4d2-4ee8-4232-b9b7-ccd98e31fd6c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-schedule-detail-container[@class=&quot;ng-star-inserted&quot;]/spa-schedule-detail[@class=&quot;work-surface__content ng-star-inserted&quot;]/div[@class=&quot;scheduler-container&quot;]/fw-scheduler[@class=&quot;everest-scrollbar&quot;]/div[@class=&quot;horiz-scroll-container ng-star-inserted&quot;]/fw-employee-timeline-view[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;employee-row ng-star-inserted&quot;]/div[@class=&quot;workblock-container ng-star-inserted&quot;]</value>
-      <webElementGuid>7bca00cf-ea0d-4265-86d5-7b334391d363</webElementGuid>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-schedule-detail-container[@class=&quot;ng-star-inserted&quot;]/spa-schedule-detail[@class=&quot;work-surface__content ng-star-inserted&quot;]/div[@class=&quot;scheduler-container&quot;]/fw-scheduler[@class=&quot;everest-scrollbar&quot;]/div[@class=&quot;horiz-scroll-container ng-star-inserted&quot;]/fw-employee-timeline-view[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;employee-row ng-star-inserted last-row&quot;]/div[@class=&quot;workblock-container ng-star-inserted&quot;]</value>
+      <webElementGuid>26ac4803-2a37-4b7d-ba68-7e71ed2780c4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(0.00, 0.00)'])[1]/following::div[2]</value>
+      <webElementGuid>5f39bc21-ed84-491a-87c4-8cc736f1565d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Abdul, Lindsay'])[1]/following::div[4]</value>
+      <webElementGuid>a21366b0-5fb8-4627-a5ad-343a58191334</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='clear'])[29]/preceding::div[6]</value>
+      <webElementGuid>60760806-7e3b-432e-b0c1-848bfe0912a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Info'])[1]/preceding::div[6]</value>
+      <webElementGuid>ef9b6900-4cd0-49d3-b122-4199b3373ef3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]</value>
+      <webElementGuid>2620bae2-57d1-47f2-8b8f-c6d359559c77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>

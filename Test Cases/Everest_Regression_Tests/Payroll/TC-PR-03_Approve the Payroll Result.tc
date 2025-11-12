@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-PR-03_Approve the Payroll Result</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1db614ea-83bf-4ba9-b2bc-1707874f8611</testCaseGuid>
+</TestCaseEntity>

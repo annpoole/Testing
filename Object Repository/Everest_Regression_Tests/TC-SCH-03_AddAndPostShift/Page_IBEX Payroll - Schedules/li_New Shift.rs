@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>d39ed6fc-f374-459c-b3f4-d8323f390769</webElementGuid>
+      <webElementGuid>6de8b486-f84a-434a-b3f0-ce518834fa9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>New Shift menu-item u-flex active</value>
-      <webElementGuid>f63c7ed9-ad5b-4447-a7f4-39f55febb846</webElementGuid>
+      <webElementGuid>2dce1c9d-7fa5-4175-81c6-2dff2f977f08</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>New Shift</value>
-      <webElementGuid>ae67b3ad-b571-4b14-880f-69b46413f993</webElementGuid>
+      <webElementGuid>a43fb5b9-0a91-4ed2-b8c1-bb3e7d460adc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;context-menu&quot;)/ul[1]/fw-context-menu-item[@class=&quot;ng-star-inserted&quot;]/li[@class=&quot;New Shift menu-item u-flex active&quot;]</value>
-      <webElementGuid>3d715223-1edf-4f20-8207-4573b58a55a9</webElementGuid>
+      <webElementGuid>b45235f9-b1ef-4526-9c74-e6db7a04fd09</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,47 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='context-menu']/ul/fw-context-menu-item/li</value>
-      <webElementGuid>97d82ce5-149f-4615-8e0a-48e8ef9b5c07</webElementGuid>
+      <webElementGuid>5819e2c5-4038-4e09-ab5b-74a314de30c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(0.00, 0.00)'])[1]/following::li[1]</value>
+      <webElementGuid>ecdc4181-8609-4e5d-ba78-9c695f550287</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Abdul, Lindsay'])[1]/following::li[1]</value>
+      <webElementGuid>340185b0-e969-45a2-adeb-041e2ae8326e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='clear'])[29]/preceding::li[1]</value>
+      <webElementGuid>56a073f3-a169-4a21-86a0-6620ef4516a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fw-context-menu-item/li</value>
+      <webElementGuid>02141e04-6b4b-44e1-9b55-6fd8f34c28d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'New Shift' or . = 'New Shift')]</value>
+      <webElementGuid>6ee97be1-55c6-4702-a56a-f16baee9fe7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,21 +126,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='clear'])[11]/preceding::li[1]</value>
       <webElementGuid>8680f1d5-9f29-4417-bd8c-02f0d7763554</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//fw-context-menu-item/li</value>
-      <webElementGuid>79510e26-f522-413c-97d6-1f39acb3ae3c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//li[(text() = 'New Shift' or . = 'New Shift')]</value>
-      <webElementGuid>696fdb18-5732-425f-95bb-281f93f5c7c4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

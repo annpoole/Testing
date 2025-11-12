@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_In Progress</name>
+   <tag></tag>
+   <elementGuidId>b684fc28-1e47-4ca2-9ec0-7e6d8b889b67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.payroll-history-status</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/main/div[4]/div[2]/div/div[3]/div[4]/div/table/tbody/tr[1]/td[4]/div/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;In Progress&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>93567b18-e424-4345-af1c-de1b850cdade</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>payroll-history-status</value>
+      <webElementGuid>1717e67b-222a-49d4-9008-a2d452d37dad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>In Progress</value>
+      <webElementGuid>9c5c6309-e408-40f5-b094-d1fc7e687537</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ecb06307&quot;)/tbody[1]/tr[@class=&quot;grid_item even&quot;]/td[4]/div[@class=&quot;everest-payroll-status&quot;]/div[@class=&quot;payroll-history-status&quot;]</value>
+      <webElementGuid>732ab7a2-7f40-4063-8fa6-7b9978ea304f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ecb06307']/tbody/tr/td[4]/div/div</value>
+      <webElementGuid>3fa93df3-e340-473b-8ec1-9bf05e1719f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Input Due Date'])[1]/following::div[2]</value>
+      <webElementGuid>325fc74d-55e4-4e11-ba9a-2e9cc7e23936</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::div[2]</value>
+      <webElementGuid>343b698b-49b0-4323-b79a-5ca23de47954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Input Sheet'])[1]/preceding::div[5]</value>
+      <webElementGuid>bf137116-d700-4e91-9722-a572da44f7f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/preceding::div[5]</value>
+      <webElementGuid>2cc25365-294b-46ef-a38b-11f946ca99c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='In Progress']/parent::*</value>
+      <webElementGuid>f7df892c-4a9a-4c2f-8425-d6e941807bda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/div/div</value>
+      <webElementGuid>eba23eb8-c9cd-49c0-a40e-9043a3c58a0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'In Progress' or . = 'In Progress')]</value>
+      <webElementGuid>67c43ecf-d586-47cd-a06a-a1e4015c7934</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

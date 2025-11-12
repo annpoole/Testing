@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Approved'])[1]/following::th[1]</value>
+         <value>//th[@id='total-hours']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>th</value>
-      <webElementGuid>44f4420a-8e6c-4858-8f22-b63ffa7f33fa</webElementGuid>
+      <webElementGuid>2106fdc0-0f26-4c66-92a7-ff5c050c971a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>scope</name>
       <type>Main</type>
       <value>col</value>
-      <webElementGuid>a39c35f1-ffce-415b-96eb-cf64c1f6e5d6</webElementGuid>
+      <webElementGuid>fe111315-ff0c-45ac-b59a-3c5f6c057a1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>col--total</value>
-      <webElementGuid>3918edec-6472-4376-b341-e56e2424b33e</webElementGuid>
+      <webElementGuid>c8e9e9f6-a6fb-4491-b4ce-eacd96f6f494</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Total</value>
-      <webElementGuid>1ec05121-0ad8-4e24-982a-eb471f0fcc13</webElementGuid>
+      <webElementGuid>ae007544-719f-4704-a8ea-06654038e5fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,15 +61,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-daily-approvals[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;work-surface&quot;]/spa-daily-approval-details[@class=&quot;enabled active ng-star-inserted&quot;]/div[@class=&quot;detail-panel__content&quot;]/fw-tabs[1]/fw-tab[1]/div[@class=&quot;pane&quot;]/spa-daily-approval-summary-grid[1]/spa-summary-grid-table[1]/table[@class=&quot;grid-lite&quot;]/thead[1]/tr[@class=&quot;labels-row&quot;]/th[@class=&quot;col--total&quot;]</value>
-      <webElementGuid>c4266489-efe6-4fdf-b2ac-b91e8db01b9e</webElementGuid>
+      <webElementGuid>324c1b44-6859-4878-8c76-10ed8dc05c9f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approved'])[1]/following::th[1]</value>
-      <webElementGuid>23f4adac-0143-408f-91b0-e9bd9898cabc</webElementGuid>
+      <value></value>
+      <webElementGuid>72bab998-56c4-412c-b51b-cc759b6ca114</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Unapproved'])[1]/following::th[2]</value>
-      <webElementGuid>cc552e3a-ad78-4881-9eb7-404d0b27292e</webElementGuid>
+      <webElementGuid>2f7b0c62-77c0-43ef-8b5f-77c7a386ed46</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Expand row'])[1]/preceding::th[5]</value>
-      <webElementGuid>01f00f05-27c6-4ca5-bf25-92eeeef8b76e</webElementGuid>
+      <webElementGuid>6ecbc0ed-6d76-4800-acf5-c1aa4e824217</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bravo House'])[1]/preceding::th[5]</value>
-      <webElementGuid>e5788464-ab50-4c65-9a51-72045d9e3581</webElementGuid>
+      <webElementGuid>99af13b0-097f-4261-bfd5-698a30a6a91f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Total']/parent::*</value>
-      <webElementGuid>9a629743-1238-4537-ad99-1ed55d8589b2</webElementGuid>
+      <webElementGuid>a1bcc078-5a80-4feb-b2dd-4078c6a27351</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th[5]</value>
-      <webElementGuid>6be92daa-07de-4174-8676-3ba7d93d0318</webElementGuid>
+      <webElementGuid>f90a74bd-f5cc-4765-8ea6-5be9c8f33d73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//th[(text() = 'Total' or . = 'Total')]</value>
-      <webElementGuid>d8d483d4-b63d-45ad-931e-ab38211882ab</webElementGuid>
+      <webElementGuid>1ef3b4df-f2e7-4875-97af-e751bec1cca3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>ul</value>
-      <webElementGuid>04115181-cfd5-4e26-9294-0c2a5235b4e6</webElementGuid>
+      <webElementGuid>76a00ec7-df28-48be-87bc-182d3a5f2695</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>tabs u-screen-only fullWidth</value>
-      <webElementGuid>8d51613b-24a7-407c-ad8f-91fb2f8adfbb</webElementGuid>
+      <webElementGuid>30a8cb09-ba64-4e6e-913e-13ab525a61fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Filtersfiber_manual_recordView Optionsfiber_manual_recordSchedule Listingfiber_manual_record</value>
-      <webElementGuid>6468a79f-b9e3-46a5-befc-de59161fc68d</webElementGuid>
+      <webElementGuid>cd22547d-08a6-43a6-a7e6-4fe5bbb81620</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-schedule-detail-container[@class=&quot;ng-star-inserted&quot;]/spa-schedule-side-panel[@class=&quot;ng-tns-c2674595248-13 ng-star-inserted&quot;]/div[@class=&quot;content-area ng-tns-c2674595248-13&quot;]/fw-tabs[@class=&quot;tabs ng-tns-c2674595248-13&quot;]/ul[@class=&quot;tabs u-screen-only fullWidth&quot;]</value>
-      <webElementGuid>b6395004-b539-4c4c-ba59-a6fa8c5f53b7</webElementGuid>
+      <webElementGuid>17f47594-dd9e-4e74-b148-ee4fa635579a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ATTENDANCE'])[1]/following::ul[1]</value>
-      <webElementGuid>bd3f1224-e661-45ab-ad82-f9a381326e1b</webElementGuid>
+      <webElementGuid>4ad062a8-9276-43d6-9f4b-1cf8b9d6fe3d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='MY SCHEDULE'])[1]/following::ul[1]</value>
-      <webElementGuid>a4fd05fc-0a47-440a-8581-ac2edf57f11d</webElementGuid>
+      <webElementGuid>39ee3a56-1d65-4174-acc2-eabbd877ea89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//fw-tabs/ul</value>
-      <webElementGuid>c1f6db63-0cf9-47db-bab9-5949e3e22d04</webElementGuid>
+      <webElementGuid>69555372-d7b6-419a-9b37-fdb4da4adfea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//ul[(text() = 'Filtersfiber_manual_recordView Optionsfiber_manual_recordSchedule Listingfiber_manual_record' or . = 'Filtersfiber_manual_recordView Optionsfiber_manual_recordSchedule Listingfiber_manual_record')]</value>
-      <webElementGuid>b6ae488b-2940-4660-a6fd-f79489ac531c</webElementGuid>
+      <webElementGuid>4731363d-97b6-4b3b-8aa6-9ec32831e8f0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

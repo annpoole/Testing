@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Cancel_1</name>
+   <tag></tag>
+   <elementGuidId>d51e3804-9d23-405e-8267-dc8c6cc52bf3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[39]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>spa-workblock-recurrence-overlap >> internal:role=button[name=&quot;Cancel&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>775770dd-6d0a-4b06-a656-6b51ae09d40e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0d5f2e4d-bc3f-4ea2-8992-d238574cc599</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button button--secondary</value>
+      <webElementGuid>0307a77d-f8a4-4e8f-82da-6a7cef4c4179</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cancel</value>
+      <webElementGuid>9a393094-2f04-43fe-bfb1-250a6bbbe194</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-schedule-detail-container[@class=&quot;ng-star-inserted&quot;]/spa-workblock-editor[@class=&quot;ng-star-inserted&quot;]/spa-workblock-recurrence-overlap[1]/fw-modal[1]/div[@class=&quot;modal fade in&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer&quot;]/div[@class=&quot;fw-modal-footer button-group u-flex&quot;]/button[@class=&quot;button button--secondary&quot;]</value>
+      <webElementGuid>b3d0ba46-615a-446d-b75e-064137add8c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[39]</value>
+      <webElementGuid>1387c501-cb8a-4397-83aa-8d7e004eb284</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save Report'])[1]/following::button[1]</value>
+      <webElementGuid>33f685be-f269-47f7-b9a4-23e810cdf95f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='THE CONFLICTING RECURRENCE WILL BE REMOVED'])[1]/following::button[2]</value>
+      <webElementGuid>8e1d831b-95cf-4423-9bb4-82683dc44166</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add recurrence despite conflicts'])[1]/preceding::button[1]</value>
+      <webElementGuid>e1f5f86f-b5a1-48b0-acfd-09ef4dd9ade2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='clear'])[32]/preceding::button[2]</value>
+      <webElementGuid>987704c4-6be9-4cc1-9e1a-f57f93268460</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//spa-workblock-recurrence-overlap/fw-modal/div/div/div/div[3]/div/button[2]</value>
+      <webElementGuid>d776cb59-87f6-4663-86f5-0d9873372370</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Cancel' or . = 'Cancel')]</value>
+      <webElementGuid>01aa1571-2e0b-495c-8bc8-f23c7a7c16b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

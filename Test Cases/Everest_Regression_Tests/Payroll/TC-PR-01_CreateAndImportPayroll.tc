@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Approved &amp; locked shifts exist</description>
-   <name>TC-PR-01_CreateAndImportPayroll</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>82927274-8f30-4389-9aad-d6d038fc452e</testCaseGuid>
-</TestCaseEntity>

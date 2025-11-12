@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Approved &amp; locked shifts exist</description>
+   <name>TC-PR-01_Create_Regular_Payroll</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>82927274-8f30-4389-9aad-d6d038fc452e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f9c2e2af-4257-4d7e-9851-08af3666822f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'05/05/2024 - 18/05/2024'</defaultValue>
+      <description></description>
+      <id>f9c2e2af-4257-4d7e-9851-08af3666822f</id>
+      <masked>false</masked>
+      <name>pay_Period</name>
+   </variable>
+</TestCaseEntity>

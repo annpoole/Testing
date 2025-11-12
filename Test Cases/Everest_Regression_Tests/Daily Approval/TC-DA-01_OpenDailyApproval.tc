@@ -6,4 +6,30 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>50f253d7-9ba1-4c47-adf1-77422e5af783</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ad74bc1e-a557-4e85-a742-e893410b656d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f40d7120-1823-4c98-a408-5d9ac3e0bcdc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'2025-10-06'</defaultValue>
+      <description></description>
+      <id>ad74bc1e-a557-4e85-a742-e893410b656d</id>
+      <masked>false</masked>
+      <name>Start_Date</name>
+   </variable>
+   <variable>
+      <defaultValue>'Balsam House'</defaultValue>
+      <description></description>
+      <id>f40d7120-1823-4c98-a408-5d9ac3e0bcdc</id>
+      <masked>false</masked>
+      <name>Department</name>
+   </variable>
 </TestCaseEntity>

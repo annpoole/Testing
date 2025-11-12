@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>fw-tabs</value>
-      <webElementGuid>0031b781-6645-4172-9d0d-75ef0958ad20</webElementGuid>
+      <webElementGuid>1e6f5046-c463-4ac6-85c0-e7dfc5d69af3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Summaryfiber_manual_recordFiltersfiber_manual_recordDisplay Optionsfiber_manual_recordSummary of Hours List by: EmployeeDepartmentDatePayCodeMatch Status then summarize by: EmployeeDatePayCodeMatch StatusUnapprovedApprovedTotal1,248.000.001,248.00Expand rowexpand_more Bravo House 632.000.00632.00Expand rowexpand_more Charlie House 616.000.00616.00FiltersClear All Employee no filter Department no filter PayCode no filter Match Status no filter Status  Unapproved  Date Range 10 Mar, 2024 - 23 Mar, 2024 Lock Status no filter Worked Status no filterDisplay Options Name Display First Name first (Emma Price)Last name first (Price, Emma)Apply</value>
-      <webElementGuid>e4dd5bde-93cb-493d-aa6b-20c8ddc816aa</webElementGuid>
+      <webElementGuid>5aa2c141-dc5e-4494-97fa-decb592cdbfc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-daily-approvals[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;work-surface&quot;]/spa-daily-approval-details[@class=&quot;enabled active ng-star-inserted&quot;]/div[@class=&quot;detail-panel__content&quot;]/fw-tabs[1]</value>
-      <webElementGuid>e4365611-9568-4cd4-82f9-4a5e92dd5792</webElementGuid>
+      <webElementGuid>73ec3d96-1c91-4b66-9a87-7713cce2bbf2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='chevron_left'])[1]/following::fw-tabs[1]</value>
-      <webElementGuid>d3ad5f38-72c3-496c-b174-70a23b4198bd</webElementGuid>
+      <webElementGuid>33ac8754-c1c8-4d2b-9c36-d8a79d24e69b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ATTENDANCE'])[1]/following::fw-tabs[1]</value>
-      <webElementGuid>8af215ef-fb88-4e5f-b9ba-9c4ce1a84c9c</webElementGuid>
+      <webElementGuid>c9920e8d-c9d4-4ff7-b939-fc8c5550b611</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//fw-tabs</value>
-      <webElementGuid>8d55a66e-13b7-4fb0-ad4e-75557d92bab3</webElementGuid>
+      <webElementGuid>823a6efb-23c0-4220-aeec-c6cd004d88d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,6 +77,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//fw-tabs[(text() = 'Summaryfiber_manual_recordFiltersfiber_manual_recordDisplay Optionsfiber_manual_recordSummary of Hours List by: EmployeeDepartmentDatePayCodeMatch Status then summarize by: EmployeeDatePayCodeMatch StatusUnapprovedApprovedTotal1,248.000.001,248.00Expand rowexpand_more Bravo House 632.000.00632.00Expand rowexpand_more Charlie House 616.000.00616.00FiltersClear All Employee no filter Department no filter PayCode no filter Match Status no filter Status  Unapproved  Date Range 10 Mar, 2024 - 23 Mar, 2024 Lock Status no filter Worked Status no filterDisplay Options Name Display First Name first (Emma Price)Last name first (Price, Emma)Apply' or . = 'Summaryfiber_manual_recordFiltersfiber_manual_recordDisplay Optionsfiber_manual_recordSummary of Hours List by: EmployeeDepartmentDatePayCodeMatch Status then summarize by: EmployeeDatePayCodeMatch StatusUnapprovedApprovedTotal1,248.000.001,248.00Expand rowexpand_more Bravo House 632.000.00632.00Expand rowexpand_more Charlie House 616.000.00616.00FiltersClear All Employee no filter Department no filter PayCode no filter Match Status no filter Status  Unapproved  Date Range 10 Mar, 2024 - 23 Mar, 2024 Lock Status no filter Worked Status no filterDisplay Options Name Display First Name first (Emma Price)Last name first (Price, Emma)Apply')]</value>
-      <webElementGuid>f03d865d-b8eb-4325-bdf4-6c7da9cbe18e</webElementGuid>
+      <webElementGuid>e2e73527-7fc0-4452-9e51-b00b43c63a8d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

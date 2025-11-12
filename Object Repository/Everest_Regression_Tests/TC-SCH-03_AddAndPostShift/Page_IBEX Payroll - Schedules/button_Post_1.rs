@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Post_1</name>
+   <tag></tag>
+   <elementGuidId>c4378d56-186b-4632-8765-afee8fa6c266</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal.fade.in > div.modal-dialog > div.modal-content > div.modal-footer > div.fw-modal-footer > div.u-flex.u-flex--justify-end > button.button.button--primary.button-group</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[18]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Post&quot;i] >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4d38708d-fefb-4c28-8829-af4621b40ddb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4fcaf7b8-5c49-47f2-a52a-10ccfaaa33cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button button--primary button-group</value>
+      <webElementGuid>2725e323-acdc-4275-8eed-0143f8a16e08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Post </value>
+      <webElementGuid>4136b66a-d3fa-456b-bfa7-3450e14ca55b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-schedule-detail-container[@class=&quot;ng-star-inserted&quot;]/spa-schedule-detail[@class=&quot;work-surface__content ng-star-inserted&quot;]/div[@class=&quot;header&quot;]/spa-schedule-action[@class=&quot;schedule-action-buttons&quot;]/fw-modal[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;modal fade in&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer&quot;]/div[@class=&quot;fw-modal-footer&quot;]/div[@class=&quot;u-flex u-flex--justify-end&quot;]/button[@class=&quot;button button--primary button-group&quot;]</value>
+      <webElementGuid>cc9a170c-0447-4e3e-adb6-d8999408d09b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[18]</value>
+      <webElementGuid>7aae6547-7aed-4b12-99e8-50bd2b54e0fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[4]/following::button[1]</value>
+      <webElementGuid>825fb85c-7b4a-4e67-b4d7-e054a6cd4497</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status :'])[1]/following::button[2]</value>
+      <webElementGuid>03f88913-e2c8-42ee-b173-a4e113abd070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='clear'])[6]/preceding::button[1]</value>
+      <webElementGuid>3c6eaea1-5480-4fed-b158-7a3efa0bafa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy Shifts'])[1]/preceding::button[2]</value>
+      <webElementGuid>5ad4dd90-8c40-4d3c-ab79-d104c4185acc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fw-modal[2]/div/div/div/div[3]/div/div/button[2]</value>
+      <webElementGuid>09c13d8b-c2cf-48cf-aa81-9732b03bbab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Post ' or . = ' Post ')]</value>
+      <webElementGuid>25afd254-635d-4910-98be-765d6b56caed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

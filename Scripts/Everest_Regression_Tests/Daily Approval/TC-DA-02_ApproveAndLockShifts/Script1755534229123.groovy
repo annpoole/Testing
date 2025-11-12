@@ -17,11 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-02_approve and lock/Page_IBEX Payroll - Daily Approval/th_Total'))
+WebUI.click(findTestObject('Everest_Regression_Tests/TC-DA-02_approve and lock/Page_IBEX Payroll - Daily Approval/th_Total'))
 
 WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-02_approve and lock/Page_IBEX Payroll - Daily Approval/input_Toggle Selection of All Rows_selectAll'))
 
-WebUI.rightClick(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-02_approve and lock/Page_IBEX Payroll - Daily Approval/button_lockLock'))
+WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-02_approve and lock/Page_IBEX Payroll - Daily Approval/button_lockLock'))
 
-WebUI.rightClick(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-02_approve and lock/Page_IBEX Payroll - Daily Approval/span_Approved'))
+WebUI.click(findTestObject('Everest_Regression_Tests/TC-DA-02_approve and lock/Page_IBEX Payroll - Daily Approval/input_Toggle Selection of All Rows_selectAll'))
+
+WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-02_approve and lock/Page_IBEX Payroll - Daily Approval/span_Approved'))
 

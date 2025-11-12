@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>th</value>
-      <webElementGuid>99a45e8c-a862-47c0-b729-e98f583ee860</webElementGuid>
+      <webElementGuid>9cd0ca14-823c-497a-829b-1b71f9f3eae3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>colspan</name>
       <type>Main</type>
       <value>5</value>
-      <webElementGuid>4dd4ff8c-7893-42b5-b9de-aee3b2d80dd8</webElementGuid>
+      <webElementGuid>b4bc6166-4c1a-4463-8c67-761d2ca04c62</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>datepicker-switch</value>
-      <webElementGuid>98d8b592-104e-4c08-8271-46aa1d41bda0</webElementGuid>
+      <webElementGuid>d107676b-8b23-4e3c-8e63-33bbc3938ece</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>August 2025</value>
-      <webElementGuid>11926b05-9f5f-4168-9f9f-7d61bb95b99d</webElementGuid>
+      <webElementGuid>321b7bc0-7c70-44ea-8f97-da3af4c3e14a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/div[@class=&quot;datepicker datepicker-dropdown dropdown-menu datepicker-orient-left datepicker-orient-bottom&quot;]/div[@class=&quot;datepicker-days&quot;]/table[@class=&quot;table-condensed&quot;]/thead[1]/tr[2]/th[@class=&quot;datepicker-switch&quot;]</value>
-      <webElementGuid>6a3138b1-fe05-4445-b365-bca1b4d39a2b</webElementGuid>
+      <webElementGuid>7ab859a6-6d4a-4e4e-ad7b-fcb36fb8510c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='«'])[1]/following::th[1]</value>
-      <webElementGuid>5e4c1a46-f6f4-49ef-9ccd-e9aed5b4ab70</webElementGuid>
+      <webElementGuid>0cb7850d-1a7f-43d1-9f54-89fe708fa13d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Leave'])[1]/following::th[3]</value>
-      <webElementGuid>60af3e68-c9eb-45ab-bcf6-926e87e26d05</webElementGuid>
+      <webElementGuid>950564cc-9eaa-42a4-986d-a30cce3b50cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='»'])[1]/preceding::th[1]</value>
-      <webElementGuid>39a025dd-b73e-460c-801b-0bcfc1645bf3</webElementGuid>
+      <webElementGuid>4b276582-d7ab-48a0-a3e6-db8e49b99a53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Su'])[1]/preceding::th[2]</value>
-      <webElementGuid>a011a50e-7d66-489e-9956-7e12b433f9fd</webElementGuid>
+      <webElementGuid>92e15d32-50db-4f9a-9eb0-0db4c749d1d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='August 2025']/parent::*</value>
-      <webElementGuid>c854da04-1965-4ab8-8887-cc994180773e</webElementGuid>
+      <webElementGuid>0db4dd38-198b-4371-ab00-9963bf7a29cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/table/thead/tr[2]/th[2]</value>
-      <webElementGuid>9b89e10c-b9ca-419f-8fbb-cf1f144376fe</webElementGuid>
+      <webElementGuid>aaa18d13-cab1-4ed3-a970-f6301369d4c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//th[(text() = 'August 2025' or . = 'August 2025')]</value>
-      <webElementGuid>b74cf228-d4ae-4a4e-aa80-e2f6d9afa1d6</webElementGuid>
+      <webElementGuid>ed9459ff-2911-4c72-b374-d25cc47e9c0e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

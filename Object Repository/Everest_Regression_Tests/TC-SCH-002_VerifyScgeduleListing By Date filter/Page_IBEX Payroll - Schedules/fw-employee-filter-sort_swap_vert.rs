@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fw-employee-filter-sort_swap_vert</name>
+   <tag></tag>
+   <elementGuidId>11206d00-17ef-4a4c-b489-943c589f0334</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>fw-employee-filter-sort.filter-sort</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Show employees in other departments'])[1]/following::fw-employee-filter-sort[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>fw-employee-filter-sort</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>fw-employee-filter-sort</value>
+      <webElementGuid>b2e17cfe-a0f0-441c-822f-c4650f3a079a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filter-sort</value>
+      <webElementGuid>6d5cd86e-2785-4aaf-b0f0-9941f2a857ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>swap_vert</value>
+      <webElementGuid>4eb59c49-ec76-4efe-b882-0d371fff940e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-schedule-detail-container[@class=&quot;ng-star-inserted&quot;]/spa-schedule-detail[@class=&quot;work-surface__content ng-star-inserted&quot;]/div[@class=&quot;scheduler-container&quot;]/fw-scheduler[@class=&quot;everest-scrollbar&quot;]/div[@class=&quot;horiz-scroll-container ng-star-inserted&quot;]/fw-employee-timeline-view[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;header-row&quot;]/fw-employee-filter-sort[@class=&quot;filter-sort&quot;]</value>
+      <webElementGuid>7790b875-30b9-41d9-b599-78963f8577fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show employees in other departments'])[1]/following::fw-employee-filter-sort[1]</value>
+      <webElementGuid>3cc06c2b-9afe-4abe-aa4f-dd986d8efa60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Freeze vacant row'])[1]/following::fw-employee-filter-sort[1]</value>
+      <webElementGuid>3f6fdc46-95f6-4a27-a3f6-ea2091024082</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sun'])[1]/preceding::fw-employee-filter-sort[1]</value>
+      <webElementGuid>c35edd8e-caad-4e95-bee9-82594694b49d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fw-employee-filter-sort</value>
+      <webElementGuid>b13f622b-445d-4f23-af24-18d81da731c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//fw-employee-filter-sort[(text() = 'swap_vert' or . = 'swap_vert')]</value>
+      <webElementGuid>119c3527-ed58-469b-bbc2-80099fb26ae4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

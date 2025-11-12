@@ -19,9 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Everest_Regression_Tests/Home/TC-Home-01'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-PR-01_Create_and_Import_payroll/Page_IBEX Payroll - Home/a_Payroll'))
+WebUI.click(findTestObject('Object Repository/Broken_test/Page_IBEX Payroll - Home/a_Payroll'))
 
-WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-PR-01_Create_and_Import_payroll/Page_IBEX Payroll - Payroll/a_Process Payroll  Review Payroll History'))
+WebUI.click(findTestObject('Object Repository/Broken_test/Page_IBEX Payroll - Payroll/a_Process Payroll  Review Payroll History'))
 
-WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-PR-01_Create_and_Import_payroll/Page_IBEX Payroll - Process Payroll  Review_740d76/a_Create Next Regular Payroll'))
+WebUI.click(findTestObject('Object Repository/Broken_test/Page_IBEX Payroll - Process Payroll  Review_740d76/a_Input Sheet'))
+
+WebUI.click(findTestObject('Object Repository/Broken_test/Page_IBEX Payroll - Input Sheet/td_Reg. Hourly Pay'))
+
+WebUI.click(findTestObject('Object Repository/Broken_test/Page_IBEX Payroll - Input Sheet/td_0.00_1_2'))
+
+WebUI.click(findTestObject('Object Repository/Broken_test/Page_IBEX Payroll - Input Sheet/td_Abbie, Nawroz'))
 

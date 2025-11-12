@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>5ff2f7a5-c923-4849-8398-48fb63628f2e</webElementGuid>
+      <webElementGuid>a8a64942-b276-494e-8b2b-f3aa3e3884fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>5cb2963a-cb91-422b-b60d-1aaa9e832ad8</webElementGuid>
+      <webElementGuid>dcfe19c8-ba6c-45b3-99e8-1cff7461f4c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Bravo House</value>
-      <webElementGuid>8a80dd9e-27fc-4331-bef5-adf5478345a8</webElementGuid>
+      <webElementGuid>5c0eaa39-bad7-4124-a540-aa27e67c47b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Bravo House </value>
-      <webElementGuid>61e5ec18-434a-48c2-9905-fc1fb254b02d</webElementGuid>
+      <webElementGuid>dfe38604-b017-4e48-aa81-bbd6794d0f06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-daily-approvals[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;work-surface&quot;]/spa-daily-approval-details[@class=&quot;enabled active ng-star-inserted&quot;]/div[@class=&quot;detail-panel__content&quot;]/fw-tabs[1]/fw-tab[1]/div[@class=&quot;pane&quot;]/spa-daily-approval-summary-grid[1]/spa-summary-grid-table[1]/table[@class=&quot;grid-lite&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;col--name ng-star-inserted&quot;]/div[@class=&quot;u-flex&quot;]/spa-key-cell[1]/div[1]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;text&quot;]</value>
-      <webElementGuid>1ab23b60-f2be-41ac-adab-d0df0e6bfef7</webElementGuid>
+      <webElementGuid>36f61b8d-ab6b-4269-a4ae-fe2f52ee74c9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Expand row'])[1]/following::div[4]</value>
-      <webElementGuid>e47801b8-8ef7-42a6-b715-c919ac811805</webElementGuid>
+      <webElementGuid>12b214ad-2465-4abe-a65e-6e856486da14</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/following::div[4]</value>
-      <webElementGuid>4ea9cb8e-ccd0-44f2-a32f-bcc795442a65</webElementGuid>
+      <webElementGuid>eb48d559-a6f6-48f9-a8f8-1410f3b09df3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Expand row'])[2]/preceding::div[1]</value>
-      <webElementGuid>d3d0da67-73a5-4b34-a0b4-d6d25c40b0a4</webElementGuid>
+      <webElementGuid>27d0165d-b39f-490f-b48a-f63569dbee3c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Charlie House'])[1]/preceding::div[1]</value>
-      <webElementGuid>bdd07ef0-5cff-42ed-9a64-9ce1267b54c7</webElementGuid>
+      <webElementGuid>bd4d413f-546d-43ce-a81d-0468420145f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Bravo House']/parent::*</value>
-      <webElementGuid>8cfcd55b-df51-4025-b1e1-a4bdbf3b9bc4</webElementGuid>
+      <webElementGuid>ca4af739-847f-4836-8d8e-0f3ba31a6ea8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//spa-key-cell/div/div/div</value>
-      <webElementGuid>6dffcccd-207d-42a1-b753-85edb43d2415</webElementGuid>
+      <webElementGuid>f135b0cf-281e-4183-819b-b1fc9d28cd83</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@title = 'Bravo House' and (text() = ' Bravo House ' or . = ' Bravo House ')]</value>
-      <webElementGuid>4110a164-a679-46eb-804a-5a3db70c6b10</webElementGuid>
+      <webElementGuid>675e7f2c-9dee-4471-9a31-6ef0c894a829</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

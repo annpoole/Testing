@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>input.search-icon.ng-untouched.ng-pristine.ng-valid</value>
+         <value>fw-search-text.ng-star-inserted > input.search-icon.ng-untouched.ng-pristine.ng-valid</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@type='text'])[12]</value>
+         <value>(//input[@type='text'])[13]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>df6dd1a7-6c84-4c87-a4b1-ef6e996dc7ba</webElementGuid>
+      <webElementGuid>20d50872-b8bc-4f00-9e72-36a9d9d37ac2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>0fdad2b3-81a4-40c4-b8b6-04b505a61a3f</webElementGuid>
+      <webElementGuid>2eaafb24-2972-4481-9bfd-a74945401396</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>search-icon ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>006ef7ca-5636-4774-be70-688362e5848e</webElementGuid>
+      <webElementGuid>63d5beb8-7798-48ad-bc74-7b6d5a12ec60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,15 +53,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-schedule-detail-container[@class=&quot;ng-star-inserted&quot;]/spa-schedule-detail[@class=&quot;work-surface__content ng-star-inserted&quot;]/div[@class=&quot;scheduler-container&quot;]/fw-scheduler[@class=&quot;everest-scrollbar&quot;]/div[@class=&quot;horiz-scroll-container ng-star-inserted&quot;]/fw-employee-timeline-view[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;header-row&quot;]/fw-employee-filter-sort[@class=&quot;filter-sort&quot;]/fw-search-text[@class=&quot;ng-star-inserted&quot;]/input[@class=&quot;search-icon ng-untouched ng-pristine ng-valid&quot;]</value>
-      <webElementGuid>35dac1a7-bca2-481b-95d8-5979011757a8</webElementGuid>
+      <webElementGuid>9f298593-9b4e-4577-a2a7-bf34d9d5dcd8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//input[@type='text'])[12]</value>
-      <webElementGuid>292830f3-78be-4e12-9456-3d5ee45770bc</webElementGuid>
+      <value>(//input[@type='text'])[13]</value>
+      <webElementGuid>f46fa8d7-0ad8-43ae-a5f6-0188bb2229ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//fw-employee-filter-sort/fw-search-text/input</value>
-      <webElementGuid>f5605055-5d56-4b52-8b0d-1d5cb2f88e7b</webElementGuid>
+      <webElementGuid>70cc2394-d74c-4aeb-99e1-4d3f5e368ee5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,6 +77,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text']</value>
-      <webElementGuid>5937ba7d-6ef2-47fd-94e1-3f35f8b724c9</webElementGuid>
+      <webElementGuid>e118fba2-1c63-4d77-a89a-585ed3c71ea0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[12]</value>
+      <webElementGuid>292830f3-78be-4e12-9456-3d5ee45770bc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

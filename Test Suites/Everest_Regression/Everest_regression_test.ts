@@ -62,6 +62,36 @@
          <value></value>
          <variableId>75386c43-a762-4542-ba9f-cd1653ec76d9</variableId>
       </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>dcf73175-31cf-47d3-9337-3d82cc9518ee</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8c492c6f-4924-4109-b52e-bd913165efbd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6f4d8360-ac7e-4661-b883-55e89e9cf12e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3cc9e7f9-165d-416e-a4c9-dc1ab5ff193e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6f9c3feb-7809-47a9-94e7-e2f96287eebc</variableId>
+      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>17f2ef2b-12a7-467b-b75d-9bd85f51f5bf</guid>
@@ -69,6 +99,18 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Everest_Regression_Tests/Daily Approval/TC-DA-01_OpenDailyApproval</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ad74bc1e-a557-4e85-a742-e893410b656d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f40d7120-1823-4c98-a408-5d9ac3e0bcdc</variableId>
+      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>5a95eac5-7ddb-4804-9213-a57afe8f0b01</guid>

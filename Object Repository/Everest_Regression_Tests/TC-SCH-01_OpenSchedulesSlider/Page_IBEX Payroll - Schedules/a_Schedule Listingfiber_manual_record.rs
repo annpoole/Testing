@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>d11492c9-1158-4642-8408-37cdfb0921ad</webElementGuid>
+      <webElementGuid>1648d89b-13f8-4015-96bf-954a7e9cc3be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Schedule Listingfiber_manual_record</value>
-      <webElementGuid>468c58b9-ffc5-493f-97c0-48323f33c8d8</webElementGuid>
+      <webElementGuid>d18e0fe6-b68e-499b-839e-603a7dc8d704</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-schedule-detail-container[@class=&quot;ng-star-inserted&quot;]/spa-schedule-side-panel[@class=&quot;ng-tns-c2674595248-13 ng-star-inserted&quot;]/div[@class=&quot;content-area ng-tns-c2674595248-13&quot;]/fw-tabs[@class=&quot;tabs ng-tns-c2674595248-13&quot;]/ul[@class=&quot;tabs u-screen-only fullWidth&quot;]/li[@class=&quot;ng-star-inserted&quot;]/a[1]</value>
-      <webElementGuid>94cfb559-a2ca-47ee-a079-33c4826753fe</webElementGuid>
+      <webElementGuid>1a892234-4d38-43b0-9724-66a4b46da6ff</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='fiber_manual_record'])[2]/following::a[1]</value>
-      <webElementGuid>8ca53387-442b-4c93-9576-75388f9c32b0</webElementGuid>
+      <webElementGuid>6f436428-4cb6-43e9-9e40-86cac11e2145</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View Options'])[1]/preceding::a[1]</value>
-      <webElementGuid>dbe58732-edc7-41d4-8934-923c07305064</webElementGuid>
+      <webElementGuid>6cfcaff9-9938-4a79-8cfb-d64ed2c12069</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Schedule Listing']/parent::*</value>
-      <webElementGuid>eef14413-c9e1-4772-8d80-e0dfb59e2ae5</webElementGuid>
+      <webElementGuid>13012687-8677-4a24-81e1-b3f866c3d9bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/a</value>
-      <webElementGuid>2f6d0752-df1b-4036-a03e-49d1b66d0cb7</webElementGuid>
+      <webElementGuid>6579b20e-5fe0-4a9b-bc94-33dd42d818e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = 'Schedule Listingfiber_manual_record' or . = 'Schedule Listingfiber_manual_record')]</value>
-      <webElementGuid>01c0e3e1-b381-48c8-a78c-0b25391760a9</webElementGuid>
+      <webElementGuid>2d14c698-bd8f-4cce-8a0c-a3a7ca62e9d4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

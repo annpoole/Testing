@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_DetailsConfiguration</name>
+   <tag></tag>
+   <elementGuidId>45eab2bd-3a13-49c3-89e7-083e6e05deaf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='&lt;&lt; Back to Input Sheet'])[1]/following::ul[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.tabs</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;DetailsConfiguration&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>dd90af13-1cde-46c0-b5de-89af368fc4e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tabs</value>
+      <webElementGuid>d49974de-370d-4c06-97fd-7b995a01917d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DetailsConfiguration</value>
+      <webElementGuid>e14b1396-74e3-4962-a599-26f46004d477</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-organization-earnings-benefits-deductions[@class=&quot;work-surface__content ng-star-inserted&quot;]/div[@class=&quot;header&quot;]/div[1]/nav[1]/ul[@class=&quot;tabs&quot;]</value>
+      <webElementGuid>54c70c5e-8969-407c-af99-e9b7251fefd3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='&lt;&lt; Back to Input Sheet'])[1]/following::ul[1]</value>
+      <webElementGuid>4437d9c2-0e51-451a-b292-c14cb0df341a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SHIFTSHARK'])[1]/following::ul[1]</value>
+      <webElementGuid>160ca8f7-d856-4aae-aed6-6b3d1bca644d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul</value>
+      <webElementGuid>ab80c10b-783e-4f03-9717-6023c52a232e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = 'DetailsConfiguration' or . = 'DetailsConfiguration')]</value>
+      <webElementGuid>f8052536-5ce2-4baf-bbb3-e65f622f7d0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

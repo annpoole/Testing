@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_navigate_before_date-toolbar__input i_9a347a</name>
+   <tag></tag>
+   <elementGuidId>b0408371-b831-4f5b-a871-ac6102280f98</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.date-toolbar__input.input-text.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Find pay schedule by date&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>5e3d46a6-2f27-4b8d-926b-70533e627d55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>2c105cef-dbea-45e2-80c2-c9bcbe19eaa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Find pay schedule by date</value>
+      <webElementGuid>ef755160-e16f-4e88-a057-b58967ef8bb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>date-toolbar__input input-text ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>d5ff7ef5-1dca-4b21-aa07-e36cff62aba5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-daily-approvals[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;work-surface&quot;]/div[@class=&quot;work-surface__content&quot;]/div[@class=&quot;u-m--half ng-star-inserted&quot;]/div[@class=&quot;u-flex u-flex--align-center&quot;]/spa-schedule-navigator[@class=&quot;u-m-right&quot;]/div[@class=&quot;date-toolbar&quot;]/div[@class=&quot;u-flex date-toolbar__label-wrapper&quot;]/div[@class=&quot;date-toolbar__label-content&quot;]/input[@class=&quot;date-toolbar__input input-text ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>0fd7b4c4-9707-4f37-907c-a796dac171e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[2]</value>
+      <webElementGuid>6f3a9c19-0c98-4bc2-a456-76415a5ee42c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//spa-schedule-navigator/div/div/div/input</value>
+      <webElementGuid>ea1b0f56-df36-45d0-83a6-c0c8cecb38c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>d390fc67-69d6-4b1d-bd4e-3df70cedad5f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

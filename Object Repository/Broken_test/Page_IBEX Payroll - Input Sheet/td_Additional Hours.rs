@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Additional Hours</name>
+   <tag></tag>
+   <elementGuidId>3b863a95-711a-4643-8e2c-eaaff65319f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.EBDHeading.earningHeadingBackground.200587b7-127b-48fb-ab5e-f355d6c8d017</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='inputSheet']/tbody/tr[2]/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Additional Hours&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>eccd3612-a411-46b6-ab63-370feb9ab695</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>EBDHeading earningHeadingBackground 200587b7-127b-48fb-ab5e-f355d6c8d017</value>
+      <webElementGuid>94ada6d0-244f-4a2b-99ca-fad235e434ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>cd09a87f-d0f0-4fc4-96a6-dff2e8848398</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Additional Hours</value>
+      <webElementGuid>b9e93e2d-b7ac-4e81-aefe-e8269527da72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inputSheet&quot;)/tbody[1]/tr[@class=&quot;payrollInstruction&quot;]/td[@class=&quot;EBDHeading earningHeadingBackground 200587b7-127b-48fb-ab5e-f355d6c8d017&quot;]</value>
+      <webElementGuid>eccce5fc-1e46-454b-883e-81e41496d7da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='inputSheet']/tbody/tr[2]/td</value>
+      <webElementGuid>290328f9-9c3f-4532-b87c-d87e7f2ad807</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deductions'])[1]/following::td[1]</value>
+      <webElementGuid>40e6ec4f-4b95-4520-b07f-1edc33ff75f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Benefits'])[1]/following::td[1]</value>
+      <webElementGuid>fa76674a-182e-424a-88b7-1ae8eb8b3698</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional Sleep Hours'])[1]/preceding::td[1]</value>
+      <webElementGuid>04690605-0958-4ebf-a8d7-17b5316a4dd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin Hours'])[1]/preceding::td[2]</value>
+      <webElementGuid>a3fad965-b9ff-4c63-8a82-e80cbc44c2ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Additional Hours']/parent::*</value>
+      <webElementGuid>c3d05e1e-e9b0-42f2-8229-b3721398365e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr[2]/td</value>
+      <webElementGuid>8b585b99-43ed-48d9-a64e-2c35cb636fe7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Additional Hours' or . = 'Additional Hours')]</value>
+      <webElementGuid>f92aacd2-778e-44ff-a808-d1c28c8664a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

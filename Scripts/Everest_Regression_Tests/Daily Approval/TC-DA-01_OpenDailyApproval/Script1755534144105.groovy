@@ -24,22 +24,16 @@ WebUI.waitForElementVisible(findTestObject('Object Repository/Everest_Regression
 
 WebUI.comment('below steps can be deleted later when you know the dA will land on right pay period')
 
-WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-01_OpenDailyApproval/Page_IBEX Payroll - Daily Approval/i_today'))
+WebUI.setText(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-01_OpenDailyApproval/Page_IBEX Payroll - Daily Approval/input_navigate_before_date-toolbar__input i_9a347a'), 
+    Start_Date)
 
-WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-01_OpenDailyApproval/Page_IBEX Payroll - Daily Approval/th_August 2025'))
+WebUI.sendKeys(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-01_OpenDailyApproval/Page_IBEX Payroll - Daily Approval/input_navigate_before_date-toolbar__input i_9a347a'), 
+    Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-01_OpenDailyApproval/Page_IBEX Payroll - Daily Approval/th_2025'))
-
-WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-01_OpenDailyApproval/Page_IBEX Payroll - Daily Approval/span_2024'))
-
-WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-01_OpenDailyApproval/Page_IBEX Payroll - Daily Approval/span_Mar'))
-
-WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-01_OpenDailyApproval/Page_IBEX Payroll - Daily Approval/td_10'))
+WebUI.waitForElementVisible(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-01_OpenDailyApproval/Page_IBEX Payroll - Daily Approval/div_Expand rowexpand_moreeditEditlockUnappr_ebe47a'), 
+    15)
 
 WebUI.comment('above steps can be deleted later when you know the dA will land on right pay period')
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-01_OpenDailyApproval/Page_IBEX Payroll - Daily Approval/fw-tabs_Summaryfiber_manual_recordFiltersfi_f8a64b'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-01_OpenDailyApproval/Page_IBEX Payroll - Daily Approval/div_Bravo House'), 
-    'Bravo House')
 

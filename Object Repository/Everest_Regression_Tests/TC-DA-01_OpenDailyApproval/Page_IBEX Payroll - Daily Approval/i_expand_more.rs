@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_expand_more</name>
+   <tag></tag>
+   <elementGuidId>99cc2b23-7d31-4eef-bf6a-71073a65b40d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Expand row'])[3]/following::i[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Expand row Balsam House 432.75 0.00 432.75&quot;i] >> internal:role=button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>5da185a2-2194-40b1-afd6-a6825952c9d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5d6a70d4-cdae-4403-9425-ae59cfe4bed0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons</value>
+      <webElementGuid>fcc9e47c-b3fd-4458-b60e-69558538de20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>expand_more</value>
+      <webElementGuid>b811f778-3388-4620-8001-991f231debc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-daily-approvals[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;work-surface&quot;]/spa-daily-approval-details[@class=&quot;enabled active ng-star-inserted&quot;]/div[@class=&quot;detail-panel__content&quot;]/fw-tabs[1]/fw-tab[1]/div[@class=&quot;pane&quot;]/spa-daily-approval-summary-grid[1]/spa-summary-grid-table[1]/table[@class=&quot;grid-lite&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;col--expand ng-star-inserted&quot;]/spa-expand-row-cell[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;ng-star-inserted&quot;]/i[@class=&quot;material-icons&quot;]</value>
+      <webElementGuid>d388b2e8-a598-4e46-8a7e-2c882b64eccf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expand row'])[3]/following::i[1]</value>
+      <webElementGuid>69186350-bdb7-489d-951f-2502090bb911</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anemone House'])[1]/following::i[1]</value>
+      <webElementGuid>39a8518a-4fd1-493b-99e0-f83b3d7387b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Balsam House'])[1]/preceding::i[1]</value>
+      <webElementGuid>2b9baf49-ffb8-4789-a1e9-6944b9f6f34c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expand row'])[4]/preceding::i[1]</value>
+      <webElementGuid>14290a08-b414-47b8-a1a5-b562e9ecf84e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td/spa-expand-row-cell/button/i</value>
+      <webElementGuid>34012f9b-2ad8-4b24-858e-fdc46d540138</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'expand_more' or . = 'expand_more')]</value>
+      <webElementGuid>a50a06b2-858c-4e1d-afbc-a706038fb119</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

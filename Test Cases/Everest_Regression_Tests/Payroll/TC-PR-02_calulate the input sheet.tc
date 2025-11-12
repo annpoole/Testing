@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to input sheet and verify enterter emplyoehas Regular shifts</description>
+   <name>TC-PR-02_calulate the input sheet</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1db74c88-2587-4bed-8e35-8c40e4a725be</testCaseGuid>
+</TestCaseEntity>

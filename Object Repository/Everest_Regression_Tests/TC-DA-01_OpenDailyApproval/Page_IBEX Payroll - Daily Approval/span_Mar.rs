@@ -7,7 +7,6 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>c3999505-9fc0-4bfb-a1f7-e71a8618ebad</webElementGuid>
+      <webElementGuid>959367cf-eee1-4b2d-a4d3-5943e41834ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +36,7 @@
       <name>class</name>
       <type>Main</type>
       <value>month</value>
-      <webElementGuid>09462cf5-9b75-4272-bb0d-1131a62eddba</webElementGuid>
+      <webElementGuid>b23957bb-bb6d-4842-8bee-c195bec21baa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +44,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Mar</value>
-      <webElementGuid>8cd8da47-a333-4df2-97cb-0c1528a97bf7</webElementGuid>
+      <webElementGuid>c7e93d0c-ace9-463c-aaa2-5b5159118b55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +52,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/div[@class=&quot;datepicker datepicker-dropdown dropdown-menu datepicker-orient-left datepicker-orient-bottom&quot;]/div[@class=&quot;datepicker-months&quot;]/table[@class=&quot;table-condensed&quot;]/tbody[1]/tr[1]/td[1]/span[@class=&quot;month&quot;]</value>
-      <webElementGuid>3ee56b9c-66d3-4882-be29-a0719a315084</webElementGuid>
+      <webElementGuid>ed34908f-2c1c-4f60-a9ee-8bd0af04986f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +60,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Feb'])[1]/following::span[1]</value>
-      <webElementGuid>99914777-0ce6-4a73-85a4-9131ec66942c</webElementGuid>
+      <webElementGuid>c025208b-23a7-4b02-9eb2-dadea6be4a72</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Jan'])[1]/following::span[2]</value>
-      <webElementGuid>c4c6cd7f-6b5d-4e33-8cea-2ff800e81e48</webElementGuid>
+      <webElementGuid>4fe63f30-cb31-4797-b631-c2110a517d05</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Apr'])[1]/preceding::span[1]</value>
-      <webElementGuid>22693d06-e3bb-4660-b259-96acb979fe6f</webElementGuid>
+      <webElementGuid>cc66aa64-f5a4-4b94-9277-9b4c2ba10830</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='May'])[1]/preceding::span[2]</value>
-      <webElementGuid>4799a26a-80e5-4d45-8303-94e6cd8c1d4c</webElementGuid>
+      <webElementGuid>3309af4c-e683-413b-80d9-7ee63ea6dfca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Mar']/parent::*</value>
-      <webElementGuid>cf5244d0-29b6-4a7f-aea5-ba3ce22ac31a</webElementGuid>
+      <webElementGuid>d3ef21f5-73b8-4cd9-a816-fdc8105cbbb0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/span[3]</value>
-      <webElementGuid>4ba3e2cb-a1d1-4ac6-823b-fab87016e266</webElementGuid>
+      <webElementGuid>ed3ce6e1-fc4c-425d-827a-595b95260d7b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +108,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Mar' or . = 'Mar')]</value>
-      <webElementGuid>b0ce4bff-5520-4848-a48c-d9874f9dbce0</webElementGuid>
+      <webElementGuid>54cb8349-9a22-49da-94e9-3c45dcdadde7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

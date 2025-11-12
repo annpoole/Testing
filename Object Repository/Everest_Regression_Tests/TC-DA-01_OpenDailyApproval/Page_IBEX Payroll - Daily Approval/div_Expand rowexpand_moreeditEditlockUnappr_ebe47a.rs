@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Expand rowexpand_moreeditEditlockUnappr_ebe47a</name>
+   <tag></tag>
+   <elementGuidId>4c290a8b-952f-4859-b1aa-82a278f768c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.main-row</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[1]/following::div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Expand row edit Edit lock Unapproved Needs Review Madsen-perShiftOT, Cheryl Anemone House 05 Oct - Sun End of split shift today 12:00 AM access_time check 12:00 AM - 07:00 AM - 07:00 AM null 7.00 hrs REG (7.00)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a1fb07fd-bce9-4180-9fac-3f9d9b68395e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>f300298a-6866-460d-b156-9dab9ac98be2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>main-row</value>
+      <webElementGuid>31a625dd-5ed6-4c94-b9c2-25f804bfccdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-rowindex</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>0d5965ad-c3c4-4ade-b1de-68395044ee2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>64379261-3af1-4ee6-9625-0572af7a5c6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>966278a5-de84-403c-b18d-6e772de5c34d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Expand rowexpand_moreeditEditlockUnapprovedNeeds Review  Madsen-perShiftOT, Cheryl  Anemone House  05 Oct - Sun End of split shiftfliptoday 12:00 AM access_time   check 12:00 AM - 07:00 AM    - 07:00 AM  7.00 hrsREG (7.00)</value>
+      <webElementGuid>565e35e3-c858-4219-8667-0c91b0732d82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-daily-approvals[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;work-surface&quot;]/div[@class=&quot;work-surface__content&quot;]/spa-daily-approval-table[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;table-root force-min-width&quot;]/cdk-virtual-scroll-viewport[@class=&quot;cdk-virtual-scroll-viewport cdk-virtual-scrollable cdk-virtual-scroll-orientation-vertical&quot;]/div[@class=&quot;cdk-virtual-scroll-content-wrapper&quot;]/div[@class=&quot;row row--even ng-star-inserted&quot;]/div[@class=&quot;main-row&quot;]</value>
+      <webElementGuid>96913bca-7944-482b-870e-9e244e06ac12</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[1]/following::div[3]</value>
+      <webElementGuid>544d3eb1-26da-46e9-9276-3e9874e13aab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Allocations'])[1]/following::div[4]</value>
+      <webElementGuid>70cf7f9e-d251-45a8-921a-bcaa300106be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//cdk-virtual-scroll-viewport/div/div/div</value>
+      <webElementGuid>9ba91c51-2eca-4754-be26-b7cb35e2bffc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Expand rowexpand_moreeditEditlockUnapprovedNeeds Review  Madsen-perShiftOT, Cheryl  Anemone House  05 Oct - Sun End of split shiftfliptoday 12:00 AM access_time   check 12:00 AM - 07:00 AM    - 07:00 AM  7.00 hrsREG (7.00)' or . = 'Expand rowexpand_moreeditEditlockUnapprovedNeeds Review  Madsen-perShiftOT, Cheryl  Anemone House  05 Oct - Sun End of split shiftfliptoday 12:00 AM access_time   check 12:00 AM - 07:00 AM    - 07:00 AM  7.00 hrsREG (7.00)')]</value>
+      <webElementGuid>19cbfdee-e23f-4d0e-bf3d-ff591bd40f96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

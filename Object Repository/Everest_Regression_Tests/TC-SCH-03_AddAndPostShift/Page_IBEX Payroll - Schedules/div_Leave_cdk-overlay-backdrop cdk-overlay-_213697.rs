@@ -7,18 +7,18 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.cdk-overlay-backdrop.cdk-overlay-transparent-backdrop.cdk-overlay-backdrop-showing</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//body/div/div</value>
+         <value>//body/div/div[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>.cdk-overlay-backdrop</value>
+         <value>.cdk-overlay-container > div:nth-child(3)</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>1ff7ae5a-4c52-40da-810e-d1842a4570ca</webElementGuid>
+      <webElementGuid>4d14b270-3851-49fe-890a-465fc534e852</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>cdk-overlay-backdrop cdk-overlay-transparent-backdrop cdk-overlay-backdrop-showing</value>
-      <webElementGuid>beb7a628-2716-4af4-a7a8-1fabbc0b1de6</webElementGuid>
+      <webElementGuid>f47a7bb8-2fe1-461d-aad7-21e7ab4247e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,10 +45,18 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/div[@class=&quot;cdk-overlay-container&quot;]/div[@class=&quot;cdk-overlay-backdrop cdk-overlay-transparent-backdrop cdk-overlay-backdrop-showing&quot;]</value>
-      <webElementGuid>aafcca74-b6f1-4e4e-a190-c36eeef61331</webElementGuid>
+      <webElementGuid>2228cc9c-9375-464b-a2b2-8de70da58fb3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/div/div[3]</value>
+      <webElementGuid>47920f55-27d6-400a-8e32-5da1a521d321</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>

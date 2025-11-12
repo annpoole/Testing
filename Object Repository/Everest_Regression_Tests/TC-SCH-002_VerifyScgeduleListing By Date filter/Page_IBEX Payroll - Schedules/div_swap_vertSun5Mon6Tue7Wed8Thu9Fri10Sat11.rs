@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_swap_vertSun5Mon6Tue7Wed8Thu9Fri10Sat11</name>
+   <tag></tag>
+   <elementGuidId>9b5bc25d-735b-4a91-9e12-dc8cf175ad78</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.header-row</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Show employees in other departments'])[1]/following::div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;swap_vertSun5Mon6Tue7Wed8Thu9Fri10Sat11&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>aac77b2f-b800-48d9-9f92-3a842328291a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header-row</value>
+      <webElementGuid>23cf907c-0d86-46b9-94e3-47f979a1c3e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>swap_vertSun5Mon6Tue7Wed8Thu9Fri10Sat11</value>
+      <webElementGuid>bcd978ad-1730-4afd-8c4a-6651ac15b190</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-schedule-detail-container[@class=&quot;ng-star-inserted&quot;]/spa-schedule-detail[@class=&quot;work-surface__content ng-star-inserted&quot;]/div[@class=&quot;scheduler-container&quot;]/fw-scheduler[@class=&quot;everest-scrollbar&quot;]/div[@class=&quot;horiz-scroll-container ng-star-inserted&quot;]/fw-employee-timeline-view[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;header-row&quot;]</value>
+      <webElementGuid>93aa9e1f-2827-4d44-9877-95ce6dbf5cce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show employees in other departments'])[1]/following::div[2]</value>
+      <webElementGuid>f8189697-2a30-4241-b72a-52a8699a9430</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Freeze vacant row'])[1]/following::div[3]</value>
+      <webElementGuid>c9a71176-aea4-45b5-aa09-da31bc3f423e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fw-employee-timeline-view/div</value>
+      <webElementGuid>b36eecec-ce23-4e04-addc-c54cb04a1c3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'swap_vertSun5Mon6Tue7Wed8Thu9Fri10Sat11' or . = 'swap_vertSun5Mon6Tue7Wed8Thu9Fri10Sat11')]</value>
+      <webElementGuid>3ea60e10-a058-428f-88d3-46fbfc9568c7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

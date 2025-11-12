@@ -7,7 +7,6 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>8cdb95fd-9d77-4f43-bec3-c5efeb23c0c5</webElementGuid>
+      <webElementGuid>e9f41071-97d7-41de-b22d-04ecf599d628</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +36,7 @@
       <name>class</name>
       <type>Main</type>
       <value>year</value>
-      <webElementGuid>ef3c66fd-71f7-4ef6-a438-fee11c9231e2</webElementGuid>
+      <webElementGuid>8dcc6bf5-75c1-4e06-81a4-ea19711623d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +44,7 @@
       <name>text</name>
       <type>Main</type>
       <value>2024</value>
-      <webElementGuid>22dd80b2-9c41-4fa0-97bc-143633319e80</webElementGuid>
+      <webElementGuid>c4f2132c-ca58-4a13-9c73-6414c65c9cfa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +52,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/div[@class=&quot;datepicker datepicker-dropdown dropdown-menu datepicker-orient-left datepicker-orient-bottom&quot;]/div[@class=&quot;datepicker-years&quot;]/table[@class=&quot;table-condensed&quot;]/tbody[1]/tr[1]/td[1]/span[@class=&quot;year&quot;]</value>
-      <webElementGuid>013d299d-ebdc-4d97-a678-4b524359d622</webElementGuid>
+      <webElementGuid>b5d345a6-3293-4221-b6d3-5106b4b1339e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +60,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='»'])[3]/following::span[6]</value>
-      <webElementGuid>193936f4-2a15-4c0a-9a1c-98c880e9cf46</webElementGuid>
+      <webElementGuid>ed0305cf-da62-4e85-b49c-f2f58ee7fa7c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='«'])[3]/following::span[6]</value>
-      <webElementGuid>78fe527f-465b-4a9f-a2ed-6c80f017bd03</webElementGuid>
+      <webElementGuid>76090c64-f84b-4aba-a816-d4407dd7eca7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[3]/preceding::span[7]</value>
-      <webElementGuid>6365f7c0-9846-466d-bc95-8f16887647e7</webElementGuid>
+      <webElementGuid>3804677c-5f51-46ac-8bb3-8e7d556f3167</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[3]/preceding::span[7]</value>
-      <webElementGuid>e56a6d53-7be1-4871-8ef8-a288102e721e</webElementGuid>
+      <webElementGuid>ccae78ad-9b41-4512-98b3-2a127812f643</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='2024']/parent::*</value>
-      <webElementGuid>815ae52b-0084-464b-93d0-4c23d6306f81</webElementGuid>
+      <webElementGuid>5ac0eee5-205b-4b59-9ad6-1d38b78ea088</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/table/tbody/tr/td/span[6]</value>
-      <webElementGuid>46acf3b3-f05d-475e-958b-50a6c42a536a</webElementGuid>
+      <webElementGuid>d5bde1de-bdfa-40c4-87b9-1c2a873bbc42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +108,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = '2024' or . = '2024')]</value>
-      <webElementGuid>069e8ee8-3486-4ac4-b457-a2edc91756ce</webElementGuid>
+      <webElementGuid>0b67d98a-cb87-46f1-bd39-8aecf5267815</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

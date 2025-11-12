@@ -25,5 +25,5 @@ WebUI.click(findTestObject('Object Repository/UI improvement/WI-8074 Add Unique 
 
 WebUI.findWebElement(findTestObject('Object Repository/UI improvement/WI-8074 Add Unique IDs for Top Bar Menu Items/Page_IBEX Payroll - Home/Daily Approval'))
 
-WebUI.click(findTestObject('Object Repository/UI improvement/WI-8074 Add Unique IDs for Top Bar Menu Items/Page_IBEX Payroll - Home/a_Payroll'))
+WebUI.click(findTestObject('UI improvement/WI-8074 Add Unique IDs for Top Bar Menu Items/Page_IBEX Payroll - Home/a_Payroll'))
 

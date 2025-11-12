@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fw-select_Select a department</name>
+   <tag></tag>
+   <elementGuidId>df3f9048-ce07-4821-88f7-814214fce160</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>fw-select.fw-select.input-select.department-select.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Department'])[3]/following::fw-select[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>spa-schedule-detail >> internal:attr=[title=&quot;Select a department&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>fw-select</value>
+      <webElementGuid>8849d345-c0a7-419d-9b69-a400941fadae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>displayfield</name>
+      <type>Main</type>
+      <value>Name</value>
+      <webElementGuid>e971c566-0c89-44a5-8088-50bb958e8258</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>valuefield</name>
+      <type>Main</type>
+      <value>ObjId</value>
+      <webElementGuid>3b4a5a2d-415b-4f38-ac08-ece0f458827b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alignwith</name>
+      <type>Main</type>
+      <value>right</value>
+      <webElementGuid>c8620bf5-0b2b-4559-ba41-1e13cef86304</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Select a department</value>
+      <webElementGuid>e824c250-3dec-4c72-a814-1c96a2a261e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fw-select input-select department-select ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>783adce8-a65a-4d49-a3bb-3a32ab4afa30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>003612e8-2e77-44f5-93ca-141a606825da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Select a department</value>
+      <webElementGuid>58397f41-90b9-4c9c-9e52-8f1de07de375</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select a department</value>
+      <webElementGuid>3f6c52b4-4c22-4f2e-adc8-b76f786e589e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-schedule-detail-container[@class=&quot;ng-star-inserted&quot;]/spa-schedule-detail[@class=&quot;work-surface__content ng-star-inserted&quot;]/div[@class=&quot;view-controls&quot;]/div[1]/fw-select[@class=&quot;fw-select input-select department-select ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>44a2f11b-7c92-4c09-a544-1ecf56f4987d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Department'])[3]/following::fw-select[1]</value>
+      <webElementGuid>74c98d03-dfc0-4d25-9bed-7dc588804c28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy'])[2]/following::fw-select[1]</value>
+      <webElementGuid>49a87884-54dc-4e76-a251-6883c7f90a0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Navigate to previous period'])[1]/preceding::fw-select[1]</value>
+      <webElementGuid>8288945a-1f47-4563-b05f-c284d692a6c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/fw-select</value>
+      <webElementGuid>63fbe381-b1b3-4aaa-9493-de45acdb2d7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//fw-select[@placeholder = 'Select a department' and @title = 'Select a department' and (text() = 'Select a department' or . = 'Select a department')]</value>
+      <webElementGuid>9639e153-34e2-484b-bb1d-6da851bf96e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

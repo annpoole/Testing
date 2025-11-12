@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ebeeb13e-0d28-49cb-a063-9ec2605ede5e</webElementGuid>
+      <webElementGuid>fbe1b61f-bbbc-490b-ba05-1fb84b155685</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>97dd23f5-7086-44eb-b711-5d4e8fd76d3c</webElementGuid>
+      <webElementGuid>3fca9b95-1db7-44f2-b6f5-848b45cf7e93</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>endBy</value>
-      <webElementGuid>4be67694-372c-45f7-848c-3b8b30ce9b52</webElementGuid>
+      <webElementGuid>fc443b3f-5b4e-4e41-b657-c366b51791a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>value</name>
       <type>Main</type>
       <value>EndAfterDate</value>
-      <webElementGuid>923b0563-26f2-4797-a7ef-40e3d3c24d22</webElementGuid>
+      <webElementGuid>ae0b2664-ae0a-417c-8cdd-1125f5796811</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>EndDateOption</value>
-      <webElementGuid>1d358861-5d5b-4325-8ca4-d942405520da</webElementGuid>
+      <webElementGuid>aaa38979-1d33-4fc4-8600-bd12815e7b00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input-radio ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>da83005b-90c4-439b-a967-affe7c3e9073</webElementGuid>
+      <webElementGuid>9f6c5ed1-ea0d-4809-a2f9-9c4b1f644297</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;endBy&quot;)</value>
-      <webElementGuid>4baca791-9be8-4929-bce6-972c9087a852</webElementGuid>
+      <webElementGuid>fc7ad0cb-2820-4045-94af-15f5fe136736</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='endBy']</value>
-      <webElementGuid>57875080-78c0-4fd6-8c0c-b10a9760cc64</webElementGuid>
+      <webElementGuid>39d3f2b2-cb43-4152-a5d5-1bf28f4c9e71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//spa-workblock-recurrence-range/div/div[2]/div[3]/input</value>
-      <webElementGuid>980be7fb-46c2-471d-946a-06e984848b8b</webElementGuid>
+      <webElementGuid>3913a4c0-fa78-47e5-b85e-c139602ac3f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'radio' and @id = 'endBy']</value>
-      <webElementGuid>0c1fbedf-f875-40df-bbb6-1aa9ea26678e</webElementGuid>
+      <webElementGuid>53f26caf-523d-4983-8d41-706a38e45c1c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

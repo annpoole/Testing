@@ -19,7 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-01_OpenSchedulesSlider/Page_IBEX Payroll - Home/a_Schedules'))
 
-WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-01_OpenSchedulesSlider/Page_IBEX Payroll - Schedules/i_filter_list'))
+WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-01_OpenSchedulesSlider/Page_IBEX Payroll - Schedules/i_toc'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-01_OpenSchedulesSlider/Page_IBEX Payroll - Schedules/ul_Filtersfiber_manual_recordView Optionsfi_484045'))
+WebUI.waitForElementPresent(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-01_OpenSchedulesSlider/Page_IBEX Payroll - Schedules/spa-side-panel-schedule-listing_Schedules A_80c6b6'), 
+    15)
 

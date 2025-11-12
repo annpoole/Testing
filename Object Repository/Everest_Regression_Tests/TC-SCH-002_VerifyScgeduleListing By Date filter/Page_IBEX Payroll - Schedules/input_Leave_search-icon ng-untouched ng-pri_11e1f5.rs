@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Leave_search-icon ng-untouched ng-pri_11e1f5</name>
+   <tag></tag>
+   <elementGuidId>1f9173a4-c7ef-4fff-9154-b662ffc29940</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>fw-search-text.fw-select-search.ng-star-inserted > input.search-icon.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[15]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#cdk-overlay-0 >> internal:role=textbox</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>7c6c9f75-94aa-486b-981d-ecc12f783527</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>ec045e97-cfd5-4b5b-aeab-d4770e2d8d0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>search-icon ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>3f8725b1-2dd7-4bcb-bb00-b35eac59c0ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-0&quot;)/div[@class=&quot;fw-select-popup ng-star-inserted&quot;]/fw-search-text[@class=&quot;fw-select-search ng-star-inserted&quot;]/input[@class=&quot;search-icon ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>1fa5dca6-cc1e-429d-8263-4d117e12c4a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[15]</value>
+      <webElementGuid>ca9dd35d-0913-486b-999f-4710de2d4c0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-0']/div/fw-search-text/input</value>
+      <webElementGuid>e5762ea9-43db-4c51-9e0a-331680722952</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/fw-search-text/input</value>
+      <webElementGuid>26227156-bcb3-4a93-81be-399e68fdfbf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>7ef2a7b7-2f45-44cb-856d-42dedb120579</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

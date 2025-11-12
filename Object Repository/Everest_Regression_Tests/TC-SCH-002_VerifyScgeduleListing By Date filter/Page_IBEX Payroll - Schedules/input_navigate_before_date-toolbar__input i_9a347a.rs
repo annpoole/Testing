@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_navigate_before_date-toolbar__input i_9a347a</name>
+   <tag></tag>
+   <elementGuidId>35857ccd-e493-40bb-8f15-4f789a31b2dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.date-toolbar__input.input-text.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[11]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Find pay schedule by date&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>2360e9d6-78ee-4a7e-b3c6-51958bc62533</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>ce8f0008-4fe6-46ce-8029-5bd2e38443b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Find pay schedule by date</value>
+      <webElementGuid>e80578e5-6769-4d4a-89ec-5f4cec28315f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>date-toolbar__input input-text ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>e82831cb-2d4c-449b-97d2-f793cedb36b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-schedule-detail-container[@class=&quot;ng-star-inserted&quot;]/spa-schedule-detail[@class=&quot;work-surface__content ng-star-inserted&quot;]/div[@class=&quot;view-controls&quot;]/spa-schedule-navigator[@class=&quot;schedule-navigator&quot;]/div[@class=&quot;date-toolbar&quot;]/div[@class=&quot;u-flex date-toolbar__label-wrapper&quot;]/div[@class=&quot;date-toolbar__label-content&quot;]/input[@class=&quot;date-toolbar__input input-text ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>f60b827f-5e22-4b48-acfe-e53739f8a233</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[11]</value>
+      <webElementGuid>4140fa78-de3d-4dad-a428-0081d790a21e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//spa-schedule-navigator/div/div/div/input</value>
+      <webElementGuid>064ffcdf-230d-46a0-9912-cdc6e837d162</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>99b856c4-9832-48b2-bd72-f0d1d1fbd531</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

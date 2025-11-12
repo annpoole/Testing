@@ -6,11 +6,12 @@
    <elementGuidId>5e23d131-71ea-4830-9e6a-11488515a114</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*/text()[normalize-space(.)='Daily']/parent::*</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-6']/div/div/div[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>ace7a0f5-e822-416b-b1a0-3a2cc5081bc7</webElementGuid>
+      <webElementGuid>c70b3cd3-2650-42e1-a412-4124094b491e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fw-select-option ng-star-inserted</value>
-      <webElementGuid>a1d67106-7b28-453c-b515-1f415ce0134f</webElementGuid>
+      <webElementGuid>892774fa-0d33-4d86-9206-f891498c647e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -44,23 +45,23 @@
       <name>text</name>
       <type>Main</type>
       <value> Daily </value>
-      <webElementGuid>d77df0fe-4563-4931-923f-bb71cd02abe0</webElementGuid>
+      <webElementGuid>1b7d8e4a-137a-4892-924e-0b945899eb99</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;cdk-overlay-13&quot;)/div[@class=&quot;fw-select-popup ng-star-inserted&quot;]/div[@class=&quot;fw-select-option-container everest-scrollbar&quot;]/div[@class=&quot;fw-select-option ng-star-inserted&quot;]</value>
-      <webElementGuid>3a2f7c88-c6c2-45c6-bbb2-4df95f2ab7cf</webElementGuid>
+      <value>id(&quot;cdk-overlay-6&quot;)/div[@class=&quot;fw-select-popup ng-star-inserted&quot;]/div[@class=&quot;fw-select-option-container everest-scrollbar&quot;]/div[@class=&quot;fw-select-option ng-star-inserted&quot;]</value>
+      <webElementGuid>fd5a2c90-183b-4110-84da-cfe3edb7f45f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='cdk-overlay-13']/div/div/div[2]</value>
-      <webElementGuid>d2cacc15-d95b-4805-84eb-d2a7776c3ffd</webElementGuid>
+      <value>//div[@id='cdk-overlay-6']/div/div/div[2]</value>
+      <webElementGuid>52200d45-f999-40fa-9fbf-5f7627c9ed6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -68,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Does not Repeat'])[2]/following::div[1]</value>
-      <webElementGuid>3300ad42-96d9-4be1-8c6f-404449d2b41f</webElementGuid>
+      <webElementGuid>2cc134ec-e9b1-4bad-be43-ab488a8b5809</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -76,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Leave'])[1]/following::div[8]</value>
-      <webElementGuid>4a0e2eca-68cd-4c91-a8f8-68567718a535</webElementGuid>
+      <webElementGuid>70715c41-fda3-4201-b812-ab4134247341</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -84,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Weekly'])[1]/preceding::div[1]</value>
-      <webElementGuid>c5fa431d-95e5-4f6a-b1bd-cf8f7aa9f62e</webElementGuid>
+      <webElementGuid>85881806-14f9-4183-bd4a-a938ac399e6c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Monthly'])[1]/preceding::div[2]</value>
-      <webElementGuid>1202c52d-210a-4d52-aec0-8d240dc00d95</webElementGuid>
+      <webElementGuid>487e7682-73ae-4f45-8135-7d0198dcedef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Daily']/parent::*</value>
-      <webElementGuid>a1e60712-ebb3-4247-aae6-232dd2e6d582</webElementGuid>
+      <webElementGuid>cdfef370-fdd0-4778-9166-94df7334b0bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div[2]</value>
-      <webElementGuid>45672c62-0dc3-4cbb-b631-d82d9312cecb</webElementGuid>
+      <webElementGuid>abba9af9-7ad0-4dfa-946f-9bbadc7cbe67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,6 +117,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = ' Daily ' or . = ' Daily ')]</value>
-      <webElementGuid>9f9cc784-daf4-48e9-950b-d4063eb45d17</webElementGuid>
+      <webElementGuid>2d0c85be-34e1-4998-b1fd-4927bf66bac7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-13']/div/div/div[2]</value>
+      <webElementGuid>d2cacc15-d95b-4805-84eb-d2a7776c3ffd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

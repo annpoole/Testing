@@ -26,4 +26,39 @@
       <masked>false</masked>
       <name>Recurrence_endBydate</name>
    </variable>
+   <variable>
+      <defaultValue>'Mon, 06-Oct-2025'</defaultValue>
+      <description></description>
+      <id>dcf73175-31cf-47d3-9337-3d82cc9518ee</id>
+      <masked>false</masked>
+      <name>Start_date</name>
+   </variable>
+   <variable>
+      <defaultValue>'08:00 AM'</defaultValue>
+      <description></description>
+      <id>8c492c6f-4924-4109-b52e-bd913165efbd</id>
+      <masked>false</masked>
+      <name>Start_time</name>
+   </variable>
+   <variable>
+      <defaultValue>'Mon, 06-Oct-2025'</defaultValue>
+      <description></description>
+      <id>6f4d8360-ac7e-4661-b883-55e89e9cf12e</id>
+      <masked>false</masked>
+      <name>End_Date</name>
+   </variable>
+   <variable>
+      <defaultValue>'04:00 PM'</defaultValue>
+      <description></description>
+      <id>3cc9e7f9-165d-416e-a4c9-dc1ab5ff193e</id>
+      <masked>false</masked>
+      <name>End_Time</name>
+   </variable>
+   <variable>
+      <defaultValue>'5'</defaultValue>
+      <description></description>
+      <id>6f9c3feb-7809-47a9-94e7-e2f96287eebc</id>
+      <masked>false</masked>
+      <name>No_Of_days</name>
+   </variable>
 </TestCaseEntity>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Show employees in other departments_s_fe1fd5</name>
+   <tag></tag>
+   <elementGuidId>54247f01-0a85-432c-a4c4-67aa7cd3de1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>fw-search-text.ng-star-inserted > input.search-icon.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[13]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>fw-employee-filter-sort >> internal:role=textbox</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>563398d1-f5af-4b85-8fce-6003acd99b6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>a29ced30-5ec5-4736-b908-ca9f3a6791dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>search-icon ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>9538c7c8-6c03-4f20-b8ea-f69f07591022</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-schedule-detail-container[@class=&quot;ng-star-inserted&quot;]/spa-schedule-detail[@class=&quot;work-surface__content ng-star-inserted&quot;]/div[@class=&quot;scheduler-container&quot;]/fw-scheduler[@class=&quot;everest-scrollbar&quot;]/div[@class=&quot;horiz-scroll-container ng-star-inserted&quot;]/fw-employee-timeline-view[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;header-row&quot;]/fw-employee-filter-sort[@class=&quot;filter-sort&quot;]/fw-search-text[@class=&quot;ng-star-inserted&quot;]/input[@class=&quot;search-icon ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>7bcd8a18-4a34-4cfc-be9e-2ae19db13c3e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[13]</value>
+      <webElementGuid>8bf8d7c3-817e-469a-a434-d8a0e0da18c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fw-employee-filter-sort/fw-search-text/input</value>
+      <webElementGuid>73b0d0c8-49fc-4037-ab47-ca52cb631c31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>8a81c226-1de3-4209-9767-e5ba8a446954</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

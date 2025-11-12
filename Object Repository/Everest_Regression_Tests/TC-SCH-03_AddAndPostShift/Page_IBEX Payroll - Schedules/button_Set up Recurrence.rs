@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.u-flex.recurrence-details > button.action.ng-star-inserted</value>
+         <value>button.action.ng-star-inserted</value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8ace06d8-4386-44b6-813e-7cf5592ae4e9</webElementGuid>
+      <webElementGuid>92793cd5-2d92-48c8-9be5-c3e15b1b38d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>action ng-star-inserted</value>
-      <webElementGuid>160ca347-7770-451d-8dca-aca24b5398f9</webElementGuid>
+      <webElementGuid>d9def444-0061-43c9-8856-6ca1a20f2bee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,15 +45,15 @@
       <name>text</name>
       <type>Main</type>
       <value> Set up Recurrence </value>
-      <webElementGuid>a5ab2975-d642-4f62-bed2-2cbfd25a18ae</webElementGuid>
+      <webElementGuid>e1161ce1-7930-4718-a52e-466e048dd42c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;detailsTab&quot;)/div[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/fieldset[1]/div[@class=&quot;u-flex u-pos--relative&quot;]/div[1]/div[@class=&quot;u-flex recurrence-details&quot;]/button[@class=&quot;action ng-star-inserted&quot;]</value>
-      <webElementGuid>f832550b-ac0d-4d7d-a07f-9ee2c11cd092</webElementGuid>
+      <value>id(&quot;detailsTab&quot;)/div[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-pristine ng-valid ng-touched ng-submitted&quot;]/fieldset[1]/div[@class=&quot;u-flex u-pos--relative&quot;]/div[1]/div[@class=&quot;u-flex recurrence-details&quot;]/button[@class=&quot;action ng-star-inserted&quot;]</value>
+      <webElementGuid>5a1abe09-5899-472b-9fba-e5014bb957c6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='detailsTab']/div/form/fieldset/div[4]/div/div/button</value>
-      <webElementGuid>50c5fda0-f32b-4072-8c44-b109e26ad103</webElementGuid>
+      <webElementGuid>bf1df56c-0e4f-4d99-98be-2a5f0e193d56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='This shift does not repeat.'])[1]/following::button[1]</value>
-      <webElementGuid>d2bc3ff6-00a6-47f1-bea4-aa9ed60120cc</webElementGuid>
+      <webElementGuid>cc89d967-7dbb-4dcf-9006-757f5a7972e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Recurrence'])[1]/following::button[1]</value>
-      <webElementGuid>cd05fd1d-3fee-496e-96e5-73e0734d8bb8</webElementGuid>
+      <webElementGuid>0a508c06-1cb9-4b26-bc09-cb34dcc7301a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Shift Type'])[1]/preceding::button[1]</value>
-      <webElementGuid>1743c390-82b8-495c-9383-b572e70010c6</webElementGuid>
+      <webElementGuid>8c805ab5-3712-4fb6-bacf-d6d0371dcda9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Standard'])[1]/preceding::button[1]</value>
-      <webElementGuid>560c88d9-3ddb-4af5-bed7-17aa86c0c5c2</webElementGuid>
+      <webElementGuid>ee5e67bd-6583-41c8-a2cf-d544469b2bc5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Set up Recurrence']/parent::*</value>
-      <webElementGuid>69ab0c18-abf6-4957-8dab-fa22912e495c</webElementGuid>
+      <webElementGuid>ecb16417-18af-49f2-9b84-71b31b1fad6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div/button</value>
-      <webElementGuid>2d25af63-3311-43ba-9164-9b5e9c48b332</webElementGuid>
+      <webElementGuid>8bcb2eef-c011-4a40-957d-c4d5981e2708</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = ' Set up Recurrence ' or . = ' Set up Recurrence ')]</value>
-      <webElementGuid>0b17a074-406c-422e-9602-24ccbc9ea9c4</webElementGuid>
+      <webElementGuid>a0645fe2-624d-42cb-bf9f-11308b2e67f2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
