@@ -24,11 +24,20 @@ WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03
 WebUI.setText(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/input_Start Date_startDate'), 
     Start_date)
 
-WebUI.setText(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/input_Start Time_startTime'), 
+WebUI.sendKeys(findTestObject('TOR/TOR Request Submission/TOR-003_Invalid date range/Page_IBEX Payroll - Employee Portal - New T_ee1426/input_Start Date_startDate'), 
+    Keys.chord(Keys.ENTER, Keys.ESCAPE))
+
+WebUI.setText(findTestObject('Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/input_Start Time_startTime'), 
     Start_time)
+
+WebUI.sendKeys(findTestObject('Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/input_Start Time_startTime'), 
+    Keys.chord(Keys.ENTER, Keys.ESCAPE))
 
 WebUI.setText(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/input_End Date_endDate'), 
     End_Date)
+
+WebUI.sendKeys(findTestObject('TOR/TOR Request Submission/TOR-003_Invalid date range/Page_IBEX Payroll - Employee Portal - New T_ee1426/input_End Date_endDate'), 
+    Keys.chord(Keys.ENTER, Keys.ESCAPE))
 
 WebUI.setText(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/input_End Time_endTime'), 
     End_Time)
@@ -36,8 +45,12 @@ WebUI.setText(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-
 WebUI.sendKeys(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/input_End Time_endTime'), 
     Keys.chord(Keys.ENTER, Keys.ESCAPE))
 
+'press anywhere to remove the overlays'
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/span_Does not Repeat'))
 
+'some time not click the option or take time'
 WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/div_Daily'))
 
 WebUI.setText(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/input_Every_numberOfDays'), 
@@ -47,6 +60,7 @@ WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03
 
 WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/input_occurrences_endBy'))
 
+'to remove the dropdown option'
 WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/div_Leave_cdk-overlay-backdrop cdk-transpar_2727b2'))
 
 WebUI.setText(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/input_End By_endByDate'), 

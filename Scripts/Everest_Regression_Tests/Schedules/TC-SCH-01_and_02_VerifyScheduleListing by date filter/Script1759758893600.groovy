@@ -33,14 +33,14 @@ WebUI.setText(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-
     Schedule_StartDate)
 
 WebUI.sendKeys(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-002_VerifyScgeduleListing By Date filter/Page_IBEX Payroll - Schedules/input_navigate_before_date-toolbar__input i_9a347a'), 
-    Keys.chord(Keys.ENTER))
+    Keys.chord(Keys.ENTER, Keys.ESCAPE))
 
 WebUI.setText(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-002_VerifyScgeduleListing By Date filter/Page_IBEX Payroll - Schedules/input_Show employees in other departments_s_fe1fd5'), 
     Emplyoee)
 
 WebUI.sendKeys(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-002_VerifyScgeduleListing By Date filter/Page_IBEX Payroll - Schedules/input_Show employees in other departments_s_fe1fd5'), 
-    Keys.chord(Keys.ENTER))
+    Keys.chord(Keys.ENTER, Keys.ESCAPE))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-002_VerifyScgeduleListing By Date filter/Page_IBEX Payroll - Schedules/div_Abdul, Lindsay'), 
-    15)
+WebUI.verifyElementText(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-002_VerifyScgeduleListing By Date filter/Page_IBEX Payroll - Schedules/div_Abdul, Lindsay'), 
+    Emplyoee)
 
