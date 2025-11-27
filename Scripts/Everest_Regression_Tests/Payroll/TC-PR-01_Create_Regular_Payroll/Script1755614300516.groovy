@@ -43,7 +43,7 @@ for (int i = 0; i < rows.size(); i++) {
     String statusText = (cells[3]).getText().trim( // 4th column = Status
         )
 
-    WebUI.comment("Row $(i + 1): Pay Period='$payPeriodText', Status='$statusText'")
+
 
     if (payPeriodText.equalsIgnoreCase(targetPayPeriod)) {
         periodFound = true
