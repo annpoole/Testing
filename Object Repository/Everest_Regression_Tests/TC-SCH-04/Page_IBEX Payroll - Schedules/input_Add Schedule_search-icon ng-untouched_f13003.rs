@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Add Schedule_search-icon ng-untouched_f13003</name>
+   <tag></tag>
+   <elementGuidId>c33ca73e-73dd-4aa5-896d-75e38ad54b7e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.search-icon.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>spa-side-panel-schedule-listing fw-search-text >> internal:role=textbox</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>aefc7065-dcf9-48dd-83f6-baabf59aebda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>2eeebe48-2d53-46cc-8dd5-3520a55b1a81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>search-icon ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>ed5f82f1-23fd-407e-8a66-8ca467b88180</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-schedule-detail-container[@class=&quot;ng-star-inserted&quot;]/spa-schedule-side-panel[@class=&quot;ng-tns-c1448488808-14 ng-star-inserted&quot;]/div[@class=&quot;content-area ng-tns-c1448488808-14&quot;]/fw-tabs[@class=&quot;tabs ng-tns-c1448488808-14&quot;]/fw-tab[@class=&quot;schedule-list&quot;]/div[@class=&quot;pane&quot;]/spa-side-panel-schedule-listing[1]/form[@class=&quot;controls ng-valid ng-dirty ng-touched&quot;]/fw-search-text[@class=&quot;schedule-search&quot;]/input[@class=&quot;search-icon ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>515c16e1-5e71-44fa-804a-8dcd3106b346</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[2]</value>
+      <webElementGuid>bc3e1d4b-7b41-410e-88ec-0cba429d186f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fw-search-text/input</value>
+      <webElementGuid>a50f0fc6-641f-41b9-a5c0-ddb6320ff464</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>617e477f-d5d4-4633-b747-fe3f3abd6ec8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

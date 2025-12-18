@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-SCH-04a_AccessSchedulebySchedulesSlider</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8973f748-661e-49a0-a3cd-2b5d18fbf8d1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f6a5ab04-f17e-4e2c-b38f-1344b88d3b31</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9f026056-e9c1-49d2-9801-332a3bf97823</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c258be25-1749-4155-b036-e9f6339a9867</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>27ec1fd0-f15a-4ec8-b21f-6a42d37441e3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'29-Dec-2024'</defaultValue>
+      <description></description>
+      <id>f6a5ab04-f17e-4e2c-b38f-1344b88d3b31</id>
+      <masked>false</masked>
+      <name>ScheduleFilterStartDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'11-Jan-2025'</defaultValue>
+      <description></description>
+      <id>9f026056-e9c1-49d2-9801-332a3bf97823</id>
+      <masked>false</masked>
+      <name>ScheduleFilterEndDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'29-Dec-2024 - 11-Jan-2025'</defaultValue>
+      <description></description>
+      <id>c258be25-1749-4155-b036-e9f6339a9867</id>
+      <masked>false</masked>
+      <name>SchedulePeriod</name>
+   </variable>
+   <variable>
+      <defaultValue>'Amber Trail'</defaultValue>
+      <description></description>
+      <id>27ec1fd0-f15a-4ec8-b21f-6a42d37441e3</id>
+      <masked>false</masked>
+      <name>Department</name>
+   </variable>
+</TestCaseEntity>

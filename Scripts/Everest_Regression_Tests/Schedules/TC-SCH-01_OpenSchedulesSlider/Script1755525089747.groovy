@@ -19,6 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-01_OpenSchedulesSlider/Page_IBEX Payroll - Home/a_Schedules'))
 
+WebUI.waitForElementPresent(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-01_OpenSchedulesSlider/Page_IBEX Payroll - Schedules/i_toc'), 
+    30)
+
 WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-01_OpenSchedulesSlider/Page_IBEX Payroll - Schedules/i_toc'))
 
 WebUI.waitForElementPresent(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-01_OpenSchedulesSlider/Page_IBEX Payroll - Schedules/spa-side-panel-schedule-listing_Schedules A_80c6b6'), 

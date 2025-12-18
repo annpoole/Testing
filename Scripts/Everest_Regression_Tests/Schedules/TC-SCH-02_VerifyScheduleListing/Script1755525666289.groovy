@@ -35,17 +35,17 @@ WebUI.setText(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-
     Schedule_Department)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/a_10-Mar-2024 - 23-Mar-2024'), 
-    '10-Mar-2024 - 23-Mar-2024')
+    '29-Dec-2024 - 11-Jan-2025')
 
 WebUI.sendKeys(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/input_Add Schedule_search-icon ng-untouched_f13003'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/div_Bravo House'), 
+WebUI.verifyElementText(findTestObject('Everest_Regression_Tests/TC-SCH-02_VerifyScheduleListing/Page_IBEX Payroll - Schedules/div_Amber Trail'), 
     Schedule_Search)
 
 WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/i_expand_more'))
 
-WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/a_10-Mar-2024 - 23-Mar-2024'))
+WebUI.click(findTestObject('Everest_Regression_Tests/TC-SCH-02_VerifyScheduleListing/Page_IBEX Payroll - Schedules/a_29-Dec-2024 - 11-Jan-2025'))
 
 WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/i_toc'))
 

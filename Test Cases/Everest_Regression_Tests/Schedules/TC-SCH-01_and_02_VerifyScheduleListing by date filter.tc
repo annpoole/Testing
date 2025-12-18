@@ -25,24 +25,24 @@
       <variableId>90763b99-b9dd-4884-88bb-dd89ef215a48</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>'2025-10-06'</defaultValue>
+      <defaultValue>'2024-12-29'</defaultValue>
       <description></description>
       <id>c6401623-cbd0-4545-b712-5c982aeabe89</id>
       <masked>false</masked>
       <name>Schedule_StartDate</name>
    </variable>
    <variable>
-      <defaultValue>'Anemone House'</defaultValue>
+      <defaultValue>'Amber Trail'</defaultValue>
       <description></description>
       <id>23d257fc-5c75-43db-ba3a-2cf1d3f8a352</id>
       <masked>false</masked>
       <name>Schedule_Department</name>
    </variable>
    <variable>
-      <defaultValue>'Abdul, Lindsay'</defaultValue>
+      <defaultValue>'Jordan, Barrett'</defaultValue>
       <description></description>
       <id>90763b99-b9dd-4884-88bb-dd89ef215a48</id>
       <masked>false</masked>
-      <name>Emplyoee</name>
+      <name>Employee</name>
    </variable>
 </TestCaseEntity>

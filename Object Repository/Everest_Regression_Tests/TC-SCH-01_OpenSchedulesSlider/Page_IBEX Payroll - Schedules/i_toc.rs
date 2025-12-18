@@ -6,12 +6,11 @@
    <elementGuidId>9d590c58-6a1f-43d3-9f69-ef15f5a4e151</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='View Options'])[2]/following::i[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>a57bc370-a145-49db-9423-c4d4fb069c21</webElementGuid>
+      <webElementGuid>cfc0e01f-db6c-49cd-9aca-b1aaa302e9cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +36,7 @@
       <name>class</name>
       <type>Main</type>
       <value>material-icons ng-tns-c2674595248-13</value>
-      <webElementGuid>178aff5b-8a99-41fa-b75e-0ac45b81c4a0</webElementGuid>
+      <webElementGuid>f5ad52ff-8c35-4664-855c-945a0c846dea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +44,7 @@
       <name>text</name>
       <type>Main</type>
       <value>toc</value>
-      <webElementGuid>915e2c45-5e01-41d3-9207-b298ad3bd9e6</webElementGuid>
+      <webElementGuid>79b72961-f6e6-4a26-87d5-f0b2f63b548d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +52,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-schedule-detail-container[@class=&quot;ng-star-inserted&quot;]/spa-schedule-side-panel[@class=&quot;ng-tns-c2674595248-13 ng-star-inserted&quot;]/div[@class=&quot;icons-tab--wrapper ng-tns-c2674595248-13&quot;]/div[@class=&quot;icons-tab ng-tns-c2674595248-13 ng-trigger ng-trigger-showLabels&quot;]/button[@class=&quot;ng-tns-c2674595248-13&quot;]/i[@class=&quot;material-icons ng-tns-c2674595248-13&quot;]</value>
-      <webElementGuid>b0f79c1d-79d6-4099-b543-06bc1aa71dd3</webElementGuid>
+      <webElementGuid>08382eba-ad6f-46f5-a7f0-99344023d1c6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +60,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View Options'])[2]/following::i[1]</value>
-      <webElementGuid>2efd4038-3609-441a-bace-a6f15674cefc</webElementGuid>
+      <webElementGuid>6fc10d20-eec8-4dca-814f-43fc79078f47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='settings'])[1]/following::i[1]</value>
-      <webElementGuid>05f2d50f-956c-4ee8-84f3-b7e7ce3c0c71</webElementGuid>
+      <webElementGuid>ae97842a-19e3-43c4-9ac9-a7468c721f01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedule Listing'])[1]/preceding::i[1]</value>
-      <webElementGuid>814a035e-66b1-40f4-b3ef-d87337dfa1ca</webElementGuid>
+      <webElementGuid>b3973aff-9587-4026-b88e-ce8595ffa8ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedules'])[2]/preceding::i[1]</value>
-      <webElementGuid>7b7f93e9-10b8-4a78-8645-7c09cb5dbd47</webElementGuid>
+      <webElementGuid>1a8c2ca5-f7f0-47bd-bb71-c8f37d1652fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='toc']/parent::*</value>
-      <webElementGuid>5559b83d-f03a-4133-a4cc-2054641b8ee7</webElementGuid>
+      <webElementGuid>debb6b0c-e531-4ff8-84ea-b505d0ac85c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/button[3]/i</value>
-      <webElementGuid>cca59c5b-1d99-4e7b-ab15-bacd5276e1fd</webElementGuid>
+      <webElementGuid>7f0bc1d5-444e-4104-a0c0-9d6e781e17c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +108,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//i[(text() = 'toc' or . = 'toc')]</value>
-      <webElementGuid>34ae93b7-7384-4323-a137-3693861e1c1f</webElementGuid>
+      <webElementGuid>0bb67a8b-187f-4d3a-99e5-db2bf067fe67</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

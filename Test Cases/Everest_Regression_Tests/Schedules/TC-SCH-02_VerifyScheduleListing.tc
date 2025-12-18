@@ -10,15 +10,27 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>a50e3a95-c0f4-4742-b582-8c7533181276</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c6401623-cbd0-4545-b712-5c982aeabe89</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>23d257fc-5c75-43db-ba3a-2cf1d3f8a352</variableId>
+   </variableLinks>
    <variable>
-      <defaultValue>'10-Mar-2024'</defaultValue>
+      <defaultValue>'29-Dec-2024'</defaultValue>
       <description></description>
       <id>c6401623-cbd0-4545-b712-5c982aeabe89</id>
       <masked>false</masked>
       <name>Schedule_StartDate</name>
    </variable>
    <variable>
-      <defaultValue>'Bravo House'</defaultValue>
+      <defaultValue>'Amber Trail'</defaultValue>
       <description></description>
       <id>23d257fc-5c75-43db-ba3a-2cf1d3f8a352</id>
       <masked>false</masked>

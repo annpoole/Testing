@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-SCH-04_AccessSchedulebySchedulesSlider</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b832baf0-1a71-4006-b440-3aac4ffb705b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>05754239-4642-44e1-8080-ee7c9eafc3ab</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5b6af505-3d25-4951-beac-aeb76cb80b94</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2cef0fff-1c6d-4c05-b908-0451865f7927</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'29-Dec-2024'</defaultValue>
+      <description></description>
+      <id>05754239-4642-44e1-8080-ee7c9eafc3ab</id>
+      <masked>false</masked>
+      <name>ScheduleFilterStartDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'11-Jan-2026'</defaultValue>
+      <description></description>
+      <id>5b6af505-3d25-4951-beac-aeb76cb80b94</id>
+      <masked>false</masked>
+      <name>ScheduleFilterEndDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'29-Dec-2024 - 11-Jan-2025'</defaultValue>
+      <description></description>
+      <id>2cef0fff-1c6d-4c05-b908-0451865f7927</id>
+      <masked>false</masked>
+      <name>SchedulePeriod</name>
+   </variable>
+</TestCaseEntity>

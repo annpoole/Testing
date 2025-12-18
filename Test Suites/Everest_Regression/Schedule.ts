@@ -17,79 +17,49 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Everest_Regression_Tests/Home/TC-Home-01</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3c89905a-8593-4c1e-b5ac-432b80d052b3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>62d61f89-50de-4e60-94ac-be135de3e718</variableId>
+      </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>fa9276fe-6c6b-45f5-8952-443ea5db16e9</guid>
+      <guid>71aef2c5-5ba7-4288-8496-442eb1a60f4e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Everest_Regression_Tests/Schedules/TC-SCH-01_and_02_VerifyScheduleListing by date filter</testCaseId>
+      <testCaseId>Test Cases/Everest_Regression_Tests/Schedules/TC-SCH-01_OpenSchedulesSlider</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>83d74fcf-6973-4588-aade-fe7bcf8c456d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Everest_Regression_Tests/Schedules/TC-SCH-04_AccessSchedulebySchedulesSlider</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>c6401623-cbd0-4545-b712-5c982aeabe89</variableId>
+         <variableId>05754239-4642-44e1-8080-ee7c9eafc3ab</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>23d257fc-5c75-43db-ba3a-2cf1d3f8a352</variableId>
+         <variableId>5b6af505-3d25-4951-beac-aeb76cb80b94</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>90763b99-b9dd-4884-88bb-dd89ef215a48</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>de5e9251-82d2-44a0-90fc-a4b53257cf13</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Everest_Regression_Tests/Schedules/TC-SCH-03_AddAndPostShift</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>3476c993-6954-4c9a-a07f-05e8ded4bec0</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>75386c43-a762-4542-ba9f-cd1653ec76d9</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>dcf73175-31cf-47d3-9337-3d82cc9518ee</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>8c492c6f-4924-4109-b52e-bd913165efbd</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>6f4d8360-ac7e-4661-b883-55e89e9cf12e</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>3cc9e7f9-165d-416e-a4c9-dc1ab5ff193e</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>6f9c3feb-7809-47a9-94e7-e2f96287eebc</variableId>
+         <variableId>2cef0fff-1c6d-4c05-b908-0451865f7927</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

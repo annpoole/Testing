@@ -17,6 +17,18 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Everest_Regression_Tests/Home/TC-Home-01</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3c89905a-8593-4c1e-b5ac-432b80d052b3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>62d61f89-50de-4e60-94ac-be135de3e718</variableId>
+      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>c8c8828d-9058-416b-8ec4-7f3e33637515</guid>

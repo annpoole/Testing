@@ -17,61 +17,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.rightClick(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/div_(0.00, 0.00)_workblock-container ng-sta_4f922f'))
+WebUI.callTestCase(findTestCase('Everest_Regression_Tests/Home/TC-Home-01'), [('Username') : 'uat.dstewart', ('Password') : 'Password1'], 
+    FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/li_New Shift'))
-
-WebUI.setText(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/input_Start Date_startDate'), 
-    Start_date)
-
-WebUI.sendKeys(findTestObject('TOR/TOR Request Submission/TOR-003_Invalid date range/Page_IBEX Payroll - Employee Portal - New T_ee1426/input_Start Date_startDate'), 
-    Keys.chord(Keys.ENTER, Keys.ESCAPE))
-
-WebUI.setText(findTestObject('Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/input_Start Time_startTime'), 
-    Start_time)
-
-WebUI.sendKeys(findTestObject('Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/input_Start Time_startTime'), 
-    Keys.chord(Keys.ENTER, Keys.ESCAPE))
-
-WebUI.setText(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/input_End Date_endDate'), 
-    End_Date)
-
-WebUI.sendKeys(findTestObject('TOR/TOR Request Submission/TOR-003_Invalid date range/Page_IBEX Payroll - Employee Portal - New T_ee1426/input_End Date_endDate'), 
-    Keys.chord(Keys.ENTER, Keys.ESCAPE))
-
-WebUI.setText(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/input_End Time_endTime'), 
-    End_Time)
-
-WebUI.sendKeys(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/input_End Time_endTime'), 
-    Keys.chord(Keys.ENTER, Keys.ESCAPE))
-
-'press anywhere to remove the overlays'
-WebUI.delay(5)
-
-WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/span_Does not Repeat'))
-
-'some time not click the option or take time'
-WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/div_Daily'))
-
-WebUI.setText(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/input_Every_numberOfDays'), 
-    No_Of_days)
-
-WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/div_End By'))
-
-WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/input_occurrences_endBy'))
-
-'to remove the dropdown option'
-WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/div_Leave_cdk-overlay-backdrop cdk-transpar_2727b2'))
-
-WebUI.setText(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/input_End By_endByDate'), 
-    'Mon, 17-Oct-2025')
-
-WebUI.sendKeys(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/input_End By_endByDate'), 
-    Keys.chord(Keys.ENTER, Keys.ESCAPE))
-
-WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/button_Save'))
-
-WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/button_Post'))
-
-WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-03_AddAndPostShift/Page_IBEX Payroll - Schedules/button_Post_1'))
+WebUI.callTestCase(findTestCase('Everest_Regression_Tests/Schedules/TC-SCH-01_and_02_VerifyScheduleListing by date filter'), 
+    [('Schedule_StartDate') : '2024-12-29', ('Schedule_Department') : 'Amber Trail', ('Employee') : 'Jordan, Barrett'], 
+    FailureHandling.STOP_ON_FAILURE)
 

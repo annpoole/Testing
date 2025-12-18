@@ -6,12 +6,12 @@
    <elementGuidId>56da7f5b-574a-4833-9492-0adef5ece3ea</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>i.material-icons.ng-tns-c2674595248-13</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::i[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.material-icons.ng-tns-c1448488808-14</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>8d3fb19d-6d98-499e-8066-ac01cfefd142</webElementGuid>
+      <webElementGuid>7ec71435-f058-4e9c-854b-09c855151349</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>material-icons ng-tns-c2674595248-13</value>
-      <webElementGuid>cac81eda-88d1-4729-8df9-d0aa479b46bf</webElementGuid>
+      <value>material-icons ng-tns-c1448488808-14</value>
+      <webElementGuid>92334cc0-ade1-4243-831e-4eba94c82fd9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,15 +45,15 @@
       <name>text</name>
       <type>Main</type>
       <value>clear</value>
-      <webElementGuid>c7102519-59d3-4401-8a55-cccb4fcda998</webElementGuid>
+      <webElementGuid>79d3ec53-1c0c-449b-88a8-4c7a1a835672</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-schedule-detail-container[@class=&quot;ng-star-inserted&quot;]/spa-schedule-side-panel[@class=&quot;ng-tns-c2674595248-13 ng-star-inserted&quot;]/div[@class=&quot;content-area ng-tns-c2674595248-13&quot;]/button[@class=&quot;side-panel-close detail-panel__toggle ng-tns-c2674595248-13&quot;]/i[@class=&quot;material-icons ng-tns-c2674595248-13&quot;]</value>
-      <webElementGuid>f4d54d2a-674c-470b-9ddf-58b75d0db96c</webElementGuid>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-schedule-detail-container[@class=&quot;ng-star-inserted&quot;]/spa-schedule-side-panel[@class=&quot;ng-tns-c1448488808-14 ng-star-inserted&quot;]/div[@class=&quot;content-area ng-tns-c1448488808-14&quot;]/button[@class=&quot;side-panel-close detail-panel__toggle ng-tns-c1448488808-14&quot;]/i[@class=&quot;material-icons ng-tns-c1448488808-14&quot;]</value>
+      <webElementGuid>4b0928b9-0a27-4b6a-bfdf-062b5d89c356</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::i[1]</value>
-      <webElementGuid>6a867aca-424b-425c-83d3-24cdfcd7fe5d</webElementGuid>
+      <webElementGuid>175626c7-f84c-4f7b-83c0-dcdd516c7a38</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/following::i[1]</value>
-      <webElementGuid>c419637c-01bd-4f33-975e-af9078771158</webElementGuid>
+      <webElementGuid>4388fe93-35ac-4817-ac32-5e55dac983d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='filter_list'])[1]/preceding::i[1]</value>
-      <webElementGuid>707cdef6-2b3d-45cf-b048-bcb5d0b8da2f</webElementGuid>
+      <webElementGuid>3d112fe1-ab23-4607-a9f0-dd820bdd530a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='check_circle'])[1]/preceding::i[2]</value>
-      <webElementGuid>935b847a-61f7-4ee8-962e-5a18e5e4eac5</webElementGuid>
+      <webElementGuid>6b0d20f3-58f5-483b-82a2-231280c52511</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/button/i</value>
-      <webElementGuid>0ff05990-7151-4d04-bfcf-b4f5613ed27c</webElementGuid>
+      <webElementGuid>752692fd-f376-4a91-83ae-9810336ccda9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//i[(text() = 'clear' or . = 'clear')]</value>
-      <webElementGuid>81f32d86-53fc-46fa-8e67-b13c3bb46ada</webElementGuid>
+      <webElementGuid>e0b72bc4-3c6f-44ef-b8ab-3219cd2aea1f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

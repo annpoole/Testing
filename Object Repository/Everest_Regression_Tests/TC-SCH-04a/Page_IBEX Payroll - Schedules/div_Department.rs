@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Department</name>
+   <tag></tag>
+   <elementGuidId>39cd97b0-4dad-48ab-9184-ec360d7fedad</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.department-name</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '${Department}' or . = '${Department}')]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='expand_more'])[2]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Amber Trail&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8f4966e0-6840-4235-b6c0-53d2c7700b5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>department-name</value>
+      <webElementGuid>d96f8be2-c083-4aaa-8f47-584395cef2ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${Department}</value>
+      <webElementGuid>dc84a339-1028-46f7-8f97-593a2f8c7d06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-schedule-detail-container[@class=&quot;ng-star-inserted&quot;]/spa-schedule-side-panel[@class=&quot;ng-tns-c1448488808-14 ng-star-inserted&quot;]/div[@class=&quot;content-area ng-tns-c1448488808-14&quot;]/fw-tabs[@class=&quot;tabs ng-tns-c1448488808-14&quot;]/fw-tab[@class=&quot;schedule-list&quot;]/div[@class=&quot;pane&quot;]/spa-side-panel-schedule-listing[1]/ul[@class=&quot;schedule-list ng-star-inserted&quot;]/li[@class=&quot;ng-star-inserted&quot;]/h5[@class=&quot;department-heading&quot;]/div[@class=&quot;department-name&quot;]</value>
+      <webElementGuid>adc4e0a3-cae9-470d-bd2d-7ac67ed41883</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='expand_more'])[2]/following::div[1]</value>
+      <webElementGuid>82ca70a3-fa30-4478-88d2-ef13c1fde5de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collapse All'])[1]/following::div[1]</value>
+      <webElementGuid>6dc62bbc-042a-4f52-b79d-d6278e7deb0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='clear'])[2]/preceding::div[1]</value>
+      <webElementGuid>6fd9143e-8c4a-4f10-a118-5d087a4ec0f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Schedule'])[2]/preceding::div[1]</value>
+      <webElementGuid>ce26ea21-c773-4be4-ad74-f6c90400093d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='${Department}']/parent::*</value>
+      <webElementGuid>e1734aff-d76c-4a91-97d9-295b9c6f6227</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h5/div</value>
+      <webElementGuid>2272526a-fd05-4fc8-89ea-cd68c7f37dd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '${Department}' or . = '${Department}')]</value>
+      <webElementGuid>7f92f586-ad14-4002-becd-b91a708c921a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

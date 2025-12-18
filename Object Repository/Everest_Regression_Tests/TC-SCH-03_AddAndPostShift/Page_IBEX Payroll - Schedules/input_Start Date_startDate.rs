@@ -11,7 +11,8 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@id='startDate'])[2]</value>
+         <value>(//input[@id='startDate'])[2]&#xd;
+</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +30,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9b92d52c-6c17-43ca-ac92-6ca5e4e75464</webElementGuid>
+      <webElementGuid>6d45fbe1-a3fd-4984-9699-625249950599</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>1c564a1f-7ce2-4664-af40-7336bfcd7413</webElementGuid>
+      <webElementGuid>b43b682e-ef97-4f64-bf91-b2c813702aa7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>startDate</value>
-      <webElementGuid>f124f464-bfe6-42d6-8f0c-ca174ac93a44</webElementGuid>
+      <webElementGuid>d21fc3aa-c89f-48bc-8a1b-f9e3961e3817</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +54,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>Start</value>
-      <webElementGuid>5140e847-7d4f-4579-b882-a32ca0ec83e3</webElementGuid>
+      <webElementGuid>9a1557b2-920d-427e-b05c-c73f137b235c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input-text ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>e7f02dfa-455e-488b-af9c-1cb4e6991819</webElementGuid>
+      <webElementGuid>de34f5ab-8d64-40a2-8dff-c433bdec19b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +70,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>2a5327ca-9c6d-4a60-b121-58e1411ae81f</webElementGuid>
+      <webElementGuid>c3c8078e-bb4a-41af-9912-1ad0c1d3c19c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;detailsTab&quot;)/div[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-pristine ng-valid ng-touched&quot;]/fieldset[1]/div[@class=&quot;u-flex form-row&quot;]/div[@class=&quot;form-row-item date&quot;]/input[@id=&quot;startDate&quot;]</value>
-      <webElementGuid>40311e63-09c3-4505-9bd2-33f24554a0eb</webElementGuid>
+      <webElementGuid>7b87b6ac-ea15-45d6-9ace-623d5fc63a0b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@id='startDate'])[2]</value>
-      <webElementGuid>e5691a2e-7926-4b88-b007-e8cb07a20bfa</webElementGuid>
+      <webElementGuid>e070640c-1a5c-481c-9284-3e294a07cc8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='detailsTab']/div/form/fieldset/div/div/input</value>
-      <webElementGuid>ff1f8950-2f01-492f-b977-9eea5212c842</webElementGuid>
+      <webElementGuid>129902ab-1a3f-4e00-abf0-05a610ef98b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/fieldset/div/div/input</value>
-      <webElementGuid>f7d76fa0-e78d-4192-9d2a-77a07f848522</webElementGuid>
+      <webElementGuid>465160e5-c5c3-4fe0-81a8-83ef28ca1e01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'startDate']</value>
-      <webElementGuid>d7e85b6e-d766-41c3-804a-c7a74a0126ec</webElementGuid>
+      <webElementGuid>1837b1ad-0f24-4147-9e76-0840e1ea6fd8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

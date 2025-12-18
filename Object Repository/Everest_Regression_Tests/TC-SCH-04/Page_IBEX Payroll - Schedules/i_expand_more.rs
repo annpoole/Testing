@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_expand_more</name>
+   <tag></tag>
+   <elementGuidId>48803558-87b9-46ff-b6fc-7c4e14c0e8ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Administration'])[1]/following::i[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;expand_more Amber Trail&quot;i] >> i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>32f796b8-6406-4ca9-ab5f-e5c23012e9c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons</value>
+      <webElementGuid>deeff381-97d5-4ed7-bbed-c6dee09f8d82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>expand_more</value>
+      <webElementGuid>557b80ea-899e-49d5-a76a-741275058a26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-schedule-detail-container[@class=&quot;ng-star-inserted&quot;]/spa-schedule-side-panel[@class=&quot;ng-tns-c1448488808-14 ng-star-inserted&quot;]/div[@class=&quot;content-area ng-tns-c1448488808-14&quot;]/fw-tabs[@class=&quot;tabs ng-tns-c1448488808-14&quot;]/fw-tab[@class=&quot;schedule-list&quot;]/div[@class=&quot;pane&quot;]/spa-side-panel-schedule-listing[1]/ul[@class=&quot;schedule-list ng-star-inserted&quot;]/li[@class=&quot;ng-star-inserted&quot;]/h5[@class=&quot;department-heading&quot;]/i[@class=&quot;material-icons&quot;]</value>
+      <webElementGuid>99eca8ca-6325-46ca-9035-d47f08182fff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administration'])[1]/following::i[1]</value>
+      <webElementGuid>44cacb4d-8bf2-464d-9771-bb91922acade</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='expand_more'])[2]/following::i[1]</value>
+      <webElementGuid>947f1b61-12a8-494c-b0d5-3391f5de57f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amber Trail'])[1]/preceding::i[1]</value>
+      <webElementGuid>f94bf844-5b2c-4e2c-9da7-9e2bb6e14ffd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='expand_more'])[4]/preceding::i[1]</value>
+      <webElementGuid>f1f5492f-fa31-40b8-8c17-932de8a70eae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/h5/i</value>
+      <webElementGuid>335bbcdb-1290-4c87-9099-93c947fe12e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'expand_more' or . = 'expand_more')]</value>
+      <webElementGuid>7406977b-d460-4cdc-90e4-57aa205a5b48</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

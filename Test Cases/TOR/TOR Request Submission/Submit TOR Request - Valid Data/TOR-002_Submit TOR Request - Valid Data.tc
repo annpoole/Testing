@@ -25,14 +25,14 @@
       <variableId>dc42e311-351e-4c68-929c-2fa9cc34a5fe</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>'10-March-2024'</defaultValue>
+      <defaultValue>'03-June-2024'</defaultValue>
       <description></description>
       <id>d537bbd5-7d65-4217-b063-ba829ac18d49</id>
       <masked>false</masked>
       <name>TORStartDate</name>
    </variable>
    <variable>
-      <defaultValue>'11-March-2024'</defaultValue>
+      <defaultValue>'03-June-2024'</defaultValue>
       <description></description>
       <id>9c6d101f-fc32-48b1-9c52-7b5d36b22128</id>
       <masked>false</masked>
