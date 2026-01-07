@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin account exists with full access</description>
+   <name>TC-01 Login and Switch to QA Test Org</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>92d0796e-45f3-4a71-8ad9-2583ef649d4c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8d33e94f-8a24-4bd1-b03c-83ac6df0e5f4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a274c263-6c53-4b39-a9a7-b4b3e281484c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'uat.dstewart'</defaultValue>
+      <description></description>
+      <id>8d33e94f-8a24-4bd1-b03c-83ac6df0e5f4</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Password1'</defaultValue>
+      <description></description>
+      <id>a274c263-6c53-4b39-a9a7-b4b3e281484c</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

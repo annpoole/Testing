@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>20392fa7-e71a-4976-a764-ef4f41032917</webElementGuid>
+      <webElementGuid>7c31f2ba-616b-4665-9c9f-f752ab4b9bd8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>u-flex u-flex--align-center</value>
-      <webElementGuid>aa5fefb6-d120-4d9f-9c32-dfc683bd606a</webElementGuid>
+      <webElementGuid>ea627e88-048f-41b0-b746-1e7062e57a3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Daily Approvalnavigate_before 11 Feb - 24 Feb, 2024 todaynavigate_nextAuto CalcrefreshForce Reload AllsettingsConfiguration</value>
-      <webElementGuid>fbc166f9-9242-4008-9e1e-fc3195087180</webElementGuid>
+      <webElementGuid>55ff2eed-b89e-4cc6-8b0d-7cc123a17d37</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-daily-approvals[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;work-surface&quot;]/div[@class=&quot;work-surface__content&quot;]/div[@class=&quot;u-m--half ng-star-inserted&quot;]/div[@class=&quot;u-flex u-flex--align-center&quot;]</value>
-      <webElementGuid>d069ea30-fa84-4e83-8962-1a819392e53f</webElementGuid>
+      <webElementGuid>807f3c4c-1ce4-4ff9-ae93-a6af293d972c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[1]/following::div[3]</value>
-      <webElementGuid>e9f2fe6a-38de-4945-8c32-f8b3f95390f6</webElementGuid>
+      <webElementGuid>f3688188-beb6-4fb0-921e-a7e53be90988</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Last name first (Price, Emma)'])[1]/following::div[3]</value>
-      <webElementGuid>278c2077-39f7-457d-8809-cdeb46be1f7e</webElementGuid>
+      <webElementGuid>108fa34a-acea-403f-8db8-7ec74a44aadd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//spa-daily-approvals/div/div/div/div</value>
-      <webElementGuid>adda6bab-f06a-49fa-8576-0d49d29a398b</webElementGuid>
+      <webElementGuid>3394d54e-a101-4abc-b7b1-c2f3248aa1e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Daily Approvalnavigate_before 11 Feb - 24 Feb, 2024 todaynavigate_nextAuto CalcrefreshForce Reload AllsettingsConfiguration' or . = 'Daily Approvalnavigate_before 11 Feb - 24 Feb, 2024 todaynavigate_nextAuto CalcrefreshForce Reload AllsettingsConfiguration')]</value>
-      <webElementGuid>ca04f2cc-38b2-4f09-8a83-1d4fb39a4d21</webElementGuid>
+      <webElementGuid>e82e6672-665f-45b1-a9a4-5471077c9aa8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

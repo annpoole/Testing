@@ -6,12 +6,12 @@
    <elementGuidId>60f0ee89-6be5-4ccd-bc0f-4b898297ddfc</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input.search-icon.ng-untouched.ng-pristine.ng-valid</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(//input[@type='text'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.search-icon.ng-untouched.ng-pristine.ng-valid</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>aefc7065-dcf9-48dd-83f6-baabf59aebda</webElementGuid>
+      <webElementGuid>b647261a-61dd-4d31-a40d-a0536f5a7323</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>2eeebe48-2d53-46cc-8dd5-3520a55b1a81</webElementGuid>
+      <webElementGuid>e6e949d7-ae42-4b43-9611-4263643fe966</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>search-icon ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>ed5f82f1-23fd-407e-8a66-8ca467b88180</webElementGuid>
+      <webElementGuid>3e9a92a1-0ec5-4930-9746-86ff027a9e84</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-schedule-detail-container[@class=&quot;ng-star-inserted&quot;]/spa-schedule-side-panel[@class=&quot;ng-tns-c1448488808-14 ng-star-inserted&quot;]/div[@class=&quot;content-area ng-tns-c1448488808-14&quot;]/fw-tabs[@class=&quot;tabs ng-tns-c1448488808-14&quot;]/fw-tab[@class=&quot;schedule-list&quot;]/div[@class=&quot;pane&quot;]/spa-side-panel-schedule-listing[1]/form[@class=&quot;controls ng-valid ng-dirty ng-touched&quot;]/fw-search-text[@class=&quot;schedule-search&quot;]/input[@class=&quot;search-icon ng-untouched ng-pristine ng-valid&quot;]</value>
-      <webElementGuid>515c16e1-5e71-44fa-804a-8dcd3106b346</webElementGuid>
+      <webElementGuid>99ccfb6b-8f2a-4e75-848e-58038fc3f905</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@type='text'])[2]</value>
-      <webElementGuid>bc3e1d4b-7b41-410e-88ec-0cba429d186f</webElementGuid>
+      <webElementGuid>72b950ad-422e-4d5b-9371-ccadd6e82aa6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//fw-search-text/input</value>
-      <webElementGuid>a50f0fc6-641f-41b9-a5c0-ddb6320ff464</webElementGuid>
+      <webElementGuid>f8f84bb2-ad73-4b2f-8eb6-7cb144a5ae56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,6 +77,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text']</value>
-      <webElementGuid>617e477f-d5d4-4633-b747-fe3f3abd6ec8</webElementGuid>
+      <webElementGuid>2653fd93-f15f-41cb-acdd-5b6ba47323ca</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

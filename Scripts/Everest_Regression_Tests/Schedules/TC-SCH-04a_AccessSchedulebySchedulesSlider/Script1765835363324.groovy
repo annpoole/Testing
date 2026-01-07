@@ -17,41 +17,42 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Everest_Regression_Tests/Home/TC-Home-01'), [('Username') : 'uat.dstewart', ('Password') : 'Password1'], 
-    FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('Everest_Regression_Tests/Schedules/TC-SCH-01_OpenSchedulesSlider'), [:], FailureHandling.STOP_ON_FAILURE)
-
+'Set Schedule Listing filter to start date defined in variable or if using Test Suite: data defined in test data file "Test Data TC04a AccessSchedulebySchedulesSlider Period and Department".'
 WebUI.setText(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-04a/Page_IBEX Payroll - Schedules/input_Add Schedule_startDate'), 
     ScheduleFilterStartDate)
 
 WebUI.sendKeys(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-04a/Page_IBEX Payroll - Schedules/input_Add Schedule_startDate'), 
     Keys.chord(Keys.ENTER, Keys.ESCAPE))
 
+'Set Schedule Listing filter to end date defined in variable or if using Test Suite: data defined in test data file "Test Data TC04a AccessSchedulebySchedulesSlider Period and Department".'
 WebUI.setText(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-04a/Page_IBEX Payroll - Schedules/input_Add Schedule_endDate'), 
     ScheduleFilterEndDate)
 
 WebUI.sendKeys(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-04a/Page_IBEX Payroll - Schedules/input_Add Schedule_endDate'), 
     Keys.chord(Keys.ENTER, Keys.ESCAPE))
 
+'Set Schedule Listing filter to Department defined in variable or if using Test Suite: data defined in test data file "Test Data TC04a AccessSchedulebySchedulesSlider Period and Department".'
 WebUI.setText(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-04a/Page_IBEX Payroll - Schedules/input_Add Schedule_search-icon ng-untouched_f13003'), 
     Department)
 
 WebUI.sendKeys(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-04a/Page_IBEX Payroll - Schedules/input_Add Schedule_search-icon ng-untouched_f13003'), 
     Keys.chord(Keys.ENTER, Keys.ESCAPE))
 
-WebUI.verifyElementPresent(findTestObject('Everest_Regression_Tests/TC-SCH-04a/Page_IBEX Payroll - Schedules/div_Department', 
-        [(Department) : Department]), 30)
+'Verify the Schedule Listing is filtered to the test department.'
+WebUI.verifyTextPresent(Department, false)
 
-WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-04a/Page_IBEX Payroll - Schedules/i_expand_more_1'))
+WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-04a/Page_IBEX Payroll - Schedules/i_expand_more'))
 
-WebUI.verifyElementPresent(findTestObject('Everest_Regression_Tests/TC-SCH-04a/Page_IBEX Payroll - Schedules/a_SchedulePeriod', 
-        [(SchedulePeriod) : SchedulePeriod]), SchedulePeriod)
+'Verify the test period appears in Schedule Listing.'
+WebUI.verifyTextPresent(SchedulePeriod, false)
 
-WebUI.click(findTestObject('Everest_Regression_Tests/TC-SCH-04a/Page_IBEX Payroll - Schedules/a_SchedulePeriod', [(SchedulePeriod) : SchedulePeriod]))
+'Click on the test period.'
+WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-04a/Page_IBEX Payroll - Schedules/a_SchedulePeriod'))
 
-WebUI.waitForElementVisible(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-04a/Page_IBEX Payroll - Schedules/div_Vacant'), 
+'Check for Vacant row in Schedule details.'
+WebUI.verifyElementPresent(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-04a/Page_IBEX Payroll - Schedules/div_Vacant'), 
     90)
 
-WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-04a/Page_IBEX Payroll - Schedules/input_Show employees in other departments_s_fe1fd5'))
+'Close Schedules Slider.'
+WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-SCH-04a/Page_IBEX Payroll - Schedules/i_clear'))
 

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Posted_Old</name>
+   <tag></tag>
+   <elementGuidId>5c3d5895-07b4-4083-aeb7-28924e547a4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Updated by:'])[1]/following::div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.status-badge.ng-tns-c1361965941-18.success</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Posted&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a85653b7-824b-45d1-9b78-f2376eceb49c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>status-badge ng-tns-c1361965941-18 success</value>
+      <webElementGuid>69696c15-879e-4811-9ed4-3357d763ba98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Posted </value>
+      <webElementGuid>39a6631d-d93e-4db1-93a4-dd7f5dc55a99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-schedule-detail-container[@class=&quot;ng-star-inserted&quot;]/spa-schedule-side-panel[@class=&quot;ng-tns-c1448488808-14 ng-star-inserted&quot;]/div[@class=&quot;content-area ng-tns-c1448488808-14&quot;]/fw-tabs[@class=&quot;tabs ng-tns-c1448488808-14&quot;]/fw-tab[@class=&quot;schedule-list&quot;]/div[@class=&quot;pane&quot;]/spa-side-panel-schedule-listing[1]/ul[@class=&quot;schedule-list ng-star-inserted&quot;]/li[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;schedule-details ng-star-inserted&quot;]/spa-side-panel-schedule-list-item[@class=&quot;ng-tns-c1361965941-18 ng-star-inserted&quot;]/div[@class=&quot;status ng-tns-c1361965941-18 ng-star-inserted&quot;]/div[@class=&quot;status-badge ng-tns-c1361965941-18 success&quot;]</value>
+      <webElementGuid>8c177be6-ed2d-4f18-a4d1-dd9af9a394f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Updated by:'])[1]/following::div[3]</value>
+      <webElementGuid>37eb8331-983f-4161-ae69-bb28971b0d1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Posted on 06-Jan-2026'])[1]/preceding::div[1]</value>
+      <webElementGuid>b864d971-a956-4349-bab4-3321cc8e4764</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='clear'])[2]/preceding::div[2]</value>
+      <webElementGuid>7d0fc422-a599-49f4-88e9-bf6f6dd55485</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Posted']/parent::*</value>
+      <webElementGuid>3af06cf4-99a3-45cc-a091-09fe39647b65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//spa-side-panel-schedule-list-item/div[3]/div[2]</value>
+      <webElementGuid>19c4ccd4-0bf9-400d-b443-ec4189585a2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Posted ' or . = ' Posted ')]</value>
+      <webElementGuid>739e12ab-27a6-46b4-a7bb-53da28469527</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

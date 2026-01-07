@@ -6,12 +6,12 @@
    <elementGuidId>b7446e7b-bc06-4193-ad97-3ae9b44b9556</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#startDate</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='startDate']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#startDate</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>01973503-d3bc-4f77-98f7-3f973e5b46e6</webElementGuid>
+      <webElementGuid>524e85e1-767c-4903-9615-478cbce8e058</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>f98f4da9-c2b7-4162-81cc-ff2f69ad63a7</webElementGuid>
+      <webElementGuid>7c6d8a83-11d1-4861-8ee8-5c6889c990ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>startDate</value>
-      <webElementGuid>9cd07d3f-b692-4d19-b67e-ecad88127197</webElementGuid>
+      <webElementGuid>5b00ae5c-0aa4-46ed-b186-911aa45f143e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>startDate</value>
-      <webElementGuid>d527070b-e2e1-4496-8315-999b3cc3abb8</webElementGuid>
+      <webElementGuid>28c12194-12ef-4d09-9811-39c525bd1fc3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input-text ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>da816dcc-9302-4e4d-a188-68e88bb24840</webElementGuid>
+      <webElementGuid>54769d5e-3e64-466d-bb68-ea2a604b3239</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>9372dd12-0c9c-43cd-aac9-7dabc4197e96</webElementGuid>
+      <webElementGuid>4537c7aa-fc06-4ca7-a991-ba5a9a22f1ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;startDate&quot;)</value>
-      <webElementGuid>dbcfd4f6-3b7c-44bb-8bf1-c5ed2d54ebe2</webElementGuid>
+      <webElementGuid>ed6e2ef7-cf82-496a-adb2-49f0867a95d8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='startDate']</value>
-      <webElementGuid>d034bb05-87bf-4db1-b614-e4c9d26745a1</webElementGuid>
+      <webElementGuid>197e36f8-2b5a-452c-953d-d2e502d64424</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/input</value>
-      <webElementGuid>60ee0e6d-537f-402a-9b73-5d4dd495c45f</webElementGuid>
+      <webElementGuid>15f9c920-034b-48e6-b7fa-0037a452c7ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'startDate']</value>
-      <webElementGuid>7754abab-cb75-4570-bfd7-85804f4e1305</webElementGuid>
+      <webElementGuid>7ea2ed19-caf4-4272-836f-c4e4526909b9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>fw-select</value>
-      <webElementGuid>d4a7e199-9b9c-4fed-97be-397401380c6a</webElementGuid>
+      <webElementGuid>b079216a-5c73-4490-9a96-8327cae458be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>frequency</value>
-      <webElementGuid>e406945d-9873-4e23-8123-0ca17e92902f</webElementGuid>
+      <webElementGuid>bae904b2-654a-4e47-a9f7-ab16e5632d1f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>displayfield</name>
       <type>Main</type>
       <value>Frequency</value>
-      <webElementGuid>e92837d6-8bee-4754-bc8b-d6d2d84854bc</webElementGuid>
+      <webElementGuid>c05a9368-7749-497f-95b2-f103b568377b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>valuefield</name>
       <type>Main</type>
       <value>Id</value>
-      <webElementGuid>2e8dc3e0-e814-47a8-91e3-a80dc162a814</webElementGuid>
+      <webElementGuid>c10f9f7f-0a36-434b-af2a-a71afe09f18c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>alignwith</name>
       <type>Main</type>
       <value>right</value>
-      <webElementGuid>0e06c9f2-829f-43a9-82ea-c999d35c9cd9</webElementGuid>
+      <webElementGuid>de6ebf7e-0f8a-49fe-a108-f131108999bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,15 +69,15 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>Frequency</value>
-      <webElementGuid>2f164845-109e-4098-8530-4a7565a3be35</webElementGuid>
+      <webElementGuid>d527a003-4364-4cfa-b29a-57fefba69f0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>fw-select input-select frequency-select ng-valid ng-touched ng-dirty</value>
-      <webElementGuid>9323697f-9942-4ef7-bf81-6078bb407dac</webElementGuid>
+      <value>fw-select input-select frequency-select ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>29e1c66f-200b-48ed-a519-c6594cee496d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>8a4bc406-f682-4cb8-b7a2-452b3ef5c6bc</webElementGuid>
+      <webElementGuid>af88220c-7f7f-4ee3-b4c6-022e32067edb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Does not Repeat</value>
-      <webElementGuid>289052ce-458c-412f-95ff-8abbe395f691</webElementGuid>
+      <webElementGuid>8289ca5a-e1c3-4d7c-8fbc-1a3641435120</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Does not Repeat</value>
-      <webElementGuid>2b9d12d6-3586-4bda-a102-8606fabde4bb</webElementGuid>
+      <webElementGuid>a1c46a53-c581-424b-bc3c-91cb80fcf291</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;frequency&quot;)</value>
-      <webElementGuid>7cd16aec-4cea-4dcd-bbae-e5cb421c7cdd</webElementGuid>
+      <webElementGuid>003f9255-4ef2-4bc8-a9bb-904c5fd7300b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//fw-select[@id='frequency']</value>
-      <webElementGuid>a1450067-80b8-4443-b4c7-c094ef88be00</webElementGuid>
+      <webElementGuid>2cd69804-44a7-457d-88f0-5db5495a1fab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Recurrence'])[2]/following::fw-select[1]</value>
-      <webElementGuid>cfe4d3f7-01ae-4074-8589-da1c2322b3e3</webElementGuid>
+      <webElementGuid>494cd04b-7d16-45f7-8191-1ff90b3b9779</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,15 +133,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No pay codes allocated to this shift.'])[1]/following::fw-select[1]</value>
-      <webElementGuid>4dd7db06-0251-47e4-abd7-79bf66eeeefd</webElementGuid>
+      <webElementGuid>c4737e3b-dc83-41f3-866b-8372aff375c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mon, 6-Oct-2025'])[2]/preceding::fw-select[1]</value>
-      <webElementGuid>9d1e1b77-2604-4303-9701-d017dd40b57c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mon, 16-Dec-2024'])[2]/preceding::fw-select[1]</value>
+      <webElementGuid>35871b30-f110-45f6-b9cf-17fcd97668eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div/fw-select</value>
-      <webElementGuid>e65ead48-ec3b-4e86-8bc2-5aacdc54615b</webElementGuid>
+      <webElementGuid>0bdb4db3-f3c5-4036-a38e-53f47a0ba69e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,15 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//fw-select[@id = 'frequency' and @title = 'Does not Repeat' and (text() = 'Does not Repeat' or . = 'Does not Repeat')]</value>
-      <webElementGuid>ef59c454-12e7-4c40-b164-e91ff38d2b52</webElementGuid>
+      <webElementGuid>06972bff-6c22-451e-8557-25c93621fc20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mon, 6-Oct-2025'])[2]/preceding::fw-select[1]</value>
+      <webElementGuid>4fa1b14a-27be-4398-bbb4-232c5afa81e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,6 +173,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sun, 10-Mar-2024'])[2]/preceding::fw-select[1]</value>
-      <webElementGuid>544a6a7a-68b3-49c5-92b9-306a11489393</webElementGuid>
+      <webElementGuid>f40ea75f-c32c-49b0-a86c-70d4159c0026</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>f698914a-ec29-436f-a38b-5672cf3ec11b</webElementGuid>
+      <webElementGuid>850abe88-26a8-49be-b240-4ff051336a88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>item-label u-flex--100 u-font--semibold</value>
-      <webElementGuid>68655d83-d5d4-44b7-a119-d03f77891924</webElementGuid>
+      <webElementGuid>be9c813e-a223-4ebd-8fc7-71cabe8bf45b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>New Shift</value>
-      <webElementGuid>629b2095-0156-4f69-8d55-8d86c9629b18</webElementGuid>
+      <webElementGuid>c7ec4488-6373-4516-aacb-b12a33b3f643</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;context-menu&quot;)/ul[1]/fw-context-menu-item[@class=&quot;ng-star-inserted&quot;]/li[@class=&quot;New Shift menu-item u-flex active&quot;]/div[@class=&quot;item-label u-flex--100 u-font--semibold&quot;]</value>
-      <webElementGuid>5cd123cd-2118-48d3-a9cc-582f69a71859</webElementGuid>
+      <webElementGuid>ad6ee7e5-b12c-415d-9e5d-70873b9b4c95</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,31 +61,31 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='context-menu']/ul/fw-context-menu-item/li/div</value>
-      <webElementGuid>459ae276-3278-4aa9-bca6-018d4aea5659</webElementGuid>
+      <webElementGuid>a41be5d4-246b-4b41-aca9-0712fd7b40b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='(0.00, 0.00)'])[1]/following::div[10]</value>
-      <webElementGuid>6672276d-b5cc-4d8b-9f8e-20aad4a6f5cf</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(0.00, 0.00)'])[4]/following::div[10]</value>
+      <webElementGuid>b5d5459d-58ba-4190-96b4-1b42203f1006</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Abdul, Lindsay'])[1]/following::div[12]</value>
-      <webElementGuid>35c7abd6-d832-4287-b2e8-42b9c4344781</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Conley, Braelynn'])[1]/following::div[12]</value>
+      <webElementGuid>00834a57-7d57-4752-9908-64d756ce9a6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='clear'])[29]/preceding::div[1]</value>
-      <webElementGuid>51cedd08-9509-4ce5-b539-58e6986223b1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='clear'])[9]/preceding::div[1]</value>
+      <webElementGuid>f19debef-c7b7-4699-9280-c352e4424c6f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Info'])[1]/preceding::div[1]</value>
-      <webElementGuid>a2fec7fc-00cb-40da-ae63-ec1aac70d755</webElementGuid>
+      <webElementGuid>1f5daa38-ac81-40f8-ab7a-d51451cd3e1b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,15 +101,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='New Shift']/parent::*</value>
-      <webElementGuid>21def0ce-f1e7-4605-bca7-3f887f91b30f</webElementGuid>
+      <webElementGuid>54b23639-acad-412a-a90e-5d97e0af4c2f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li/div</value>
-      <webElementGuid>22e81648-bee9-4283-8092-62c9b586fa13</webElementGuid>
+      <value>//fw-context-menu-item/li/div</value>
+      <webElementGuid>edf31100-5990-4c69-b650-f284b3d71b40</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,38 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'New Shift' or . = 'New Shift')]</value>
-      <webElementGuid>f916aa6b-caae-466e-8451-05b174250f32</webElementGuid>
+      <webElementGuid>5ee7b2b9-f7e4-4510-9e98-0e23247a6a5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(0.00, 0.00)'])[1]/following::div[10]</value>
+      <webElementGuid>2f7869e2-7b44-4a14-b270-5fa91e92fe78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Abdul, Lindsay'])[1]/following::div[12]</value>
+      <webElementGuid>63a30235-26ef-4023-a412-0a30e4afaf26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='clear'])[29]/preceding::div[1]</value>
+      <webElementGuid>6e4900ee-22c1-4fd9-9151-c67025c75e79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div</value>
+      <webElementGuid>67eed094-497d-496e-a16a-4c53ccfc5375</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

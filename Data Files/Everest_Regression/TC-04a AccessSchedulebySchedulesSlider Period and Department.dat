@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>Schedule filter dates, schedule period and Department</description>
+   <name>TC-04a AccessSchedulebySchedulesSlider Period and Department</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>de9da034-fc54-408b-aba3-15427d9da4d7</dataFileGUID>
+   <dataSourceUrl>C:\Ann (C)\Katalon_Testing\Katalon Test Data Files\Test Data TC04a AccessSchedulebySchedulesSlider Period and Department.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

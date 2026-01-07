@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>a1fb07fd-bce9-4180-9fac-3f9d9b68395e</webElementGuid>
+      <webElementGuid>1122b66a-7d25-4b0b-a472-a3e27db85333</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>role</name>
       <type>Main</type>
       <value>row</value>
-      <webElementGuid>f300298a-6866-460d-b156-9dab9ac98be2</webElementGuid>
+      <webElementGuid>cfdaa4db-d2c0-4a33-9b62-11365ee71ac4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>main-row</value>
-      <webElementGuid>31a625dd-5ed6-4c94-b9c2-25f804bfccdd</webElementGuid>
+      <webElementGuid>dfee55cb-1d4e-42f2-8a62-7c6273f626ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>aria-rowindex</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>0d5965ad-c3c4-4ade-b1de-68395044ee2f</webElementGuid>
+      <webElementGuid>e0ed5e55-6f91-474f-acad-dec82e12f86a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>64379261-3af1-4ee6-9625-0572af7a5c6e</webElementGuid>
+      <webElementGuid>06f7867e-a738-4128-adda-41b498bec36b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>966278a5-de84-403c-b18d-6e772de5c34d</webElementGuid>
+      <webElementGuid>71abca79-579f-435b-b38f-77db95243d00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Expand rowexpand_moreeditEditlockUnapprovedNeeds Review  Madsen-perShiftOT, Cheryl  Anemone House  05 Oct - Sun End of split shiftfliptoday 12:00 AM access_time   check 12:00 AM - 07:00 AM    - 07:00 AM  7.00 hrsREG (7.00)</value>
-      <webElementGuid>565e35e3-c858-4219-8667-0c91b0732d82</webElementGuid>
+      <webElementGuid>e8ebacbc-cb11-4966-a082-d52e9ff0a2dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-daily-approvals[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;work-surface&quot;]/div[@class=&quot;work-surface__content&quot;]/spa-daily-approval-table[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;table-root force-min-width&quot;]/cdk-virtual-scroll-viewport[@class=&quot;cdk-virtual-scroll-viewport cdk-virtual-scrollable cdk-virtual-scroll-orientation-vertical&quot;]/div[@class=&quot;cdk-virtual-scroll-content-wrapper&quot;]/div[@class=&quot;row row--even ng-star-inserted&quot;]/div[@class=&quot;main-row&quot;]</value>
-      <webElementGuid>96913bca-7944-482b-870e-9e244e06ac12</webElementGuid>
+      <webElementGuid>6f788672-ea68-4e7d-a8bc-16bf93678538</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[1]/following::div[3]</value>
-      <webElementGuid>544d3eb1-26da-46e9-9276-3e9874e13aab</webElementGuid>
+      <webElementGuid>a4a9c1bb-e920-4efb-886b-6284d43704a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Allocations'])[1]/following::div[4]</value>
-      <webElementGuid>70cf7f9e-d251-45a8-921a-bcaa300106be</webElementGuid>
+      <webElementGuid>17a933f2-aecf-4277-933d-00e634aac509</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//cdk-virtual-scroll-viewport/div/div/div</value>
-      <webElementGuid>9ba91c51-2eca-4754-be26-b7cb35e2bffc</webElementGuid>
+      <webElementGuid>c80bce82-4aa1-4fee-8120-81e0fb1eb08c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Expand rowexpand_moreeditEditlockUnapprovedNeeds Review  Madsen-perShiftOT, Cheryl  Anemone House  05 Oct - Sun End of split shiftfliptoday 12:00 AM access_time   check 12:00 AM - 07:00 AM    - 07:00 AM  7.00 hrsREG (7.00)' or . = 'Expand rowexpand_moreeditEditlockUnapprovedNeeds Review  Madsen-perShiftOT, Cheryl  Anemone House  05 Oct - Sun End of split shiftfliptoday 12:00 AM access_time   check 12:00 AM - 07:00 AM    - 07:00 AM  7.00 hrsREG (7.00)')]</value>
-      <webElementGuid>19cbfdee-e23f-4d0e-bf3d-ff591bd40f96</webElementGuid>
+      <webElementGuid>6c6802f1-cf61-421f-a4c1-fb284c0f10b9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

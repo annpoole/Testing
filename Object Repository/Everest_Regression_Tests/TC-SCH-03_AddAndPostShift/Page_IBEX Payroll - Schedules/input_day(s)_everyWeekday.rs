@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>26426778-1cd5-439e-948e-f6de9ace03a4</webElementGuid>
+      <webElementGuid>20ea3a99-ec77-4266-99df-1fbf46cad9d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>125c7b45-371c-4db9-83aa-36ec1ef27632</webElementGuid>
+      <webElementGuid>6ed78f10-90e7-40ac-af1c-5f17e5e85f7f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>everyWeekday</value>
-      <webElementGuid>2c78e77b-33e6-4ce3-b239-0bd6afe771ca</webElementGuid>
+      <webElementGuid>4023f17e-b7d9-43ec-a8d9-85f6de831d19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>value</name>
       <type>Main</type>
       <value>EveryWeekday</value>
-      <webElementGuid>e7935bcd-34e1-4f44-904e-937a3c277b3d</webElementGuid>
+      <webElementGuid>1a3432c3-c343-4bc3-8fde-b31956c36e34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>DailyOption</value>
-      <webElementGuid>3e6f5fe2-9e84-4720-9fe2-dc4481f94b97</webElementGuid>
+      <webElementGuid>00a701b4-21c9-4b02-9d1d-bd094a9c4a5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input-radio ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>896f9c28-f72c-4fb8-aa14-85b35b3af8e3</webElementGuid>
+      <webElementGuid>2b1d19f5-2b7f-4f57-a437-007dd5c8d2a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;everyWeekday&quot;)</value>
-      <webElementGuid>4db10226-89dd-4590-891a-cd5f255652be</webElementGuid>
+      <webElementGuid>6d21f251-c5ba-4ff8-9524-5455edaa7625</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='everyWeekday']</value>
-      <webElementGuid>fe27b62b-bcf4-4732-a47a-8682718205a7</webElementGuid>
+      <webElementGuid>f13f7321-6a94-4f38-96a0-906382466f1c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//spa-workblock-recurrence-daily/div/div[2]/input</value>
-      <webElementGuid>d083ed5b-b51e-4630-a1d4-214dcac235dc</webElementGuid>
+      <webElementGuid>05b28314-cee4-4245-af41-1b89ed97fb30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'radio' and @id = 'everyWeekday']</value>
-      <webElementGuid>95ed7c19-432b-45d2-af64-c010fb510fda</webElementGuid>
+      <webElementGuid>e4fede5c-28a3-48b7-b3c9-89ca9c4f92c1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

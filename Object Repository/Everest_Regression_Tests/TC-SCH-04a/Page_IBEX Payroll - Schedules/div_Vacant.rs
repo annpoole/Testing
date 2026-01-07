@@ -6,12 +6,12 @@
    <elementGuidId>023fa8a9-2e9d-420d-8394-332af9b48e63</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.employee-name</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat'])[1]/following::div[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.employee-name</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>49f0a9ce-c220-4787-9993-ceaec0589519</webElementGuid>
+      <webElementGuid>cd83d7c8-febc-4773-96b5-98dab5333358</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>employee-name</value>
-      <webElementGuid>8a2a530c-223c-41d9-a1d1-0445b5a65e99</webElementGuid>
+      <webElementGuid>1acf4e1d-a2cb-436c-b214-10aef0c4d77b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Vacant</value>
-      <webElementGuid>7bf95300-c004-4b38-98fa-78a17be8c299</webElementGuid>
+      <webElementGuid>121a2456-3c66-4500-a660-09132339edc8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-schedule-detail-container[@class=&quot;ng-star-inserted&quot;]/spa-schedule-detail[@class=&quot;work-surface__content ng-star-inserted&quot;]/div[@class=&quot;scheduler-container&quot;]/fw-scheduler[@class=&quot;everest-scrollbar&quot;]/div[@class=&quot;horiz-scroll-container ng-star-inserted&quot;]/fw-employee-timeline-view[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;employee-row vacant-row ng-star-inserted&quot;]/div[@class=&quot;employee-container&quot;]/spa-employee-card[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;employee-name&quot;]</value>
-      <webElementGuid>bc64ac81-d11c-4050-aa15-3e026d4175b8</webElementGuid>
+      <webElementGuid>bf51ccfd-c4bc-4894-b863-c066a8afbb5d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat'])[1]/following::div[5]</value>
-      <webElementGuid>c787d342-85d8-47af-9b38-d8d46d18f84e</webElementGuid>
+      <webElementGuid>ac5ae7d3-8a5d-4f8b-a4ea-123ad3eea70a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Fri'])[1]/following::div[10]</value>
-      <webElementGuid>b9be9d30-19c6-426e-b671-e95047fd7b7b</webElementGuid>
+      <webElementGuid>73181a0a-74f2-44df-b771-f8d2047b82c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Abbott, Braelynn'])[1]/preceding::div[9]</value>
-      <webElementGuid>40ebf212-44da-45a0-9b42-e23153698bad</webElementGuid>
+      <webElementGuid>de14b09c-34ec-4895-a893-d17ec670ef53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='(0.00, 0.00)'])[1]/preceding::div[10]</value>
-      <webElementGuid>755511b2-b966-4453-9b2f-3d87ddfef6fb</webElementGuid>
+      <webElementGuid>dfff2c02-ea66-46f4-ada0-2c30c5977606</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Vacant']/parent::*</value>
-      <webElementGuid>9515b156-965a-41d1-b0e7-b0ee588afe9b</webElementGuid>
+      <webElementGuid>daf35ff4-a828-4531-84a4-ed4ebeef6ae7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//spa-employee-card/div/div</value>
-      <webElementGuid>76c65202-aa92-4522-9798-dcb5e18130c4</webElementGuid>
+      <webElementGuid>1acbf3af-523f-47ca-bfda-ab1374cde6b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Vacant' or . = 'Vacant')]</value>
-      <webElementGuid>9440570b-2a2d-4a23-b9e2-ecb7702d9d32</webElementGuid>
+      <webElementGuid>481734b7-a563-4c65-a126-5a6e0f0b3976</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

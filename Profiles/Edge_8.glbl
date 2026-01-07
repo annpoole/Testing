@@ -3,7 +3,7 @@
    <description></description>
    <name>Edge_8</name>
    <tag></tag>
-   <defaultProfile>true</defaultProfile>
+   <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description>Login page (Edge-8)</description>
       <initValue>'https://sit.ibexpayroll.com:8443/edge8/identityserver/Account/Login'</initValue>

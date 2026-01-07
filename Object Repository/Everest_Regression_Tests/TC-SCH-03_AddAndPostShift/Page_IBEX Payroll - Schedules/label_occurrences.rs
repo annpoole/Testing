@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_occurrences</name>
+   <tag></tag>
+   <elementGuidId>55fc95e0-ef31-4044-a7dd-716d1756d537</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.u-flex.u-flex--align-center.form-row.u-m-left > div > label.input-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='End After'])[1]/following::label[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;occurrences&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>4ac44f32-20a9-4d44-844b-b8bd653976ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>occurrences</value>
+      <webElementGuid>1dc63a26-956a-4dbb-a00f-1d8e315e4afa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-label</value>
+      <webElementGuid>5662a83d-0039-4a3e-8928-f90d6c3dc994</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>occurrences</value>
+      <webElementGuid>48bf8f15-07b2-4924-803d-ac7b8bded5e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-schedule-detail-container[@class=&quot;ng-star-inserted&quot;]/spa-workblock-editor[@class=&quot;ng-star-inserted&quot;]/fw-modal[@class=&quot;editor&quot;]/div[@class=&quot;modal fade in&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;fw-modal-body u-flex--auto&quot;]/fw-tabs[@class=&quot;u-pos--relative&quot;]/fw-tab[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;pane&quot;]/spa-workblock-recurrence[1]/div[1]/div[@class=&quot;ng-valid ng-touched ng-dirty&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;u-flex form-row&quot;]/div[@class=&quot;u-flex--column form-row-item&quot;]/spa-workblock-recurrence-range[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;u-flex range ng-valid ng-dirty ng-touched&quot;]/div[@class=&quot;u-flex u-flex--column&quot;]/div[@class=&quot;u-flex u-flex--align-center form-row u-m-left&quot;]/div[1]/label[@class=&quot;input-label&quot;]</value>
+      <webElementGuid>6a32e178-4e0e-4bdb-b4d2-3a55dee23a81</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End After'])[1]/following::label[1]</value>
+      <webElementGuid>ffb7f830-fd6e-4237-b10f-88d6520187fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No end date'])[1]/following::label[2]</value>
+      <webElementGuid>caf1b80d-6cda-4a31-a579-8c49a5ea8777</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End By'])[1]/preceding::label[1]</value>
+      <webElementGuid>dda6e8e5-3317-4043-8b21-9bd9a07f89c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[6]/preceding::label[2]</value>
+      <webElementGuid>0b97b649-fe44-4334-9efe-652d711298a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='occurrences']/parent::*</value>
+      <webElementGuid>ba270d4f-99cc-462a-9231-78de378c3f66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//spa-workblock-recurrence-range/div/div[2]/div[2]/div/label</value>
+      <webElementGuid>3f6fb923-41bc-4965-be21-4846efb4aa53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'occurrences' or . = 'occurrences')]</value>
+      <webElementGuid>9a4802dc-e76b-440f-a9c0-197c4583c69b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

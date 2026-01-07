@@ -3,116 +3,26 @@
    <description></description>
    <name>a_SchedulePeriod</name>
    <tag></tag>
-   <elementGuidId>ab0128e0-ffa1-41bb-86bf-8f82dc8efe03</elementGuidId>
+   <elementGuidId>26bd89de-ff5b-4d93-ab53-0ab2983c4710</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.date-range.ng-tns-c1361965941-16</value>
+         <key>XPATH</key>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>//*[(text() = '${SchedulePeriod}' or . = '${SchedulePeriod}')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//a[contains(text(),'${SchedulePeriod}')]</value>
+         <key>CSS</key>
+         <value>spa-side-panel-schedule-list-item .date-range</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;29-Dec-2024 - 11-Jan-2025&quot;i]</value>
+         <value>internal:role=link[name=&quot;15-Dec-2024 - 28-Dec-2024&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>a</value>
-      <webElementGuid>4e415023-b2eb-4ae4-ac07-4be5c7d23853</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>date-range ng-tns-c1361965941-16</value>
-      <webElementGuid>b23cf52a-8f71-422b-bc3e-ac3ca4a00916</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>/main/everestspa/schedules?scheduleId=7e545f19-41cd-4ebf-ab71-2eeb1a03b4a4&amp;SelectedDeptId=eb74fa7d-dc53-4a82-afa8-cfbed31508e6</value>
-      <webElementGuid>13ea2ec5-5fdb-428c-af0e-fb280970ee48</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>${SchedulePeriod}</value>
-      <webElementGuid>3b70c659-eaf0-4f3d-9259-4e9efdd24b1d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-schedule-detail-container[@class=&quot;ng-star-inserted&quot;]/spa-schedule-side-panel[@class=&quot;ng-tns-c1448488808-14 ng-star-inserted&quot;]/div[@class=&quot;content-area ng-tns-c1448488808-14&quot;]/fw-tabs[@class=&quot;tabs ng-tns-c1448488808-14&quot;]/fw-tab[@class=&quot;schedule-list&quot;]/div[@class=&quot;pane&quot;]/spa-side-panel-schedule-listing[1]/ul[@class=&quot;schedule-list ng-star-inserted&quot;]/li[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;schedule-details ng-star-inserted&quot;]/spa-side-panel-schedule-list-item[@class=&quot;ng-tns-c1361965941-16 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c1361965941-16 ng-star-inserted&quot;]/a[@class=&quot;date-range ng-tns-c1361965941-16&quot;]</value>
-      <webElementGuid>4e519f40-ca7b-4db6-8229-dcd64ea2c8db</webElementGuid>
-   </webElementProperties>
-   <webElementXpaths>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:link</name>
-      <type>Main</type>
-      <value>//a[contains(text(),'${SchedulePeriod}')]</value>
-      <webElementGuid>3b6fdb9f-e041-497b-a27b-97b25ff9d363</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='${Department}'])[1]/following::a[1]</value>
-      <webElementGuid>cdb31aa8-d9e4-45b7-b655-948589603c2c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='expand_more'])[3]/following::a[1]</value>
-      <webElementGuid>42ec0881-b809-45fc-9cec-ae02858fdce1</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Updated by:'])[1]/preceding::a[1]</value>
-      <webElementGuid>a98f9a23-66f7-4c7e-a810-86994d71a5a5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='${SchedulePeriod}']/parent::*</value>
-      <webElementGuid>c887fd4d-9a35-4b2f-91d1-2919d064dbad</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//spa-side-panel-schedule-list-item/div/a</value>
-      <webElementGuid>203a4154-f5a6-42d1-85d6-472531f28424</webElementGuid>
-   </webElementXpaths>
 </WebElementEntity>

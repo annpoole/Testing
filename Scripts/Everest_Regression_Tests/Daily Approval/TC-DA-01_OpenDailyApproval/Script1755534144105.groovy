@@ -17,10 +17,16 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('Everest_Regression_Tests/Home/TC-01 Login and Switch to QA Test Org'), [('Username') : 'uat.dstewart'
+        , ('Password') : 'Password1'], FailureHandling.STOP_ON_FAILURE)
+
 WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-01_OpenDailyApproval/Page_IBEX Payroll - Home/a_Daily Approval'))
 
-WebUI.waitForElementVisible(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-01_OpenDailyApproval/Page_IBEX Payroll - Daily Approval/div_Daily Approvalnavigate_before 11 Feb - _9a3d1a'), 
+not_run: WebUI.waitForElementVisible(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-01_OpenDailyApproval/Page_IBEX Payroll - Daily Approval/div_Daily Approvalnavigate_before 11 Feb - _9a3d1a'), 
     30)
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-01_OpenDailyApproval/Page_IBEX Payroll - Daily Approval/h1_Daily Approval'), 
+    300)
 
 WebUI.comment('below steps can be deleted later when you know the dA will land on right pay period')
 
@@ -35,5 +41,32 @@ WebUI.waitForElementVisible(findTestObject('Object Repository/Everest_Regression
 
 WebUI.comment('above steps can be deleted later when you know the dA will land on right pay period')
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-01_OpenDailyApproval/Page_IBEX Payroll - Daily Approval/fw-tabs_Summaryfiber_manual_recordFiltersfi_f8a64b'))
+not_run: WebUI.verifyElementVisible(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-01_OpenDailyApproval/Page_IBEX Payroll - Daily Approval/fw-tabs_Summaryfiber_manual_recordFiltersfi_f8a64b'))
+
+WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-01_OpenDailyApproval/Page_IBEX Payroll - Daily Approval/h1_Daily Approval'))
+
+not_run: WebUI.verifyElementAttributeValue(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-01_OpenDailyApproval/Page_IBEX Payroll - Daily Approval/input_navigate_before_date-toolbar__input i_9a347a'), 
+    String.CASE_INSENSITIVE_ORDER, '*15 Dec*', 0)
+
+WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-01_OpenDailyApproval/Page_IBEX Payroll - Daily Approval/h1_Summary of Hours'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-01_OpenDailyApproval/Page_IBEX Payroll - Daily Approval/select_EmployeeDepartmentDatePayCodeMatch Status'), 
+    'Employee', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-01_OpenDailyApproval/Page_IBEX Payroll - Daily Approval/select_DepartmentDatePayCodeMatch Status'), 
+    'Date', true)
+
+WebUI.rightClick(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-01_OpenDailyApproval/Page_IBEX Payroll - Daily Approval/div_Alexander, Reese'))
+
+WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-01_OpenDailyApproval/Page_IBEX Payroll - Daily Approval/div_Alexander, Reese'))
+
+WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-01_OpenDailyApproval/Page_IBEX Payroll - Daily Approval/a_82.00'))
+
+WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-01_OpenDailyApproval/Page_IBEX Payroll - Daily Approval/i_chevron_left'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-01_OpenDailyApproval/Page_IBEX Payroll - Daily Approval/div_16 Dec - Mon'), 
+    '16 Dec - Mon')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Everest_Regression_Tests/TC-DA-01_OpenDailyApproval/Page_IBEX Payroll - Daily Approval/div_8.00 hrs'), 
+    '8.00 hrs')
 

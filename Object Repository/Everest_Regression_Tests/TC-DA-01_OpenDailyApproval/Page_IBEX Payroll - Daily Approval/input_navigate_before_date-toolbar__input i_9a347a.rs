@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5e3d46a6-2f27-4b8d-926b-70533e627d55</webElementGuid>
+      <webElementGuid>ebf309d6-0063-4a75-b5f9-1453324b2931</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>2c105cef-dbea-45e2-80c2-c9bcbe19eaa7</webElementGuid>
+      <webElementGuid>2e5246cd-077c-4f9b-a217-49ee12bf03c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Find pay schedule by date</value>
-      <webElementGuid>ef755160-e16f-4e88-a057-b58967ef8bb0</webElementGuid>
+      <webElementGuid>bdc77cb1-ad66-46d4-aadd-b666962a3911</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>date-toolbar__input input-text ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>d5ff7ef5-1dca-4b21-aa07-e36cff62aba5</webElementGuid>
+      <webElementGuid>9232bb76-1855-48d6-8772-20da875e9f30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-daily-approvals[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;work-surface&quot;]/div[@class=&quot;work-surface__content&quot;]/div[@class=&quot;u-m--half ng-star-inserted&quot;]/div[@class=&quot;u-flex u-flex--align-center&quot;]/spa-schedule-navigator[@class=&quot;u-m-right&quot;]/div[@class=&quot;date-toolbar&quot;]/div[@class=&quot;u-flex date-toolbar__label-wrapper&quot;]/div[@class=&quot;date-toolbar__label-content&quot;]/input[@class=&quot;date-toolbar__input input-text ng-untouched ng-pristine ng-valid&quot;]</value>
-      <webElementGuid>0fd7b4c4-9707-4f37-907c-a796dac171e3</webElementGuid>
+      <webElementGuid>8e0317f5-dc2b-40cf-bdc2-763c8e5d4756</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@type='text'])[2]</value>
-      <webElementGuid>6f3a9c19-0c98-4bc2-a456-76415a5ee42c</webElementGuid>
+      <webElementGuid>88bdb1a3-e819-4841-a21c-27d976c65af6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//spa-schedule-navigator/div/div/div/input</value>
-      <webElementGuid>ea1b0f56-df36-45d0-83a6-c0c8cecb38c1</webElementGuid>
+      <webElementGuid>ac737b59-e116-4c3b-9d0b-b4fb3c8e9bbb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text']</value>
-      <webElementGuid>d390fc67-69d6-4b1d-bd4e-3df70cedad5f</webElementGuid>
+      <webElementGuid>a0271a47-ee3b-4cec-aaca-204cd00360ef</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

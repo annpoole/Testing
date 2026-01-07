@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='cdk-overlay-6']/div/div/div[2]</value>
+         <value>//div[@id='cdk-overlay-4']/div/div/div[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>c70b3cd3-2650-42e1-a412-4124094b491e</webElementGuid>
+      <webElementGuid>b00f80e5-ebd0-42b8-ae68-c38d75cbb366</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +36,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fw-select-option ng-star-inserted</value>
-      <webElementGuid>892774fa-0d33-4d86-9206-f891498c647e</webElementGuid>
+      <webElementGuid>4758ecf2-084e-4167-9f40-dbecd5931fef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,23 +44,23 @@
       <name>text</name>
       <type>Main</type>
       <value> Daily </value>
-      <webElementGuid>1b7d8e4a-137a-4892-924e-0b945899eb99</webElementGuid>
+      <webElementGuid>4e8c8b3c-0f91-4c85-bcf7-7ebf0a975e2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;cdk-overlay-6&quot;)/div[@class=&quot;fw-select-popup ng-star-inserted&quot;]/div[@class=&quot;fw-select-option-container everest-scrollbar&quot;]/div[@class=&quot;fw-select-option ng-star-inserted&quot;]</value>
-      <webElementGuid>fd5a2c90-183b-4110-84da-cfe3edb7f45f</webElementGuid>
+      <value>id(&quot;cdk-overlay-4&quot;)/div[@class=&quot;fw-select-popup ng-star-inserted&quot;]/div[@class=&quot;fw-select-option-container everest-scrollbar&quot;]/div[@class=&quot;fw-select-option ng-star-inserted&quot;]</value>
+      <webElementGuid>33e8a20b-08ae-40e9-8198-d300e42f0311</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='cdk-overlay-6']/div/div/div[2]</value>
-      <webElementGuid>52200d45-f999-40fa-9fbf-5f7627c9ed6a</webElementGuid>
+      <value>//div[@id='cdk-overlay-4']/div/div/div[2]</value>
+      <webElementGuid>6087ebcd-8fd3-4d5b-81c1-695f57a00ed3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Does not Repeat'])[2]/following::div[1]</value>
-      <webElementGuid>2cc134ec-e9b1-4bad-be43-ab488a8b5809</webElementGuid>
+      <webElementGuid>99156f50-a734-4c3e-b65d-4d42964dcfb6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Leave'])[1]/following::div[8]</value>
-      <webElementGuid>70715c41-fda3-4201-b812-ab4134247341</webElementGuid>
+      <webElementGuid>11a0feae-ab1d-4384-b600-e63b4788a62e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Weekly'])[1]/preceding::div[1]</value>
-      <webElementGuid>85881806-14f9-4183-bd4a-a938ac399e6c</webElementGuid>
+      <webElementGuid>c4836dbd-3fb9-49ea-8caa-ec220a867a48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Monthly'])[1]/preceding::div[2]</value>
-      <webElementGuid>487e7682-73ae-4f45-8135-7d0198dcedef</webElementGuid>
+      <webElementGuid>5027ad32-2048-4304-ba49-a0442c73f152</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Daily']/parent::*</value>
-      <webElementGuid>cdfef370-fdd0-4778-9166-94df7334b0bb</webElementGuid>
+      <webElementGuid>1c8bc905-2d25-4398-a367-9acee7df0e79</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +108,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div[2]</value>
-      <webElementGuid>abba9af9-7ad0-4dfa-946f-9bbadc7cbe67</webElementGuid>
+      <webElementGuid>dd37afb3-2b91-4024-bd9a-3d120ddb2c95</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +116,15 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = ' Daily ' or . = ' Daily ')]</value>
-      <webElementGuid>2d0c85be-34e1-4998-b1fd-4927bf66bac7</webElementGuid>
+      <webElementGuid>9d56f01e-473b-48c4-ad08-477c8bcf760a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-6']/div/div/div[2]</value>
+      <webElementGuid>9eabca49-fabf-4fe4-9ffc-ebb28bf3dff5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +132,6 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='cdk-overlay-13']/div/div/div[2]</value>
-      <webElementGuid>d2cacc15-d95b-4805-84eb-d2a7776c3ffd</webElementGuid>
+      <webElementGuid>21049f71-bf7d-4881-bbf6-63e7251bb619</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

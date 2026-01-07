@@ -13,8 +13,12 @@
          <key>XPATH</key>
          <value>//input[@id='startTime']</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @id = 'startTime']</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9765771c-cdbe-4147-9f44-73c723768f61</webElementGuid>
+      <webElementGuid>b565278b-b94b-45a6-95b7-6e663082c861</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +41,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>90487b54-534e-4210-b463-39aade0becc9</webElementGuid>
+      <webElementGuid>b5a45458-43d5-43f7-bc9c-735dee26ea5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +49,7 @@
       <name>id</name>
       <type>Main</type>
       <value>startTime</value>
-      <webElementGuid>a506ba3f-7894-496e-8a21-bdf44d822b84</webElementGuid>
+      <webElementGuid>09325fde-d770-4ca5-a096-74a73ca8c3a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,15 +57,15 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>StartTime</value>
-      <webElementGuid>e753d995-d73a-455f-8ebf-da19be098309</webElementGuid>
+      <webElementGuid>254a9a3b-9a0d-425d-9326-541d40469ae7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>input-text ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>51b0f315-d2d7-40f6-8c5e-dfb6327ff56a</webElementGuid>
+      <value>input-text ng-pristine ng-valid ng-touched</value>
+      <webElementGuid>2f49b9af-7167-47df-b3ad-321ee8c4efa1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>32bc1666-f499-4bd5-a121-377fc7b7e7e7</webElementGuid>
+      <webElementGuid>5ad4a94c-5602-4834-8cdc-ba3e74af1353</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;startTime&quot;)</value>
-      <webElementGuid>b30bb19a-36cb-4f2a-939d-44c7f260a798</webElementGuid>
+      <webElementGuid>918f8ca2-067b-44f9-8e8f-5703ba8324ba</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +89,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='startTime']</value>
-      <webElementGuid>bc27e094-d7ab-4db7-9144-2155af5c02a7</webElementGuid>
+      <webElementGuid>f28f7c42-58d5-41d4-93e4-264ab2e8ac42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +97,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='detailsTab']/div/form/fieldset/div/div[2]/input</value>
-      <webElementGuid>cda0f6fa-2b5f-4e03-b303-bec3d1bff903</webElementGuid>
+      <webElementGuid>0ff3a1fe-319a-4505-a3f4-6907b1d1e490</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +105,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/fieldset/div/div[2]/input</value>
-      <webElementGuid>b5a36f0f-bf89-4b36-9c90-9c1c9df3f9ba</webElementGuid>
+      <webElementGuid>b4ecac45-8a86-470e-a71a-f0e5da2d2cbf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +113,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'startTime']</value>
-      <webElementGuid>608ac0a1-5ddd-401f-b98d-85cd1855f13b</webElementGuid>
+      <webElementGuid>5508ed33-c558-46d9-a466-bc7f5672aa16</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SchedulePeriod</name>
+   <tag></tag>
+   <elementGuidId>d25da93f-a9c9-496d-a486-e7d94465fa07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/spa-app/fw-framework-body/fw-content/main/spa-schedule-detail-container/spa-schedule-side-panel/div[1]/fw-tabs/fw-tab[3]/div/spa-side-panel-schedule-listing/ul/li/div/spa-side-panel-schedule-list-item/div[1]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -54,43 +54,67 @@
       <value></value>
       <variableId>6f9c3feb-7809-47a9-94e7-e2f96287eebc</variableId>
    </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>73d6b55c-495a-4b67-9298-5bb7601649d4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>50ce49ae-0a6e-4b2c-ada7-84df4cad36a2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7f5d7dd8-016f-4dbf-a1db-99e79d7c1874</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f12eb1ce-3781-4b0f-827f-5e5f79108349</variableId>
+   </variableLinks>
    <variable>
-      <defaultValue>'Abbott, Lennox'</defaultValue>
+      <defaultValue>'Berkley'</defaultValue>
       <description></description>
       <id>3476c993-6954-4c9a-a07f-05e8ded4bec0</id>
       <masked>false</masked>
       <name>Employee</name>
    </variable>
    <variable>
-      <defaultValue>'Fri, 3-Jan-2025'</defaultValue>
+      <defaultValue>''</defaultValue>
       <description></description>
       <id>75386c43-a762-4542-ba9f-cd1653ec76d9</id>
       <masked>false</masked>
       <name>Recurrence_endBydate</name>
    </variable>
    <variable>
-      <defaultValue>'Mon, 30-Dec-2024'</defaultValue>
+      <defaultValue>'Mon, 16-Dec-2024'</defaultValue>
       <description></description>
       <id>dcf73175-31cf-47d3-9337-3d82cc9518ee</id>
       <masked>false</masked>
-      <name>Start_date</name>
+      <name>Start_Date</name>
    </variable>
    <variable>
-      <defaultValue>'08:00 AM'</defaultValue>
+      <defaultValue>'07:00 AM'</defaultValue>
       <description></description>
       <id>8c492c6f-4924-4109-b52e-bd913165efbd</id>
       <masked>false</masked>
-      <name>Start_time</name>
+      <name>Start_Time</name>
    </variable>
    <variable>
-      <defaultValue>'Mon, 30-Dec-2024'</defaultValue>
+      <defaultValue>''</defaultValue>
       <description></description>
       <id>6f4d8360-ac7e-4661-b883-55e89e9cf12e</id>
       <masked>false</masked>
       <name>End_Date</name>
    </variable>
    <variable>
-      <defaultValue>'04:00 PM'</defaultValue>
+      <defaultValue>'03:00 PM'</defaultValue>
       <description></description>
       <id>3cc9e7f9-165d-416e-a4c9-dc1ab5ff193e</id>
       <masked>false</masked>
@@ -101,6 +125,34 @@
       <description></description>
       <id>6f9c3feb-7809-47a9-94e7-e2f96287eebc</id>
       <masked>false</masked>
-      <name>No_Of_days</name>
+      <name>No_Of_Days</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>73d6b55c-495a-4b67-9298-5bb7601649d4</id>
+      <masked>false</masked>
+      <name>Start_Time_NoAMPM</name>
+   </variable>
+   <variable>
+      <defaultValue>'Description added by Katalon'</defaultValue>
+      <description></description>
+      <id>50ce49ae-0a6e-4b2c-ada7-84df4cad36a2</id>
+      <masked>false</masked>
+      <name>Shift_Description</name>
+   </variable>
+   <variable>
+      <defaultValue>'PR Notes added by Katalon'</defaultValue>
+      <description></description>
+      <id>7f5d7dd8-016f-4dbf-a1db-99e79d7c1874</id>
+      <masked>false</masked>
+      <name>Shift_PayrollNotes</name>
+   </variable>
+   <variable>
+      <defaultValue>'Daily | Every weekday'</defaultValue>
+      <description></description>
+      <id>f12eb1ce-3781-4b0f-827f-5e5f79108349</id>
+      <masked>false</masked>
+      <name>Recurrence_Details</name>
    </variable>
 </TestCaseEntity>
