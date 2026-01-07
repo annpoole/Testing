@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_navigate_before_date-toolbar__input i_9a347a</name>
+   <tag></tag>
+   <elementGuidId>263cd9f5-9e7b-4855-9bac-0bc54b48284a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.date-toolbar__input.input-text.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Find pay schedule by date&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>5cefd2b4-b4c7-4467-a334-74eb9151b4a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>7a23b34b-fded-4103-8d8e-58d6094400c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Find pay schedule by date</value>
+      <webElementGuid>c59d48de-b0bf-4969-9241-2732e80f855c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>date-toolbar__input input-text ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>79c9cb67-2ab5-4e2c-907c-a3322536009e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-my-schedule-page[@class=&quot;routed-container ng-star-inserted&quot;]/spa-my-schedule[@class=&quot;ng-tns-c532717066-6 ng-star-inserted&quot;]/div[@class=&quot;work-surface u-height--100 ng-tns-c532717066-6&quot;]/div[@class=&quot;work-surface__content ng-tns-c532717066-6 ng-trigger ng-trigger-fadeIn ng-star-inserted&quot;]/div[@class=&quot;header-block ng-tns-c532717066-6&quot;]/spa-schedule-navigator[@class=&quot;navigator ng-tns-c532717066-6&quot;]/div[@class=&quot;date-toolbar&quot;]/div[@class=&quot;u-flex date-toolbar__label-wrapper&quot;]/div[@class=&quot;date-toolbar__label-content&quot;]/input[@class=&quot;date-toolbar__input input-text ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>fabb4f7b-5775-4027-a562-25e9154784f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text']</value>
+      <webElementGuid>88967b45-d836-42e5-8d43-9379717dab3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>094e62c8-af17-4d88-96f3-dcd86ab71042</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>c9147a25-df77-4eaa-a2b4-26f10610558f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

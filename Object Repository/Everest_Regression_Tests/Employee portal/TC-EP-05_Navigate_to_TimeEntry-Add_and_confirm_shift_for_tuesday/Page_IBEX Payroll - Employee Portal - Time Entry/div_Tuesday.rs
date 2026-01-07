@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tuesday</name>
+   <tag></tag>
+   <elementGuidId>dbaeedb7-a366-406e-a47a-f7ae72fb7e8e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Dec 24'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Tuesday&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ab5a0697-09b1-4e96-b9e8-a427f657b322</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>u-font--smaller u-no-wrap</value>
+      <webElementGuid>1d50f92a-0b7e-4b69-b668-89ee37175dff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tuesday</value>
+      <webElementGuid>93d46cc4-8ebb-4cbe-bcc4-daf15c986ab4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-time-entry-container[@class=&quot;routed-container work-surface__content ng-star-inserted&quot;]/spa-time-entry[@class=&quot;ng-star-inserted&quot;]/fw-loading[1]/div[1]/div[@class=&quot;dates-grid&quot;]/spa-time-entry-date[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;date-header&quot;]/div[@class=&quot;u-font--smaller u-no-wrap&quot;]</value>
+      <webElementGuid>5824c62f-b272-4e75-bb28-737e95b2688e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dec 24'])[1]/following::div[1]</value>
+      <webElementGuid>2e048a50-6613-4490-ad61-8df4d4e5d680</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='add'])[2]/following::div[3]</value>
+      <webElementGuid>99a7f821-fc84-4ce6-a138-9bd0a0ef86ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amber Trail'])[2]/preceding::div[1]</value>
+      <webElementGuid>9560a65f-2895-40c5-9f5e-6e81435e84cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tuesday']/parent::*</value>
+      <webElementGuid>11b51c63-aa93-4315-b57d-58caf0e4aa25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//spa-time-entry-date[3]/div/div[2]</value>
+      <webElementGuid>b6128ff9-6a27-445a-bb38-93d914544c96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tuesday' or . = 'Tuesday')]</value>
+      <webElementGuid>26691a77-5f78-4fbe-a84b-e79d329f1ffe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

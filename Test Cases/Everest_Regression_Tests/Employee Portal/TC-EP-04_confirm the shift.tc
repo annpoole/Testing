@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-EP-04_confirm the shift</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>59b1804c-25ad-4a69-8642-2495b18e6bee</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>1e8fd50c-e19b-43c4-8085-1b2eecaed5a2</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Regression Tests/TD-Employee Portal</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>1e8fd50c-e19b-43c4-8085-1b2eecaed5a2</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>PayPeriod_Start</value>
+      <variableId>d2d15778-9554-4522-b47e-c62c1d51120c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>1e8fd50c-e19b-43c4-8085-1b2eecaed5a2</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>DAY</value>
+      <variableId>13dd0635-0892-469a-a0a1-1e914176da03</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>1e8fd50c-e19b-43c4-8085-1b2eecaed5a2</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Department</value>
+      <variableId>bf7b87bd-b1c2-4a09-a449-07b5ff76886a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'2024-12-29'</defaultValue>
+      <description></description>
+      <id>d2d15778-9554-4522-b47e-c62c1d51120c</id>
+      <masked>false</masked>
+      <name>PayPeriod_Start</name>
+   </variable>
+   <variable>
+      <defaultValue>'30, Mon'</defaultValue>
+      <description></description>
+      <id>13dd0635-0892-469a-a0a1-1e914176da03</id>
+      <masked>false</masked>
+      <name>DAY</name>
+   </variable>
+   <variable>
+      <defaultValue>'River Heights'</defaultValue>
+      <description></description>
+      <id>bf7b87bd-b1c2-4a09-a449-07b5ff76886a</id>
+      <masked>false</masked>
+      <name>Department</name>
+   </variable>
+</TestCaseEntity>

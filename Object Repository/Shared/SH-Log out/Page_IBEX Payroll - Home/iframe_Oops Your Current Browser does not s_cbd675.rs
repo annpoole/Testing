@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe_Oops Your Current Browser does not s_cbd675</name>
+   <tag></tag>
+   <elementGuidId>863e311b-942c-4aea-b692-fcfad55312d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//iframe[@id='TrialOrganizationInformation']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#TrialOrganizationInformation</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>iframe[name=&quot;TrialOrganizationInformation&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+      <webElementGuid>029100a9-84de-4d4b-aae8-e884a7994f2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>TrialOrganizationInformation</value>
+      <webElementGuid>64d862a4-cd32-40fe-9a9d-957bcd3d0e90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>TrialOrganizationInformation</value>
+      <webElementGuid>9e239e00-32cc-4a9a-a6a0-5fc74b238ee3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/iframe/ibex/everest%20iframe.htm?V 4.68.0.1216</value>
+      <webElementGuid>2bccb176-ef3e-40ce-be09-bca3d852d426</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>frameborder</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>f5f54a83-e75f-48c2-824f-b689abec7495</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>allowtransparency</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>7e324783-5bb0-4deb-9387-1423c31c87a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				Oops! Your Current Browser does not support iframes, which are required in order to display this page!
+			</value>
+      <webElementGuid>c45a8f41-02a1-47cb-a95c-4c615da1387c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TrialOrganizationInformation&quot;)</value>
+      <webElementGuid>6e73b80e-9506-4c10-b4b2-14e0e0dbed97</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//iframe[@id='TrialOrganizationInformation']</value>
+      <webElementGuid>1b99c764-edd0-4c53-886f-7aef84709d02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='chevron_right'])[1]/following::iframe[1]</value>
+      <webElementGuid>797aedd5-fae3-44ac-9887-dc2e7c99b2f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APPLICANT TRACKING SYSTEM'])[1]/following::iframe[1]</value>
+      <webElementGuid>363cad45-4937-494f-ab05-34ca0b6b6a98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organizations'])[1]/preceding::iframe[1]</value>
+      <webElementGuid>5dab79bc-201d-4a89-b198-bb0a9fad9983</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='clear'])[1]/preceding::iframe[1]</value>
+      <webElementGuid>bc265a72-8767-4d37-9f0f-18a1cccf7230</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Oops! Your Current Browser does not support iframes, which are required in order to display this page!']/parent::*</value>
+      <webElementGuid>ed4a62df-9be1-4dd3-8ab8-10c4ff01319b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iframe</value>
+      <webElementGuid>fb57e652-f5b1-4cdf-9ffb-05e556e51fee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//iframe[@id = 'TrialOrganizationInformation' and @name = 'TrialOrganizationInformation' and @src = '/iframe/ibex/everest%20iframe.htm?V 4.68.0.1216' and (text() = '
+				Oops! Your Current Browser does not support iframes, which are required in order to display this page!
+			' or . = '
+				Oops! Your Current Browser does not support iframes, which are required in order to display this page!
+			')]</value>
+      <webElementGuid>4902c64f-be9b-432b-a9c5-feeb8ba9419a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

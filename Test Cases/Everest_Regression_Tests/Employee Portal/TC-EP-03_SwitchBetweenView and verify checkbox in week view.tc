@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>In week view, check that checkbox to &quot;show other employees&quot; is there and when enabled, that at least one coworker's shifts appear - choose second test employee</description>
+   <name>TC-EP-03_SwitchBetweenView and verify checkbox in week view</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7d46f27b-f460-40cc-be63-1674455409d3</testCaseGuid>
+</TestCaseEntity>

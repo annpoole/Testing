@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>colleenc@annstestorg</description>
-   <name>SH_Login_As_TOR_Employee</name>
+   <name>SH_Login_As_Second_Test_Employee</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>12aeb782-c8e3-4d59-bccc-eb08b055ebef</testCaseGuid>
+   <testCaseGuid>901908da-63d1-481d-9b0b-1ef4966d3956</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>3e303f25-5b31-4455-9735-790906678864</variableId>
+      <variableId>249ada6e-5ebc-4249-ae26-1b722c70f2b8</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>08242933-7843-4987-b20c-34e28e991562</variableId>
+      <variableId>cc051edc-aab3-4377-8d9d-58eb1b244b97</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>'dknott@annstestorg\r\n'</defaultValue>
+      <defaultValue>'braelynna@qatestorg1'</defaultValue>
       <description></description>
-      <id>3e303f25-5b31-4455-9735-790906678864</id>
+      <id>249ada6e-5ebc-4249-ae26-1b722c70f2b8</id>
       <masked>false</masked>
       <name>Username</name>
    </variable>
    <variable>
       <defaultValue>'Abcd1234'</defaultValue>
       <description></description>
-      <id>08242933-7843-4987-b20c-34e28e991562</id>
-      <masked>true</masked>
+      <id>cc051edc-aab3-4377-8d9d-58eb1b244b97</id>
+      <masked>false</masked>
       <name>Password</name>
    </variable>
 </TestCaseEntity>

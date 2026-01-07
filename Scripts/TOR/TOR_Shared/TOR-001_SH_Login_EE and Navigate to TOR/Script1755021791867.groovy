@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Shared/SH_Login_As_TOR_Employee'), [('Username') : 'dknott@annstestorg', ('Password') : 'Abcd1234'], 
+WebUI.callTestCase(findTestCase('Shared/SH_Login_As_First_Test_Employee'), [('Username') : 'dknott@annstestorg', ('Password') : 'Abcd1234'], 
     FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/TOR/TOR Request Submission/TOR-001 login and navigate/Page_IBEX Payroll - Attendance/a_Home'))

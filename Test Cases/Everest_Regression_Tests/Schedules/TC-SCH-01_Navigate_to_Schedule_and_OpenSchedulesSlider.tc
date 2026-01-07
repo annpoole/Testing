@@ -3,7 +3,7 @@
    <description>1. Navigate to Schedules&#xd;
 &#xd;&#xd;
 2. Verify slider opens (open manually if not)</description>
-   <name>TC-SCH-01_OpenSchedulesSlider</name>
+   <name>TC-SCH-01_Navigate_to_Schedule_and_OpenSchedulesSlider</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>

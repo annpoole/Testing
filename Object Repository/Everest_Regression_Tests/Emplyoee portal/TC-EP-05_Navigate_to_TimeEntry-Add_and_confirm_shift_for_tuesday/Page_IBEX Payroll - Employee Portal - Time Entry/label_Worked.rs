@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Worked</name>
+   <tag></tag>
+   <elementGuidId>249404f9-c40a-422d-9b91-7f11186c80dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='End'])[1]/following::label[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.button.u-flex--justify-center.shift-status__option.button--secondary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Worked&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>119c4ed4-cc9e-40b2-bc4f-7412dfdafe4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button u-flex--justify-center shift-status__option button--secondary</value>
+      <webElementGuid>62e9e9a3-e835-4b60-bf3a-80b9e46a5528</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Worked</value>
+      <webElementGuid>5fda19dd-111b-42e2-8ae9-711b4c5d2993</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-time-entry-container[@class=&quot;routed-container work-surface__content ng-star-inserted&quot;]/spa-time-entry-record-editor[@class=&quot;ng-star-inserted&quot;]/fw-modal[1]/div[@class=&quot;modal fade in&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/fw-loading[@class=&quot;fw-modal-body&quot;]/div[1]/spa-time-entry-details[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;u-flex u-flex--column ng-invalid ng-dirty ng-touched&quot;]/div[@class=&quot;u-flex u-flex--even shift-status&quot;]/label[@class=&quot;button u-flex--justify-center shift-status__option button--secondary&quot;]</value>
+      <webElementGuid>bb9b7064-cd14-4cd5-9617-64e41d5eb8a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End'])[1]/following::label[1]</value>
+      <webElementGuid>3728094e-e466-477a-a850-3a97dac99d72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start'])[1]/following::label[2]</value>
+      <webElementGuid>bdbae341-a5f7-4beb-bf94-bd9e1457e6e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Did not work'])[1]/preceding::label[1]</value>
+      <webElementGuid>3d5906f4-a0cc-4b28-9a7f-6d9ca1711d23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/preceding::label[2]</value>
+      <webElementGuid>d21904a1-8242-4157-bcc1-2d933ff59dfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Worked']/parent::*</value>
+      <webElementGuid>9804da4e-c67a-464a-ad54-bb3623f0fd10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label</value>
+      <webElementGuid>64f74b2e-3050-4c2f-a61d-3bf9a36d951f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = ' Worked' or . = ' Worked')]</value>
+      <webElementGuid>9d7ecf17-c776-454b-b23f-c5893e130c1a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

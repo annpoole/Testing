@@ -34,14 +34,14 @@
       <guid>ad906376-bec7-4478-8fec-2dd1654d62a0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Everest_Regression_Tests/Schedules/TC-SCH-01_OpenSchedulesSlider</testCaseId>
+      <testCaseId>Test Cases/Everest_Regression_Tests/Schedules/TC-SCH-01_Navigate_to_Schedule_and_OpenSchedulesSlider</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>41b7b805-e5ff-4c41-abe5-f8ae0ee8a503</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Everest_Regression_Tests/Schedules/TC-SCH-02_VerifyScheduleListing</testCaseId>
+      <testCaseId>Test Cases/Everest_Regression_Tests/Schedules/TC-SCH-02_VerifyScheduleListing_by_dateRannge_and_dept</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>

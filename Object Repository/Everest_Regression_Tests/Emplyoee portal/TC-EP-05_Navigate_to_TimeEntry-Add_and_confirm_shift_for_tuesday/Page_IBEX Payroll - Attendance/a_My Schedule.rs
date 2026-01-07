@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_My Schedule</name>
+   <tag></tag>
+   <elementGuidId>e66cad41-fd86-4f44-af05-71e7d1b314b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='my-schedule-menu-item']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#my-schedule-menu-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;My Schedule&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dfa2ccd1-f9b3-4580-98e4-2351bd1a28f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sit.ibexpayroll.com:8443/main/everestspa/employeeportal/myschedule</value>
+      <webElementGuid>f65aa128-6698-4530-98b8-4900073357fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>my-schedule-menu-item</value>
+      <webElementGuid>391cbf57-16a6-4639-b393-cca5ecbbc695</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> My Schedule</value>
+      <webElementGuid>59372b56-59f7-45c6-993e-fe168c9c8c16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;my-schedule-menu-item&quot;)</value>
+      <webElementGuid>aca9d94d-e62f-4f8b-ba61-243cf5718891</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='my-schedule-menu-item']</value>
+      <webElementGuid>2d21b788-92a9-4f15-bb03-89819f0f1386</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='js-navigation-list']/li[3]/a</value>
+      <webElementGuid>b9ea298f-09d8-484c-a0c5-6b4670f00dca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'My Schedule')]</value>
+      <webElementGuid>6020da5f-5cad-415a-8202-b760a0b662be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time Entry'])[1]/following::a[1]</value>
+      <webElementGuid>4a5943ab-f70a-4722-b882-9bace39e6f0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[2]</value>
+      <webElementGuid>cd88ddd2-14c7-489e-bd31-b55ee8131415</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attendance'])[1]/preceding::a[1]</value>
+      <webElementGuid>4b8ecc70-5b50-4b46-8197-f2f61d64e278</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='chevron_right'])[1]/preceding::a[2]</value>
+      <webElementGuid>575b8c81-9f41-4ccb-8ada-7a162437e36d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Schedule']/parent::*</value>
+      <webElementGuid>94418782-ea2c-4f73-a7d4-6f7533060a02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sit.ibexpayroll.com:8443/main/everestspa/employeeportal/myschedule')]</value>
+      <webElementGuid>262ecab3-2eed-4b55-9178-94b33b11133f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul/li[3]/a</value>
+      <webElementGuid>ca56c786-93ad-4c2b-96b9-5cf568fbff3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sit.ibexpayroll.com:8443/main/everestspa/employeeportal/myschedule' and @id = 'my-schedule-menu-item' and (text() = ' My Schedule' or . = ' My Schedule')]</value>
+      <webElementGuid>623f5de1-6b4f-44be-81b3-9c67a2474fc3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

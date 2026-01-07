@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add shift for Dec 24add</name>
+   <tag></tag>
+   <elementGuidId>fe89e3e8-52b7-4a42-a727-21788c26f8e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Add shift for Dec 24 add&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e8e579d0-cae9-4428-ade9-f500322642c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>605850e2-7459-46c6-ba72-de56002f0243</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button--secondary u-flex--justify-center u-m-top--auto ng-star-inserted</value>
+      <webElementGuid>0fe8a79e-552e-4004-ade8-c19063a35ad1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add shift for Dec 24add</value>
+      <webElementGuid>cf237e18-6f5e-4fbf-9aea-cfde7aba5955</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-time-entry-container[@class=&quot;routed-container work-surface__content ng-star-inserted&quot;]/spa-time-entry[@class=&quot;ng-star-inserted&quot;]/fw-loading[1]/div[1]/div[@class=&quot;dates-grid&quot;]/spa-time-entry-date[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;u-flex u-flex--column workblock-container&quot;]/button[@class=&quot;button--secondary u-flex--justify-center u-m-top--auto ng-star-inserted&quot;]</value>
+      <webElementGuid>293876ef-152d-4d81-9326-5badbf58ebb2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>dc12c1ff-6898-41c9-8146-96f08ec6a16a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amber Trail'])[2]/following::button[1]</value>
+      <webElementGuid>a0ae0d7a-fffa-47af-aae1-dc856db41c45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tuesday'])[1]/following::button[1]</value>
+      <webElementGuid>196aacfb-c407-4132-a5b5-b861ff7c55b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dec 25'])[1]/preceding::button[1]</value>
+      <webElementGuid>ac4befce-3ca7-4bb9-8af1-a3e335d2ba72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add shift for Dec 24']/parent::*</value>
+      <webElementGuid>f064b901-f2ab-4b93-be24-4a4cb05e3220</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//spa-time-entry-date[3]/div[2]/button</value>
+      <webElementGuid>23ded207-6c32-4d7b-b83a-4a49e5dc4f70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Add shift for Dec 24add' or . = 'Add shift for Dec 24add')]</value>
+      <webElementGuid>5c9013a5-bbc4-4a92-a672-f4b86481987c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
