@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check that Schedules can be accessed for all departments</description>
+   <name>TC-SEC-01-Verify_FULL_dept_Access_SCHEDULE</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c8dcb303-deaa-4799-b950-3dda0cfeae34</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fb383eca-02d4-4049-b5b4-7412dabf1f4a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>549dec79-8a43-4ba9-a40c-57df319d9f19</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>361c925f-ccb0-4c41-97d3-fd6dc3be2f20</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3410ebc2-df0f-420b-ba84-8deb21114ff7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'15-Dec-2024 - 28-Dec-2024'</defaultValue>
+      <description></description>
+      <id>fb383eca-02d4-4049-b5b4-7412dabf1f4a</id>
+      <masked>false</masked>
+      <name>SchedulePeriod</name>
+   </variable>
+   <variable>
+      <defaultValue>'15-dec-2024'</defaultValue>
+      <description></description>
+      <id>549dec79-8a43-4ba9-a40c-57df319d9f19</id>
+      <masked>false</masked>
+      <name>Start_Date</name>
+   </variable>
+   <variable>
+      <defaultValue>'28-dec-2024'</defaultValue>
+      <description></description>
+      <id>361c925f-ccb0-4c41-97d3-fd6dc3be2f20</id>
+      <masked>false</masked>
+      <name>End_Date</name>
+   </variable>
+   <variable>
+      <defaultValue>['Administration', 'Amber Trail', 'Amblewood', 'Archibald', 'Assiniboine', 'Assiniboine Day Program', 'Belmont', 'Berry', 'Broadway Medical', 'Canterbury', 'Casual', 'Centennial', 'Chalmers', 'Corydon', 'Crescentwood', 'Disraeli', 'East Kildonan', 'Eastwood', 'Ellice', 'Fermor', 'Fife', 'Folkstone', 'Fort Garry', 'Fort Rouge', 'Garden City', 'Garden Grove', 'Grant', 'Harrow', 'Heritage', 'Higgins', 'Inkster', 'Inkster East', 'Jefferson', 'Keewatin', 'Kenaston', 'Kenaston Day', 'Kildare', 'King Edward', 'Lagimodiere', 'Lakeview', 'Lindenwood', 'Lindmere', 'Marion', 'McGregor', 'McGregor Day Program', 'McPhillips', 'Montrose', 'Nairn', 'North Kildonan', 'Notre Dame', 'Oakwood', 'On Call', 'Osborne', 'Parkview', 'Peguis', 'Pembina Employment', 'Point', 'Program Coordinators', 'Red River', 'Regent', 'River', 'River Day Program', 'River East', 'River Heights', 'Riverwood', 'Roblin', 'Rossmere', 'Selkirk', 'Sherbrook', 'Silver', 'Southdale', 'Southwood', 'Sturgeon', 'Sturgeon Creek', 'Sturgeon Heights', 'Transcona', 'Tuxedo', 'Tyndall', 'Victoria', 'Waverley', 'Wellington', 'Wellington Day Program', 'Westminster', 'Whytewold', 'Wildwood', 'Wilkes', 'Windsor']</defaultValue>
+      <description></description>
+      <id>3410ebc2-df0f-420b-ba84-8deb21114ff7</id>
+      <masked>false</masked>
+      <name>departments</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check that all departments are in Shift Bidding dropdowns</description>
+   <name>TC-SEC-03_Verify_All_dept_Shift_Bidding</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6e3801d1-b771-4c59-bd0c-79a49757e0cf</testCaseGuid>
+</TestCaseEntity>

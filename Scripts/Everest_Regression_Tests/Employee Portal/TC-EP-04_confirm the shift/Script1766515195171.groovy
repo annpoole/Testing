@@ -22,7 +22,7 @@ WebUI.setText(findTestObject('Object Repository/Everest_Regression_Tests/Employe
 WebUI.sendKeys(findTestObject('Object Repository/Everest_Regression_Tests/Employee portal/TC-EP-04-confirm shift/Page_IBEX Payroll - Employee Portal - My Schedule/input_navigate_before_date-toolbar__input i_9a347a'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.waitForElementVisible(findTestObject('Object Repository/Everest_Regression_Tests/Employee portal/TC-EP-04-confirm shift/Page_IBEX Payroll - Employee Portal - My Schedule/div_30, Mon'), 
+WebUI.waitForElementVisible(findTestObject('Everest_Regression_Tests/Employee portal/TC-EP-04-confirm shift/Page_IBEX Payroll - Employee Portal - My Schedule/obj_Shift_By_Day_Department_Time'), 
     30)
 
 WebUI.verifyElementPresent(findTestObject('Everest_Regression_Tests/Employee portal/TC-EP-04-confirm shift/Page_IBEX Payroll - Employee Portal - My Schedule/obj_Shift_By_Day_Department_Time', 

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_navigate_before_date-toolbar__input i_9a347a</name>
+   <tag></tag>
+   <elementGuidId>fb7fab89-3b48-4ad7-976d-392db6b76b26</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.date-toolbar__input.input-text.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Find pay schedule by date&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>eec4743b-f225-4b28-b40c-f8be7e87de4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>6ff5ea16-920e-4144-8938-0a2e3ac4d0b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Find pay schedule by date</value>
+      <webElementGuid>969da05b-4aad-40da-b98c-17a6bdee873d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>date-toolbar__input input-text ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>32f93ffc-de4d-4d1e-8241-5775869b5928</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-daily-approvals[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;work-surface&quot;]/div[@class=&quot;work-surface__content&quot;]/div[@class=&quot;u-m--half ng-star-inserted&quot;]/div[@class=&quot;u-flex u-flex--align-center&quot;]/spa-schedule-navigator[@class=&quot;u-m-right&quot;]/div[@class=&quot;date-toolbar&quot;]/div[@class=&quot;u-flex date-toolbar__label-wrapper&quot;]/div[@class=&quot;date-toolbar__label-content&quot;]/input[@class=&quot;date-toolbar__input input-text ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>a5858a2c-3871-425c-b599-6e5461d2eba0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text']</value>
+      <webElementGuid>3dfacc81-54c4-408f-9682-7a55ef884054</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//spa-schedule-navigator/div/div/div/input</value>
+      <webElementGuid>67b9b172-aa43-4b67-b0b5-d549e78635e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>5eb4065c-7d78-48c7-b6b1-27eaaa5c96de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

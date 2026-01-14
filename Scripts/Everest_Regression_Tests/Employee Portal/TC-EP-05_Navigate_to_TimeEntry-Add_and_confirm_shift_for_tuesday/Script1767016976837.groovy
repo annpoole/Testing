@@ -17,9 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Everest_Regression_Tests/Employee Portal/TC-EP-01-Login_as_First_emplyoee_and_NavigateToCurrentPayPeriod'), 
-    [('PayPeriod_Start') : '2024-12-29', ('Emp_mail') : 'nikolasa@qatestorg1', ('Pass') : 'Abcd1234'], FailureHandling.STOP_ON_FAILURE)
-
 WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/Employee portal/TC-EP-05_Navigate_to_TimeEntry-Add_and_confirm_shift_for_tuesday/Page_IBEX Payroll - Home/a_Time Entry'))
 
 WebUI.waitForElementPresent(findTestObject('Object Repository/Everest_Regression_Tests/Employee portal/TC-EP-05_Navigate_to_TimeEntry-Add_and_confirm_shift_for_tuesday/Page_IBEX Payroll - Employee Portal - Time Entry/header_Navigate to previous periodnavigate__a921b1'), 

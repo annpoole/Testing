@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_chevron_right</name>
+   <tag></tag>
+   <elementGuidId>8a82626b-2df0-4eb1-8f23-9075369f47c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-0']/fw-datepicker/fw-datepicker-month-view/fw-datepicker-header/button[4]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.next-month.ng-star-inserted > i.material-icons</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;chevron_right&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>71486452-e654-4aa2-b66a-3df99f011490</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons</value>
+      <webElementGuid>f7de07a5-ee50-4456-a261-fca3d1e43cca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>chevron_right</value>
+      <webElementGuid>c087b5c5-dccf-4766-be7e-eef1061840b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-0&quot;)/fw-datepicker[@class=&quot;fw-datepicker&quot;]/fw-datepicker-month-view[@class=&quot;fw-datepicker-month-view ng-star-inserted&quot;]/fw-datepicker-header[@class=&quot;fw-datepicker-header&quot;]/button[@class=&quot;next-month ng-star-inserted&quot;]/i[@class=&quot;material-icons&quot;]</value>
+      <webElementGuid>c54e674f-0dcb-4833-8997-96b65a95139c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-0']/fw-datepicker/fw-datepicker-month-view/fw-datepicker-header/button[4]/i</value>
+      <webElementGuid>9403c163-3abf-45d8-8d19-e3299882a6ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='October 2024'])[1]/following::i[1]</value>
+      <webElementGuid>551a5ae6-8118-4ab0-926d-02890bd800cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='chevron_left'])[3]/following::i[1]</value>
+      <webElementGuid>556cd404-b382-4fcc-853d-2b08c680cde5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='chevron_right'])[4]/preceding::i[1]</value>
+      <webElementGuid>f89d859b-4387-4450-a93f-bba1886a5873</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='chevron_right'])[5]/preceding::i[2]</value>
+      <webElementGuid>6107be22-a541-4bac-a6a5-67ecef6a774d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[4]/i</value>
+      <webElementGuid>475d9837-11e3-42e0-98cd-7fa5ef3fc152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'chevron_right' or . = 'chevron_right')]</value>
+      <webElementGuid>2a05a5a2-8e84-43a5-885d-0b388a42518c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

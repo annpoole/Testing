@@ -16,50 +16,40 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Everest_Regression_Tests/Employee Portal/TC-EP-01-Login_as_First_emplyoee_and_NavigateToCurrentPayPeriod</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>76791239-a3ca-40d7-abe1-fc46d6066e7e</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Regression Tests/TD-Employee Portal</testDataId>
+      </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>76791239-a3ca-40d7-abe1-fc46d6066e7e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PayPeriod_Start</value>
          <variableId>3a22d27d-6155-4387-8586-be2f522ab2f0</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>76791239-a3ca-40d7-abe1-fc46d6066e7e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Emp_mail</value>
          <variableId>b860f6fe-2fb1-4b49-9cd5-327728ba2cc1</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>76791239-a3ca-40d7-abe1-fc46d6066e7e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Pass</value>
          <variableId>3b841eea-aa56-4db0-998c-795b22b9950a</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>90f9bf00-312f-4d28-b472-932d7ff574b4</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Everest_Regression_Tests/Employee Portal/TC-EP-02 VerifyShiftsAreVisibleFromScheduleData</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>c98d33f8-9b09-4484-8a92-bdf879447729</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>b230db1a-72a4-4771-a416-b6535c89f577</variableId>
       </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>928b99d6-49c9-40d9-9c8b-15caca9fdc70</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Everest_Regression_Tests/Employee Portal/TC-EP-03_SwitchBetweenView and verify checkbox in week view</testCaseId>
+      <testCaseId>Test Cases/Everest_Regression_Tests/Employee Portal/TC-EP-02_03_SwitchBetweenView and verify checkbox in week view</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -67,23 +57,32 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Everest_Regression_Tests/Employee Portal/TC-EP-04_confirm the shift</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>f8562169-e5a0-408f-808b-e29430072ebd</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Regression Tests/TD-Employee Portal</testDataId>
+      </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>f8562169-e5a0-408f-808b-e29430072ebd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PayPeriod_Start</value>
          <variableId>d2d15778-9554-4522-b47e-c62c1d51120c</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>f8562169-e5a0-408f-808b-e29430072ebd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>DAY</value>
          <variableId>13dd0635-0892-469a-a0a1-1e914176da03</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>f8562169-e5a0-408f-808b-e29430072ebd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Department</value>
          <variableId>bf7b87bd-b1c2-4a09-a449-07b5ff76886a</variableId>
       </variableLink>
    </testCaseLink>
@@ -92,29 +91,38 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Everest_Regression_Tests/Employee Portal/TC-EP-05_Navigate_to_TimeEntry-Add_and_confirm_shift_for_tuesday</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>9d0a4300-9d89-44ec-95fe-89236f22dd5f</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Regression Tests/TD-Employee Portal</testDataId>
+      </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>9d0a4300-9d89-44ec-95fe-89236f22dd5f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PayPeriod_Start</value>
          <variableId>404a29bb-956f-4f5f-a73d-ca427f8dd067</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>9d0a4300-9d89-44ec-95fe-89236f22dd5f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Added_Shift_Day</value>
          <variableId>02c3b9e6-00ff-45c7-bb5a-b0f65adf3ef8</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>9d0a4300-9d89-44ec-95fe-89236f22dd5f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Start_Time</value>
          <variableId>cdefc0de-d5fe-4ff3-9111-ad6377b89d3c</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>9d0a4300-9d89-44ec-95fe-89236f22dd5f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>End_Time</value>
          <variableId>925ac886-6e02-467f-b811-4444e2b12f76</variableId>
       </variableLink>
       <variableLink>

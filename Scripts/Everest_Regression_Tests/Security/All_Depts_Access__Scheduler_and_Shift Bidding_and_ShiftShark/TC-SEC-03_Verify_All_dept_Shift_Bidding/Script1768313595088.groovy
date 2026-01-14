@@ -17,17 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Shared/SH_Login_As_First_Test_Employee'), [('Username') : Emp_mail, ('Password') : Pass], 
-    FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Everest_Regression_Tests/Security/Employee_Profiles/TC-SEC-EMP-02-Ahmir Weiss_FullAccess_SS_SB_SCH'), 
+    [('Username') : 'ahmirw@qatestorg1', ('Password') : 'Abcd1234'], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Everest_Regression_Tests/Employee portal/Page_IBEX Payroll - Home/a_My Schedule'))
+WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/Security/Full_Access/shift bidding/Page_IBEX Payroll - Schedules/i_chevron_right_1'))
 
-WebUI.waitForElementVisible(findTestObject('Everest_Regression_Tests/Employee portal/Page_IBEX Payroll - Employee Portal - My Schedule/span_Total Hours in Week'), 
-    60)
+WebUI.click(findTestObject('Object Repository/Everest_Regression_Tests/Security/Full_Access/shift bidding/Page_IBEX Payroll - Schedules/a_Shift Bidding'))
 
-WebUI.setText(findTestObject('Everest_Regression_Tests/Employee portal/Page_IBEX Payroll - Employee Portal - My Schedule/input_navigate_before_date-toolbar__input i_9a347a'), 
-    PayPeriod_Start)
-
-WebUI.sendKeys(findTestObject('Everest_Regression_Tests/Employee portal/Page_IBEX Payroll - Employee Portal - My Schedule/input_navigate_before_date-toolbar__input i_9a347a'), 
-    Keys.chord(Keys.ENTER))
+WebUI.waitForElementVisible(findTestObject('Object Repository/Everest_Regression_Tests/Security/Full_Access/shift bidding/Page_IBEX Payroll - Shift Bidding/div_StatusDateTimeDepartmentAllocations'), 
+    30)
 

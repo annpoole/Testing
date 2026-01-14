@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Daily ApprovalNavigate to previous peri_426292</name>
+   <tag></tag>
+   <elementGuidId>166c4839-b5f7-4853-9db4-b8b5e68f5299</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[1]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.work-surface__content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=&quot;Daily ApprovalNavigate to previous periodnavigate_before 15 Dec - 28 Dec, 2024 N&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f9f48c29-ea0d-4aa7-8fd9-594e1932f085</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>work-surface__content</value>
+      <webElementGuid>7969b434-bdff-4ad3-9299-aa7bfa595f74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daily ApprovalNavigate to previous periodnavigate_before 15 Dec - 28 Dec, 2024 Navigate to next periodnavigate_nextAuto CalcrefreshForce Reload AllsettingsConfigurationcheckApprovedcloseUnapprovedlockLocklock_openUnlockdeleteDeleteaddAdd EntryrefreshReloadmerge_typeMergeExpand rowToggle Selection of All RowsActionsLock status Status  Name  Department  Date Split statusStartEndTime entry statusDurationAllocationsNotesExpand rowexpand_moreeditEditlockUnapprovedNeeds Review  Richard Davila  Amber Trail  15 Dec - Sun today 08:00 AM access_time   check 08:00 AM - 04:00 PM    - 04:00 PM 8.00 hrsREG (8.00)FIX-OTH (4.00)Expand rowexpand_moreeditEditlockUnapprovedNeeds Review  Rodney Franklin  Amber Trail  15 Dec - Sun today 03:00 PM access_time   check 03:00 PM - 11:00 PM    - 11:00 PM 8.00 hrsFIX-OTH (2.00)REG (8.00)Expand rowexpand_moreeditEditlockUnapprovedNeeds Review  Barran Jordan  Amber Trail  16 Dec - Mon today 07:00 AM access_time   check 07:00 AM - 03:00 PM    - 03:00 PM 8.00 hrsREG (8.00)Expand rowexpand_moreeditEditlockUnapprovedNeeds Review  Ronan Armstrong  Amblewood  16 Dec - Mon today 07:00 AM access_time   check 07:00 AM - 04:00 PM    - 04:00 PM 9.00 hrsREG (9.00)Expand rowexpand_moreeditEditlockUnapprovedNeeds Review  Fabian Meyers  Administration  16 Dec - Mon today 08:00 AM access_time   check 08:00 AM - 04:00 PM    - 04:00 PM 8.00 hrsREG (8.00)Confirm Auto Calc Change Turning off Auto Calc will prevent Daily Approval from calculating hours or applying pay rules. Please confirm that Auto Calc should be turned off. CancelConfirm Delete Selected  Are you sure you want to delete the selected records? Locked entries cannot be deleted. CancelDeleteDeselect Records Multiple records are selected. Continuing on will deselect these records. Do you want to continue? CancelContinueSave Changes There are unsaved details in this record. Do you want to save the changes? If you don't save, your changes will be lost. Don't SaveCancelSave The shift you have attempted to edit has been changed by another user, please click reload to retrieve the newest shift data. CancelReload Employee Data Error    Dismiss WarningThe current selection contains records marked as Deleted. We will leave those out of the selection unless you would like to include them.Proceed and include deleted recordsProceed</value>
+      <webElementGuid>db90514a-7983-4dc3-8043-a8a9116af80a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-daily-approvals[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;work-surface&quot;]/div[@class=&quot;work-surface__content&quot;]</value>
+      <webElementGuid>72687c76-8c35-4c68-9cc0-fc56cf449f03</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[1]/following::div[1]</value>
+      <webElementGuid>797ef7fd-6739-40d1-9fcc-5a2e1af0a9a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last name first (Price, Emma)'])[1]/following::div[1]</value>
+      <webElementGuid>7e2faf66-f7e7-403c-bc5a-84ba7883b74a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//spa-daily-approvals/div/div</value>
+      <webElementGuid>db38c385-bbab-45d4-9781-e82fc4fe9d91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Daily ApprovalNavigate to previous periodnavigate_before 15 Dec - 28 Dec, 2024 Navigate to next periodnavigate_nextAuto CalcrefreshForce Reload AllsettingsConfigurationcheckApprovedcloseUnapprovedlockLocklock_openUnlockdeleteDeleteaddAdd EntryrefreshReloadmerge_typeMergeExpand rowToggle Selection of All RowsActionsLock status Status  Name  Department  Date Split statusStartEndTime entry statusDurationAllocationsNotesExpand rowexpand_moreeditEditlockUnapprovedNeeds Review  Richard Davila  Amber Trail  15 Dec - Sun today 08:00 AM access_time   check 08:00 AM - 04:00 PM    - 04:00 PM 8.00 hrsREG (8.00)FIX-OTH (4.00)Expand rowexpand_moreeditEditlockUnapprovedNeeds Review  Rodney Franklin  Amber Trail  15 Dec - Sun today 03:00 PM access_time   check 03:00 PM - 11:00 PM    - 11:00 PM 8.00 hrsFIX-OTH (2.00)REG (8.00)Expand rowexpand_moreeditEditlockUnapprovedNeeds Review  Barran Jordan  Amber Trail  16 Dec - Mon today 07:00 AM access_time   check 07:00 AM - 03:00 PM    - 03:00 PM 8.00 hrsREG (8.00)Expand rowexpand_moreeditEditlockUnapprovedNeeds Review  Ronan Armstrong  Amblewood  16 Dec - Mon today 07:00 AM access_time   check 07:00 AM - 04:00 PM    - 04:00 PM 9.00 hrsREG (9.00)Expand rowexpand_moreeditEditlockUnapprovedNeeds Review  Fabian Meyers  Administration  16 Dec - Mon today 08:00 AM access_time   check 08:00 AM - 04:00 PM    - 04:00 PM 8.00 hrsREG (8.00)Confirm Auto Calc Change Turning off Auto Calc will prevent Daily Approval from calculating hours or applying pay rules. Please confirm that Auto Calc should be turned off. CancelConfirm Delete Selected  Are you sure you want to delete the selected records? Locked entries cannot be deleted. CancelDeleteDeselect Records Multiple records are selected. Continuing on will deselect these records. Do you want to continue? CancelContinueSave Changes There are unsaved details in this record. Do you want to save the changes? If you don&quot; , &quot;'&quot; , &quot;t save, your changes will be lost. Don&quot; , &quot;'&quot; , &quot;t SaveCancelSave The shift you have attempted to edit has been changed by another user, please click reload to retrieve the newest shift data. CancelReload Employee Data Error    Dismiss WarningThe current selection contains records marked as Deleted. We will leave those out of the selection unless you would like to include them.Proceed and include deleted recordsProceed&quot;) or . = concat(&quot;Daily ApprovalNavigate to previous periodnavigate_before 15 Dec - 28 Dec, 2024 Navigate to next periodnavigate_nextAuto CalcrefreshForce Reload AllsettingsConfigurationcheckApprovedcloseUnapprovedlockLocklock_openUnlockdeleteDeleteaddAdd EntryrefreshReloadmerge_typeMergeExpand rowToggle Selection of All RowsActionsLock status Status  Name  Department  Date Split statusStartEndTime entry statusDurationAllocationsNotesExpand rowexpand_moreeditEditlockUnapprovedNeeds Review  Richard Davila  Amber Trail  15 Dec - Sun today 08:00 AM access_time   check 08:00 AM - 04:00 PM    - 04:00 PM 8.00 hrsREG (8.00)FIX-OTH (4.00)Expand rowexpand_moreeditEditlockUnapprovedNeeds Review  Rodney Franklin  Amber Trail  15 Dec - Sun today 03:00 PM access_time   check 03:00 PM - 11:00 PM    - 11:00 PM 8.00 hrsFIX-OTH (2.00)REG (8.00)Expand rowexpand_moreeditEditlockUnapprovedNeeds Review  Barran Jordan  Amber Trail  16 Dec - Mon today 07:00 AM access_time   check 07:00 AM - 03:00 PM    - 03:00 PM 8.00 hrsREG (8.00)Expand rowexpand_moreeditEditlockUnapprovedNeeds Review  Ronan Armstrong  Amblewood  16 Dec - Mon today 07:00 AM access_time   check 07:00 AM - 04:00 PM    - 04:00 PM 9.00 hrsREG (9.00)Expand rowexpand_moreeditEditlockUnapprovedNeeds Review  Fabian Meyers  Administration  16 Dec - Mon today 08:00 AM access_time   check 08:00 AM - 04:00 PM    - 04:00 PM 8.00 hrsREG (8.00)Confirm Auto Calc Change Turning off Auto Calc will prevent Daily Approval from calculating hours or applying pay rules. Please confirm that Auto Calc should be turned off. CancelConfirm Delete Selected  Are you sure you want to delete the selected records? Locked entries cannot be deleted. CancelDeleteDeselect Records Multiple records are selected. Continuing on will deselect these records. Do you want to continue? CancelContinueSave Changes There are unsaved details in this record. Do you want to save the changes? If you don&quot; , &quot;'&quot; , &quot;t save, your changes will be lost. Don&quot; , &quot;'&quot; , &quot;t SaveCancelSave The shift you have attempted to edit has been changed by another user, please click reload to retrieve the newest shift data. CancelReload Employee Data Error    Dismiss WarningThe current selection contains records marked as Deleted. We will leave those out of the selection unless you would like to include them.Proceed and include deleted recordsProceed&quot;))]</value>
+      <webElementGuid>60e36db5-9ea5-4613-9dcc-7f91ba06cbb9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

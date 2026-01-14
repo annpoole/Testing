@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_620.00</name>
+   <tag></tag>
+   <elementGuidId>cdf015ee-d832-413e-8366-bc08adb579a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'620.00')])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.col--total.ng-star-inserted > spa-hour-cell > a[title=&quot;620.00&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;620.00&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6ec3ca98-b24d-4fd8-9135-c3f55260cf9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>620.00</value>
+      <webElementGuid>d594387e-4626-422c-9f3f-0ebd52b7af80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>620.00</value>
+      <webElementGuid>afda94c4-c8af-4791-ab5e-0f0b04d72de0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;material-icons--loaded&quot;]/spa-app[1]/fw-framework-body[1]/fw-content[1]/main[1]/spa-daily-approvals[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;work-surface&quot;]/spa-daily-approval-details[@class=&quot;enabled active ng-star-inserted&quot;]/div[@class=&quot;detail-panel__content&quot;]/fw-tabs[1]/fw-tab[1]/div[@class=&quot;pane&quot;]/spa-daily-approval-summary-grid[1]/spa-summary-grid-table[1]/table[@class=&quot;grid-lite&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;col--total ng-star-inserted&quot;]/spa-hour-cell[1]/a[1]</value>
+      <webElementGuid>fa2fc722-702b-4f1f-9256-f5fd87db87c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'620.00')])[2]</value>
+      <webElementGuid>5a2118fa-2615-4d44-a695-dbbd8bb2b40b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amber Trail'])[1]/following::a[3]</value>
+      <webElementGuid>7e42e176-d006-41bf-ad8a-8aba29c5c17d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expand row'])[2]/following::a[3]</value>
+      <webElementGuid>5fd42ead-0c31-45a7-957b-752ffcb5a81b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expand row'])[3]/preceding::a[1]</value>
+      <webElementGuid>65f9663d-f15d-4ab4-85ea-3b24d30e3ea6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amblewood'])[1]/preceding::a[1]</value>
+      <webElementGuid>0fc37755-35bd-4938-b91c-17b01bce30e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[5]/spa-hour-cell/a</value>
+      <webElementGuid>187e758b-b6b9-4a77-82fb-f7677893b746</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = '620.00' and (text() = '620.00' or . = '620.00')]</value>
+      <webElementGuid>03ac60b2-d399-4f38-bee7-ed254bba266c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

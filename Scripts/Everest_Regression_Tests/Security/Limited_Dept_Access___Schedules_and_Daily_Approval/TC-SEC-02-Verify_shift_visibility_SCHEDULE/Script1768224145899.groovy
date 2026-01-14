@@ -17,17 +17,16 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Shared/SH_Login_As_First_Test_Employee'), [('Username') : Emp_mail, ('Password') : Pass], 
-    FailureHandling.STOP_ON_FAILURE)
+for (String dept : departments) {
+    WebUI.comment("Verifying schedule for department: $dept")
 
-WebUI.click(findTestObject('Everest_Regression_Tests/Employee portal/Page_IBEX Payroll - Home/a_My Schedule'))
+    WebUI.click(findTestObject('Everest_Regression_Tests/Security/Limited_Dept_Access___Schedules_and_Daily_Approval/TC-SEC-02-Verify_shift_visibility/i_expand_department', 
+            [('department') : dept]))
 
-WebUI.waitForElementVisible(findTestObject('Everest_Regression_Tests/Employee portal/Page_IBEX Payroll - Employee Portal - My Schedule/span_Total Hours in Week'), 
-    60)
+    WebUI.verifyElementText(findTestObject('Everest_Regression_Tests/Security/Limited_Dept_Access___Schedules_and_Daily_Approval/TC-SEC-02-Verify_shift_visibility/a_schedule_period', 
+            [('department') : dept, ('schedule_period') : SchedulePeriod]), SchedulePeriod)
 
-WebUI.setText(findTestObject('Everest_Regression_Tests/Employee portal/Page_IBEX Payroll - Employee Portal - My Schedule/input_navigate_before_date-toolbar__input i_9a347a'), 
-    PayPeriod_Start)
-
-WebUI.sendKeys(findTestObject('Everest_Regression_Tests/Employee portal/Page_IBEX Payroll - Employee Portal - My Schedule/input_navigate_before_date-toolbar__input i_9a347a'), 
-    Keys.chord(Keys.ENTER))
+    WebUI.verifyElementText(findTestObject('Everest_Regression_Tests/Security/Limited_Dept_Access___Schedules_and_Daily_Approval/TC-SEC-02-Verify_shift_visibility/div_Posted', 
+            [('department') : dept, ('schedule_period') : schedule_period]), 'POSTED')
+}
 

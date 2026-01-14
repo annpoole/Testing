@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check that Schedules can be accessed for all departments and the shifts are posted</description>
+   <name>TC-SEC-02-Verify_All_dept_shifts_posted</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>25b886a5-ff1b-4f8a-a21f-df446f5abed2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3410ebc2-df0f-420b-ba84-8deb21114ff7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>['Administration', 'Amber Trail', 'Amblewood', 'Archibald', 'Assiniboine', 'Assiniboine Day Program', 'Belmont', 'Berry', 'Broadway Medical', 'Canterbury', 'Casual', 'Centennial', 'Chalmers', 'Corydon', 'Crescentwood', 'Disraeli', 'East Kildonan', 'Eastwood', 'Ellice', 'Fermor', 'Fife', 'Folkstone', 'Fort Garry', 'Fort Rouge', 'Garden City', 'Garden Grove', 'Grant', 'Harrow', 'Heritage', 'Higgins', 'Inkster', 'Inkster East', 'Jefferson', 'Keewatin', 'Kenaston', 'Kenaston Day', 'Kildare', 'King Edward', 'Lagimodiere', 'Lakeview', 'Lindenwood', 'Lindmere', 'Marion', 'McGregor', 'McGregor Day Program', 'McPhillips', 'Montrose', 'Nairn', 'North Kildonan', 'Notre Dame', 'Oakwood', 'On Call', 'Osborne', 'Parkview', 'Peguis', 'Pembina Employment', 'Point', 'Program Coordinators', 'Red River', 'Regent', 'River', 'River Day Program', 'River East', 'River Heights', 'Riverwood', 'Roblin', 'Rossmere', 'Selkirk', 'Sherbrook', 'Silver', 'Southdale', 'Southwood', 'Sturgeon', 'Sturgeon Creek', 'Sturgeon Heights', 'Transcona', 'Tuxedo', 'Tyndall', 'Victoria', 'Waverley', 'Wellington', 'Wellington Day Program', 'Westminster', 'Whytewold', 'Wildwood', 'Wilkes', 'Windsor']</defaultValue>
+      <description></description>
+      <id>3410ebc2-df0f-420b-ba84-8deb21114ff7</id>
+      <masked>false</masked>
+      <name>departments</name>
+   </variable>
+</TestCaseEntity>

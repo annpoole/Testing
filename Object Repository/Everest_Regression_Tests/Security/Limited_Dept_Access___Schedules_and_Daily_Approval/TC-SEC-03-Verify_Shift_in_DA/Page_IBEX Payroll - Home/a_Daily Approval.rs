@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Daily Approval</name>
+   <tag></tag>
+   <elementGuidId>002d7fca-52b1-40d8-921d-0a0990ecf546</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='daily-approval-menu-item']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#daily-approval-menu-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Daily Approval&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3bb41f02-0c3b-48d9-90b5-07ded9db6a6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sit.ibexpayroll.com:8443/main/everestspa/dailyapprovals</value>
+      <webElementGuid>2ea2e14a-9d4e-42fe-b3a3-2dc14a5f2cc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>daily-approval-menu-item</value>
+      <webElementGuid>c6afccc1-945f-4bc7-9e47-159ce3ff47d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Daily Approval</value>
+      <webElementGuid>300571af-9099-4d31-8d3b-e9fd83d06164</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;daily-approval-menu-item&quot;)</value>
+      <webElementGuid>30457450-e65b-45a1-b39d-fc088a7d156b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='daily-approval-menu-item']</value>
+      <webElementGuid>49d9662c-a75a-43c3-9cd8-0beece1e50bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='js-navigation-list']/li[3]/a</value>
+      <webElementGuid>0a33c025-cb51-4a84-a414-8075d77a6559</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Daily Approval')]</value>
+      <webElementGuid>2593c5c5-71e4-4e71-9356-8a023305bd86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedules'])[1]/following::a[1]</value>
+      <webElementGuid>546b97d0-7401-4f53-aa65-754c6cdbeecf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[2]</value>
+      <webElementGuid>3c6fa32e-46d4-4838-b85d-3e5ee27edd28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reports'])[1]/preceding::a[1]</value>
+      <webElementGuid>ef8da31e-9fe7-4667-9e84-d9b8c536bad0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='chevron_right'])[1]/preceding::a[2]</value>
+      <webElementGuid>90875abc-e247-46f0-827f-e62d7b8c4c62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daily Approval']/parent::*</value>
+      <webElementGuid>71cdf77b-f30d-4eee-a71d-8043bfef809c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sit.ibexpayroll.com:8443/main/everestspa/dailyapprovals')]</value>
+      <webElementGuid>8c822d82-df89-4957-b5ea-36ebbc1e067f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul/li[3]/a</value>
+      <webElementGuid>2b3614bc-a86a-4e68-b620-5c41bc26b2a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sit.ibexpayroll.com:8443/main/everestspa/dailyapprovals' and @id = 'daily-approval-menu-item' and (text() = ' Daily Approval' or . = ' Daily Approval')]</value>
+      <webElementGuid>eb73023f-dd77-4a32-9be3-cae293bb19ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

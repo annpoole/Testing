@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fw-datepicker_chevron_leftchevron_leftchevr_a9dffa</name>
+   <tag></tag>
+   <elementGuidId>3d3f16ca-557d-40a3-a0be-1bc25a45daa2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-0']/fw-datepicker</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>fw-datepicker.fw-datepicker</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>fw-datepicker</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>fw-datepicker</value>
+      <webElementGuid>fcf72c8b-d911-4e4c-b9c6-42ff2c5e1b8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fw-datepicker</value>
+      <webElementGuid>fec2748c-030c-406f-a10f-b456c46067be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>chevron_leftchevron_leftchevron_left December 2024
+chevron_rightchevron_rightchevron_rightSMTWTFS 1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  30  31  1  2  3  4 </value>
+      <webElementGuid>ac807769-561c-4622-adf2-f6d7a53584ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-0&quot;)/fw-datepicker[@class=&quot;fw-datepicker&quot;]</value>
+      <webElementGuid>0223fa9b-d3c2-409b-be05-446571077358</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-0']/fw-datepicker</value>
+      <webElementGuid>3b5b2453-caf4-491f-9548-564d880d3bd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leave'])[1]/following::fw-datepicker[1]</value>
+      <webElementGuid>d2fc06e1-508b-427b-86ad-b77eb97dcfe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stay'])[1]/following::fw-datepicker[1]</value>
+      <webElementGuid>4fb1a2a9-af0f-48fc-9be8-d6f8836c59f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fw-datepicker</value>
+      <webElementGuid>ed8029b8-1ef8-49d3-b669-894029421818</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//fw-datepicker[(text() = 'chevron_leftchevron_leftchevron_left December 2024
+chevron_rightchevron_rightchevron_rightSMTWTFS 1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  30  31  1  2  3  4 ' or . = 'chevron_leftchevron_leftchevron_left December 2024
+chevron_rightchevron_rightchevron_rightSMTWTFS 1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  30  31  1  2  3  4 ')]</value>
+      <webElementGuid>48fdc7b8-d5fd-4a22-b9b2-d76e6be1c480</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

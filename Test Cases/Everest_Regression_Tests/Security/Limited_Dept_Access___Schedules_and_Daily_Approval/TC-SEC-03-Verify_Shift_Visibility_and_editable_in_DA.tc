@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check that shifts are visible in Daily Approval and editable in accessed departments&#xd;
+&#xd;
+( Amber Trail, Amblewood, Archibald, Assiniboine, Assiniboine Day Program)</description>
+   <name>TC-SEC-03-Verify_Shift_Visibility_and_editable_in_DA</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cd1555f8-1425-4382-876c-e6475ca057fa</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fb383eca-02d4-4049-b5b4-7412dabf1f4a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3410ebc2-df0f-420b-ba84-8deb21114ff7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>' 15 Dec - 28 Dec, 2024 '</defaultValue>
+      <description></description>
+      <id>fb383eca-02d4-4049-b5b4-7412dabf1f4a</id>
+      <masked>false</masked>
+      <name>DA_PayPeriod</name>
+   </variable>
+   <variable>
+      <defaultValue>['Assiniboine Day Program', 'Assiniboine', 'Archibald', 'Amblewood', 'Amber Trail']</defaultValue>
+      <description></description>
+      <id>3410ebc2-df0f-420b-ba84-8deb21114ff7</id>
+      <masked>false</masked>
+      <name>departments</name>
+   </variable>
+</TestCaseEntity>

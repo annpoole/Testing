@@ -17,17 +17,18 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Shared/SH_Login_As_First_Test_Employee'), [('Username') : Emp_mail, ('Password') : Pass], 
-    FailureHandling.STOP_ON_FAILURE)
+WebUI.openBrowser('')
 
-WebUI.click(findTestObject('Everest_Regression_Tests/Employee portal/Page_IBEX Payroll - Home/a_My Schedule'))
+WebUI.maximizeWindow()
 
-WebUI.waitForElementVisible(findTestObject('Everest_Regression_Tests/Employee portal/Page_IBEX Payroll - Employee Portal - My Schedule/span_Total Hours in Week'), 
-    60)
+WebUI.navigateToUrl(GlobalVariable.G_SiteURL)
 
-WebUI.setText(findTestObject('Everest_Regression_Tests/Employee portal/Page_IBEX Payroll - Employee Portal - My Schedule/input_navigate_before_date-toolbar__input i_9a347a'), 
-    PayPeriod_Start)
+WebUI.maximizeWindow()
 
-WebUI.sendKeys(findTestObject('Everest_Regression_Tests/Employee portal/Page_IBEX Payroll - Employee Portal - My Schedule/input_navigate_before_date-toolbar__input i_9a347a'), 
-    Keys.chord(Keys.ENTER))
+WebUI.setText(findTestObject('Object Repository/Shared/SH_Login/Page_IBEX Payroll - Login/input_Username_Input.Username'), 
+    Username)
+
+WebUI.setText(findTestObject('Shared/SH_Login/Page_IBEX Payroll - Login/input_Show Password_Input.Password'), Password)
+
+WebUI.click(findTestObject('Object Repository/Shared/SH_Login/Page_IBEX Payroll - Login/input_Remember me_Input.Button'))
 

@@ -6,37 +6,28 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>12395a49-c55c-4b97-8701-4826961d4c7a</testCaseGuid>
-   <testDataLinks>
-      <combinationType>ONE</combinationType>
-      <id>8013dd28-9182-49c7-bd02-bf99306bc89a</id>
-      <iterationEntity>
-         <iterationType>ALL</iterationType>
-         <value></value>
-      </iterationEntity>
-      <testDataId>Data Files/Regression Tests/TD-Employee Portal</testDataId>
-   </testDataLinks>
    <variableLinks>
-      <testDataLinkId>8013dd28-9182-49c7-bd02-bf99306bc89a</testDataLinkId>
+      <testDataLinkId></testDataLinkId>
       <type>DATA_COLUMN</type>
-      <value>PayPeriod_Start</value>
+      <value></value>
       <variableId>404a29bb-956f-4f5f-a73d-ca427f8dd067</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>8013dd28-9182-49c7-bd02-bf99306bc89a</testDataLinkId>
+      <testDataLinkId></testDataLinkId>
       <type>DATA_COLUMN</type>
-      <value>Added_Shift_Day</value>
+      <value></value>
       <variableId>02c3b9e6-00ff-45c7-bb5a-b0f65adf3ef8</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>8013dd28-9182-49c7-bd02-bf99306bc89a</testDataLinkId>
+      <testDataLinkId></testDataLinkId>
       <type>DATA_COLUMN</type>
-      <value>Start_Time</value>
+      <value></value>
       <variableId>cdefc0de-d5fe-4ff3-9111-ad6377b89d3c</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>8013dd28-9182-49c7-bd02-bf99306bc89a</testDataLinkId>
+      <testDataLinkId></testDataLinkId>
       <type>DATA_COLUMN</type>
-      <value>End_Time</value>
+      <value></value>
       <variableId>925ac886-6e02-467f-b811-4444e2b12f76</variableId>
    </variableLinks>
    <variableLinks>

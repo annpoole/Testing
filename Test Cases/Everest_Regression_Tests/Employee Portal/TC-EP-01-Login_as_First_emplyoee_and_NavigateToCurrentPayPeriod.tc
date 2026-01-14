@@ -6,31 +6,22 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>f742420e-fdba-44e4-917a-e19ec7761df9</testCaseGuid>
-   <testDataLinks>
-      <combinationType>ONE</combinationType>
-      <id>49ba64b9-c61f-4d46-a199-881e8d80c861</id>
-      <iterationEntity>
-         <iterationType>ALL</iterationType>
-         <value></value>
-      </iterationEntity>
-      <testDataId>Data Files/Regression Tests/TD-Employee Portal</testDataId>
-   </testDataLinks>
    <variableLinks>
-      <testDataLinkId>49ba64b9-c61f-4d46-a199-881e8d80c861</testDataLinkId>
+      <testDataLinkId></testDataLinkId>
       <type>DATA_COLUMN</type>
-      <value>PayPeriod_Start</value>
+      <value></value>
       <variableId>3a22d27d-6155-4387-8586-be2f522ab2f0</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>49ba64b9-c61f-4d46-a199-881e8d80c861</testDataLinkId>
+      <testDataLinkId></testDataLinkId>
       <type>DATA_COLUMN</type>
-      <value>Emp_mail</value>
+      <value></value>
       <variableId>b860f6fe-2fb1-4b49-9cd5-327728ba2cc1</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>49ba64b9-c61f-4d46-a199-881e8d80c861</testDataLinkId>
+      <testDataLinkId></testDataLinkId>
       <type>DATA_COLUMN</type>
-      <value>Pass</value>
+      <value></value>
       <variableId>3b841eea-aa56-4db0-998c-795b22b9950a</variableId>
    </variableLinks>
    <variable>

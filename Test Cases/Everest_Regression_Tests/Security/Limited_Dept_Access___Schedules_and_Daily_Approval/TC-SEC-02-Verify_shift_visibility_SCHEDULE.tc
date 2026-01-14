@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check that Schedules can be accessed for limited departments &#xd;
+(Amber Trail, Amblewood, Archibald, Assiniboine, Assiniboine Day Program)</description>
+   <name>TC-SEC-02-Verify_shift_visibility_SCHEDULE</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e6a48ada-9a8b-4510-8f10-264abce19023</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fb383eca-02d4-4049-b5b4-7412dabf1f4a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3410ebc2-df0f-420b-ba84-8deb21114ff7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'15-Dec-2024 - 28-Dec-2024'</defaultValue>
+      <description></description>
+      <id>fb383eca-02d4-4049-b5b4-7412dabf1f4a</id>
+      <masked>false</masked>
+      <name>SchedulePeriod</name>
+   </variable>
+   <variable>
+      <defaultValue>['Assiniboine Day Program', 'Assiniboine', 'Archibald', 'Amblewood', 'Amber Trail']</defaultValue>
+      <description></description>
+      <id>3410ebc2-df0f-420b-ba84-8deb21114ff7</id>
+      <masked>false</masked>
+      <name>departments</name>
+   </variable>
+</TestCaseEntity>

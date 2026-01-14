@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>colleenc@annstestorg</description>
-   <name>SH_Login_As_First_Test_Employee</name>
+   <description>All deptments Access</description>
+   <name>TC-SEC-EMP-02-Ahmir Weiss_FullAccess_SS_SB_SCH</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>12aeb782-c8e3-4d59-bccc-eb08b055ebef</testCaseGuid>
+   <testCaseGuid>3e938dcc-7109-4dbd-ae70-fafee2c33f4d</testCaseGuid>
    <variable>
-      <defaultValue>'barrettj@qatestorg1'</defaultValue>
+      <defaultValue>'ahmirw@qatestorg1'</defaultValue>
       <description></description>
       <id>3e303f25-5b31-4455-9735-790906678864</id>
       <masked>false</masked>
